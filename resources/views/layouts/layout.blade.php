@@ -8,38 +8,40 @@
     <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE10"><![endif]-->
     <meta name="description" content="">
     <meta name="author" content="">
-    <link rel="shortcut icon" href="images/favicon.png">
-    <title>WEB BẢO HIỂM</title>
-    <link rel="stylesheet" href="{acset('css/icon/et-line-font.css')}">
-    <!-- reset CSS -->
-    <link href="css/reset.css" rel="stylesheet">
-    <!-- Bootstrap core CSS -->
-    <link href="css/bootstrap.min.css" rel="stylesheet">
-    <!-- icon CSS -->
-    <link href="css/font-awesome.css" rel="stylesheet">
-    <link href="css/Stroke-Gap-Icons.css" rel="stylesheet">
-    <!-- Themify icons -->
-    <link href="css/themify-icons/themify-icons.css" rel="stylesheet">
 
-    <link href="css/hover.css" rel="stylesheet">
-    <link href="css/animate.css" rel="stylesheet">
+    <title>WEB BẢO HIỂM</title>
+    <base href="{{asset('source')}}">
+    <link rel="shortcut icon" href="source/images/favicon.png">
+    <link rel="stylesheet" href="source/css/icon/et-line-font.css">
+    <!-- reset CSS -->
+    <link href="source/css/reset.css" rel="stylesheet">
+    <!-- Bootstrap core CSS -->
+    <link href="source/css/bootstrap.min.css" rel="stylesheet">
+    <!-- icon CSS -->
+    <link href="source/css/font-awesome.css" rel="stylesheet">
+    <link href="source/css/Stroke-Gap-Icons.css" rel="stylesheet">
+    <!-- Themify icons -->
+    <link href="source/css/themify-icons/themify-icons.css" rel="stylesheet">
+
+    <link href="source/css/hover.css" rel="stylesheet">
+    <link href="source/css/animate.css" rel="stylesheet">
     <!-- Revelation Slider -->
-    <link href="rs-plugin/css/rev-settings.css" rel="stylesheet">
-    <link href="rs-plugin/css/settings.css" rel="stylesheet">
+    <link href="source/rs-plugin/css/rev-settings.css" rel="stylesheet">
+    <link href="source/rs-plugin/css/settings.css" rel="stylesheet">
 
     <!-- owl carousel CSS -->
-    <link href="css/owl.carousel.css" rel="stylesheet">
-    <link href="css/owl.theme.css" rel="stylesheet">
+    <link href="source/css/owl.carousel.css" rel="stylesheet">
+    <link href="source/css/owl.theme.css" rel="stylesheet">
     <!-- Main style CSS -->
-    <link href="css/style.css" rel="stylesheet">
+    <link href="source/css/style.css" rel="stylesheet">
     <!-- Responsive CSS -->
-    <link href="css/responsive.css" rel="stylesheet">
+    <link href="source/css/responsive.css" rel="stylesheet">
     <!-- them CSS -->
 
     <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
-    <script src="js/html5shiv.js"></script>
-    <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+    <script src="source/js/html5shiv.js"></script>
+    <script src="source/https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
     <![endif]-->
 </head>
 
@@ -100,8 +102,8 @@
                                 <span class="icon-bar"></span>
                                 <span class="icon-bar"></span>
                             </button>
-                            <a class="logo" href="index.php">
-                                <img src="images/logo/logo.jpg" alt="Yellow Hats" style="width: 150px">
+                            <a class="logo" href="/">
+                                <img src="source/images/logo/logo.jpg" alt="Yellow Hats" style="width: 150px">
                             </a>
                         </div>
 
@@ -244,33 +246,33 @@
 
 
 <!-- Placed at the end of the document so the pages load faster -->
-<script type="text/javascript" src="js/jquery-1.11.3.min.js"></script>
-<script type="text/javascript" src="js/bootstrap.min.js"></script>
+<script type="text/javascript" src="source/js/jquery-1.11.3.min.js"></script>
+<script type="text/javascript" src="source/js/bootstrap.min.js"></script>
 
 <!-- SLIDER REVOLUTION SCRIPTS  -->
-<script type="text/javascript" src="rs-plugin/js/jquery.themepunch.plugins.min.js"></script>
-<script type="text/javascript" src="rs-plugin/js/jquery.themepunch.revolution.min.js"></script>
-<script type="text/javascript" src="rs-plugin/js/revslider-custom.js"></script>
+<script type="text/javascript" src="source/rs-plugin/js/jquery.themepunch.plugins.min.js"></script>
+<script type="text/javascript" src="source/rs-plugin/js/jquery.themepunch.revolution.min.js"></script>
+<script type="text/javascript" src="source/rs-plugin/js/revslider-custom.js"></script>
 
-<script type="text/javascript" src="js/jquery.nicescroll.min.js"></script>
-<script type="text/javascript" src="js/jquery.easing.min.js"></script>
-<script type="text/javascript" src="js/jquery.fancybox.js"></script>
-<script type="text/javascript" src="js/jquery.fancybox.pack.js"></script>
-<script type="text/javascript" src="js/jquery.fancybox-media.js"></script>
-<script type="text/javascript" src="js/jquery.inview.min.js"></script>
+<script type="text/javascript" src="source/js/jquery.nicescroll.min.js"></script>
+<script type="text/javascript" src="source/js/jquery.easing.min.js"></script>
+<script type="text/javascript" src="source/js/jquery.fancybox.js"></script>
+<script type="text/javascript" src="source/js/jquery.fancybox.pack.js"></script>
+<script type="text/javascript" src="source/js/jquery.fancybox-media.js"></script>
+<script type="text/javascript" src="source/js/jquery.inview.min.js"></script>
 
-<script type="text/javascript" src="js/modernizr.custom.js"></script>
-<script type="text/javascript" src="js/classie.js"></script>
-<script type="text/javascript" src="js/owl.carousel.min.js"></script>
-<script type="text/javascript" src="js/wow.min.js"></script>
-<script type="text/javascript" src="js/jquery.appear.js"></script>
-<script type="text/javascript" src="js/jquery.countTo.js"></script>
-<script type="text/javascript" src="js/smoothscroll.js"></script>
+<script type="text/javascript" src="source/js/modernizr.custom.js"></script>
+<script type="text/javascript" src="source/js/classie.js"></script>
+<script type="text/javascript" src="source/js/owl.carousel.min.js"></script>
+<script type="text/javascript" src="source/js/wow.min.js"></script>
+<script type="text/javascript" src="source/js/jquery.appear.js"></script>
+<script type="text/javascript" src="source/js/jquery.countTo.js"></script>
+<script type="text/javascript" src="source/js/smoothscroll.js"></script>
 <!--  Form validate -->
-<script src="js/jqueryvalidate/jquery.validate.min.js"></script>
+<script src="source/js/jqueryvalidate/jquery.validate.min.js"></script>
 <!--  Form submit  -->
-<script src="js/jqueryform/jquery.form.min.js"></script>
-<script type="text/javascript" src="js/custom.js"></script>
+<script src="source/js/jqueryform/jquery.form.min.js"></script>
+<script type="text/javascript" src="source/js/custom.js"></script>
 
 <script type="text/javascript">
     $(function () {

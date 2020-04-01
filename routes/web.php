@@ -13,9 +13,12 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/', function(){
+/*Route::get('/', function(){
     return view('index');
 });
 Route::get('/about', function(){
     return view('about');
-});
+});*/
+Route::get('/', 'IndexController@index')->name('index');
+Route::get('/gioithieu', 'AboutController@about')->name('about');
+Route::get('/blog', 'BlogController@blog')->name('blog');

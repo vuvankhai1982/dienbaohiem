@@ -39,7 +39,7 @@
 						<div class="divcod40"></div>
 						<div class="accordions">
 							<div class="tap-inner">
-								<img src="images/home_img.jpg" alt="portfolio" width="250" height="182">
+								<img src="source/images/home_img.jpg" alt="portfolio" width="250" height="182">
 								<div class="text-accordions">
 									<p>Proin in iaculis neque. Pellentesque habitant morbi tristique senectus et nets malesuada fames ac turpis egestas. Curabitur vitae velit in neque dictum blandit.</p><br>
 									<p>Duis dapibus aliquam mi, eget euismod sem scelerisque ut. Vivamus at elit quis urna adipiscing iaculis. Curabitur vitae velit in neque dictum blandit. Proin in iaculis neque. tristique senectus et netus et malesuada fames ac turpis egestas. Curabitur vitae velit in neque dictum blandit. Duis dapibus aliquam mi, eget euismod sem scelerisque ut. Vivamus at elit quis urna adipiscing iaculis. Curabitur vitae velit in neque dictum blandit. Proin in iaculis neque. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p><br>
@@ -109,7 +109,7 @@
 				<div class="row">
 					<div class="col-xs-12 col-sm-6 col-lg-3 col-md-3 none-padding">
 						<div class="services-block-img text-center">
-							<img src="images/service/mortgage.png" alt="">
+							<img src="source/images/service/mortgage.png" alt="">
 							<div class="block-services">
 								<i class="icon icon-House"></i>
 								<h4><a href="#">Find A Mortgage</a></h4>
@@ -119,7 +119,7 @@
 					</div>
 					<div class="col-xs-12 col-sm-6 col-lg-3 col-md-3 none-padding">
 						<div class="services-block-img text-center">
-							<img src="images/service/home-insurance.png" alt="">
+							<img src="source/images/service/home-insurance.png" alt="">
 							<div class="block-services">
 								<i class="icon icon-House"></i>
 								<h4><a href="#">Find Insurance</a></h4>
@@ -129,7 +129,7 @@
 					</div>
 					<div class="col-xs-12 col-sm-6 col-lg-3 col-md-3 none-padding">
 						<div class="services-block-img text-center">
-							<img src="images/service/home-service.png" alt="">
+							<img src="source/images/service/home-service.png" alt="">
 							<div class="block-services">
 								<i class="icon icon-House"></i>
 								<h4><a href="#">Find A Home Service</a></h4>
@@ -139,7 +139,7 @@
 					</div>
 					<div class="col-xs-12 col-sm-6 col-lg-3 col-md-3 none-padding">
 						<div class="services-block-img text-center">
-							<img src="images/service/consulting.png" alt="">
+							<img src="source/images/service/consulting.png" alt="">
 							<div class="block-services">
 								<i class="icon icon-ClipboardText"></i>
 								<h4><a href="#">Consulting</a></h4>
@@ -182,7 +182,7 @@
 					<div class="team-item col-xs-12 col-sm-6 col-md-3">
 						<div class="team-item-block">
 							<div class="team-thumb">
-								<img src="images/team/ps-8.jpg" alt="Mahmoud ADel Baghagho">
+								<img src="source/images/team/ps-8.jpg" alt="Mahmoud ADel Baghagho">
 								<div class="team-overlay">
 									<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.</p>
 									<div class="team-icons">
@@ -202,7 +202,7 @@
 					<div class="team-item col-xs-12 col-sm-6 col-md-3">
 						<div class="team-item-block">
 							<div class="team-thumb">
-								<img src="images/team/ps-5.jpg" alt="Mahmoud ADel Baghagho">
+								<img src="source/images/team/ps-5.jpg" alt="Mahmoud ADel Baghagho">
 								<div class="team-overlay">
 									<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.</p>
 									<div class="team-icons">
@@ -222,7 +222,7 @@
 					<div class="team-item col-xs-12 col-sm-6 col-md-3">
 						<div class="team-item-block">
 							<div class="team-thumb">
-								<img src="images/team/ps-6.jpg" alt="Mahmoud ADel Baghagho">
+								<img src="source/images/team/ps-6.jpg" alt="Mahmoud ADel Baghagho">
 								<div class="team-overlay">
 									<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.</p>
 									<div class="team-icons">
@@ -242,7 +242,7 @@
 					<div class="team-item col-xs-12 col-sm-6 col-md-3">
 						<div class="team-item-block">
 							<div class="team-thumb">
-								<img src="images/team/ps-7.jpg" alt="Mahmoud ADel Baghagho">
+								<img src="source/images/team/ps-7.jpg" alt="Mahmoud ADel Baghagho">
 								<div class="team-overlay">
 									<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.</p>
 									<div class="team-icons">
@@ -293,7 +293,7 @@
 							</div>
 							<!-- End quote-client -->
 							<div class="info-client">
-								<div class="avata"><img src="images/page/avatar-1.png" alt=""></div>
+								<div class="avata"><img src="source/images/page/avatar-1.png" alt=""></div>
 								<span class="client-name">John Doe</span>
 								<span class="client-position">Agent, Alico Agency</span>
 							</div>
@@ -305,7 +305,7 @@
 							</div>
 							<!-- End quote-client -->
 							<div class="info-client">
-								<div class="avata"><img src="images/page/avatar-2.png" alt=""></div>
+								<div class="avata"><img src="source/images/page/avatar-2.png" alt=""></div>
 								<span class="client-name">John Doe</span>
 								<span class="client-position">Agent, Alico Agency</span>
 							</div>
@@ -317,7 +317,7 @@
 							</div>
 							<!-- End quote-client -->
 							<div class="info-client">
-								<div class="avata"><img src="images/page/avatar-3.png" alt=""></div>
+								<div class="avata"><img src="source/images/page/avatar-3.png" alt=""></div>
 								<span class="client-name">John Doe</span>
 								<span class="client-position">Agent, Alico Agency</span>
 							</div>
@@ -329,7 +329,7 @@
 							</div>
 							<!-- End quote-client -->
 							<div class="info-client">
-								<div class="avata"><img src="images/page/avatar-4.png" alt=""></div>
+								<div class="avata"><img src="source/images/page/avatar-4.png" alt=""></div>
 								<span class="client-name">John Doe</span>
 								<span class="client-position">Agent, Alico Agency</span>
 							</div>
@@ -363,18 +363,18 @@
 				<div class="row">
 					<div class="col-md-12">
 						<div id="Our-clients" class="owl-carousel owl-theme">
-							<a href="#" class="item-client"><img src="images/customer/customer-1.png" alt="customer" width="170" height="68"></a>
-							<a href="#" class="item-client"><img src="images/customer/customer-2.png" alt="customer" width="170" height="68"></a>
-							<a href="#" class="item-client"><img src="images/customer/customer-3.png" alt="customer" width="170" height="68"></a>
-							<a href="#" class="item-client"><img src="images/customer/customer-4.png" alt="customer" width="170" height="68"></a>
-							<a href="#" class="item-client"><img src="images/customer/customer-5.png" alt="customer" width="170" height="68"></a>
-							<a href="#" class="item-client"><img src="images/customer/customer-6.png" alt="customer" width="170" height="68"></a>
-							<a href="#" class="item-client"><img src="images/customer/customer-1.png" alt="customer" width="170" height="68"></a>
-							<a href="#" class="item-client"><img src="images/customer/customer-2.png" alt="customer" width="170" height="68"></a>
-							<a href="#" class="item-client"><img src="images/customer/customer-3.png" alt="customer" width="170" height="68"></a>
-							<a href="#" class="item-client"><img src="images/customer/customer-4.png" alt="customer" width="170" height="68"></a>
-							<a href="#" class="item-client"><img src="images/customer/customer-5.png" alt="customer" width="170" height="68"></a>
-							<a href="#" class="item-client"><img src="images/customer/customer-6.png" alt="customer" width="170" height="68"></a>
+							<a href="#" class="item-client"><img src="source/images/customer/customer-1.png" alt="customer" width="170" height="68"></a>
+							<a href="#" class="item-client"><img src="source/images/customer/customer-2.png" alt="customer" width="170" height="68"></a>
+							<a href="#" class="item-client"><img src="source/images/customer/customer-3.png" alt="customer" width="170" height="68"></a>
+							<a href="#" class="item-client"><img src="source/images/customer/customer-4.png" alt="customer" width="170" height="68"></a>
+							<a href="#" class="item-client"><img src="source/images/customer/customer-5.png" alt="customer" width="170" height="68"></a>
+							<a href="#" class="item-client"><img src="source/images/customer/customer-6.png" alt="customer" width="170" height="68"></a>
+							<a href="#" class="item-client"><img src="source/images/customer/customer-1.png" alt="customer" width="170" height="68"></a>
+							<a href="#" class="item-client"><img src="source/images/customer/customer-2.png" alt="customer" width="170" height="68"></a>
+							<a href="#" class="item-client"><img src="source/images/customer/customer-3.png" alt="customer" width="170" height="68"></a>
+							<a href="#" class="item-client"><img src="source/images/customer/customer-4.png" alt="customer" width="170" height="68"></a>
+							<a href="#" class="item-client"><img src="source/images/customer/customer-5.png" alt="customer" width="170" height="68"></a>
+							<a href="#" class="item-client"><img src="source/images/customer/customer-6.png" alt="customer" width="170" height="68"></a>
 						</div>
 					</div>
 				</div>

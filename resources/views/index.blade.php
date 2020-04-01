@@ -8,7 +8,7 @@
                 <ul>
                     <li data-transition="fade" data-slotamount="7" data-masterspeed="2500" data-delay="5000">
                         <!--  BACKGROUND IMAGE -->
-                        <img src="img-rev-slider/slider1.jpg" alt="">
+                        <img src="source/img-rev-slider/slider1.jpg" alt="">
 
                         <div class="tp-caption lft custom-font-2" data-x="center" data-y="184" data-speed="800"
                              data-start="800" data-easing="easeInOutCubic">
@@ -29,7 +29,7 @@
 
                     <li data-transition="fade" data-slotamount="7" data-masterspeed="2500" data-delay="5000">
                         <!--  BACKGROUND IMAGE -->
-                        <img src="img-rev-slider/slider2.jpg" alt="">
+                        <img src="source/img-rev-slider/slider2.jpg" alt="">
 
                         <div class="tp-caption lft custom-font-2" data-x="center" data-y="184" data-speed="800"
                              data-start="800" data-easing="easeInOutCubic">
@@ -50,7 +50,7 @@
 
                     <li data-transition="fade" data-slotamount="7" data-masterspeed="2500" data-delay="5000">
                         <!--  BACKGROUND IMAGE -->
-                        <img src="img-rev-slider/slider3.jpg" alt="">
+                        <img src="source/img-rev-slider/slider3.jpg" alt="">
 
                         <div class="tp-caption lft custom-font-2" data-x="center" data-y="184" data-speed="800"
                              data-start="800" data-easing="easeInOutCubic">
@@ -97,7 +97,7 @@
                 <div class="row welcome main-service">
                     <div class="col-lg-6 col-md-12">
                         <div class="main-service-box">
-                            <img src="images/service/mortgage-1.png" alt="images">
+                            <img src="source/images/service/mortgage-1.png" alt="images">
                             <div class="main-service-description">
                                 <h3>Find A Mortgage</h3>
                                 <p>Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur,
@@ -105,7 +105,7 @@
                             </div>
                         </div>
                         <div class="main-service-box main-service-box_bottom">
-                            <img src="images/service/home-insurance-1.png" alt="images">
+                            <img src="source/images/service/home-insurance-1.png" alt="images">
                             <div class="main-service-description">
                                 <h3>Find Insurance</h3>
                                 <p>Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur,
@@ -115,7 +115,7 @@
                     </div>
                     <div class="col-lg-6 col-md-12 bottom_row">
                         <div class="main-service-box">
-                            <img src="images/service/home-service-1.png" alt="images">
+                            <img src="source/images/service/home-service-1.png" alt="images">
                             <div class="main-service-description">
                                 <h3>Find A Home Service</h3>
                                 <p>Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur,
@@ -123,7 +123,7 @@
                             </div>
                         </div>
                         <div class="main-service-box main-service-box_bottom">
-                            <img src="images/service/consulting-1.png" alt="images">
+                            <img src="source/images/service/consulting-1.png" alt="images">
                             <div class="main-service-description">
                                 <h3>Consulting</h3>
                                 <p>Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur,
@@ -168,7 +168,7 @@
                                     <div class="col-sm-4">
                                         <div class="single-insurance">
                                             <div class="single-insurance-content">
-                                                <img src="images/insurance/img1.jpg" alt="Aeni Doe">
+                                                <img src="source/images/insurance/img1.jpg" alt="Aeni Doe">
                                                 <span class="ti-check-box"></span>
                                                 <h3><a href="insurance_single.html">Bảo Hiểm Chăm Sóc Sức Khỏe</a>
                                                 </h3>
@@ -184,7 +184,7 @@
                                     <div class="col-sm-4">
                                         <div class="single-insurance">
                                             <div class="single-insurance-content">
-                                                <img src="images/insurance/img2.jpg" alt="Aeni Doe">
+                                                <img src="source/images/insurance/img2.jpg" alt="Aeni Doe">
                                                 <span class="ti-check-box"></span>
                                                 <h3><a href="insurance_single.html">An Phúc Hưng Thịnh Toàn Diện</a>
                                                 </h3>
@@ -200,7 +200,7 @@
                                     <div class="col-sm-4">
                                         <div class="single-insurance">
                                             <div class="single-insurance-content">
-                                                <img src="images/insurance/img3.jpg" alt="Aeni Doe">
+                                                <img src="source/images/insurance/img3.jpg" alt="Aeni Doe">
                                                 <span class="ti-check-box"></span>
                                                 <h3><a href="insurance_single.html">An Tâm Hưng Thịnh Toàn Diện</a>
                                                 </h3>
@@ -559,9 +559,9 @@
                                                  aria-labelledby="headingThree">
                                                 <div class="panel-body">
                                                     <div class="tap-inner" style="display: block;">
-                                                        <p><b>Trên thực tế ko có bảng giá cố định khi tham gia bảo
+                                                        <p>Trên thực tế ko có bảng giá cố định khi tham gia bảo
                                                                 hiểm nhân thọ. Một số yếu tố quyết định phí tham gia bảo
-                                                                hiểm nhân thọ như:</b></b></p>
+                                                                hiểm nhân thọ như:</p><br>
 
                                                         <p> - Tuổi: tuổi càng cao thì phí tham gia bảo hiểm càng cao
                                                             và ngược lại.</p>
@@ -712,7 +712,7 @@
                     <div class="team-item col-xs-12 col-sm-6 col-md-3">
                         <div class="team-item-block">
                             <div class="team-thumb">
-                                <img src="images/team/img01.jpg" alt="Mahmoud ADel Baghagho">
+                                <img src="source/images/team/img01.jpg" alt="Mahmoud ADel Baghagho">
                                 <div class="team-overlay">
                                     <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy
                                         nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.</p>
@@ -733,7 +733,7 @@
                     <div class="team-item col-xs-12 col-sm-6 col-md-3">
                         <div class="team-item-block">
                             <div class="team-thumb">
-                                <img src="images/team/img02.jpg" alt="Katie Willmore">
+                                <img src="source/images/team/img02.jpg" alt="Katie Willmore">
                                 <div class="team-overlay">
                                     <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy
                                         nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.</p>
@@ -754,7 +754,7 @@
                     <div class="team-item col-xs-12 col-sm-6 col-md-3">
                         <div class="team-item-block">
                             <div class="team-thumb">
-                                <img src="images/team/img03.jpg" alt="Angelica Watson">
+                                <img src="source/images/team/img03.jpg" alt="Angelica Watson">
                                 <div class="team-overlay">
                                     <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy
                                         nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.</p>
@@ -775,7 +775,7 @@
                     <div class="team-item col-xs-12 col-sm-6 col-md-3">
                         <div class="team-item-block">
                             <div class="team-thumb">
-                                <img src="images/team/img04.jpg" alt="Aeni Doe">
+                                <img src="source/images/team/img04.jpg" alt="Aeni Doe">
                                 <div class="team-overlay">
                                     <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy
                                         nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.</p>
