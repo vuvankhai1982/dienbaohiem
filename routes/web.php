@@ -19,6 +19,9 @@ use Illuminate\Support\Facades\Route;
 Route::get('/about', function(){
     return view('about');
 });*/
-Route::get('/', 'IndexController@index')->name('index');
-Route::get('/gioithieu', 'AboutController@about')->name('about');
-Route::get('/blog', 'BlogController@blog')->name('blog');
+Route::get('/', 'PageController@trangchu')->name('trangchu');
+Route::get('/gioithieu', 'PageController@gioithieu')->name('gioithieu');
+Route::get('/blog', 'PageController@blog')->name('blog');
+Route::get('/lienhe', 'PageController@lienhe')->name('lienhe');
+Route::get('/sanpham', 'PageController@sanpham')->name('sanpham');
+Route::get('baogia', 'PageController@baogia')->name('baogia');
