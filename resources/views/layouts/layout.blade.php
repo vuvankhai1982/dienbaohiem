@@ -10,7 +10,7 @@
     <meta name="author" content="">
 
     <title>WEB BẢO HIỂM</title>
-    <base href="{{asset('source')}}">
+
     <link rel="shortcut icon" href="source/images/favicon.png">
     <link rel="stylesheet" href="source/css/icon/et-line-font.css">
     <!-- reset CSS -->
@@ -41,7 +41,7 @@
     <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
     <script src="source/js/html5shiv.js"></script>
-    <script src="source/https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+    <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
     <![endif]-->
 </head>
 
@@ -61,7 +61,7 @@
 <div class="content-wrap">
     <div id="home" class="body-wrapper">
 
-        <!-- Start Header  -->
+       <!-- Start Header  -->
         <header class="full-header">
             <div id="top-bar" class="top-bar">
                 <div class="container">
@@ -94,21 +94,20 @@
                 <div class="row">
                     <div class="container mobile-heading">
                         <!-- Brand and toggle get grouped for better mobile display -->
-                        <div class="navbar-header">
-                            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
-                                    data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+                     <div class="navbar-header">
+                            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
                                 <span class="sr-only">Toggle navigation</span>
                                 <span class="icon-bar"></span>
                                 <span class="icon-bar"></span>
                                 <span class="icon-bar"></span>
                             </button>
                             <a class="logo" href="/">
-                                <img src="source/images/logo/logo.jpg" alt="Yellow Hats" style="width: 150px">
+                                <img src="source/images/logo/logo.jpg" alt="Yellow Hats" style="width: 140px;">
                             </a>
                         </div>
 
                         <!-- Collect the nav links, forms, and other content for toggling -->
-                        <div class="collapse navbar-collapse pull-right" id="bs-example-navbar-collapse-1">
+                   <div class="collapse navbar-collapse pull-right" id="bs-example-navbar-collapse-1">
                             <ul class="nav navbar-nav navbar-left">
                                 <li class="has-dropdown active">
                                     <a href="index.php" class="dropdown-toggle">Trang Chủ</a>
@@ -120,14 +119,15 @@
                                 </li>
                                 <!-- li end -->
                                 <li class="has-dropdown">
-                                    <a href="insurance_all.html" class="dropdown-toggle">Sản Phẩm </a>
+                                    <a href="insurance_all.html" class="dropdown-toggle">Gói Bảo Hiểm </a>
                                     <ul class="dropdown-menu">
                                         <li>
-                                            <a href="get-a-quote.html">Get a quote <span class="new">New</span></a>
+                                            <a href="insurance_all.html">Các Gói Bảo Hiểm</a>
                                         </li>
                                         <li>
-                                            <a href="insurance_all.html">Insurance All</a>
+                                            <a href="get-a-quote.html">Báo Giá</a>
                                         </li>
+
                                     </ul>
                                 </li>
                                 <!-- li end -->
@@ -135,13 +135,10 @@
                                     <a href="faqs_right_sidebar.html" class="dropdown-toggle">Hỗ Trợ Khách Hàng</a>
                                     <ul class="dropdown-menu">
                                         <li>
-                                            <a href="testimonials_all_col.html">testimonials</a>
+                                            <a href="testimonials_all_col.html">Ý Kiến Khách Hàng</a>
                                         </li>
                                         <li>
                                             <a href="faqs_right_sidebar.html">FAQS</a>
-                                        </li>
-                                        <li>
-                                            <a href="contact_v1.html">Contact page 1</a>
                                         </li>
                                     </ul>
                                 </li>
@@ -167,7 +164,7 @@
                 </div>
             </nav>
         </header>
-        <!-- End  Header -->
+                    <!-- End  Header -->
        @yield('NoiDung')
 
 
