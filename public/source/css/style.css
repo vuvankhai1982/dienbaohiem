@@ -378,20 +378,20 @@ textarea {
 
 .navbar-nav >li {
     margin-right: 3px;
-   height: 24px;
-    margin-top: 30px;
+   /* height: 94px;*/
+    margin-top: 20px;
 }
 
-.navbar-nav >li >a {
-    font-size: 14px ;
-    font-family:'myriad_prosemibold_condensed', Arial,sans-serif;
+.navbar-nav li a {
+    font-size: 16px;
+    font-family: 'myriad_prosemibold_condensed', Arial,sans-serif;
     text-transform: uppercase;
     font-weight: 700;
 }
 
 .navbar-nav >li >a {
     color: #fff;
-    line-height: 24x;
+    line-height: 24px;
     padding: 8px 18px 4px;
 
 
@@ -4419,9 +4419,9 @@ ul.insurance-list span {
 }
 
 .insurance-service-all .insurance-coverage .single-insurance::after {
-    -webkit-box-shadow: 0px 1px 5px 2px rgba(255,0,0,0);
-    -moz-box-shadow: 0px 1px 5px 2px rgba(255,0,0,0);
-    box-shadow: 0px 1px 5px 2px rgba(255,0,0,0);
+    -webkit-box-shadow: 0px 1px 5px 2px rgba(255,0,0);
+    -moz-box-shadow: 0px 1px 5px 2px rgba(255,0,0);
+    box-shadow: 0px 1px 5px 2px rgba(255,0,0);
     content: "";
     height: 100%;
     left: 0;
@@ -5536,7 +5536,7 @@ button.bg-light:focus {
     font-size: 18px;
     font-weight: 400;
     text-transform: uppercase;
-    color: rgba(0,0,0,.8);}
+    color: rgba(0,0,0,.8);}*/
 .col-md-3{
     position: relative;
     width: 100%;
@@ -5581,7 +5581,7 @@ button.bg-light:focus {
     list-style: none;
     padding: 10px 20px; }
 .pricing-entry ul li:nth-child(odd) {
-    background: #fafafa; }
+    background: #fafafka; }
 .pricing-entry .button {
     position: absolute;
     bottom: -26px;
@@ -5648,12 +5648,12 @@ button.bg-light:focus {
     left: 0;
     right: 0;
     margin-bottom: 0;
-@include transition(.3s);}
+@include transition(.3s);
 .btn{
 @include border-radius(30px);
 @include transition(.3s);
 }
-
+}
 .btn-primary {
     color: #fff;
     background-color: #FF0000;
