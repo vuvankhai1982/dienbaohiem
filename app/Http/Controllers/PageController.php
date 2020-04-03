@@ -2,14 +2,17 @@
 
 namespace App\Http\Controllers;
 use App\Models\Slider;
+use App\Models\Tintuc;
 use Illuminate\Http\Request;
 
 class PageController extends Controller
 {
 public function  trangchu(){
     $slide = Slider::all();
-
-    return view('page.trangchu', compact('slide'));
+    $tintuc = Tintuc::all();
+     //   print_r($tintuc);
+      //  exit;
+    return view('page.trangchu', compact('slide', 'tintuc'));
 }
 public function  gioithieu(){
     return view('page.gioithieu');

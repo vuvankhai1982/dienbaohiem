@@ -300,26 +300,27 @@
                     </div>
                 </div>
                 <div class="row">
+                    @foreach($tintuc as $tt)
                     <div class="col-md-4 ftco-animate">
                         <div class="blog-entry">
-                            <a href="https://www.24h.com.vn/tin-tuc-trong-ngay/dung-lay-mau-xet-nghiem-covid-19-tai-san-bay-noi-bai-de-giam-ach-tac-c46a1133392.html"
+                            <a href="{{$tt->link}}"
                                class="block-20"
-                               style="background-image: url('https://cdn.24h.com.vn/upload/1-2020/images/2020-03-19/1584582609-241-dung-lay-mau-xet-nghiem-covid-19-tai-san-bay-noi-bai-de-giam-ach-tac-d---ng-l---y-m---u-1584582551-width960height513.jpg');">
-                                <div class="meta-date text-center p-2">
+                               style="background-image: url('{{$tt->link_image}}');">
+                             {{--
+                              <div class="meta-date text-center p-2">
                                     <span class="day">23</span>
                                     <span class="mos">January</span>
                                     <span class="yr">2019</span>
                                 </div>
+                                --}}
                             </a>
                             <div class="text bg-white p-4">
                                 <h3 class="heading"><a
-                                        href="https://www.24h.com.vn/tin-tuc-trong-ngay/dung-lay-mau-xet-nghiem-covid-19-tai-san-bay-noi-bai-de-giam-ach-tac-c46a1133392.html">Dừng
-                                        lấy mẫu xét nghiệm Covid-19 tại sân bay Nội Bài để giảm ách tắc</a></h3>
-                                <p>Từ ngày 19/3, quy trình nhập cảnh tại sân bay quốc tế Nội Bài sẽ được thực hiện
-                                    theo cách mới.</p>
+                                        href="{{$tt->link}}">{{$tt->title}}</a></h3>
+                                <p>{{$tt->content}}</p>
                                 <div class="d-flex align-items-center mt-4">
                                     <p class="mb-0"><a
-                                            href="https://www.24h.com.vn/tin-tuc-trong-ngay/dung-lay-mau-xet-nghiem-covid-19-tai-san-bay-noi-bai-de-giam-ach-tac-c46a1133392.html"
+                                            href="{{$tt->link}}"
                                             class="btn btn-primary">Đọc Thêm <span
                                                 class="ion-ios-arrow-round-forward"></span></a></p>
 
@@ -327,6 +328,8 @@
                             </div>
                         </div>
                     </div>
+                    @endforeach
+  {{--
                     <div class="col-md-4 ftco-animate">
                         <div class="blog-entry">
                             <a href="blog-sihttps://tuoitre.vn/covid-19-thong-tin-cac-khu-cach-ly-tap-trung-o-ha-noi-qua-tai-la-sai-20200318102853206.htmngle.html"
@@ -383,6 +386,8 @@
                             </div>
                         </div>
                     </div>
+--}}
+
                 </div>
             </div>
         </section>
