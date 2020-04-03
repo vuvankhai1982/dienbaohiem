@@ -120,13 +120,13 @@
                                 </li>
                                 <!-- li end -->
                                 <li class="has-dropdown">
-                                    <a href="insurance_all.html" class="dropdown-toggle">Sản Phẩm </a>
+                                    <a href="insurance_all.html" class="dropdown-toggle">Gói Bảo Hiểm</a>
                                     <ul class="dropdown-menu">
                                         <li>
-                                            <a href="get-a-quote.html">Get a quote <span class="new">New</span></a>
+                                            <a href="get-a-quote.html">Báo Giá<span class="new">New</span></a>
                                         </li>
                                         <li>
-                                            <a href="insurance_all.html">Insurance All</a>
+                                            <a href="insurance_all.html">Các Gói Bảo Hiểm</a>
                                         </li>
 
                                     </ul>
@@ -136,13 +136,10 @@
                                     <a href="faqs_right_sidebar.html" class="dropdown-toggle">Hỗ Trợ Khách Hàng</a>
                                     <ul class="dropdown-menu">
                                         <li>
-                                            <a href="testimonials_all_col.html">testimonials</a>
+                                            <a href="testimonials_all_col.html">Ý Kiến Khách Hàng</a>
                                         </li>
                                         <li>
                                             <a href="faqs_right_sidebar.html">FAQS</a>
-                                        </li>
-                                        <li>
-                                            <a href="contact_v1.html">Contact page 1</a>
                                         </li>
                                     </ul>
                                 </li>

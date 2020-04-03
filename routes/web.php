@@ -17,7 +17,7 @@ Route::get('/', function(){
     return view('welcome');
 });
 
-Route::get('/', 'PageController@trangchu')->name('trangchu');
+Route::get('/trangchu', 'PageController@trangchu')->name('trangchu');
 Route::get('/gioithieu', 'PageController@gioithieu')->name('gioithieu');
 Route::get('/blog', 'PageController@blog')->name('blog');
 Route::get('/lienhe', 'PageController@lienhe')->name('lienhe');

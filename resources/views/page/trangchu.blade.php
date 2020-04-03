@@ -165,7 +165,7 @@
                         <div class="insurance-coverage">
                             <div class="insurance-service-content">
                                 <div class="container">
-                                    <div class="col-sm-4">
+                                    <div class="col-md-4 col-sm-4">
                                         <div class="single-insurance">
                                             <div class="single-insurance-content">
                                                 <img src="source/images/insurance/img1.jpg" alt="Aeni Doe">
@@ -181,7 +181,7 @@
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="col-sm-4">
+                                    <div class="col-md-4 col-sm-4">
                                         <div class="single-insurance">
                                             <div class="single-insurance-content">
                                                 <img src="source/images/insurance/img2.jpg" alt="Aeni Doe">
@@ -197,7 +197,7 @@
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="col-sm-4">
+                                    <div class="col-md-4  col-sm-4">
                                         <div class="single-insurance">
                                             <div class="single-insurance-content">
                                                 <img src="source/images/insurance/img3.jpg" alt="Aeni Doe">
