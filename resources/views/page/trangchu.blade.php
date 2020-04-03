@@ -6,9 +6,10 @@
         <div class="fullwidthbanner-container">
             <div id="revolution-slider">
                 <ul>
+                    @foreach($slide as $sl)
                     <li data-transition="fade" data-slotamount="7" data-masterspeed="2500" data-delay="5000">
                         <!--  BACKGROUND IMAGE -->
-                        <img src="source/img-rev-slider/slider1.jpg" alt="">
+                        <img src="source/img-rev-slider/{{$sl->image}}" alt="">
 
                         <div class="tp-caption lft custom-font-2" data-x="center" data-y="184" data-speed="800"
                              data-start="800" data-easing="easeInOutCubic">
@@ -26,7 +27,8 @@
                                 class="btn btn-border-slider" href="#">Get A Quote</a>
                         </div>
                     </li>
-
+                    @endforeach
+{{--
                     <li data-transition="fade" data-slotamount="7" data-masterspeed="2500" data-delay="5000">
                         <!--  BACKGROUND IMAGE -->
                         <img src="source/img-rev-slider/slider2.jpg" alt="">
@@ -67,7 +69,7 @@
                             <a class="btn btn-slider" href="#">Buy Theme</a>&nbsp;&nbsp;<a
                                 class="btn btn-border-slider" href="#">Get A Quote</a>
                         </div>
-                    </li>
+                    </li>--}}
                 </ul>
             </div>
         </div>

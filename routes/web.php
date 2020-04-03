@@ -21,5 +21,6 @@ Route::get('/trangchu', 'PageController@trangchu')->name('trangchu');
 Route::get('/gioithieu', 'PageController@gioithieu')->name('gioithieu');
 Route::get('/blog', 'PageController@blog')->name('blog');
 Route::get('/lienhe', 'PageController@lienhe')->name('lienhe');
-Route::get('/sanpham', 'PageController@sanpham')->name('sanpham');
+Route::get('/goibaohiem', 'PageController@goibaohiem')->name('goibaohiem');
 Route::get('baogia', 'PageController@baogia')->name('baogia');
+Route::get('/ykien', 'PageController@ykien')->name('ykien');
