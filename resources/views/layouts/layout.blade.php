@@ -102,7 +102,7 @@
                                 <span class="icon-bar"></span>
                                 <span class="icon-bar"></span>
                             </button>
-                            <a class="logo" href="/">
+                            <a class="logo" href="/public/trangchu">
                                 <img src="source/images/logo/logo.jpg" alt="Yellow Hats" style="width: 150px">
                             </a>
                         </div>
@@ -111,48 +111,48 @@
                         <div class="collapse navbar-collapse pull-right" id="bs-example-navbar-collapse-1">
                             <ul class="nav navbar-nav navbar-left">
                                 <li class="has-dropdown active">
-                                    <a href="index.php" class="dropdown-toggle">Trang Chủ</a>
+                                    <a href="/public/trangchu" class="dropdown-toggle">Trang Chủ</a>
                                 </li>
 
                                 <!-- li end -->
                                 <li class="has-dropdown">
-                                    <a href="about.blade.php" class="dropdown-toggle">Giới Thiệu</a>
+                                    <a href="/public/gioithieu" class="dropdown-toggle">Giới Thiệu</a>
                                 </li>
                                 <!-- li end -->
                                 <li class="has-dropdown">
-                                    <a href="insurance_all.html" class="dropdown-toggle">Gói Bảo Hiểm</a>
+                                    <a href="/public/goibaohiem" class="dropdown-toggle">Gói Bảo Hiểm</a>
                                     <ul class="dropdown-menu">
                                         <li>
-                                            <a href="get-a-quote.html">Báo Giá<span class="new">New</span></a>
+                                            <a href="/public/baogia">Báo Giá<span class="new">New</span></a>
                                         </li>
                                         <li>
-                                            <a href="insurance_all.html">Các Gói Bảo Hiểm</a>
+                                            <a href="/public/goibaohiem">Các Gói Bảo Hiểm</a>
                                         </li>
 
                                     </ul>
                                 </li>
                                 <!-- li end -->
                                 <li class="has-dropdown">
-                                    <a href="faqs_right_sidebar.html" class="dropdown-toggle">Hỗ Trợ Khách Hàng</a>
+                                    <a href="#" class="dropdown-toggle">Hỗ Trợ Khách Hàng</a>
                                     <ul class="dropdown-menu">
                                         <li>
-                                            <a href="testimonials_all_col.html">Ý Kiến Khách Hàng</a>
+                                            <a href="/public/ykien">Ý Kiến Khách Hàng</a>
                                         </li>
                                         <li>
-                                            <a href="faqs_right_sidebar.html">FAQS</a>
+                                            <a href="#">FAQS</a>
                                         </li>
                                     </ul>
                                 </li>
                                 <!-- li end -->
 
                                 <li class="has-dropdown">
-                                    <a href="blog_standard_right_sidebar.html" class="dropdown-toggle">Blog</a>
+                                    <a href="/public/blog" class="dropdown-toggle">Blog</a>
                                 </li>
                                 <!-- li end -->
 
                                 <!-- li end -->
                                 <li class="has-dropdown pull-left margin-right-zero">
-                                    <a href="contact_v1.html" class="dropdown-toggle">Liên Hệ</a>
+                                    <a href="/public/lienhe" class="dropdown-toggle">Liên Hệ</a>
                                 </li>
                                 <!-- li end -->
                             </ul>
