@@ -94,10 +94,17 @@
         $(function () {
             $('.detail-description').summernote({
                 height: 350,
-                callbacks: {
-                    onImageUpload: function (files) {
-                        sendFile(files[0], $(this));
-                    }
+            });
+
+            $('.basic-multiple').select2({
+                tags: true,
+                multiple: true,
+                tokenSeparators: [','],
+                createTag: function(newTag) {
+                    return {
+                        id: 'new:' + newTag.term,
+                        text: newTag.term + ' (new)'
+                    };
                 }
             });
         })
