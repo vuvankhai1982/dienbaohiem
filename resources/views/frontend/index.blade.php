@@ -69,12 +69,12 @@
                             <ul class="list-inline top-contact">
                                 <li>
                                     <p>Phone:
-                                        <span>+ 2 0106 5371234</span>
+                                        <span>0979.903.200</span>
                                     </p>
                                 </li>
                                 <li>
                                     <p>Email:
-                                        <span>demo@metlife.com</span>
+                                        <span>dienbaohiem@gmail.com</span>
                                     </p>
                                 </li>
                             </ul>
@@ -84,12 +84,7 @@
                             <ul class="list-inline top-widget">
                                 <li class="top-social">
                                     <a href="#"><i class="fa fa-facebook"></i></a>
-                                    <a href="#"><i class="fa fa-twitter"></i></a>
-                                    <a href="#"><i class="fa fa-google-plus"></i></a>
-                                    <a href="#"><i class="fa fa-linkedin"></i></a>
-                                </li>
-                                <li>
-                                    <a class="button-quote" href="get-a-quote.html" id="hmodelquote">Get A Quote</a>
+                                    <a href="#"><i class="fa fa-youtube"></i></a>
                                 </li>
                             </ul>
                         </div>
@@ -117,54 +112,12 @@
                         <div class="collapse navbar-collapse pull-right" id="bs-example-navbar-collapse-1">
                             <ul class="nav navbar-nav navbar-left">
                                 <li class="has-dropdown active">
-                                    <a href="#" data-toggle="dropdown" class="dropdown-toggle">Home</a>
-                                    <ul class="dropdown-menu">
-                                        <li>
-                                            <a href="index.html">home page 1 <span class="new">New</span></a>
-                                        </li>
-                                        <li>
-                                            <a href="index_v2.html">home page 2</a>
-                                        </li>
-                                        <li>
-                                            <a href="index_v3.html">home page 3</a>
-                                        </li>
-                                        <li>
-                                            <a href="index_v4.html">home page 4</a>
-                                        </li>
-                                    </ul>
+                                    <a href="#" data-toggle="dropdown" class="dropdown-toggle">Giới thiệu</a>
                                 </li>
 
-                                <!-- li end -->
                                 <li class="has-dropdown">
-                                    <a href="#" data-toggle="dropdown" class="dropdown-toggle">about</a>
-                                    <ul class="dropdown-menu">
-                                        <li class="dropdown-submenu">
-                                            <a href="#" data-toggle="dropdown" class="dropdown-toggle">about us</a>
-                                            <ul class="dropdown-menu">
-                                                <li>
-                                                    <a href="about_v1.html">about us 1</a>
-                                                </li>
-                                                <li>
-                                                    <a href="about_v2.html">about us 2</a>
-                                                </li>
-
-                                            </ul>
-                                        </li>
-                                        <li class="dropdown-submenu">
-                                            <a href="#" data-toggle="dropdown" class="dropdown-toggle">our agent</a>
-                                            <ul class="dropdown-menu">
-                                                <li>
-                                                    <a href="our_agent.html">Our Agent</a>
-                                                </li>
-                                                <li>
-                                                    <a href="our_agent_single.html">Agent Single</a>
-                                                </li>
-                                            </ul>
-                                        </li>
-
-                                    </ul>
+                                    <a href="#" data-toggle="dropdown" class="dropdown-toggle">Liên hệ</a>
                                 </li>
-                                <!-- li end -->
                                 <li class="has-dropdown">
                                     <a href="#" data-toggle="dropdown" class="dropdown-toggle">Insurance</a>
                                     <ul class="dropdown-menu">
@@ -182,71 +135,11 @@
                                         </li>
                                     </ul>
                                 </li>
-                                <!-- li end -->
-                                <li class="has-dropdown">
-                                    <a href="#" data-toggle="dropdown" class="dropdown-toggle">Pages</a>
-                                    <ul class="dropdown-menu">
-
-                                        <li>
-                                            <a href="404_error.html">Page 404</a>
-                                        </li>
-                                        <li>
-                                            <a href="coming_soon.html">Coming Soon</a>
-                                        </li>
-                                        <li>
-                                            <a href="testimonials_all_col.html">testimonials</a>
-                                        </li>
-                                        <li>
-                                            <a href="faqs_right_sidebar.html">FAQS</a>
-                                        </li>
-                                        <li>
-                                            <a href="pricing_tables_v1.html">Pricing Tables 1</a>
-                                        </li>
-                                        <li>
-                                            <a href="pricing_tables_v2.html">Pricing Tables 2</a>
-                                        </li>
-                                        <li>
-                                            <a href="contact_v1.html">Contact page 1</a>
-                                        </li>
-                                        <li>
-                                            <a href="contact_v2.html">Contact page 2</a>
-                                        </li>
-                                        <li>
-                                            <a href="typography.html">Typography</a>
-                                        </li>
-
-                                    </ul>
-                                </li>
-                                <!-- li end -->
 
                                 <li class="has-dropdown">
-                                    <a href="#" data-toggle="dropdown" class="dropdown-toggle">Blog</a>
-                                    <ul class="dropdown-menu">
-
-                                        <li><a  href="blog_standard_left_sidebar.html"> Left Sidebar</a></li>
-                                        <li><a  href="blog_standard_right_sidebar.html">Right Sidebar</a></li>
-                                        <li><a  href="blog_single_left_sidebar.html">Single Left Sidebar</a></li>
-                                        <li><a  href="blog_single_right_sidebar.html">Single Right Sidebar</a></li>
-                                    </ul>
+                                    <a href="#" data-toggle="dropdown" class="dropdown-toggle">Tin tức</a>
                                 </li>
-                                <!-- li end -->
-
-                                <!-- li end -->
-                                <li class="has-dropdown pull-left margin-right-zero">
-                                    <a href="#" data-toggle="dropdown" class="dropdown-toggle">contact</a>
-                                    <ul class="dropdown-menu">
-                                        <li>
-                                            <a href="contact_v1.html">Contact page 1</a>
-                                        </li>
-                                        <li>
-                                            <a href="contact_v2.html">Contact page 2</a>
-                                        </li>
-                                    </ul>
-                                </li>
-                                <!-- li end -->
                             </ul>
-
-
                         </div>
                         <!-- /.navbar-collapse -->
                     </div>

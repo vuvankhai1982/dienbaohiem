@@ -14,3 +14,8 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', 'HomeController@index')->name('home');
+Route::prefix('admin')
+    ->as('admin.')
+    ->namespace('Admin')->group(function () {
+    Route::get('/index', 'HomeController@index')->name('dashboard');
+});
