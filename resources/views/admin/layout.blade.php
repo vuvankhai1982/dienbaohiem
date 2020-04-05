@@ -22,6 +22,7 @@
     <link rel="stylesheet" href="/admin/plugins/summernote/summernote-bs4.css">
     <link rel="stylesheet" href="/admin/plugins/select2/css/select2.min.css">
     <link rel="stylesheet" href="/admin/plugins/select2-bootstrap4-theme/select2-bootstrap4.min.css">
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@9"></script>
     <!-- Google Font: Source Sans Pro -->
     <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,700" rel="stylesheet">
 
@@ -190,6 +191,23 @@
 <!-- AdminLTE for demo purposes -->
 <script src="/admin/dist/js/demo.js"></script>
 <script src="/admin/plugins/select2/js/select2.full.min.js"></script>
+<script>
+    $(function () {
+        $('.delete-button').click(function() {
+            Swal.fire({
+                title: 'Are you sure?',
+                text: "Bạn có chắc chắn muốn xóa?",
+                type: 'warning',
+                showCancelButton: true,
+            }).then((result) => {
+                if (!result.value) {
+                    return;
+                }
+                $(this).parent('form').submit();
+            })
+        });
+    })
+</script>
 @yield('script')
 </body>
 </html>

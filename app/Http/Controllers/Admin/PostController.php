@@ -84,6 +84,14 @@ class PostController extends Controller
         return redirect()->back()->withSuccess('Xóa bài viết thành công!');
     }
 
+    private function updatePost(Post $post, Request $request)
+    {
+        $data = $request->all();
+
+        $post->update($data);
+        $this->syncTags($post, $request['tags'] ?? []);
+    }
+
     private function syncTags($post, $allTags)
     {
         $allTagIds = [];
@@ -98,17 +106,5 @@ class PostController extends Controller
         }
 
         $post->tags()->sync($allTagIds);
-    }
-
-    private function updatePost(Post $post, Request $request)
-    {
-        $data = $request->all();
-
-        if ($request['file']) {
-            $data['image'] = $this->fileService->replace($request['file'], $post->image,'posts', "{$post->id}");
-        }
-
-        $post->update($data);
-        $this->syncTags($post, $request['tags'] ?? []);
     }
 }
