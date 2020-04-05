@@ -51,7 +51,7 @@
                 </div>
                 <div class="col-sm-4" style="{{ !isset($isSpecialPost) ? '' : 'display: none' }}">
                     <div class="form-group text-center">
-                        <img id="show-image" src="{{ $post->image }}" alt="" style="max-height: 150px; max-width: 350px">
+                        <img id="show-image" src="#" alt="" style="max-height: 150px; max-width: 350px">
                     </div>
 
                     <div class="form-group">
