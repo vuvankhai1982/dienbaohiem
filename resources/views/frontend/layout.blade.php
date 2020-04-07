@@ -41,6 +41,16 @@
     <script src="/js/html5shiv.js"></script>
     <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
     <![endif]-->
+    <style>
+        /*!*=========== custom style ===============*!*/
+        /*@font-face {*/
+        /*    font-family: 'Futura';*/
+        /*    src: url('elle-futura-book?#iefix') format('embedded-opentype'), url('/elle-futura-book.woff') format('woff'), url('elle-futura-book.ttf') format('truetype'), url('elle-futura-book.svg#brandon_textbold') format('svg');*/
+        /*}*/
+        /*body{*/
+        /*    font-family: Futura, sans-serif!important;*/
+        /*}*/
+    </style>
 </head>
 
 <body>
@@ -76,16 +86,6 @@
                                 </li>
                             </ul>
                         </div>
-                        <!-- .col-md-6 end -->
-                        <div class="col-xs-12 col-sm-6 col-md-6 text-right">
-                            <ul class="list-inline top-widget">
-                                <li class="top-social">
-                                    <a href="#"><i class="fa fa-facebook"></i></a>
-                                    <a href="#"><i class="fa fa-youtube"></i></a>
-                                </li>
-                            </ul>
-                        </div>
-                        <!-- .col-md-6 end -->
                     </div>
                 </div>
             </div>

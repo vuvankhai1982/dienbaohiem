@@ -9,12 +9,22 @@
             {{ Form::open(array('url' => $route, 'method' => $method, 'enctype' => 'multipart/form-data','class' => '')) }}
             {{ Form::hidden('id', $post->id, ['class' => 'form-control']) }}
             <div class="card-body row">
-                <div class="col-sm-8">
+                <div class="col-sm-12">
                     <div class="form-group row">
                         <label class="col-sm-2 col-form-label">Tiêu đề</label>
                         <div class="col-sm-10">
                             {{ Form::text('title', $post->title, ['class' => 'form-control']) }}
                             @error('title')
+                            <div class="error text-red">{{ $message }}</div>
+                            @enderror
+                        </div>
+                    </div>
+
+                    <div class="form-group row">
+                        <label class="col-sm-2 col-form-label">Ảnh đại diện</label>
+                        <div class="col-sm-10">
+                            {{ Form::text('image', $post->image, ['class' => 'form-control', 'placeholder' => 'https://i.imgur.com/VPAMSDP.jpg']) }}
+                            @error('image')
                             <div class="error text-red">{{ $message }}</div>
                             @enderror
                         </div>
@@ -49,20 +59,19 @@
                     </div>
                     @endif
                 </div>
-                <div class="col-sm-4" style="{{ !isset($isSpecialPost) ? '' : 'display: none' }}">
-                    <div class="form-group text-center">
-                        <img id="show-image" src="#" alt="" style="max-height: 150px; max-width: 350px">
-                    </div>
 
-                    <div class="form-group">
-                        <div class="col-sm-12">
-                            {{ Form::file('file', ['id' => 'select-image']) }}
-                            @error('file')
+                <div class="col-sm-12">
+                    <div class="form-group row">
+                        <label class="col-sm-1 col-form-label">Mô tả ngắn gọn</label>
+                        <div class="col-sm-11">
+                            {{ Form::textarea('short_content', $post->short_content, ['class' => 'short-description form-control']) }}
+                            @error('short_content')
                             <div class="error text-red">{{ $message }}</div>
                             @enderror
                         </div>
                     </div>
                 </div>
+
                 <div class="col-sm-12">
                     <div class="form-group row">
                         <label class="col-sm-1 col-form-label">Nội dung</label>
@@ -94,6 +103,17 @@
         $(function () {
             $('.detail-description').summernote({
                 height: 350,
+            });
+            $('.short-description').summernote({
+                height: 150,
+                toolbar: [
+                    ['style', ['bold', 'italic', 'underline', 'clear']],
+                    ['font'],
+                    ['fontsize', ['fontsize']],
+                    ['color', ['color']],
+                    ['para', ['ul', 'ol', 'paragraph']],
+                    ['height', ['height']]
+                ]
             });
 
             $('.basic-multiple').select2({

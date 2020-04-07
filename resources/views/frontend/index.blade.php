@@ -146,8 +146,11 @@
                             <div class="insurance-service-content">
                                 <div class="single-insurance">
                                     <div class="single-insurance-content">
-                                        <span class="ti-check-box"></span>
-                                        <h3><a href="insurance_single.html">Auto Insuracne</a></h3>
+                                        <img style="width: 110px;" class="icon icon-responsive " src="/my_images/basic.png" alt="null" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="" />
+                                        <h3><a href="insurance_single.html">Gói cơ bản</a></h3>
+                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Obcaecati laborum ipsa, a voluptates libero possimus sapiente.</p>
+                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Obcaecati laborum ipsa, a voluptates libero possimus sapiente.</p>
+                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Obcaecati laborum ipsa, a voluptates libero possimus sapiente.</p>
                                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Obcaecati laborum ipsa, a voluptates libero possimus sapiente.</p>
                                         <div class="read-more">
                                             <a href="insurance_single.html">Read More</a>
@@ -168,46 +171,6 @@
                                     <div class="single-insurance-content">
                                         <span class="ti-check-box"></span>
                                         <h3><a href="insurance_single.html">Life Insurance</a></h3>
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Obcaecati laborum ipsa, a voluptates libero possimus sapiente.</p>
-                                        <div class="read-more">
-                                            <a href="insurance_single.html">Read More</a>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="single-insurance">
-                                    <div class="single-insurance-content">
-                                        <span class="ti-check-box"></span>
-                                        <h3><a href="insurance_single.html">Bike Insurance</a></h3>
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Obcaecati laborum ipsa, a voluptates libero possimus sapiente.</p>
-                                        <div class="read-more">
-                                            <a href="insurance_single.html">Read More</a>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="single-insurance">
-                                    <div class="single-insurance-content">
-                                        <span class="ti-check-box"></span>
-                                        <h3><a href="insurance_single.html">Boat Insurance</a></h3>
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Obcaecati laborum ipsa, a voluptates libero possimus sapiente.</p>
-                                        <div class="read-more">
-                                            <a href="insurance_single.html">Read More</a>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="single-insurance">
-                                    <div class="single-insurance-content">
-                                        <span class="ti-check-box"></span>
-                                        <h3><a href="insurance_single.html">Business Insurance</a></h3>
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Obcaecati laborum ipsa, a voluptates libero possimus sapiente.</p>
-                                        <div class="read-more">
-                                            <a href="insurance_single.html">Read More</a>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="single-insurance">
-                                    <div class="single-insurance-content">
-                                        <span class="ti-check-box"></span>
-                                        <h3><a href="insurance_single.html">Travel Insurance</a></h3>
                                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Obcaecati laborum ipsa, a voluptates libero possimus sapiente.</p>
                                         <div class="read-more">
                                             <a href="insurance_single.html">Read More</a>
@@ -483,9 +446,6 @@
                     </div>
                 </div>
                 <div class="divcod55"></div>
-
-
-
 
                 <div class="row">
 
