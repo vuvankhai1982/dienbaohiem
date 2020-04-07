@@ -8,7 +8,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
     <link rel="shortcut icon" href="/images/favicon.png">
-    <title>MetLife - HTML Template for insurance</title>
+    <title>Bao hiem</title>
     <!-- CSRF Token -->
     <meta name="csrf-token" content="{{ csrf_token() }}">
     <link rel="stylesheet" href="/css/icon/et-line-font.css">
