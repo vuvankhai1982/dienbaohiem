@@ -13,14 +13,13 @@ class DatabaseSeeder extends Seeder
      */
     public function run()
     {
-        $this->call(TagsTableSeeder::class);
-        $this->call(PostsTableSeeder::class);
-
         DB::table('users')->insert([
             'name' => 'Ly Minh Dien',
             'password' => Hash::make('123456'),
             'email' => 'admin@gmail.com',
         ]);
 
+        $this->call(TagsTableSeeder::class);
+        $this->call(PostsTableSeeder::class);
     }
 }

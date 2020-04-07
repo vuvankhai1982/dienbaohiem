@@ -17,6 +17,7 @@ class PostsTableSeeder extends Seeder
         DB::table('posts')->insert([
             'title' => 'Giới thiệu',
             'status_id' => 2,
+            'user_id' => 1,
             'type_id' => config('constant.post.types.Giới thiệu'),
             'content' => 'Nội dung giới thiệu về công ty',
         ]);
@@ -24,6 +25,7 @@ class PostsTableSeeder extends Seeder
         DB::table('posts')->insert([
             'title' => 'Liên hệ',
             'status_id' => 2,
+            'user_id' => 1,
             'type_id' => config('constant.post.types.Liên hệ'),
             'content' => 'Nội dung liên hệ về công ty',
         ]);
@@ -32,7 +34,7 @@ class PostsTableSeeder extends Seeder
 
         $tags = Tag::all();
 
-        Post::all()->each(function (Post $post) use ($tags) {
+        Post::whereNotIn('id', [1, 2])->get()->each(function (Post $post) use ($tags) {
             $post->tags()->attach(
                 $tags->random(rand(1, 5))->pluck('id')->toArray()
             );

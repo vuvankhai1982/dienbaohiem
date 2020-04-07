@@ -19,6 +19,7 @@ class CreatePostsTable extends Migration
             $table->string('title');
             $table->unsignedTinyInteger('status_id');
             $table->unsignedTinyInteger('type_id');
+            $table->unsignedBigInteger('user_id');
             $table->string('image')->nullable();
             $table->string('thumbnail_image')->nullable();
             $table->text('short_content')->nullable();
@@ -27,6 +28,11 @@ class CreatePostsTable extends Migration
             $table->timestamp('created_at')->default(DB::raw('CURRENT_TIMESTAMP'));
             $table->timestamp('updated_at')->default(DB::raw('CURRENT_TIMESTAMP on update CURRENT_TIMESTAMP'));
             $table->softDeletes();
+
+            $table->foreign('user_id')
+                ->references('id')
+                ->on('users')
+                ->onDelete('restrict');
         });
     }
 

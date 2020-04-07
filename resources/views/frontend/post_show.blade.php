@@ -17,7 +17,7 @@
                                 <h5><a href="#">{{ $post->title }}</a></h5>
                                 <ul class="meta-post">
                                     <li>Ngày: <span class="date">{{ \Carbon\Carbon::parse($post->created_at)->format('d-m-Y') }}</span></li>
-                                    <li>Đăng bởi : <span class="author"><a href="#">John Doe</a></span></li>
+                                    <li>Đăng bởi : <span class="author"><a href="#">{{ $post->user->name }}</a></span></li>
                                 </ul>
                                 {!! $post->content !!}
 
@@ -35,7 +35,7 @@
                                         <div class="tagcloud">
                                             <ul>
                                                 @foreach($post->tags as $tag)
-                                                    <a href="{{ route('posts.by_tag', get_sanitize_url($tag->name, $tag->id)) }}">{{ $tag->name }}</a>
+                                                    <a href="{{ route('get_posts_by_task', get_sanitize_url($tag->name, $tag->id)) }}">{{ $tag->name }}</a>
                                                 @endforeach
                                             </ul>
                                         </div>

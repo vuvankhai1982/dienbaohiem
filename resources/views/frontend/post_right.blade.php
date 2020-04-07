@@ -40,7 +40,7 @@
             <div class="tagcloud">
                 <ul>
                     @foreach($tags as $tag)
-                        <li><a href="#">{{ $tag->name }}</a></li>
+                        <li><a href="{{ route('get_posts_by_task', get_sanitize_url($tag->name, $tag->id)) }}">{{ $tag->name }}</a></li>
                     @endforeach
                 </ul>
             </div>

@@ -22,6 +22,7 @@ $factory->define(Post::class, function (Faker $faker) {
         'title' => $faker->text(60),
         'status_id' => random_int(1, 2),
         'type_id' => 1,
+        'user_id' => 1,
         'image' => $faker->text(50),
         'short_content' => $faker->text(50),
         'content' => $faker->text(1000),
