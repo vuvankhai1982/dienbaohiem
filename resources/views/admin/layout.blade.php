@@ -116,6 +116,15 @@
                             </p>
                         </a>
                     </li>
+
+                    <li class="nav-item">
+                        <a href="{{ route('admin.lien_he') }}" class="nav-link {{ Route::is('admin.lien_he') ? 'active' : '' }}">
+                            <i class="nav-icon fas fa-address-card"></i>
+                            <p>
+                                Liên hệ
+                            </p>
+                        </a>
+                    </li>
                 </ul>
             </nav>
             <!-- /.sidebar-menu -->

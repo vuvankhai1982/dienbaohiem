@@ -112,8 +112,8 @@
                                     <a href="{{ route('show_post', get_sanitize_url('gioi-thieu', 1)) }}">Giới thiệu</a>
                                 </li>
 
-                                <li class="has-dropdown">
-                                    <a href="#" data-toggle="dropdown" class="dropdown-toggle">Liên hệ</a>
+                                <li class="">
+                                    <a href="{{ route('show_post', get_sanitize_url('lien-he', 2)) }}">Liên hệ</a>
                                 </li>
                                 <li class="has-dropdown">
                                     <a href="#" data-toggle="dropdown" class="dropdown-toggle">Insurance</a>

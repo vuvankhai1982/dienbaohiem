@@ -31,20 +31,18 @@ class PostController extends Controller
     {
         $post = Post::where('type_id', config('constant.post.types.Giới thiệu'))->first();
 
-        $tagsOfPost = $post->tags;
         $tags = Tag::all();
 
-        return response()->view('admin.post.intro_contact', compact('post', 'tagsOfPost', 'tags'));
+        return response()->view('admin.post.intro_contact', compact('post', 'tags'));
     }
 
     public function lienHe()
     {
         $post = Post::where('type_id', config('constant.post.types.Liên hệ'))->first();
 
-        $tagsOfPost = $post->tags;
         $tags = Tag::all();
 
-        return response()->view('admin.post.intro_contact', compact('post', 'tagsOfPost', 'tags'));
+        return response()->view('admin.post.intro_contact', compact('post', 'tags'));
     }
 
     public function create()

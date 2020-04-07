@@ -16,10 +16,16 @@
                             <div class="info-post">
                                 <h5><a href="#">{{ $post->title }}</a></h5>
                                 <ul class="meta-post">
-                                    <li>Ngày : <span class="date">{{ \Carbon\Carbon::parse($post->created_at)->format('d-m-Y') }}</span></li>
-                                    <li>By : <span class="author"><a href="#">John Doe</a></span></li>
+                                    <li>Ngày: <span class="date">{{ \Carbon\Carbon::parse($post->created_at)->format('d-m-Y') }}</span></li>
+                                    <li>Đăng bởi : <span class="author"><a href="#">John Doe</a></span></li>
                                 </ul>
                                 {!! $post->content !!}
+
+                                @if($post->id == 2)
+                                <div class="get-quote-form" style="padding-top: 50px">
+                                    @include('frontend.contact')
+                                </div>
+                                @endif
                             </div>
                             <!-- /.info-post -->
                             <div class="Under-Post">
