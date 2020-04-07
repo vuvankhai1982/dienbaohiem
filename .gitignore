@@ -14,6 +14,5 @@ yarn-error.log
 /.idea
 public/fonts/vendor
 public/images/vendor
-public/js/
 public/mix-manifest\.json
 phpcs.xml
