@@ -30,3 +30,11 @@ Route::prefix('admin')
         Route::get('posts/lien-he', 'PostController@lienHe')->name('lien_he');
         Route::resource('posts', 'PostController');
 });
+
+Route::group(['prefix' => 'admin'], function() {
+    Auth::routes([
+        'register' => false,
+    ]);
+});
+
+Route::get('/home', 'HomeController@index')->name('home');
