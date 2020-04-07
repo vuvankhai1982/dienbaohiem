@@ -22,13 +22,13 @@ Route::get('/bai-viet/{nameAndId}', 'HomeController@showPost')->name('show_post'
 
 Route::prefix('admin')
     ->as('admin.')
+    ->middleware('auth')
     ->namespace('Admin')->group(function () {
 
     Route::get('/index', 'HomeController@index')->name('dashboard');
-
-        Route::get('posts/gioi-thieu', 'PostController@gioiThieu')->name('gioi_thieu');
-        Route::get('posts/lien-he', 'PostController@lienHe')->name('lien_he');
-        Route::resource('posts', 'PostController');
+    Route::get('posts/gioi-thieu', 'PostController@gioiThieu')->name('gioi_thieu');
+    Route::get('posts/lien-he', 'PostController@lienHe')->name('lien_he');
+    Route::resource('posts', 'PostController');
 });
 
 Route::group(['prefix' => 'admin'], function() {

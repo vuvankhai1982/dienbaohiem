@@ -1,5 +1,7 @@
 <?php
 
+use App\User;
+
 function sanitize(string $title = null)
 {
     if (!$title) {
@@ -46,4 +48,9 @@ function get_last_character(string $string, string $delimiter = '-')
 function get_sanitize_url(string $name, int $id)
 {
     return sanitize($name) . "-" . $id;
+}
+
+function current_user() : User
+{
+    return auth()->user();
 }
