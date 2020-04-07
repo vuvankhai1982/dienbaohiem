@@ -1,10 +1,10 @@
-@extends('admin.layouts.app')
+@extends('admin.layout')
 
 @section('content')
     @include('admin.post.base', [
         'route' => route('admin.posts.update', $post->id),
         'method' => 'put',
-        'title' => 'Chỉnh sửa bài viết',
+        'title' => 'Chỉnh sửa bài viết giới thiệu',
         'type' => 'edit',
         'isSpecialPost' => true,
     ])

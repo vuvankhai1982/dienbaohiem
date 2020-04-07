@@ -13,6 +13,11 @@ class PostController extends Controller
     {
     }
 
+    public function show()
+    {
+
+    }
+
     public function index(Request $request)
     {
         $posts = Post::orderBy('id', 'desc')

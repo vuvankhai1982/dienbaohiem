@@ -26,5 +26,6 @@ Route::prefix('admin')
 
     Route::get('/index', 'HomeController@index')->name('dashboard');
 
-    Route::resource('posts', 'PostController');
+        Route::get('posts/gioi-thieu', 'PostController@gioiThieu')->name('gioi_thieu');
+        Route::resource('posts', 'PostController');
 });

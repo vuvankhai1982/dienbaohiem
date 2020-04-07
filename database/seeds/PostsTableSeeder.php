@@ -3,6 +3,7 @@
 use App\Models\Post;
 use App\Models\Tag;
 use Illuminate\Database\Seeder;
+use Illuminate\Support\Facades\DB;
 
 class PostsTableSeeder extends Seeder
 {
@@ -14,6 +15,20 @@ class PostsTableSeeder extends Seeder
     public function run()
     {
         factory(Post::class, 40)->create();
+
+        DB::table('posts')->insert([
+            'title' => 'Giới thiệu',
+            'status_id' => 2,
+            'type_id' => config('constant.post.types.Giới thiệu'),
+            'content' => 'Nội dung giới thiệu về công ty',
+        ]);
+
+        DB::table('posts')->insert([
+            'title' => 'Liên hệ',
+            'status_id' => 2,
+            'type_id' => config('constant.post.types.Liên hệ'),
+            'content' => 'Nội dung liên hệ về công ty',
+        ]);
 
         $tags = Tag::all();
 
