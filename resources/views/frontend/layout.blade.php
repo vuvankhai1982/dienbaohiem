@@ -100,7 +100,7 @@
                                 <span class="icon-bar"></span>
                                 <span class="icon-bar"></span>
                             </button>
-                            <a class="logo" href="index.html">
+                            <a class="logo" href="/">
                                 <img src="/images/logo/logo.png" alt="Yellow Hats">
                             </a>
                         </div>
@@ -108,8 +108,8 @@
                         <!-- Collect the nav links, forms, and other content for toggling -->
                         <div class="collapse navbar-collapse pull-right" id="bs-example-navbar-collapse-1">
                             <ul class="nav navbar-nav navbar-left">
-                                <li class="has-dropdown active">
-                                    <a href="#" data-toggle="dropdown" class="dropdown-toggle">Giới thiệu</a>
+                                <li class="">
+                                    <a href="{{ route('show_post', get_sanitize_url('gioi-thieu', 1)) }}">Giới thiệu</a>
                                 </li>
 
                                 <li class="has-dropdown">
