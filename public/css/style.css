@@ -893,7 +893,7 @@ textarea {
 
     .container > .navbar-collapse {
         width: 100%;
-        background-color: #2f2f2f;
+        background-color: #ffffff;
         margin-right: 0
     }
 
@@ -981,7 +981,7 @@ textarea {
     .dropdown-menu > li > a:focus,
     .mega-menu li a:hover,
     .mega-menu li a:focus {
-        background-color: transparent
+        background-color: #f90505;
     }
 
     .dropdown-menu > li > a,
@@ -1123,7 +1123,7 @@ textarea {
 
     .container > .navbar-collapse {
         width: 100%;
-        background-color: #2f2f2f;
+        background-color: #ffffff;
         margin-right: 0
     }
 
@@ -1217,7 +1217,7 @@ textarea {
     .nav > li > a:focus,
     .dropdown-menu > li > a:hover,
     .dropdown-menu > li > a:focus {
-        background-color: transparent
+        background-color: #f90505;
     }
 
     .dropdown-menu > li > a,
