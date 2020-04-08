@@ -101,7 +101,7 @@
                                 <span class="icon-bar"></span>
                             </button>
                             <a class="logo" href="/">
-                                <img src="/images/logo/logo1.png" alt="Yellow Hats">
+                                <img src="/images/logo/logo1.png" style="height: 80px;" alt="Yellow Hats">
                             </a>
                         </div>
 
