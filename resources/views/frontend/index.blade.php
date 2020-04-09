@@ -128,9 +128,7 @@
                 <div class="row">
                     <div class="col-md-12">
                         <div class="title-section text-left">
-                            <p>WE'VE GOT YOU COVERED</p>
-                            <h3>Insurance Coverage</h3>
-
+                            <h3>CÁC GÓI BẢO HIỂM DAI-ICHI LIFE</h3>
                         </div>
                     </div>
                 </div>
