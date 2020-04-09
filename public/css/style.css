@@ -5445,7 +5445,7 @@ ul.insurance-list span {
 /* ------------ end accordion---------- */
 
 .table-list li:before {
-    content: "\f00c";
+    content: "\f13a";
     font-family: 'FontAwesome';
     color: #f90532;
     display: inline-block;
