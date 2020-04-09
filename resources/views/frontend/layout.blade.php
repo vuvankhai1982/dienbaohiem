@@ -8,7 +8,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
     <link rel="shortcut icon" href="/images/favicon.png">
-    <title>MetLife - HTML Template for insurance</title>
+    <title>Bao hiem</title>
     <!-- CSRF Token -->
     <meta name="csrf-token" content="{{ csrf_token() }}">
     <link rel="stylesheet" href="/css/icon/et-line-font.css">
@@ -101,7 +101,7 @@
                                 <span class="icon-bar"></span>
                             </button>
                             <a class="logo" href="/">
-                                <img src="/images/logo/logo.png" alt="Yellow Hats">
+                                <img src="/images/logo/logo1.png" style="height: 80px;" alt="Yellow Hats">
                             </a>
                         </div>
 

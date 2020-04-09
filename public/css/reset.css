@@ -67,7 +67,7 @@ font-size: 14px;
 font-weight: 500;
 }
 
- 
+
 .inner {
 padding-top: 95px;
 padding-bottom: 80px;
@@ -310,23 +310,23 @@ float: left !important;
 float: right !important;
 }
 
-.pb-0{  
-    padding-bottom: 0; /*No Padding on the bottom area*/  
-}  
-.pt-0 {  
-    padding-top: 0; /*No Padding on the top area*/  
-}  
-.pt-10 {  
-    padding-top: 10px; /*Padding top 10px on the top area*/  
-}  
-.ptb-10 {  
-    padding: 10px 0; /*Padding top & bottom 10px on the top & bottom area*/  
-}  
-.mt-0 {  
-    margin-top: 0; /*No margin on the top area*/  
-}  
-.mb-0 {  
-    margin-bottom: 0; /*No margin on the bottom area*/  
+.pb-0{
+    padding-bottom: 0; /*No Padding on the bottom area*/
+}
+.pt-0 {
+    padding-top: 0; /*No Padding on the top area*/
+}
+.pt-10 {
+    padding-top: 10px; /*Padding top 10px on the top area*/
+}
+.ptb-10 {
+    padding: 10px 0; /*Padding top & bottom 10px on the top & bottom area*/
+}
+.mt-0 {
+    margin-top: 0; /*No margin on the top area*/
+}
+.mb-0 {
+    margin-bottom: 0; /*No margin on the bottom area*/
 }
 
 
