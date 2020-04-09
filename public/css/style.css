@@ -5437,7 +5437,15 @@ ul.insurance-list span {
 
 /* ------------ end accordion---------- */
 
-
-
-
-
+.table-list li:before {
+    content: "\f00c";
+    font-family: 'FontAwesome';
+    color: #3fab91;
+    display: inline-block;
+    position: relative;
+    right: 5px;
+    font-size: 16px;
+}
+.table-list li span {
+    font-size: 13px;
+}
