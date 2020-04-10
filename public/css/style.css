@@ -1325,10 +1325,11 @@ textarea {
 .title-section h3 {
     margin: 6px 0 0 0;
     padding: 0;
-    font-size: 50px;
+    font-size: 34px;
     font-weight: 700;
     text-transform: uppercase;
     letter-spacing: 0.5px;
+    color:red;
 }
 
 .description-welcome p {
@@ -4412,10 +4413,16 @@ ul.insurance-list span {
     top: 0;
     transition: all 0.3s ease-out 0s;
     z-index: 999;
+    height: 500px;
 }
 
 .insurance-service-all .insurance-coverage .single-insurance:hover {
     background: #ffffff;
+    -webkit-transform: scale(1.06);
+    -ms-transform: scale(1.06);
+    -o-transform: scale(1.06);
+    transform: scale(1.06);
+    height: 100%;
 }
 
 .insurance-service-all .insurance-coverage .single-insurance::after {
@@ -5437,7 +5444,34 @@ ul.insurance-list span {
 
 /* ------------ end accordion---------- */
 
+.table-list li:before {
+    content: "\f00c";
+    font-family: 'FontAwesome';
+    color: #f90532;
+    display: inline-block;
+    position: relative;
+    right: 5px;
+    font-size: 16px;
+}
+.price{
+    font-size: 40px;
+    font-weight: 700;
+    background-color: red;
+    color: white;
+}
+.price sup {
+    font-size: 0.4em;
+    position: relative;
+    left: 5px;
+}
+.table-list li span {
+    font-size: 14px!important;
+    font-weight: 400;
+    line-height: 2px;
+    color: #333333!important;
 
-
-
-
+}
+.table-list li {
+    padding: 1px 4px;
+    margin-top: 20px;
+}

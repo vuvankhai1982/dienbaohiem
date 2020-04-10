@@ -128,13 +128,7 @@
                 <div class="row">
                     <div class="col-md-12">
                         <div class="title-section text-left">
-                            <p>WE'VE GOT YOU COVERED</p>
-                            <h3>Insurance Coverage</h3>
-
-                        </div>
-                        <div class="description-welcome text-left">
-                            <p>Insurance coverage around your needs is easier than you think. Sometimes on purpose injected humour and the like simple dummy.</p>
-
+                            <h3>CÁC GÓI BẢO HIỂM DAI-ICHI LIFE</h3>
                         </div>
                     </div>
                 </div>
@@ -146,12 +140,15 @@
                             <div class="insurance-service-content">
                                 <div class="single-insurance">
                                     <div class="single-insurance-content">
-                                        <img style="width: 110px;" class="icon icon-responsive " src="/my_images/basic.png" alt="null" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="" />
-                                        <h3><a href="insurance_single.html">Gói cơ bản</a></h3>
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Obcaecati laborum ipsa, a voluptates libero possimus sapiente.</p>
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Obcaecati laborum ipsa, a voluptates libero possimus sapiente.</p>
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Obcaecati laborum ipsa, a voluptates libero possimus sapiente.</p>
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Obcaecati laborum ipsa, a voluptates libero possimus sapiente.</p>
+                                        <img style="width: 65px;" class="icon icon-responsive " src="/my_images/basic.png" alt="null" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="" />
+                                        <h3><a href="insurance_single.html">Gói Cơ Bản</a></h3>
+                                        <div class="price">210 Triệu<sup>/ Bệnh/Năm</sup></div>
+                                        <!-- Lista de Caracteristicas / Propiedades -->
+                                        <ul class="table-list">
+                                            <li><span>Bảo vệ 210 triệu/ bệnh. Bảo vệ cả ung thư, bệnh hiểm nghèo. Không giới hạn số bệnh, số lần chi trả. </span></li>
+                                            <li><span>Bảo lãnh thanh toán viện phí tại hơn 60 bệnh viện quốc tế (VINMEC, VIỆT PHÁP,...). </span></li>
+                                            <li><span>Đóng phí 15 năm, Bảo vệ 25 năm. Cả gia đình có thể tham gia chỉ cần 1 hợp đồng bảo hiểm </span></li>
+                                        </ul>
                                         <div class="read-more">
                                             <a href="insurance_single.html">Read More</a>
                                         </div>
@@ -159,9 +156,15 @@
                                 </div>
                                 <div class="single-insurance">
                                     <div class="single-insurance-content">
-                                        <span class="ti-check-box"></span>
-                                        <h3><a href="insurance_single.html">Home Insurance</a></h3>
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Obcaecati laborum ipsa, a voluptates libero possimus sapiente.</p>
+                                        <img style="width: 110px;" class="icon icon-responsive " src="/my_images/Paper-Plane.png" alt="null" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="" />
+                                        <h3><a href="insurance_single.html">Nâng Cao</a></h3>
+                                        <div class="price">420 Triệu<sup>/ Bệnh/Năm</sup></div>
+                                        <!-- Lista de Caracteristicas / Propiedades -->
+                                        <ul class="table-list">
+                                            <li><span>Bảo vệ 210 triệu/ bệnh. Bảo vệ cả ung thư, bệnh hiểm nghèo. Không giới hạn số bệnh, số lần chi trả. </span></li>
+                                            <li><span>Bảo lãnh thanh toán viện phí tại hơn 60 bệnh viện quốc tế (VINMEC, VIỆT PHÁP,...). </span></li>
+                                            <li><span>Đóng phí 15 năm, Bảo vệ 25 năm. Cả gia đình có thể tham gia chỉ cần 1 hợp đồng bảo hiểm </span></li>
+                                        </ul>
                                         <div class="read-more">
                                             <a href="insurance_single.html">Read More</a>
                                         </div>
@@ -169,9 +172,15 @@
                                 </div>
                                 <div class="single-insurance">
                                     <div class="single-insurance-content">
-                                        <span class="ti-check-box"></span>
-                                        <h3><a href="insurance_single.html">Life Insurance</a></h3>
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Obcaecati laborum ipsa, a voluptates libero possimus sapiente.</p>
+                                        <img style="width: 90px;" class="icon icon-responsive " src="/my_images/Arcturion_Diamond.png" alt="null" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="" />
+                                        <h3><a href="insurance_single.html">Toàn Diện</a></h3>
+                                        <div class="price">630 Triệu<sup>/ Bệnh/Năm</sup></div>
+                                        <!-- Lista de Caracteristicas / Propiedades -->
+                                        <ul class="table-list">
+                                            <li><span>Bảo vệ 210 triệu/ bệnh. Bảo vệ cả ung thư, bệnh hiểm nghèo. Không giới hạn số bệnh, số lần chi trả. </span></li>
+                                            <li><span>Bảo lãnh thanh toán viện phí tại hơn 60 bệnh viện quốc tế (VINMEC, VIỆT PHÁP,...). </span></li>
+                                            <li><span>Đóng phí 15 năm, Bảo vệ 25 năm. Cả gia đình có thể tham gia chỉ cần 1 hợp đồng bảo hiểm </span></li>
+                                        </ul>
                                         <div class="read-more">
                                             <a href="insurance_single.html">Read More</a>
                                         </div>
@@ -179,11 +188,26 @@
                                 </div>
                             </div>
                         </div>
+                        <!-- (3) ===================================-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
                     </div>
-                    <!-- Insurance coverage End Here -->
                 </div>
             </div>
-
         </section>
 
         <!-- End Our Projects -->
