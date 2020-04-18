@@ -76,7 +76,7 @@ a:focus {
     -o-transition: all 0.2s ease-in-out;
     -webkit-transition: all 0.2s ease-in-out;
     transition: all 0.2s ease-in-out;
-    color: #b2b2b2;
+    color: #fd0700;
 }
 
 a {
@@ -2270,7 +2270,7 @@ h4.tap-title {
     font-family: 'Open Sans', sans-serif;
     font-size: 13px;
     line-height: 21px;
-    color: #a6a6a6;
+    color: #1e2332;
     margin-bottom: 0;
     margin-top: -5px;
 }
@@ -3478,7 +3478,7 @@ blockquote.blockquote-3 p {
     content: '';
     width: 45px;
     height: 3px;
-    background: #F90505;
+    background: #f9d127;
     position: absolute;
     top: 61px;
 }

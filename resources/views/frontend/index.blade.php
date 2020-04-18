@@ -81,7 +81,7 @@
                         <div class="main-service-box main-service-box_bottom">
                             <img src="/my_images/img4.png" alt="images" class="img-intro">
                             <div class="main-service-description">
-                                <h3>Chăm Sóc Sức Khỏe với dịch vụ cao cấp hơn</h3>
+                                <h3>Chăm Sóc Sức Khỏe với dịch vụ cao cấp</h3>
                                 <p>Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipis civelit sed quia non numquam eius modi.</p>
                             </div>
                         </div>
@@ -108,12 +108,12 @@
                     </div>
                 </div>
                 <div class="divcod55"></div>
-                <div class="row insurance-service-all">
+                <div class="row insurance-service-all" style="height: 600px">
 
                     <div class="col-md-12">
                         <div class="insurance-coverage">
                             <div class="insurance-service-content">
-                                <div class="single-insurance">
+                                <div class="single-insurance" style="margin-right: 10px">
                                     <div class="single-insurance-content">
                                         <img style="width: 65px;" class="icon icon-responsive " src="/my_images/basic.png" alt="null" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="" />
                                         <h3><a href="insurance_single.html">Gói Cơ Bản</a></h3>
@@ -131,7 +131,7 @@
                                         </div>
                                     </div>
                                 </div>
-                                <div class="single-insurance">
+                                <div class="single-insurance" style="margin-right: 10px">
                                     <div class="single-insurance-content">
                                         <img style="width: 110px;" class="icon icon-responsive " src="/my_images/Paper-Plane.png" alt="null" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="" />
                                         <h3><a href="insurance_single.html">Nâng Cao</a></h3>
@@ -149,7 +149,7 @@
                                         </div>
                                     </div>
                                 </div>
-                                <div class="single-insurance">
+                                <div class="single-insurance" style="margin-right: 10px">
                                     <div class="single-insurance-content">
                                         <img style="width: 90px;" class="icon icon-responsive " src="/my_images/Arcturion_Diamond.png" alt="null" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="" />
                                         <h3><a href="insurance_single.html">Toàn Diện</a></h3>
@@ -169,23 +169,6 @@
                                 </div>
                             </div>
                         </div>
-                        <!-- (3) ===================================-->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
                     </div>
                 </div>
             </div>
@@ -236,7 +219,7 @@
                                         <div class="panel panel-default section-content">
                                             <div class="panel-heading" role="tab" id="headingTwo">
                                                 <h4 class="panel-title">
-                                                    <a class="accordion-toggle collapsed" role="button" data-toggle="collapse" data-parent="#accordion02" href="#collapse02-2" aria-expanded="false" aria-controls="collapse02-2"> Tôi nên chọn đóng phí quý hay năm?. </a>
+                                                    <a class="accordion-toggle collapsed" role="button" data-toggle="collapse" data-parent="#accordion02" href="#collapse02-2" aria-expanded="false" aria-controls="collapse02-2"> Tôi nên chọn đóng phí quý hay năm? </a>
                                                 </h4>
                                             </div>
                                             <div id="collapse02-2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
