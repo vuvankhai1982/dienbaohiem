@@ -5453,7 +5453,7 @@ ul.insurance-list span {
     right: 5px;
     font-size: 16px;
 }
-.price{
+.price {
     font-size: 40px;
     font-weight: 700;
     background-color: red;
@@ -5476,9 +5476,7 @@ ul.insurance-list span {
     margin-top: 20px;
 }
 
-
-.Categories-Blog{
-
+.Categories-Blog {
     border: 2px solid #f0f0f0;
     border-radius: 2px;
     padding: 10px;
