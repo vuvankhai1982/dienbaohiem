@@ -50,6 +50,10 @@
         /*body{*/
         /*    font-family: Futura, sans-serif!important;*/
         /*}*/
+
+        .img-intro {
+            width: 178px; height: 178px; border-radius: 90px;
+        }
     </style>
 </head>
 
@@ -68,7 +72,7 @@
     <div id="home" class="body-wrapper">
 
         <!-- Start Header  -->
-        <header class="full-header">
+        <header class="full-header" style="border-bottom: 1px solid red">
             <div id="top-bar" class="top-bar">
                 <div class="container">
                     <div class="row">
@@ -134,7 +138,7 @@
                                 </li>
 
                                 <li class="has-dropdown">
-                                    <a href="#" data-toggle="dropdown" class="dropdown-toggle">Tin tức</a>
+                                    <a href="{{ route('get_posts') }}">Tin tức</a>
                                 </li>
                             </ul>
                         </div>

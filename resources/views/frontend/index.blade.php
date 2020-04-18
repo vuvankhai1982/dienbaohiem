@@ -8,53 +8,29 @@
                 <ul>
                     <li data-transition="fade" data-slotamount="7" data-masterspeed="2500" data-delay="5000">
                         <!--  BACKGROUND IMAGE -->
-                        <img src="img-rev-slider/slider1.png" alt="">
+                        <img src="/my_images/slider1.jpg" alt="">
 
-                        <div class="tp-caption lft custom-font-2" data-x="center" data-y="184" data-speed="800" data-start="800" data-easing="easeInOutCubic">
-                            The Best Theme For Insurance Companies
-                        </div>
+{{--                        <div class="tp-caption lft custom-font-2" data-x="center" data-y="184" data-speed="800" data-start="800" data-easing="easeInOutCubic">--}}
+{{--                            The Best Theme For Insurance Companies--}}
+{{--                        </div>--}}
 
                         <div class="tp-caption sfb custom-font-1" data-x="center" data-y="250" data-speed="800" data-start="1400" data-easing="easeInOutCubic">
-                            Say Hello To <span>MetLife !</span>
+                             <span> Bảo vệ cuộc sống và gia đình bạn!</span>
                         </div>
 
-                        <div class="tp-caption sfb" data-x="center" data-y="380" data-speed="800" data-start="1600" data-easing="easeInOutCubic">
-                            <a class="btn btn-slider" href="#">Buy Theme</a>&nbsp;&nbsp;<a class="btn btn-border-slider" href="#">Get A Quote</a>
-                        </div>
+{{--                        <div class="tp-caption sfb" data-x="center" data-y="380" data-speed="800" data-start="1600" data-easing="easeInOutCubic">--}}
+{{--                            <a class="btn btn-slider" href="#">Buy Theme</a>&nbsp;&nbsp;<a class="btn btn-border-slider" href="#">Get A Quote</a>--}}
+{{--                        </div>--}}
                     </li>
 
                     <li data-transition="fade" data-slotamount="7" data-masterspeed="2500" data-delay="5000">
                         <!--  BACKGROUND IMAGE -->
-                        <img src="img-rev-slider/slider2.jpg" alt="">
+                        <img src="/my_images/slider2.jpg" alt="">
 
-                        <div class="tp-caption lft custom-font-2" data-x="center" data-y="184" data-speed="800" data-start="800" data-easing="easeInOutCubic">
-                            Hello, We Offer You The Best Theme
+                        <div style="color: rgb(230, 134, 22)" class="tp-caption sfb custom-font-1" data-x="center" data-y="250" data-speed="800" data-start="1400" data-easing="easeInOutCubic">
+                            Chăm sóc ý tế chu đáo, tận tình
                         </div>
 
-                        <div class="tp-caption sfb custom-font-1" data-x="center" data-y="250" data-speed="800" data-start="1400" data-easing="easeInOutCubic">
-                            Protecting You and your Family
-                        </div>
-
-                        <div class="tp-caption sfb" data-x="center" data-y="380" data-speed="800" data-start="1600" data-easing="easeInOutCubic">
-                            <a class="btn btn-slider" href="#">Buy Theme</a>&nbsp;&nbsp;<a class="btn btn-border-slider" href="#">Get A Quote</a>
-                        </div>
-                    </li>
-
-                    <li data-transition="fade" data-slotamount="7" data-masterspeed="2500" data-delay="5000">
-                        <!--  BACKGROUND IMAGE -->
-                        <img src="img-rev-slider/slider3.png" alt="">
-
-                        <div class="tp-caption lft custom-font-2" data-x="center" data-y="184" data-speed="800" data-start="800" data-easing="easeInOutCubic">
-                            Hello, We Offer You The Best Theme
-                        </div>
-
-                        <div class="tp-caption sfb custom-font-1" data-x="center" data-y="250" data-speed="800" data-start="1400" data-easing="easeInOutCubic">
-                            Friendly Staff <span>MetLife !</span>
-                        </div>
-
-                        <div class="tp-caption sfb" data-x="center" data-y="380" data-speed="800" data-start="1600" data-easing="easeInOutCubic">
-                            <a class="btn btn-slider" href="#">Buy Theme</a>&nbsp;&nbsp;<a class="btn btn-border-slider" href="#">Get A Quote</a>
-                        </div>
                     </li>
                 </ul>
             </div>
@@ -70,8 +46,7 @@
             <div class="container inner">
                 <div class="row main-service-heading">
                     <div class="col-lg-4 col-md-4 col-sm-5 col-xs-12">
-                        <h2 class="headline">We offer <br>Insurance Services</h2>
-                        <div class="sologun-icon"><span class="ti-announcement"></span></div>
+                        <h2 class="headline">Tại sao lại chọn <br>Chúng tôi</h2>
                     </div>
                     <div class="col-lg-8 col-md-8 col-sm-7 col-xs-12">
                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean vel interdum tellus. Suspendisse leo libero, sollicitudin a commodo vel, facilisis vitae diam.Lorem ipsum dolor sit amet, consectetur adipiscing elit.Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
@@ -81,32 +56,32 @@
                 <div class="row welcome main-service">
                     <div class="col-lg-6 col-md-12">
                         <div class="main-service-box">
-                            <img src="images/service/mortgage-1.png" alt="images">
+                            <img src="/my_images/img1.png" alt="images" class="img-intro">
                             <div class="main-service-description">
-                                <h3>Find A Mortgage</h3>
+                                <h3>Bảo vệ trụ cột chính trong gia đình</h3>
                                 <p>Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipis civelit sed quia non numquam eius modi.</p>
                             </div>
                         </div>
                         <div class="main-service-box main-service-box_bottom">
-                            <img src="images/service/home-insurance-1.png" alt="images">
+                            <img src="/my_images/img2.jpg" alt="images" class="img-intro">
                             <div class="main-service-description">
-                                <h3>Find Insurance</h3>
+                                <h3>Bảo vệ thu nhập khi rủi ro bệnh tật</h3>
                                 <p>Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipis civelit sed quia non numquam eius modi.</p>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-6 col-md-12 bottom_row">
                         <div class="main-service-box">
-                            <img src="images/service/home-service-1.png" alt="images">
+                            <img src="/my_images/img3.png" alt="images" class="img-intro">
                             <div class="main-service-description">
-                                <h3>Find A Home Service</h3>
+                                <h3>Quỹ tiết kiệm tài chính có kỷ luật</h3>
                                 <p>Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipis civelit sed quia non numquam eius modi.</p>
                             </div>
                         </div>
                         <div class="main-service-box main-service-box_bottom">
-                            <img src="images/service/consulting-1.png" alt="images">
+                            <img src="/my_images/img4.png" alt="images" class="img-intro">
                             <div class="main-service-description">
-                                <h3>Consulting</h3>
+                                <h3>Chăm Sóc Sức Khỏe với dịch vụ cao cấp hơn</h3>
                                 <p>Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipis civelit sed quia non numquam eius modi.</p>
                             </div>
                         </div>
@@ -148,6 +123,8 @@
                                             <li><span>Bảo vệ 210 triệu/ bệnh. Bảo vệ cả ung thư, bệnh hiểm nghèo. Không giới hạn số bệnh, số lần chi trả. </span></li>
                                             <li><span>Bảo lãnh thanh toán viện phí tại hơn 60 bệnh viện quốc tế (VINMEC, VIỆT PHÁP,...). </span></li>
                                             <li><span>Đóng phí 15 năm, Bảo vệ 25 năm. Cả gia đình có thể tham gia chỉ cần 1 hợp đồng bảo hiểm </span></li>
+                                            <li><span>Đóng phí 15 năm, Bảo vệ 25 năm. Cả gia đình có thể tham gia chỉ cần 1 hợp đồng bảo hiểm </span></li>
+                                            <li><span>Đóng phí 15 năm, Bảo vệ 25 năm. Cả gia đình có thể tham gia chỉ cần 1 hợp đồng bảo hiểm </span></li>
                                         </ul>
                                         <div class="read-more">
                                             <a href="insurance_single.html">Read More</a>
@@ -164,6 +141,8 @@
                                             <li><span>Bảo vệ 210 triệu/ bệnh. Bảo vệ cả ung thư, bệnh hiểm nghèo. Không giới hạn số bệnh, số lần chi trả. </span></li>
                                             <li><span>Bảo lãnh thanh toán viện phí tại hơn 60 bệnh viện quốc tế (VINMEC, VIỆT PHÁP,...). </span></li>
                                             <li><span>Đóng phí 15 năm, Bảo vệ 25 năm. Cả gia đình có thể tham gia chỉ cần 1 hợp đồng bảo hiểm </span></li>
+                                            <li><span>Đóng phí 15 năm, Bảo vệ 25 năm. Cả gia đình có thể tham gia chỉ cần 1 hợp đồng bảo hiểm </span></li>
+                                            <li><span>Đóng phí 15 năm, Bảo vệ 25 năm. Cả gia đình có thể tham gia chỉ cần 1 hợp đồng bảo hiểm </span></li>
                                         </ul>
                                         <div class="read-more">
                                             <a href="insurance_single.html">Read More</a>
@@ -179,6 +158,8 @@
                                         <ul class="table-list">
                                             <li><span>Bảo vệ 210 triệu/ bệnh. Bảo vệ cả ung thư, bệnh hiểm nghèo. Không giới hạn số bệnh, số lần chi trả. </span></li>
                                             <li><span>Bảo lãnh thanh toán viện phí tại hơn 60 bệnh viện quốc tế (VINMEC, VIỆT PHÁP,...). </span></li>
+                                            <li><span>Đóng phí 15 năm, Bảo vệ 25 năm. Cả gia đình có thể tham gia chỉ cần 1 hợp đồng bảo hiểm </span></li>
+                                            <li><span>Đóng phí 15 năm, Bảo vệ 25 năm. Cả gia đình có thể tham gia chỉ cần 1 hợp đồng bảo hiểm </span></li>
                                             <li><span>Đóng phí 15 năm, Bảo vệ 25 năm. Cả gia đình có thể tham gia chỉ cần 1 hợp đồng bảo hiểm </span></li>
                                         </ul>
                                         <div class="read-more">
