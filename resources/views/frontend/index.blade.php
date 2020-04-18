@@ -236,15 +236,16 @@
                                         <div class="panel panel-default section-content">
                                             <div class="panel-heading" role="tab" id="headingOne">
                                                 <h4 class="panel-title">
-                                                    <a class="accordion-toggle" role="button" data-toggle="collapse" data-parent="#accordion02" href="#collapse02-1" aria-expanded="true" aria-controls="collapse02-1"> Trusted Since 1982 </a>
+                                                    <a class="accordion-toggle" role="button" data-toggle="collapse" data-parent="#accordion02" href="#collapse02-1" aria-expanded="true" aria-controls="collapse02-1"> Thu nhập bao nhiêu mới có thể tham gia bảo hiểm nhân thọ?. </a>
                                                     <span class="icon"></span>
                                                 </h4>
                                             </div>
                                             <div id="collapse02-1" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
                                                 <div class="panel-body">
                                                     <div class="tap-inner" style="display: block;">
-                                                        <img src="images/home_img.jpg" alt="portfolio" width="250" height="182">
-                                                        <p>Duis dapibus aliquam mi, eget euismod scelerisque ut. Vivamus at elit quis urna adipiscing , Curabitur vitae velit in neque dictum blansadit. Duis dapibus aliquam mi, eget euismod sceler ut.Duis dapibus aliquam mi, eget euismod scelseerisque.</p>
+                                                        <p>Tham gia bảo hiểm nhân thọ bao với mệnh giá bao nhiêu là tùy thuộc vào khả năng kinh tế của gia định bạn. Trên thực tế không phải người giàu mới mua được bảo hiểm nhân thọ Vì bạn có nhiều thì tham gia nhiều tiền và ngược lại. Nhưng theo chúng tôi bạn nên tham gia số tiền bằng 10-20% trên tổng thu nhập của bạn hàng tháng. Ko nên tham giá quá nhiều tiền hoặc quá ít tiền.
+
+                                                            Bạn có thể tham khảo thêm bài viết: <a href="https://baohiem-daiichi.vn/cau-hoi-thuong-gap/mua-bao-hiem-nhan-tho-bao-nhieu-tien/">https://baohiem-daiichi.vn/cau-hoi-thuong-gap/mua-bao-hiem-nhan-tho-bao-nhieu-tien/</a></p>
                                                     </div>
                                                 </div>
                                             </div>
@@ -254,14 +255,15 @@
                                         <div class="panel panel-default section-content">
                                             <div class="panel-heading" role="tab" id="headingTwo">
                                                 <h4 class="panel-title">
-                                                    <a class="accordion-toggle collapsed" role="button" data-toggle="collapse" data-parent="#accordion02" href="#collapse02-2" aria-expanded="false" aria-controls="collapse02-2"> 100M Users Never Wrong </a>
+                                                    <a class="accordion-toggle collapsed" role="button" data-toggle="collapse" data-parent="#accordion02" href="#collapse02-2" aria-expanded="false" aria-controls="collapse02-2"> Tôi nên chọn đóng phí quý hay năm?. </a>
                                                 </h4>
                                             </div>
                                             <div id="collapse02-2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
                                                 <div class="panel-body">
                                                     <div class="tap-inner" style="display: block;">
-                                                        <img src="images/home_img.jpg" alt="portfolio" width="250" height="182">
-                                                        <p>Duis dapibus aliquam mi, eget euismod scelerisque ut. Vivamus at elit quis urna adipiscing , Curabitur vitae velit in neque dictum blansadit. Duis dapibus aliquam mi, eget euismod sceler ut.Duis dapibus aliquam mi, eget euismod scelseerisque.</p>
+                                                        <p>Đống phí quý hay năm là tùy thuộc vào nguồn tài chính của bạn. Nhưng Theo tư vấn của các chuyên gia tài chính thì: Trường hợp bạn có nguồn thu nhập ổn định VD như thu nhập từ lương và ko có các nguồn khác thì bạn nên chọn đóng phí quý.
+
+                                                            Nếu bạn là người kinh doanh và thu nhập của bạn lúc nhiều lúc ít tùy theo thị trường, sản phẩm của bạn kinh doanh thì bạn nên chọn đóng phí theo năm.</p>
                                                     </div>
                                                 </div>
                                             </div>
@@ -271,14 +273,13 @@
                                         <div class="panel panel-default section-content">
                                             <div class="panel-heading" role="tab" id="headingThree">
                                                 <h4 class="panel-title">
-                                                    <a class="accordion-toggle collapsed" role="button" data-toggle="collapse" data-parent="#accordion02" href="#collapse02-3" aria-expanded="false" aria-controls="collapse02-3"> Secure and Stable </a>
+                                                    <a class="accordion-toggle collapsed" role="button" data-toggle="collapse" data-parent="#accordion02" href="#collapse02-3" aria-expanded="false" aria-controls="collapse02-3"> Khi nào thì tôi nên tham gia bảo hiểm nhân thọ </a>
                                                 </h4>
                                             </div>
                                             <div id="collapse02-3" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
                                                 <div class="panel-body">
                                                     <div class="tap-inner" style="display: block;">
-                                                        <img src="images/home_img.jpg" alt="portfolio" width="250" height="182">
-                                                        <p>Duis dapibus aliquam mi, eget euismod scelerisque ut. Vivamus at elit quis urna adipiscing , Curabitur vitae velit in neque dictum blansadit. Duis dapibus aliquam mi, eget euismod sceler ut.Duis dapibus aliquam mi, eget euismod scelseerisque.</p>
+                                                        <p>Nên tham gia càng sớm càng tốt. Tham gia sớm mức phí bảo hiểm sẽ thấp hơn, và cơ hội được duyệt hồ sơ cao hơn. Tham gia muộn mức phí sẽ cao hơn, và còn không được duyệt hồ sơ nếu sức khỏe suy giảm.</p>
                                                     </div>
                                                 </div>
                                             </div>
@@ -288,14 +289,47 @@
                                         <div class="panel panel-default section-content">
                                             <div class="panel-heading" role="tab" id="headingFour">
                                                 <h4 class="panel-title">
-                                                    <a class="accordion-toggle collapsed" role="button" data-toggle="collapse" data-parent="#accordion02" href="#collapse02-4" aria-expanded="false" aria-controls="collapse02-4"> 24/7 With Real Person </a>
+                                                    <a class="accordion-toggle collapsed" role="button" data-toggle="collapse" data-parent="#accordion02" href="#collapse02-4" aria-expanded="false" aria-controls="collapse02-4"> Bao nhiêu tuôi thì được tham gia bảo hiểm nhân thọ?</a>
                                                 </h4>
                                             </div>
                                             <div id="collapse02-4" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
                                                 <div class="panel-body">
                                                     <div class="tap-inner" style="display: block;">
-                                                        <img src="images/home_img.jpg" alt="portfolio" width="250" height="182">
-                                                        <p>Duis dapibus aliquam mi, eget euismod scelerisque ut. Vivamus at elit quis urna adipiscing , Curabitur vitae velit in neque dictum blansadit. Duis dapibus aliquam mi, eget euismod sceler ut.Duis dapibus aliquam mi, eget euismod scelseerisque.</p>
+                                                        <p>Độ tuổi tham gia cho phép từ 01 tháng tuổi tới 65 tuổi.</p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+
+                                        <!-- Panel 05-->
+                                        <div class="panel panel-default section-content">
+                                            <div class="panel-heading" role="tab" id="headingFive">
+                                                <h4 class="panel-title">
+                                                    <a class="accordion-toggle collapsed" role="button" data-toggle="collapse" data-parent="#accordion02" href="#collapse02-5" aria-expanded="false" aria-controls="collapse02-5">Bảo hiểm Dai-ichi life có phải của Nhật Bản không</a>
+                                                </h4>
+                                            </div>
+                                            <div id="collapse02-5" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
+                                                <div class="panel-body">
+                                                    <div class="tap-inner" style="display: block;">
+                                                        <p>Công ty bảo hiểm nhân thọ Dai ichi life là công ty 100% vốn của Nhật Bản. Chất lượng và dịch vụ hàng đầu tại Việt Nam. Bạn nên tham khảo bảo viết bên dưới:
+
+                                                            https://baohiem-daiichi.vn/gioi-thieu/</p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+
+                                        <!-- Panel 06-->
+                                        <div class="panel panel-default section-content">
+                                            <div class="panel-heading" role="tab" id="headingSix">
+                                                <h4 class="panel-title">
+                                                    <a class="accordion-toggle collapsed" role="button" data-toggle="collapse" data-parent="#accordion02" href="#collapse02-6" aria-expanded="false" aria-controls="collapse02-6">Tôi đã có bảo hiểm y tế của công ty mua cho vậy tôi có nên mua thêm bảo hiểm nhân thọ không?.</a>
+                                                </h4>
+                                            </div>
+                                            <div id="collapse02-6" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
+                                                <div class="panel-body">
+                                                    <div class="tap-inner" style="display: block;">
+                                                        <p>Nếu tài chính của bạn ổn và bạn đã hiểu về bảo hiểm nhân thọ thì tốt nhất bạn nên tham gia. Vì bảo hiểm nhân thọ có nhiều sản phẩm và tính năng ưu việt hơn rất nhiều bảo các loại bảo hiểm của nhà nước.</p>
                                                     </div>
                                                 </div>
                                             </div>

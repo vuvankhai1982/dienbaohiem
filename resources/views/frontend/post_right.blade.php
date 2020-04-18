@@ -2,16 +2,21 @@
     <div class="SideBar-Blog">
         <div class="Categories-Blog widget">
             <div class="Top-Title-SideBar">
-                <h3>Categories</h3>
+                <h3>BẢO HIỂM NHÂN THỌ DAI-ICHI LIFE VIỆT NAM.</h3>
             </div>
             <div class="Categories-Block">
-                <ul>
-                    <li><a href="#"><i class="fa fa-angle-double-right"></i><p>Life Insurance</p></a><span>(5)</span></li>
-                    <li><a href="#"><i class="fa fa-angle-double-right"></i><p>Travel</p></a><span>(77)</span></li>
-                    <li><a href="#"><i class="fa fa-angle-double-right"></i><p>Auto</p></a><span>(6)</span></li>
-                    <li><a href="#"><i class="fa fa-angle-double-right"></i><p>Family</p></a><span>(11)</span></li>
-                    <li><a href="#"><i class="fa fa-angle-double-right"></i><p>Bike</p></a><span>(54)</span></li>
-                    <li><a href="#"><i class="fa fa-angle-double-right"></i><p>Insurance Agency</p></a><span>(22)</span></li>
+                <p>
+                    Với hệ thông cộng sự trên 64 tỉnh thành Chúng tôi cam kết đặt lợi ích của khách hàng lên hàng đầu làm tôn chỉ làm việc, với sứ mệnh đưa bảo hiểm nhân thọ Dai-ichi life đến với mỗi gia đình Việt.
+                </p>
+                <ul class="social-links__list" >
+                    <li class="social-links__item">
+                        <a class="social-links__link social-links__link--type--youtube" href="https://www.youtube.com/" target="_blank">
+                            <i class="fa fa-youtube-play" style="font-size:30px;color:red"></i>
+                        </a>
+                        <a href="https://www.facebook.com/" target="_blank">
+                            <i class="fa fa-facebook-square" style="font-size:30px;color:#3c5a99;"></i>
+                        </a>
+                    </li>
                 </ul>
             </div>
         </div>
