@@ -33,7 +33,7 @@ jQuery(document).ready(function() {
      Insurance coverage area
      ------------------------------ */
     $(".insurance-service-content").owlCarousel({
-        autoPlay: false,
+        autoPlay: true,
         slideSpeed: 2000,
         pagination: false,
         navigation: true,
