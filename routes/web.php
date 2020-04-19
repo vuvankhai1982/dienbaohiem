@@ -37,5 +37,3 @@ Route::group(['prefix' => 'admin'], function() {
         'register' => false,
     ]);
 });
-
-Route::get('/home', 'HomeController@index')->name('home');
