@@ -108,7 +108,7 @@
                     </div>
                 </div>
                 <div class="divcod55"></div>
-                <div class="row insurance-service-all" style="height: 600px">
+                <div class="row insurance-service-all" style="height: 630px">
 
                     <div class="col-md-12">
                         <div class="insurance-coverage">
