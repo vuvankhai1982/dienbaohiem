@@ -169,11 +169,11 @@
                         </div>
 
                         <div class="col-md-4 to-animate">
-                            <h3 class="section-header section-title">Our Address</h3>
+                            <h3 class="section-header section-title">Địa Chỉ</h3>
                             <ul class="contact-info">
-                                <li><span><i class="fa fa-home"></i>3453 corn street, Sanford, FL 34232.</span></li>
-                                <li><span><i class="fa fa-phone"></i>+ 1235 2355 34</span></li>
-                                <li><i class="fa fa-envelope-o" aria-hidden="true"></i><a href="#">info@contact.com</a></li>
+                                <li><span><i class="fa fa-home"></i>49B Hùng Vương Phường 4 Quận 5, HCM.</span></li>
+                                <li><span><i class="fa fa-phone"></i>+ 84 973564638</span></li>
+                                <li><i class="fa fa-envelope-o" aria-hidden="true"></i><a href="#">lyminhdien@gmail.com</a></li>
                                 <li><i class="fa fa-share-square-o"></i><a href="#">www.demo.com</a></li>
                             </ul>
                             <h3 class="section-header section-title">Connect with Us</h3>
