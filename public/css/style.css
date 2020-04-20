@@ -494,15 +494,15 @@ textarea {
 }
 
 .top-bar .top-contact p {
-    font-size: 13px;
-    font-weight: 500;
+    font-size: 14px;
+    font-weight: 600;
     line-height: 49px;
-    color: #f9f8ed;
+    color: #fff;
     margin-right: 15px;
 }
 
 .top-bar .top-contact span {
-    color: #f9f8ed;
+    color: #fff;
 }
 
 .top-bar ul.top-contact li {

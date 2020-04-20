@@ -72,7 +72,7 @@
     <div id="home" class="body-wrapper">
 
         <!-- Start Header  -->
-        <header class="full-header" style="border-bottom: 1px solid red">
+        <header class="full-header">
             <div id="top-bar" class="top-bar">
                 <div class="container">
                     <div class="row">
@@ -93,7 +93,7 @@
                     </div>
                 </div>
             </div>
-            <nav id="primary-menu" class="navbar style-1">
+            <nav id="primary-menu" class="navbar style-1" style="-webkit-box-shadow: 10px 10px 41px 0px rgba(128,121,128,1);-moz-box-shadow: 10px 10px 41px 0px rgba(128,121,128,1);box-shadow: 10px 10px 41px 0px rgba(128,121,128,1);">
                 <div class="row">
                     <div class="container mobile-heading">
                         <!-- Brand and toggle get grouped for better mobile display -->
@@ -105,7 +105,7 @@
                                 <span class="icon-bar"></span>
                             </button>
                             <a class="logo" href="/">
-                                <img src="/images/logo/logo1.png" style="height: 80px;" alt="Yellow Hats">
+                                <img src="/images/logo/logo1.png" style="height: 80px; " alt="Yellow Hats">
                             </a>
                         </div>
 
