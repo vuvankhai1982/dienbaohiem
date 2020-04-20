@@ -79,12 +79,14 @@
                         <div class="col-xs-12 col-sm-6 col-md-6 hidden-xs">
                             <ul class="list-inline top-contact">
                                 <li>
-                                    <p>Phone:
+                                    <p><i class="fa fa-phone" style="margin-right: 5px;font-size: 22px;
+                                             color: #06AED5;"></i>Phone:
                                         <span>0969946936</span>
                                     </p>
                                 </li>
                                 <li>
-                                    <p>Email:
+                                    <p><i class="fa fa-envelope-o" aria-hidden="true" style="margin-right: 5px;font-size: 22px;
+                                             color: #06AED5;"></i>Email:
                                         <span>dienbaohiem@gmail.com</span>
                                     </p>
                                 </li>
