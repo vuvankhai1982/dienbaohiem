@@ -185,26 +185,6 @@
                                 <li><a href="#" class="google-plus"><i class="icon-googleplus"></i></a></li>
                             </ul>
                         </div>
-
-                        <div class="col-md-4 to-animate">
-                            <h3 class="section-header section-title">Touch with Us</h3>
-                            <div id="quickmessage"></div>
-                            <form class="contact-form" method="post" action="#" name="contactform" id="contactform">
-                                <div class="form-group">
-                                    <input type="text" name="name" class="form-control" id="quickname" placeholder="Name">
-                                </div>
-                                <div class="form-group">
-                                    <input type="email" name="email" class="form-control" id="quickemail" placeholder="Email">
-                                </div>
-                                <div class="form-group">
-                                    <textarea name="comments" class="form-control" id="comments" rows="7" placeholder="Message"></textarea>
-                                </div>
-                                <div class="form-group">
-                                    <input type="submit" id="btn-submit" class="btn btn-send-message btn-md" value="Send Message">
-                                </div>
-                            </form>
-                        </div>
-
                     </div>
                 </div>
             </div>
