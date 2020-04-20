@@ -81,13 +81,13 @@
                                 <li>
                                     <p><i class="fa fa-phone" style="margin-right: 5px;font-size: 22px;
                                              color: #06AED5;"></i>Phone:
-                                        <span>0969946936</span>
+                                        <span>0973564638</span>
                                     </p>
                                 </li>
                                 <li>
                                     <p><i class="fa fa-envelope-o" aria-hidden="true" style="margin-right: 5px;font-size: 22px;
                                              color: #06AED5;"></i>Email:
-                                        <span>dienbaohiem@gmail.com</span>
+                                        <span>lyminhdien@gmail.com</span>
                                     </p>
                                 </li>
                             </ul>
