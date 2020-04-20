@@ -160,51 +160,31 @@
             <div id="template-footer" role="contentinfo">
                 <div class="container">
                     <div class="row">
-                        <div class="col-md-4 to-animate">
-                            <h3 class="section-header section-title">About Us</h3>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean vel interdum tellus. Suspendisse leo libero, sollicitudin a commodo vel, facilisis vitae diam.</p>
-                            <p class="copy-right">&copy; 2016 MetLife Premium Template. <br>All Rights Reserved. <br> Designed by <a href="#" target="_blank">http://demo.com/</a>
+                        <div class="col-md-6 to-animate">
+                            <h3 class="section-header section-title">Giới Thiệu.</h3>
+                            <p>Với hệ thông cộng sự trên 64 tỉnh thành Chúng tôi cam kết đặt lợi ích của khách hàng lên hàng đầu làm tôn chỉ làm việc, với sứ mệnh đưa bảo hiểm nhân thọ Dai-ichi life đến với mỗi gia đình Việt.</p>
+                            <p class="copy-right">&copy; 2016 Dai-ichi life Việt Nam. <br>All Rights Reserved. <br> Designed by <a href="http://dienbaohiem.tk" target="_blank">http://dienbaohiem.tk</a>
                             </p>
                             <div class="copyright">
                                 <label class="footer-link"><a href="#">Privacy Policy</a> - <a href="#">Terms of Use</a></label>
                             </div>
                         </div>
 
-                        <div class="col-md-4 to-animate">
-                            <h3 class="section-header section-title">Địa Chỉ</h3>
+                        <div class="col-md-6 to-animate">
+                            <h3 class="section-header section-title">Thông Tin Liên Hệ.</h3>
                             <ul class="contact-info">
                                 <li><span><i class="fa fa-home"></i>49B Hùng Vương Phường 4 Quận 5, HCM.</span></li>
                                 <li><span><i class="fa fa-phone"></i>+ 84 973564638</span></li>
                                 <li><i class="fa fa-envelope-o" aria-hidden="true"></i><a href="#">lyminhdien@gmail.com</a></li>
-                                <li><i class="fa fa-share-square-o"></i><a href="#">www.demo.com</a></li>
+                                <li><i class="fa fa-share-square-o"></i><a href="http://dienbaohiem.tk">http://dienbaohiem.tk</a></li>
                             </ul>
-                            <h3 class="section-header section-title">Connect with Us</h3>
+                            <h3 class="section-header section-title">Kết nối với chúng tôi.</h3>
                             <ul class="social-media">
                                 <li><a href="#" class="facebook"><i class="icon-facebook"></i></a></li>
                                 <li><a href="#" class="twitter"><i class="icon-twitter"></i></a></li>
                                 <li><a href="#" class="google-plus"><i class="icon-googleplus"></i></a></li>
                             </ul>
                         </div>
-
-                        <div class="col-md-4 to-animate">
-                            <h3 class="section-header section-title">Touch with Us</h3>
-                            <div id="quickmessage"></div>
-                            <form class="contact-form" method="post" action="#" name="contactform" id="contactform">
-                                <div class="form-group">
-                                    <input type="text" name="name" class="form-control" id="quickname" placeholder="Name">
-                                </div>
-                                <div class="form-group">
-                                    <input type="email" name="email" class="form-control" id="quickemail" placeholder="Email">
-                                </div>
-                                <div class="form-group">
-                                    <textarea name="comments" class="form-control" id="comments" rows="7" placeholder="Message"></textarea>
-                                </div>
-                                <div class="form-group">
-                                    <input type="submit" id="btn-submit" class="btn btn-send-message btn-md" value="Send Message">
-                                </div>
-                            </form>
-                        </div>
-
                     </div>
                 </div>
             </div>
