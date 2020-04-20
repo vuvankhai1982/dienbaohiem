@@ -72,20 +72,22 @@
     <div id="home" class="body-wrapper">
 
         <!-- Start Header  -->
-        <header class="full-header" style="border-bottom: 1px solid red">
+        <header class="full-header">
             <div id="top-bar" class="top-bar">
                 <div class="container">
                     <div class="row">
                         <div class="col-xs-12 col-sm-6 col-md-6 hidden-xs">
                             <ul class="list-inline top-contact">
                                 <li>
-                                    <p>Phone:
-                                        <span>0969946936</span>
+                                    <p><i class="fa fa-phone" style="margin-right: 5px;font-size: 22px;
+                                             color: #06AED5;"></i>Phone:
+                                        <span>0973564638</span>
                                     </p>
                                 </li>
                                 <li>
-                                    <p>Email:
-                                        <span>dienbaohiem@gmail.com</span>
+                                    <p><i class="fa fa-envelope-o" aria-hidden="true" style="margin-right: 5px;font-size: 22px;
+                                             color: #06AED5;"></i>Email:
+                                        <span>lyminhdien@gmail.com</span>
                                     </p>
                                 </li>
                             </ul>
@@ -93,7 +95,7 @@
                     </div>
                 </div>
             </div>
-            <nav id="primary-menu" class="navbar style-1">
+            <nav id="primary-menu" class="navbar style-1" style="-webkit-box-shadow: 10px 10px 41px 0px rgba(128,121,128,1);-moz-box-shadow: 10px 10px 41px 0px rgba(128,121,128,1);box-shadow: 10px 10px 41px 0px rgba(128,121,128,1);">
                 <div class="row">
                     <div class="container mobile-heading">
                         <!-- Brand and toggle get grouped for better mobile display -->
@@ -105,7 +107,7 @@
                                 <span class="icon-bar"></span>
                             </button>
                             <a class="logo" href="/">
-                                <img src="/images/logo/logo1.png" style="height: 80px;" alt="Yellow Hats">
+                                <img src="/images/logo/logo1.png" style="height: 80px; " alt="Yellow Hats">
                             </a>
                         </div>
 
@@ -169,11 +171,11 @@
                         </div>
 
                         <div class="col-md-4 to-animate">
-                            <h3 class="section-header section-title">Our Address</h3>
+                            <h3 class="section-header section-title">Địa Chỉ</h3>
                             <ul class="contact-info">
-                                <li><span><i class="fa fa-home"></i>3453 corn street, Sanford, FL 34232.</span></li>
-                                <li><span><i class="fa fa-phone"></i>+ 1235 2355 34</span></li>
-                                <li><i class="fa fa-envelope-o" aria-hidden="true"></i><a href="#">info@contact.com</a></li>
+                                <li><span><i class="fa fa-home"></i>49B Hùng Vương Phường 4 Quận 5, HCM.</span></li>
+                                <li><span><i class="fa fa-phone"></i>+ 84 973564638</span></li>
+                                <li><i class="fa fa-envelope-o" aria-hidden="true"></i><a href="#">lyminhdien@gmail.com</a></li>
                                 <li><i class="fa fa-share-square-o"></i><a href="#">www.demo.com</a></li>
                             </ul>
                             <h3 class="section-header section-title">Connect with Us</h3>
