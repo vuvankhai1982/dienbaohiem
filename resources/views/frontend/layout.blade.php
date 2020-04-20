@@ -160,7 +160,7 @@
             <div id="template-footer" role="contentinfo">
                 <div class="container">
                     <div class="row">
-                        <div class="col-md-4 to-animate">
+                        <div class="col-md-6 to-animate">
                             <h3 class="section-header section-title">About Us</h3>
                             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean vel interdum tellus. Suspendisse leo libero, sollicitudin a commodo vel, facilisis vitae diam.</p>
                             <p class="copy-right">&copy; 2016 MetLife Premium Template. <br>All Rights Reserved. <br> Designed by <a href="#" target="_blank">http://demo.com/</a>
@@ -170,7 +170,7 @@
                             </div>
                         </div>
 
-                        <div class="col-md-4 to-animate">
+                        <div class="col-md-6 to-animate">
                             <h3 class="section-header section-title">Địa Chỉ</h3>
                             <ul class="contact-info">
                                 <li><span><i class="fa fa-home"></i>49B Hùng Vương Phường 4 Quận 5, HCM.</span></li>
