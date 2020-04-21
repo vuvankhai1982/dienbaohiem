@@ -206,7 +206,6 @@
 
 </div>
 
-
 <!-- Placed at the end of the document so the pages load faster -->
 <script type="text/javascript" src="/js/jquery-1.11.3.min.js"></script>
 <script type="text/javascript" src="/js/bootstrap.min.js"></script>
@@ -236,7 +235,6 @@
 <script src="/js/jqueryform/jquery.form.min.js"></script>
 <script type="text/javascript" src="/js/custom.js"></script>
 <!-- js-slide -->
-
 <script src="owlcarousel/owl.carousel.min.js"></script>
 <script type="text/javascript">
     $.ajaxSetup({
@@ -275,6 +273,10 @@
             });
         });
     })
+
+
+</script>
+<script>
     $(document).ready(function(){
         var owl = $('.owl-carousel');
         owl.owlCarousel({
@@ -292,8 +294,6 @@
             owl.trigger('stop.owl.autoplay')
         })
     });
-
 </script>
-
 </body>
 </html>

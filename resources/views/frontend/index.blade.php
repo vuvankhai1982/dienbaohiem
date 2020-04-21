@@ -487,10 +487,7 @@
                             <span class="fact-title">years of experience</span>
                         </div>
                     </div>
-
                 </div>
-
-
             </div>
         </section>
         <!-- start Slider  -->
