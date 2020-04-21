@@ -29,8 +29,8 @@
     <link href="/rs-plugin/css/settings.css" rel="stylesheet">
 
     <!-- owl carousel CSS -->
-    <link href="/css/owl.carousel.css" rel="stylesheet">
-    <link href="/css/owl.theme.css" rel="stylesheet">
+{{--    <link href="/css/owl.carousel.css" rel="stylesheet">--}}
+{{--    <link href="/css/owl.theme.css" rel="stylesheet">--}}
     <!-- Main style CSS -->
     <link href="/css/style.css" rel="stylesheet">
     <!-- Responsive CSS -->
@@ -225,7 +225,7 @@
 
 <script type="text/javascript" src="/js/modernizr.custom.js"></script>
 <script type="text/javascript" src="/js/classie.js"></script>
-<script type="text/javascript" src="/js/owl.carousel.min.js"></script>
+{{--<script type="text/javascript" src="/js/owl.carousel.min.js"></script>--}}
 <script type="text/javascript" src="/js/wow.min.js"></script>
 <script type="text/javascript" src="/js/jquery.appear.js"></script>
 <script type="text/javascript" src="/js/jquery.countTo.js"></script>
