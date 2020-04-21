@@ -4,7 +4,8 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <!--[if IE]><meta http-equiv="X-UA-Compatible" content="IE=EmulateIE10"><![endif]-->
+    <!--[if IE]>
+    <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE10"><![endif]-->
     <meta name="description" content="">
     <meta name="author" content="">
     <link rel="shortcut icon" href="/images/favicon.png">
@@ -29,8 +30,8 @@
     <link href="/rs-plugin/css/settings.css" rel="stylesheet">
 
     <!-- owl carousel CSS -->
-{{--    <link href="/css/owl.carousel.css" rel="stylesheet">--}}
-{{--    <link href="/css/owl.theme.css" rel="stylesheet">--}}
+    <link href="/css/owl.carousel.css" rel="stylesheet">
+    <link href="/css/owl.theme.css" rel="stylesheet">
     <!-- Main style CSS -->
     <link href="/css/style.css" rel="stylesheet">
     <!-- Responsive CSS -->
@@ -38,8 +39,8 @@
 
     <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- css-slide -->
-    <link rel="stylesheet" href="owlcarousel/assets/owl.carousel.min.css">
-    <link rel="stylesheet" href="owlcarousel/assets/owl.theme.default.min.css">
+    {{--    <link rel="stylesheet" href="owlcarousel/assets/owl.carousel.min.css">--}}
+{{--    <link rel="stylesheet" href="owlcarousel/assets/owl.theme.default.min.css">--}}
 
     <!--[if lt IE 9]>
     <script src="/js/html5shiv.js"></script>
@@ -59,7 +60,9 @@
         /*}*/
 
         .img-intro {
-            width: 178px; height: 178px; border-radius: 90px;
+            width: 178px;
+            height: 178px;
+            border-radius: 90px;
         }
     </style>
 </head>
@@ -102,12 +105,13 @@
                     </div>
                 </div>
             </div>
-            <nav id="primary-menu" class="navbar style-1" style="-webkit-box-shadow: 10px 10px 41px 0px rgba(128,121,128,1);-moz-box-shadow: 10px 10px 41px 0px rgba(128,121,128,1);box-shadow: 10px 10px 41px 0px rgba(128,121,128,1);">
+            <nav id="primary-menu" class="navbar style-1" style="-webkit-box-shadow: 10px 10px 5px -5px rgba(176,169,176,1);-moz-box-shadow: 10px 10px 5px -5px rgba(176,169,176,1);box-shadow: 10px 10px 5px -5px rgba(176,169,176,1);">
                 <div class="row">
                     <div class="container mobile-heading">
                         <!-- Brand and toggle get grouped for better mobile display -->
                         <div class="navbar-header">
-                            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+                            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+                                    data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
                                 <span class="sr-only">Toggle navigation</span>
                                 <span class="icon-bar"></span>
                                 <span class="icon-bar"></span>
@@ -159,9 +163,9 @@
         </header>
         <!-- End  Header -->
 
-        @yield('content')
+    @yield('content')
 
-        <!-- Start Footer -->
+    <!-- Start Footer -->
 
         <footer id="footer" class="site-footer">
             <div id="template-footer" role="contentinfo">
@@ -169,8 +173,11 @@
                     <div class="row">
                         <div class="col-md-6 to-animate">
                             <h3 class="section-header section-title">Giới Thiệu.</h3>
-                            <p>Với hệ thông cộng sự trên 64 tỉnh thành Chúng tôi cam kết đặt lợi ích của khách hàng lên hàng đầu làm tôn chỉ làm việc, với sứ mệnh đưa bảo hiểm nhân thọ Dai-ichi life đến với mỗi gia đình Việt.</p>
-                            <p class="copy-right">&copy; 2016 Dai-ichi life Việt Nam. <br>All Rights Reserved. <br> Designed by <a href="http://dienbaohiem.tk" target="_blank">http://dienbaohiem.tk</a>
+                            <p>Với hệ thông cộng sự trên 64 tỉnh thành Chúng tôi cam kết đặt lợi ích của khách hàng lên
+                                hàng đầu làm tôn chỉ làm việc, với sứ mệnh đưa bảo hiểm nhân thọ Dai-ichi life đến với
+                                mỗi gia đình Việt.</p>
+                            <p class="copy-right">&copy; 2016 Dai-ichi life Việt Nam. <br>All Rights Reserved. <br>
+                                Designed by <a href="http://dienbaohiem.tk" target="_blank">http://dienbaohiem.tk</a>
                             </p>
                             <div class="copyright">
                                 <label class="footer-link"><a href="#">Privacy Policy</a> - <a href="#">Terms of Use</a></label>
@@ -182,8 +189,10 @@
                             <ul class="contact-info">
                                 <li><span><i class="fa fa-home"></i>49B Hùng Vương Phường 4 Quận 5, HCM.</span></li>
                                 <li><span><i class="fa fa-phone"></i>+ 84 973564638</span></li>
-                                <li><i class="fa fa-envelope-o" aria-hidden="true"></i><a href="#">lyminhdien@gmail.com</a></li>
-                                <li><i class="fa fa-share-square-o"></i><a href="http://dienbaohiem.tk">http://dienbaohiem.tk</a></li>
+                                <li><i class="fa fa-envelope-o" aria-hidden="true"></i><a
+                                        href="#">lyminhdien@gmail.com</a></li>
+                                <li><i class="fa fa-share-square-o"></i><a href="http://dienbaohiem.tk">http://dienbaohiem.tk</a>
+                                </li>
                             </ul>
                             <h3 class="section-header section-title">Kết nối với chúng tôi.</h3>
                             <ul class="social-media">
@@ -225,7 +234,7 @@
 
 <script type="text/javascript" src="/js/modernizr.custom.js"></script>
 <script type="text/javascript" src="/js/classie.js"></script>
-{{--<script type="text/javascript" src="/js/owl.carousel.min.js"></script>--}}
+<script type="text/javascript" src="/js/owl.carousel.min.js"></script>
 <script type="text/javascript" src="/js/wow.min.js"></script>
 <script type="text/javascript" src="/js/jquery.appear.js"></script>
 <script type="text/javascript" src="/js/jquery.countTo.js"></script>
@@ -236,18 +245,18 @@
 <script src="/js/jqueryform/jquery.form.min.js"></script>
 <script type="text/javascript" src="/js/custom.js"></script>
 <!-- js-slide -->
-<script type="text/javascript" src="owlcarousel/owl.carousel.min.js"></script>
+{{--<script type="text/javascript" src="owlcarousel/owl.carousel.min.js"></script>--}}
 <script type="text/javascript">
     $.ajaxSetup({
         headers: {
             'X-CSRF-TOKEN': $('meta[name="csrf-token"]').attr('content')
         }
     });
-    $(function() {
+    $(function () {
         "use strict";
-        $(".fact-number").appear(function() {
+        $(".fact-number").appear(function () {
             var t = $(this).attr("data-perc");
-            $(this).each(function() {
+            $(this).each(function () {
                 $(this).find(".factor").delay(6e3).countTo({
                     from: 10,
                     to: t,
@@ -257,18 +266,18 @@
             })
         });
 
-        $('#submit-contact').click(function(e) {
+        $('#submit-contact').click(function (e) {
             e.preventDefault();
 
             $.ajax({
                 data: $(this).parents('form').serialize(),
                 type: "POST",
                 url: `{{ route('send_contact') }}`,
-                success: function(result) {
+                success: function (result) {
                     console.log(result);
                     console.log('done');
                 },
-                error: function(error) {
+                error: function (error) {
                     console.log('error');
                 }
             });
@@ -278,21 +287,14 @@
 
 </script>
 <script>
-    $(document).ready(function(){
-        var owl = $('.owl-carousel');
-        owl.owlCarousel({
-            items:4,
-            loop:true,
-            margin:10,
-            autoplay:true,
-            autoplayTimeout:1000,
-            autoplayHoverPause:true
-        });
-        $('.play').on('click',function(){
-            owl.trigger('play.owl.autoplay',[1000])
-        })
-        $('.stop').on('click',function(){
-            owl.trigger('stop.owl.autoplay')
+    $(document).ready(function () {
+        $('.slider-brand').owlCarousel({
+            items: 4,
+            loop: true,
+            margin: 10,
+            autoPlay: true,
+            autoplayHoverPause: true,
+            slideSpeed: 200,
         });
     });
 </script>
