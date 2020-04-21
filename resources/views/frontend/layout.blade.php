@@ -40,6 +40,7 @@
     <!-- css-slide -->
     <link rel="stylesheet" href="owlcarousel/assets/owl.carousel.min.css">
     <link rel="stylesheet" href="owlcarousel/assets/owl.theme.default.min.css">
+
     <!--[if lt IE 9]>
     <script src="/js/html5shiv.js"></script>
     <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
@@ -235,7 +236,7 @@
 <script src="/js/jqueryform/jquery.form.min.js"></script>
 <script type="text/javascript" src="/js/custom.js"></script>
 <!-- js-slide -->
-<script src="owlcarousel/owl.carousel.min.js"></script>
+<script type="text/javascript" src="owlcarousel/owl.carousel.min.js"></script>
 <script type="text/javascript">
     $.ajaxSetup({
         headers: {
@@ -292,7 +293,7 @@
         })
         $('.stop').on('click',function(){
             owl.trigger('stop.owl.autoplay')
-        })
+        });
     });
 </script>
 </body>
