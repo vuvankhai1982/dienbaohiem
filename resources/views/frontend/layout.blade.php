@@ -31,7 +31,7 @@
 
     <!-- owl carousel CSS -->
     <link href="/css/owl.carousel.css" rel="stylesheet">
-    <link href="/css/owl.theme.css" rel="stylesheet">
+{{--    <link href="/css/owl.theme.css" rel="stylesheet">--}}
     <!-- Main style CSS -->
     <link href="/css/style.css" rel="stylesheet">
     <!-- Responsive CSS -->
@@ -65,10 +65,10 @@
             border-radius: 90px;
         }
     </style>
+
 </head>
 
 <body>
-
 <!-- Start Loading -->
 
 <section class="loading-overlay">
@@ -238,7 +238,7 @@
 <script type="text/javascript" src="/js/wow.min.js"></script>
 <script type="text/javascript" src="/js/jquery.appear.js"></script>
 <script type="text/javascript" src="/js/jquery.countTo.js"></script>
-<script type="text/javascript" src="/js/smoothscroll.js"></script>
+{{--<script type="text/javascript" src="/js/smoothscroll.js"></script>--}}
 <!--  Form validate -->
 <script src="/js/jqueryvalidate/jquery.validate.min.js"></script>
 <!--  Form submit  -->
