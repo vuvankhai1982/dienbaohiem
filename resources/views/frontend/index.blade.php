@@ -493,7 +493,36 @@
 
             </div>
         </section>
+        <!-- start Slider  -->
+        <div class="container inner">
+            <div class="row">
+                <div class="owl-carousel owl-theme" style="border:2px solid #f0f0f0;border-radius: 2px;">
+                    <div class="item">
+                        <a href="">
+                            <img src="/images/slider/thebank.png" alt="" style="width: 184.333px; padding: 32px 24px;">
+                        </a>
+                    </div>
+                    <div class="item">
+                        <a href="">
+                            <img src="/images/slider/agribank.jpg" alt="" style="width: 184.333px; padding: 32px 24px;">
+                        </a>
+                    </div>
+                    <div class="item">
+                        <a href="">
+                            <img src="/images/slider/viettinbank.png" alt="" style="width: 184.333px; padding: 32px 24px;">
+                        </a>
+                    </div>
+                    <div class="item">
+                        <a href="">
+                            <img src="/images/slider/vbank.jpg" alt="" style="width: 184.333px; padding: 32px 24px;">
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        </div>
 
+        <!-- end Slider  -->
         <!-- End Our Vision  -->
     </main>
 @endsection
