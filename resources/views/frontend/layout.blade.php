@@ -46,9 +46,7 @@
 
 
     <![endif]-->
-    <!-- js-slide -->
-    <script src="jquery.min.js"></script>
-    <script src="owlcarousel/owl.carousel.min.js"></script>
+
     <style>
         /*!*=========== custom style ===============*!*/
         /*@font-face {*/
@@ -237,7 +235,9 @@
 <!--  Form submit  -->
 <script src="/js/jqueryform/jquery.form.min.js"></script>
 <script type="text/javascript" src="/js/custom.js"></script>
+<!-- js-slide -->
 
+<script src="owlcarousel/owl.carousel.min.js"></script>
 <script type="text/javascript">
     $.ajaxSetup({
         headers: {
