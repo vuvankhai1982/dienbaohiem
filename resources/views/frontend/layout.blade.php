@@ -91,7 +91,7 @@
                                 <li>
                                     <p><i class="fa fa-phone" style="margin-right: 5px;font-size: 22px;
                                              color: #06AED5;"></i>Phone:
-                                        <span>0973564638</span>
+                                        <span>0973.564.638</span>
                                     </p>
                                 </li>
                                 <li>
@@ -177,7 +177,7 @@
                                 hàng đầu làm tôn chỉ làm việc, với sứ mệnh đưa bảo hiểm nhân thọ Dai-ichi life đến với
                                 mỗi gia đình Việt.</p>
                             <p class="copy-right">&copy; 2016 Dai-ichi life Việt Nam. <br>All Rights Reserved. <br>
-                                Designed by <a href="http://dienbaohiem.tk" target="_blank">http://dienbaohiem.tk</a>
+                                Designed by <a href="http://mrfinance.vn" target="_blank">http://mrfinance.vn</a>
                             </p>
                             <div class="copyright">
                                 <label class="footer-link"><a href="#">Privacy Policy</a> - <a href="#">Terms of Use</a></label>
@@ -188,10 +188,10 @@
                             <h3 class="section-header section-title">Thông Tin Liên Hệ.</h3>
                             <ul class="contact-info">
                                 <li><span><i class="fa fa-home"></i>49B Hùng Vương Phường 4 Quận 5, HCM.</span></li>
-                                <li><span><i class="fa fa-phone"></i>+ 84 973564638</span></li>
+                                <li><span><i class="fa fa-phone"></i>0973.564.638</span></li>
                                 <li><i class="fa fa-envelope-o" aria-hidden="true"></i><a
                                         href="#">lyminhdien@gmail.com</a></li>
-                                <li><i class="fa fa-share-square-o"></i><a href="http://dienbaohiem.tk">http://dienbaohiem.tk</a>
+                                <li><i class="fa fa-share-square-o"></i><a href="http://mrfinance.vn">http://mrfinance.vn</a>
                                 </li>
                             </ul>
                             <h3 class="section-header section-title">Kết nối với chúng tôi.</h3>
