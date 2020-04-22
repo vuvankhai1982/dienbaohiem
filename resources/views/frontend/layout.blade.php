@@ -89,15 +89,13 @@
                         <div class="col-xs-12 col-sm-6 col-md-6 hidden-xs">
                             <ul class="list-inline top-contact">
                                 <li>
-                                    <p><i class="fa fa-phone" style="margin-right: 5px;font-size: 22px;
-                                             color: #06AED5;"></i>Phone:
-                                        <span>0973.564.638</span>
+                                    <p>
+                                        Phone: <span>0973.564.638</span>
                                     </p>
                                 </li>
                                 <li>
-                                    <p><i class="fa fa-envelope-o" aria-hidden="true" style="margin-right: 5px;font-size: 22px;
-                                             color: #06AED5;"></i>Email:
-                                        <span>lyminhdien@gmail.com</span>
+                                    <p>
+                                        Email: <span>lyminhdien@gmail.com</span>
                                     </p>
                                 </li>
                             </ul>
