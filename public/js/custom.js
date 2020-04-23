@@ -41,8 +41,8 @@ jQuery(document).ready(function() {
         /* transitionStyle : "fade", */
         /* [This code for animation ] */
         navigationText: ["<i class='fa fa-angle-left'></i>", "<i class='fa fa-angle-right'></i>"],
-        itemsDesktop: [1199, 5],
-        itemsDesktopSmall: [980, 3],
+        itemsDesktop: [1199, 3],
+        itemsDesktopSmall: [100, 2],
         itemsTablet: [768, 2],
         itemsMobile: [479, 1],
     });
