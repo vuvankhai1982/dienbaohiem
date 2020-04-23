@@ -545,6 +545,5 @@
         </div>
 
         <!-- end Slider  -->
-        <!-- End Our Vision  -->
     </main>
 @endsection
