@@ -940,7 +940,7 @@ textarea {
     .navbar-nav > li.has-dropdown.open > a,
     .navbar-nav > li.has-dropdown.open > a:hover,
     .navbar-nav > li.has-dropdown.open > a:focus {
-        background-color: transparent;
+        background-color:red;
         border: none;
         border-bottom: 1px solid rgba(255, 255, 255, 0.1)
     }

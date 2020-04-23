@@ -556,7 +556,7 @@ pre code { padding: 0; font-size: inherit; color: inherit; white-space: pre-wrap
 }
 @media (min-width: 992px) {
 .col-md-1, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-md-10, .col-md-11, .col-md-12 { float: left; }
-.col-md-12 { width: 100%; }
+.col-md-12 { width: 100%;margin-top: 29px; }
 .col-md-11 { width: 91.66666667%; }
 .col-md-10 { width: 83.33333333%; }
 .col-md-9 { width: 75%; }
@@ -1072,7 +1072,7 @@ textarea.input-group-sm > .form-control, textarea.input-group-sm > .input-group-
 @media (max-width: 767px) {
 .navbar-nav .open .dropdown-menu { position: static; float: none; width: auto; margin-top: 0; background-color: transparent; border: 0; -webkit-box-shadow: none; box-shadow: none; }
 .navbar-nav .open .dropdown-menu > li > a,  .navbar-nav .open .dropdown-menu .dropdown-header { padding: 5px 15px 5px 25px; }
-.navbar-nav .open .dropdown-menu > li > a { line-height: 20px; }
+.navbar-nav .open .dropdown-menu > li > a { line-height: 20px;background: #FF0000; }
 .navbar-nav .open .dropdown-menu > li > a:hover,  .navbar-nav .open .dropdown-menu > li > a:focus { background-image: none; }
 }
 @media (min-width: 768px) {
