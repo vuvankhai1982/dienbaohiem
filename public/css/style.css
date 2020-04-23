@@ -115,12 +115,13 @@ b, strong {
 
 .btn:hover {
     color: #ffffff;
-    background-color: #a6a6a6;
+    /*background-color: #a6a6a6;*/
+    opacity: 0.6;
 }
 
 .btn:focus {
     color: #ffffff;
-    background-color: #a6a6a6;
+    background-color: #0472f8;
 }
 
 .h1, h1 {
@@ -398,7 +399,8 @@ textarea {
 .nav .open > a,
 .nav .open > a:hover,
 .nav .open > a:focus {
-    background-color: transparent;
+    background-color: red;
+    opacity: 0.6;
     border: none;
 }
 
