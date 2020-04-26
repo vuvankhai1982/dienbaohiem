@@ -23,8 +23,8 @@ class Contact extends Mailable
     public function build()
     {
         return $this
-            ->from('pckhienxx@gmail.com')
-            ->to('pckhien@gmail.com')
+            ->from('khaihoan1982@gmail.com')
+            ->to('khaihoan250382@gmail.com')
             ->cc(['pckhien1@gmail.com', 'pckhien2@gmail.com'])
             ->subject("[Liên hệ] " .'Liên hệ từ khách hàng')
             ->markdown('emails.contact', [
