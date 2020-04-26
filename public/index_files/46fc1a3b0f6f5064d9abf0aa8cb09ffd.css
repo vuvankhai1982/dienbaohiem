@@ -4819,8 +4819,8 @@ div.wpcf7 .wpcf7-submit:disabled {
 /*! elementor-icons - v5.6.2 - 13-02-2020 */
 @font-face {
     font-family: eicons;
-    src: url(../../../plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.6.2);
-    src: url(../../../plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.6.2#iefix) format("embedded-opentype"), url(../../../plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5.6.2) format("woff2"), url(../../../plugins/elementor/assets/lib/eicons/fonts/eicons.woff?5.6.2) format("woff"), url(../../../plugins/elementor/assets/lib/eicons/fonts/eicons.ttf?5.6.2) format("truetype"), url(../../../plugins/elementor/assets/lib/eicons/fonts/eicons.svg?5.6.2#eicon) format("svg");
+    src: url(webfonts/eicons.eot?5.6.2);
+    src: url(webfonts/eicons.eot?5.6.2#iefix) format("embedded-opentype"), url(webfonts/eicons.woff2?5.6.2) format("woff2"), url(webfonts/eicons.woff?5.6.2) format("woff"), url(webfonts/eicons.ttf?5.6.2) format("truetype"), url(webfonts/eicons.svg?5.6.2#eicon) format("svg");
     font-weight: 400;
     font-style: normal
 }
