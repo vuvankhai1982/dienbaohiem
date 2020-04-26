@@ -3526,147 +3526,8 @@
                 </div>
             </div>
         </div>
-        <div id="bottom-bar" class="full-width-line logo-left" role="contentinfo">
-            <div class="wf-wrap">
-                <div class="wf-container-bottom">
-                    <div id="branding-bottom"><a class="" href="https://baohiem-daiichi.vn/"><img
-                                class="preload-me lazyloaded" src="./index_files/logo-dai-ichi-life-mobile.png"
-                                data-lazy-srcset="https://baohiem-daiichi.vn/wp-content/uploads/2019/04/logo-dai-ichi-life-mobile.png 70w, https://baohiem-daiichi.vn/wp-content/uploads/2019/04/logo-dai-ichi-life-mobile.png 70w"
-                                width="70" height="24" data-lazy-sizes="70px" alt="Bảo hiểm Dai ichi life Việt Nam"
-                                data-lazy-src="https://baohiem-daiichi.vn/wp-content/uploads/2019/04/logo-dai-ichi-life-mobile.png"
-                                sizes="70px"
-                                srcset="https://baohiem-daiichi.vn/wp-content/uploads/2019/04/logo-dai-ichi-life-mobile.png 70w, https://baohiem-daiichi.vn/wp-content/uploads/2019/04/logo-dai-ichi-life-mobile.png 70w"
-                                data-was-processed="true">
-                            <noscript><img class=" preload-me"
-                                           src="https://baohiem-daiichi.vn/wp-content/uploads/2019/04/logo-dai-ichi-life-mobile.png"
-                                           srcset="https://baohiem-daiichi.vn/wp-content/uploads/2019/04/logo-dai-ichi-life-mobile.png 70w, https://baohiem-daiichi.vn/wp-content/uploads/2019/04/logo-dai-ichi-life-mobile.png 70w"
-                                           width="70" height="24" sizes="70px" alt="Bảo hiểm Dai ichi life Việt Nam"/>
-                            </noscript>
-                        </a></div>
-                    <div class="wf-float-left">Bảo hiểm nhân thọ Dai-ichi life</div>
-                    <div class="wf-float-right">
-                        <div class="mini-nav">
-                            <ul id="bottom-menu">
-                                <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9322 first">
-                                    <a href="https://baohiem-daiichi.vn/gioi-thieu/" data-level="1"><i
-                                            class="fas fa-building"></i><span class="menu-item-text"><span
-                                                class="menu-text">Giới thiệu</span></span></a></li>
-                                <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-9308 has-children">
-                                    <a href="https://baohiem-daiichi.vn/san-pham/" data-level="1"><i
-                                            class="Defaults-diamond"></i><span class="menu-item-text"><span
-                                                class="menu-text">Sản phẩm</span></span></a>
-                                    <ul class="footer-sub-nav gradient-hover hover-style-bg level-arrows-on">
-                                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9319 first">
-                                            <a href="https://baohiem-daiichi.vn/san-pham/an-tam-hung-thinh/"
-                                               data-level="2" class="layzr-bg-transparent"><img
-                                                    class="preload-me lazy-load is-loaded"
-                                                    src="./index_files/slide_2_1-532x213.png" alt="Menu icon"
-                                                    style="margin: 0px; border-radius: 0px; will-change: auto;"
-                                                    width="200" height="80"
-                                                    srcset="https://baohiem-daiichi.vn/wp-content/uploads/2017/11/slide_2_1-532x213.png 532w, https://baohiem-daiichi.vn/wp-content/uploads/2017/11/slide_2_1-533x213.png 533w"><span
-                                                    class="menu-item-text"><span class="menu-text">An Tâm Hưng Thịnh Toàn Diện</span></span></a>
-                                        </li>
-                                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9318">
-                                            <a href="https://baohiem-daiichi.vn/san-pham/an-phuc-hung-thinh/"
-                                               data-level="2"><img class="preload-me lazy-load is-loaded"
-                                                                   src="./index_files/an-phuc-hung-thinh-dai-ichi-life-600x240.jpg"
-                                                                   alt="Menu icon"
-                                                                   style="margin: 0px; border-radius: 0px; will-change: auto;"
-                                                                   width="200" height="80"
-                                                                   srcset="https://baohiem-daiichi.vn/wp-content/uploads/2017/11/an-phuc-hung-thinh-dai-ichi-life-600x240.jpg 600w"><span
-                                                    class="menu-item-text"><span
-                                                        class="menu-text">An phúc hưng thịnh</span></span></a></li>
-                                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9321">
-                                            <a href="https://baohiem-daiichi.vn/san-pham/an-thinh-dau-tu/"
-                                               data-level="2"><img class="preload-me lazy-load is-loaded"
-                                                                   src="./index_files/28379168_408153652967414_6989168930748518442_n-277x111.jpg"
-                                                                   alt="Menu icon"
-                                                                   style="margin: 0px; border-radius: 0px; will-change: auto;"
-                                                                   width="200" height="80"
-                                                                   srcset="https://baohiem-daiichi.vn/wp-content/uploads/2019/06/28379168_408153652967414_6989168930748518442_n-277x111.jpg 277w, https://baohiem-daiichi.vn/wp-content/uploads/2019/06/28379168_408153652967414_6989168930748518442_n-278x111.jpg 278w"><span
-                                                    class="menu-item-text"><span
-                                                        class="menu-text">An thịnh đầu tư</span></span></a></li>
-                                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10720">
-                                            <a href="https://baohiem-daiichi.vn/san-pham/bao-hiem-cham-soc-suc-khoe/"
-                                               data-level="2"><img class="preload-me lazy-load is-loaded"
-                                                                   src="./index_files/gia-kham-benh-giadinhmoi-2305-620x248.jpg"
-                                                                   alt="Menu icon"
-                                                                   style="margin: 0px; border-radius: 0px; will-change: auto;"
-                                                                   width="200" height="80"
-                                                                   srcset="https://baohiem-daiichi.vn/wp-content/uploads/2019/05/gia-kham-benh-giadinhmoi-2305-620x248.jpg 620w, https://baohiem-daiichi.vn/wp-content/uploads/2019/05/gia-kham-benh-giadinhmoi-2305-622x248.jpg 622w"><span
-                                                    class="menu-item-text"><span class="menu-text">Bảo hiểm chăm sóc sức khỏe</span></span></a>
-                                        </li>
-                                    </ul>
-                                </li>
-                                <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10268"><a
-                                        href="https://baohiem-daiichi.vn/ho-tro-khach-hang/" data-level="1"><i
-                                            class="fas fa-briefcase-medical"></i><span class="menu-item-text"><span
-                                                class="menu-text">Hỗ trợ khách hàng</span></span></a></li>
-                                <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10609"><a
-                                        href="https://baohiem-daiichi.vn/tin-tuc-bao-hiem/" data-level="1"><i
-                                            class="Defaults-newspaper-o"></i><span class="menu-item-text"><span
-                                                class="menu-text">Tin Tức</span></span></a></li>
-                                <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9311"><a
-                                        href="https://baohiem-daiichi.vn/tuyen-dung/" data-level="1"><i
-                                            class="Defaults-group"></i><span class="menu-item-text"><span
-                                                class="menu-text">Tuyển dụng</span></span></a></li>
-                                <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10449"><a
-                                        href="https://baohiem-daiichi.vn/lien-he/" data-level="1"><i
-                                            class="fas fa-phone-volume"></i><span class="menu-item-text"><span
-                                                class="menu-text">Liên hệ</span></span></a></li>
-                            </ul>
-                            <div class="menu-select"><select class="hasCustomSelect"
-                                                             style="-webkit-appearance: menulist-button; width: 190px; position: absolute; opacity: 0; height: 28px; font-size: 14px; visibility: visible;">
-                                    <option selected="selected" value="">———</option>
-                                    <option value="https://baohiem-daiichi.vn/gioi-thieu/" data-level="1">Giới thiệu
-                                    </option>
-                                    <option value="https://baohiem-daiichi.vn/san-pham/" data-level="1">Sản phẩm
-                                    </option>
-                                    <option value="https://baohiem-daiichi.vn/san-pham/an-tam-hung-thinh/"
-                                            data-level="2">— An Tâm Hưng Thịnh Toàn Diện
-                                    </option>
-                                    <option value="https://baohiem-daiichi.vn/san-pham/an-phuc-hung-thinh/"
-                                            data-level="2">— An phúc hưng thịnh
-                                    </option>
-                                    <option value="https://baohiem-daiichi.vn/san-pham/an-thinh-dau-tu/" data-level="2">
-                                        — An thịnh đầu tư
-                                    </option>
-                                    <option value="https://baohiem-daiichi.vn/san-pham/bao-hiem-cham-soc-suc-khoe/"
-                                            data-level="2">— Bảo hiểm chăm sóc sức khỏe
-                                    </option>
-                                    <option value="https://baohiem-daiichi.vn/ho-tro-khach-hang/" data-level="1">Hỗ trợ
-                                        khách hàng
-                                    </option>
-                                    <option value="https://baohiem-daiichi.vn/tin-tuc-bao-hiem/" data-level="1">Tin
-                                        Tức
-                                    </option>
-                                    <option value="https://baohiem-daiichi.vn/tuyen-dung/" data-level="1">Tuyển dụng
-                                    </option>
-                                    <option value="https://baohiem-daiichi.vn/lien-he/" data-level="1">Liên hệ</option>
-                                </select><span class="customSelect" style="display: inline-block;"><span
-                                        class="customSelectInner"
-                                        style="width: 170px; display: inline-block;">———</span></span><span
-                                    class="customSelect1" style="visibility: visible;"><span class="customSelectInner">Menu chinh</span></span>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
     </footer>
     <a href="https://baohiem-daiichi.vn/#" class="scroll-top on"><span class="screen-reader-text">Go to Top</span></a>
-</div>
-<noscript>
-    <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NNQ6R5N"
-            height="0" width="0" style="display:none;visibility:hidden"></iframe>
-</noscript>
-<div class="quick-call-button"></div>
-<div class="call-now-button ui-draggable ui-draggable-handle" id="draggable">
-    <div><p class="call-text"> Gọi Ngay</p> <a href="tel:0937068573" id="quickcallbutton" '="" title="Call Now">
-        <div class="quick-alo-ph-circle active"></div>
-        <div class="quick-alo-ph-circle-fill active"></div>
-        <div class="quick-alo-ph-img-circle shake"></div>
-        </a></div>
 </div>
 <style>@media screen and (max-width: 860px) {
         .call-now-button {
@@ -4106,8 +3967,7 @@
 <script src="./index_files/19bd171a3b02f3afd3d554d7377c0cba.js" data-minify="1" defer=""></script>
 <!-- This website is like a Rocket, isn't it? Performance optimized by WP Rocket. Learn more: https://wp-rocket.me - Debug: cached@1587699054 --><span
     id="elementor-device-mode" class="elementor-screen-only" aria-hidden="false"></span>
-<div class="mobile-sticky-header-overlay" aria-hidden="false"></div>
-<div id="phantom"
+<div class="mobile-sticky-header-overlay" aria-hidden="false"></div><div id="phantom"
      class="masthead inline-header center full-height shadow-decoration small-mobile-menu-icon dt-parent-menu-clickable show-device-logo show-mobile-logo show-phantom"
      style="" aria-hidden="false">
     <div class="ph-wrap with-logo">
