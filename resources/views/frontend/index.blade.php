@@ -3452,36 +3452,7 @@
                                         </div>
                                     </div>
                                 </section>
-                                <section
-                                    class="elementor-element elementor-element-4e1d766 elementor-section-stretched elementor-section-full_width elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section"
-                                    data-id="4e1d766" data-element_type="section"
-                                    data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;}"
-                                    style="width: 1468px; left: -134px;">
-                                    <div class="elementor-container elementor-column-gap-default">
-                                        <div class="elementor-row">
-                                            <div
-                                                class="elementor-element elementor-element-5e4fc0d elementor-column elementor-col-100 elementor-top-column"
-                                                data-id="5e4fc0d" data-element_type="column">
-                                                <div class="elementor-column-wrap  elementor-element-populated">
-                                                    <div class="elementor-widget-wrap">
-                                                        <div
-                                                            class="elementor-element elementor-element-9fe2daa elementor-widget elementor-widget-google_maps"
-                                                            data-id="9fe2daa" data-element_type="widget"
-                                                            data-widget_type="google_maps.default">
-                                                            <div class="elementor-widget-container">
-                                                                <div class="elementor-custom-embed">
-                                                                    <iframe frameborder="0" scrolling="no"
-                                                                            marginheight="0" marginwidth="0"
-                                                                            src="./index_files/maps.html"
-                                                                            aria-label="Bảo hiểm nhân thọ Dai-ichi life Việt Nam - Công ty TNHH G.A Hoàng Long Phát"></iframe>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
+                                <section class="gmap">
                                 </section>
                             </div>
                         </div>
