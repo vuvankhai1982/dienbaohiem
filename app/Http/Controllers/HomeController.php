@@ -24,15 +24,16 @@ class HomeController extends Controller
 
     public function getPosts()
     {
-        $posts = Post::orderBy('id', 'desc')
-            ->where('type_id', config('constant.post.types.Bài viết'))
-            ->where('status_id', config('constant.post.status.Công bố'))
-            ->paginate(10);
+//        $posts = Post::orderBy('id', 'desc')
+//            ->where('type_id', config('constant.post.types.Bài viết'))
+//            ->where('status_id', config('constant.post.status.Công bố'))
+//            ->paginate(10);
+//
+//        $tags = Tag::all();
+//        $recentPosts = Post::orderBy('id', 'desc')->limit(3)->get();
 
-        $tags = Tag::all();
-        $recentPosts = Post::orderBy('id', 'desc')->limit(3)->get();
-
-        return view('frontend.post_index', compact('posts', 'recentPosts', 'tags'));
+//        return view('frontend.post_index', compact('posts', 'recentPosts', 'tags'));
+        return view('frontend.post_index');
     }
 
     public function getPostsByTask(string $tagNameAndId, Request $request)

@@ -405,6 +405,222 @@
         </header>
 <!--end header-->
 
+        <div class="mobile-header-bar">
+            <div class="mobile-navigation"><a href="https://baohiem-daiichi.vn/#" class="dt-mobile-menu-icon"><span
+                        class="lines"></span></a></div>
+            <div class="mobile-mini-widgets"></div>
+            <div class="mobile-branding"><a class="" href="https://baohiem-daiichi.vn/"><img class=" preload-me"
+                                                                                             src="data:image/svg+xml,%3Csvg%20xmlns=&#39;http://www.w3.org/2000/svg&#39;%20viewBox=&#39;0%200%20160%2055&#39;%3E%3C/svg%3E"
+                                                                                             data-lazy-srcset="https://baohiem-daiichi.vn/wp-content/uploads/2019/04/logo-dai-ichi-160.png 160w, https://baohiem-daiichi.vn/wp-content/uploads/2019/04/logo-dai-ichi-life-mobile.png 70w"
+                                                                                             width="160" height="55"
+                                                                                             data-lazy-sizes="160px"
+                                                                                             alt="Bảo hiểm Dai ichi life Việt Nam"
+                                                                                             data-lazy-src="https://baohiem-daiichi.vn/wp-content/uploads/2019/04/logo-dai-ichi-160.png">
+                    <noscript><img class=" preload-me"
+                                   src="https://baohiem-daiichi.vn/wp-content/uploads/2019/04/logo-dai-ichi-160.png"
+                                   srcset="https://baohiem-daiichi.vn/wp-content/uploads/2019/04/logo-dai-ichi-160.png 160w, https://baohiem-daiichi.vn/wp-content/uploads/2019/04/logo-dai-ichi-life-mobile.png 70w"
+                                   width="160" height="55" sizes="160px" alt="Bảo hiểm Dai ichi life Việt Nam"/>
+                    </noscript>
+                    <img class="mobile-logo preload-me"
+                         src="data:image/svg+xml,%3Csvg%20xmlns=&#39;http://www.w3.org/2000/svg&#39;%20viewBox=&#39;0%200%2070%2024&#39;%3E%3C/svg%3E"
+                         data-lazy-srcset="https://baohiem-daiichi.vn/wp-content/uploads/2019/04/logo-dai-ichi-life-mobile.png 70w, https://baohiem-daiichi.vn/wp-content/uploads/2019/04/logo-dai-ichi-life-mobile.png 70w"
+                         width="70" height="24" data-lazy-sizes="70px" alt="Bảo hiểm Dai ichi life Việt Nam"
+                         data-lazy-src="https://baohiem-daiichi.vn/wp-content/uploads/2019/04/logo-dai-ichi-life-mobile.png">
+                    <noscript><img class="mobile-logo preload-me"
+                                   src="https://baohiem-daiichi.vn/wp-content/uploads/2019/04/logo-dai-ichi-life-mobile.png"
+                                   srcset="https://baohiem-daiichi.vn/wp-content/uploads/2019/04/logo-dai-ichi-life-mobile.png 70w, https://baohiem-daiichi.vn/wp-content/uploads/2019/04/logo-dai-ichi-life-mobile.png 70w"
+                                   width="70" height="24" sizes="70px" alt="Bảo hiểm Dai ichi life Việt Nam"/>
+                    </noscript>
+                </a></div>
+        </div>
+    </div>
+    <div class="dt-close-mobile-menu-icon"><span></span></div>
+    <div class="dt-mobile-header dt-parent-menu-clickable">
+        <div class="mobile-header-scrollbar-wrap mCustomScrollbar _mCS_1">
+            <div id="mCSB_1" class="mCustomScrollBox mCS-light mCSB_vertical mCSB_inside" tabindex="0">
+                <div id="mCSB_1_container" class="mCSB_container mCS_y_hidden mCS_no_scrollbar_y"
+                     style="position:relative; top:0; left:0;" dir="ltr">
+                    <ul id="mobile-menu" class="mobile-main-nav" role="menu">
+                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9322 first"><a
+                                href="https://baohiem-daiichi.vn/gioi-thieu/" data-level="1"><i
+                                    class="fas fa-building"></i><span class="menu-item-text"><span class="menu-text">Giới thiệu</span></span></a>
+                        </li>
+                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-9308 has-children mega-full-width mega-column-4">
+                            <a href="https://baohiem-daiichi.vn/san-pham/" data-level="1"><i
+                                    class="Defaults-diamond"></i><span class="menu-item-text"><span class="menu-text">Sản phẩm</span></span></a><i
+                                class="next-level-button"></i>
+                            <ul class="sub-nav gradient-hover level-arrows-on">
+                                <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9319 first no-link wf-1-4">
+                                    <a href="https://baohiem-daiichi.vn/san-pham/an-tam-hung-thinh/"
+                                       class="mega-menu-img mega-menu-img-top layzr-bg-transparent" data-level="2"><img
+                                            class="preload-me lazy-load mCS_img_loaded is-loaded"
+                                            src="./index_files/slide_2_1-532x213.png" alt="Menu icon"
+                                            style="margin: 0px; border-radius: 0px; will-change: auto;" width="200"
+                                            height="80"
+                                            srcset="https://baohiem-daiichi.vn/wp-content/uploads/2017/11/slide_2_1-532x213.png 532w, https://baohiem-daiichi.vn/wp-content/uploads/2017/11/slide_2_1-533x213.png 533w"><span
+                                            class="menu-item-text"><span
+                                                class="menu-text">An Tâm Hưng Thịnh Toàn Diện</span></span></a></li>
+                                <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9318 no-link wf-1-4">
+                                    <a href="https://baohiem-daiichi.vn/san-pham/an-phuc-hung-thinh/"
+                                       class="mega-menu-img mega-menu-img-top" data-level="2"><img
+                                            class="preload-me lazy-load mCS_img_loaded is-loaded"
+                                            src="./index_files/an-phuc-hung-thinh-dai-ichi-life-600x240.jpg"
+                                            alt="Menu icon" style="margin: 0px; border-radius: 0px; will-change: auto;"
+                                            width="200" height="80"
+                                            srcset="https://baohiem-daiichi.vn/wp-content/uploads/2017/11/an-phuc-hung-thinh-dai-ichi-life-600x240.jpg 600w"><span
+                                            class="menu-item-text"><span
+                                                class="menu-text">An phúc hưng thịnh</span></span></a></li>
+                                <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9321 no-link wf-1-4">
+                                    <a href="https://baohiem-daiichi.vn/san-pham/an-thinh-dau-tu/"
+                                       class="mega-menu-img mega-menu-img-top" data-level="2"><img
+                                            class="preload-me lazy-load mCS_img_loaded is-loaded"
+                                            src="./index_files/28379168_408153652967414_6989168930748518442_n-277x111.jpg"
+                                            alt="Menu icon" style="margin: 0px; border-radius: 0px; will-change: auto;"
+                                            width="200" height="80"
+                                            srcset="https://baohiem-daiichi.vn/wp-content/uploads/2019/06/28379168_408153652967414_6989168930748518442_n-277x111.jpg 277w, https://baohiem-daiichi.vn/wp-content/uploads/2019/06/28379168_408153652967414_6989168930748518442_n-278x111.jpg 278w"><span
+                                            class="menu-item-text"><span class="menu-text">An thịnh đầu tư</span></span></a>
+                                </li>
+                                <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10720 no-link wf-1-4">
+                                    <a href="https://baohiem-daiichi.vn/san-pham/bao-hiem-cham-soc-suc-khoe/"
+                                       class="mega-menu-img mega-menu-img-top" data-level="2"><img
+                                            class="preload-me lazy-load mCS_img_loaded is-loaded"
+                                            src="./index_files/gia-kham-benh-giadinhmoi-2305-620x248.jpg"
+                                            alt="Menu icon" style="margin: 0px; border-radius: 0px; will-change: auto;"
+                                            width="200" height="80"
+                                            srcset="https://baohiem-daiichi.vn/wp-content/uploads/2019/05/gia-kham-benh-giadinhmoi-2305-620x248.jpg 620w, https://baohiem-daiichi.vn/wp-content/uploads/2019/05/gia-kham-benh-giadinhmoi-2305-622x248.jpg 622w"><span
+                                            class="menu-item-text"><span
+                                                class="menu-text">Bảo hiểm chăm sóc sức khỏe</span></span></a></li>
+                            </ul>
+                        </li>
+                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10268"><a
+                                href="https://baohiem-daiichi.vn/ho-tro-khach-hang/" data-level="1"><i
+                                    class="fas fa-briefcase-medical"></i><span class="menu-item-text"><span
+                                        class="menu-text">Hỗ trợ khách hàng</span></span></a></li>
+                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10609"><a
+                                href="https://baohiem-daiichi.vn/tin-tuc-bao-hiem/" data-level="1"><i
+                                    class="Defaults-newspaper-o"></i><span class="menu-item-text"><span
+                                        class="menu-text">Tin Tức</span></span></a></li>
+                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9311"><a
+                                href="https://baohiem-daiichi.vn/tuyen-dung/" data-level="1"><i
+                                    class="Defaults-group"></i><span class="menu-item-text"><span class="menu-text">Tuyển dụng</span></span></a>
+                        </li>
+                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10449"><a
+                                href="https://baohiem-daiichi.vn/lien-he/" data-level="1"><i
+                                    class="fas fa-phone-volume"></i><span class="menu-item-text"><span
+                                        class="menu-text">Liên hệ</span></span></a></li>
+                    </ul>
+                    <div class="mobile-mini-widgets-in-menu"></div>
+                </div>
+                <div id="mCSB_1_scrollbar_vertical"
+                     class="mCSB_scrollTools mCSB_1_scrollbar mCS-light mCSB_scrollTools_vertical"
+                     style="display: none;">
+                    <div class="mCSB_draggerContainer">
+                        <div id="mCSB_1_dragger_vertical" class="mCSB_dragger"
+                             style="position: absolute; min-height: 30px; top: 0px;" oncontextmenu="return false;">
+                            <div class="mCSB_dragger_bar" style="line-height: 30px;"></div>
+                        </div>
+                        <div class="mCSB_draggerRail"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div id="main" class="sidebar-none sidebar-divider-vertical" style="padding-top:0px; padding-bottom:0px;">
+        <div class="main-gradient"></div>
+        <div class="wf-wrap">
+            <div class="wf-container-main">
+                <script type="application/ld+json">{
+	"@context": "https://schema.org/",
+  	"@type": "Insurance Agency",
+"@id":"https://baohiem-daiichi.vn/",
+	"url": "https://baohiem-daiichi.vn/",
+	"logo": "https://baohiem-daiichi.vn/wp-content/uploads/2019/04/logo-dai-ichi-160.png",
+    "image":"https://baohiem-daiichi.vn/wp-content/uploads/2017/11/tru-so-chinh-dai-ichi-life-viet-nam.jpg",
+    "priceRange":"1000$-30000$",
+	"hasMap": "https://g.page/baohiemnhanthodaiichilife?share",
+	"email": "mailto:info@baohiem-daiichi.vn			",
+    "founder": "Dai-ichi",
+  	"address": {
+    	"@type": "PostalAddress",
+    	"addressLocality": "Quậnn 5",
+        "addressCountry": "VIỆT NAM",
+    	"addressRegion": "Hồ Chí Minh",
+    	"postalCode":"700000",
+    	"streetAddress": "Số 49B Đường Hùng Vương, Phường 4, Quận 5, Hồ Chí Minh 700000, Việt Nam"
+  	},
+  	"description": "Bảo hiểm nhân thọ Dai ichi life Việt Nam, 100% vốn từ Nhật Bản, Dai ichi life công ty BHNT tốt nhất Việt Nam. Sản phẩm chất lượng uy tín, dịch vụ hoàn hảo.",
+	"name": "Bảo hiểm nhân thọ Dai-ichi life",
+  	"telephone": "0937-068-573",
+  	"openingHoursSpecification": [
+  {
+    "@type": "OpeningHoursSpecification",
+    "dayOfWeek": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday"
+    ],
+    "opens": "08:30",
+    "closes": "18:00"
+  },
+  {
+    "@type": "OpeningHoursSpecification",
+    "dayOfWeek": [
+      "Saturday"
+    ],
+    "opens": "8:30",
+    "closes": "11:30"
+  }
+],
+  	"geo": {
+    	"@type": "GeoCoordinates",
+   	"latitude": "10.7630297",
+    	"longitude": "106.6605977"
+ 		},
+         "potentialAction": {
+    "@type": "ReserveAction",
+    "target": {
+      "@type": "EntryPoint",
+      "urlTemplate": "https://baohiem-daiichi.vn/lien-he/",
+      "inLanguage": "vn",
+      "actionPlatform": [
+        "http://schema.org/DesktopWebPlatform",
+        "http://schema.org/IOSPlatform",
+        "http://schema.org/AndroidPlatform"
+      ]
+    },
+    "result": {
+      "@type": "Reservation",
+      "name": "đăng kí"
+    }
+  },
+
+  	"sameAs" : [ "https://www.facebook.com/baohiem.daiichi.54",
+    	"https://www.youtube.com/channel/UCp-e5tCH98GzJFVxtltLgwQ?view_as=subscriber",
+    	"https://twitter.com/daiichi_life",
+		"https://www.instagram.com/baohiem.daiichivn/",
+		"https://www.linkedin.com/in/daiichilife/",
+		"https://www.pinterest.com/baohiemdaiichilife/",
+		"https://medium.com/@daiichilife",
+        "https://www.tumblr.com/blog/daiichilife"]
+	}
+                </script>
+                <script type="application/ld+json">{
+  "@context": "http://schema.org",
+  "@type": "Person",
+  "name": "Dai-ichi",
+  "jobTitle": "Ceo",
+  "image" : "https://baohiem-daiichi.vn/wp-content/uploads/2019/04/logo-dai-ichi-160.png",
+   "worksFor" : "Bảo hiểm nhân thọ Dai-ichi life",
+  "url": "https://baohiem-daiichi.vn/",
+"address": {
+  "@type": "PostalAddress",
+    "addressLocality": "Ho Chi Minh",
+    "addressRegion": "vietnam"
+	 }}
+                </script>
+
     @yield('content')
 
     <!-- Start Footer -->
