@@ -61596,9 +61596,9 @@ input[type="submit"]:not([name="update_cart"]):not(.woocommerce-widget-layered-n
     background: linear-gradient(left, #1ebbf0 30%, #39dfaa 100%)
 }
 
-#footer.solid-bg {
-    background: #f4a39a url(../../../themes/dt-the7/images/backgrounds/patterns/full/archers.gif) repeat center top
-}
+/*#footer.solid-bg {*/
+/*    background: #f4a39a url(../../../themes/dt-the7/images/backgrounds/patterns/full/archers.gif) repeat center top*/
+/*}*/
 
 #footer.footer-outline-decoration {
     border-top: 1px solid rgba(242, 122, 75, .96)
