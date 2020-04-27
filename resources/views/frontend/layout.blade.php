@@ -327,8 +327,8 @@
                         </ul>
                         <p>Địa chỉ: <em>Số 285A, Phố Ngô Gia Tự, Phường Đức Giang, Quận Long Biên, Thành phố Hà
                                 Nội.</em></p>
-                        <p><strong>Điện thoại: 0937.068.573</strong></p>
-                        <p><strong>Email: <a href="https://baohiem-daiichi.vn/lien-he/">info@baohiem-daiichi.vn</a></strong>
+                        <p><strong>Điện thoại: 0973.564.638</strong></p>
+                        <p><strong>Email: <a href="https://baohiem-daiichi.vn/lien-he/">lyminhdien@gmail.com</a></strong>
                         </p>
                         <p><strong>Website: <a
                                     href="https://baohiem-daiichi.vn/">www.baohiem-daiichi.vn</a></strong></p></div>
@@ -357,6 +357,7 @@
     </div>
 </footer>
 <!--end footer-->
+
 <a href="https://baohiem-daiichi.vn/#" class="scroll-top on"><span class="screen-reader-text">Go to Top</span></a>
 </div>
 <style>@media screen and (max-width: 860px) {
