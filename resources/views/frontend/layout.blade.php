@@ -287,7 +287,7 @@
 <body
     class="home page-template-default page page-id-10939 wp-embed-responsive the7-core-ver-2.0.1 slideshow-on dt-responsive-on accent-gradient srcset-enabled btn-flat custom-btn-color custom-btn-hover-color phantom-fade phantom-shadow-decoration phantom-custom-logo-on sticky-mobile-header top-header first-switch-logo-left first-switch-menu-right second-switch-logo-left second-switch-menu-right right-mobile-menu layzr-loading-on popup-message-style dt-fa-compatibility the7-ver-7.6.0 wpb-js-composer js-comp-ver-5.7 vc_responsive elementor-default elementor-kit-10952 elementor-page elementor-page-10939 no-mobile closed-overlay-mobile-header"
     data-elementor-device-mode="desktop" data-gr-c-s-loaded="true">
-<div id="load" class="spinner-loader loader-removed loader-removed" aria-hidden="false">
+<div id="" class="spinner-loader loader-removed loader-removed" aria-hidden="false">
     <div class="load-wrap"></div>
 </div>
 <div id="page" class="closed-mobile-header" aria-hidden="false"><a class="skip-link screen-reader-text"
@@ -624,7 +624,9 @@
     @yield('content')
 
     <!-- Start Footer -->
-
+            </div>
+        </div>
+    </div>
 <footer id="footer" class="footer solid-bg footer-outline-decoration" style="background-image: url('/index_files/footer.jpg');
   background-repeat:repeat;background-position: center; ">
     <div class="wf-wrap">

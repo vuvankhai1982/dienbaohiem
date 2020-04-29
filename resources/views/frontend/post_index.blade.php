@@ -1,5 +1,4 @@
 @extends('frontend.layout')
-
 @section('content')
                     <div id="content" class="content" role="main"><h2>BẢO HIỂM NHÂN THỌ DAI-ICHI LIFE VIỆT NAM.</h2>
                         <div id="attachment_9812" style="width: 500px" class="wp-caption alignright"><img
@@ -303,8 +302,4 @@
                             </section>
                         </div>
                     </aside>
-                </div>
-            </div>
-        </div>
-
 @endsection
