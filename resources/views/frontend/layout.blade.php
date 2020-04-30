@@ -265,6 +265,9 @@
     <!--them css-->
     <link rel="stylesheet" type="text/css"
           href="./index_files/98f4c37094c1dfa87159ca0acfdb44d3.css">
+    <link rel="stylesheet" type="text/css"
+          href="./index_files/39b28aff5df971e2ac2b0cca792aa098.css">
+
     <!--endthem css-->
     <meta name="onesignal" content="wordpress-plugin">
     <link rel="icon"

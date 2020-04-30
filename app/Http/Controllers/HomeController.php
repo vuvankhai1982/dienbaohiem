@@ -12,7 +12,7 @@ class HomeController extends Controller
 {
     public function index()
     {
-        return view('frontend.lienhe');
+        return view('frontend.antamthinh');
     }
 
     public function sendContact(Request $request)

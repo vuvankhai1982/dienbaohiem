@@ -286,7 +286,7 @@
                                                                 <div class="elementor-widget-container">
                                                                     <div class="elementor-image"><img width="960"
                                                                                                       height="750"
-                                                                                                      src="./antamhungthinh_files/bao-hien-nhan-tho-dai-ichi-life-07-1.png"
+                                                                                                      src="./index_files/bao-hien-nhan-tho-dai-ichi-life-07-1.png"
                                                                                                       class="attachment-large size-large lazyloaded"
                                                                                                       alt=""
                                                                                                       data-lazy-srcset="https://baohiem-daiichi.vn/wp-content/uploads/2013/08/bao-hien-nhan-tho-dai-ichi-life-07-1.png 960w, https://baohiem-daiichi.vn/wp-content/uploads/2013/08/bao-hien-nhan-tho-dai-ichi-life-07-1-600x469.png 600w, https://baohiem-daiichi.vn/wp-content/uploads/2013/08/bao-hien-nhan-tho-dai-ichi-life-07-1-300x234.png 300w, https://baohiem-daiichi.vn/wp-content/uploads/2013/08/bao-hien-nhan-tho-dai-ichi-life-07-1-768x600.png 768w, https://baohiem-daiichi.vn/wp-content/uploads/2013/08/bao-hien-nhan-tho-dai-ichi-life-07-1-187x146.png 187w, https://baohiem-daiichi.vn/wp-content/uploads/2013/08/bao-hien-nhan-tho-dai-ichi-life-07-1-50x39.png 50w, https://baohiem-daiichi.vn/wp-content/uploads/2013/08/bao-hien-nhan-tho-dai-ichi-life-07-1-90x70.png 90w"
@@ -321,7 +321,7 @@
                                                                         <iframe class="elementor-video-iframe"
                                                                                 allowfullscreen=""
                                                                                 title="youtube Video Player"
-                                                                                src="./antamhungthinh_files/CJRSRbIh1dg.html"></iframe>
+                                                                                src="./index_files/CJRSRbIh1dg.html"></iframe>
                                                                     </div>
                                                                 </div>
                                                             </div>
@@ -370,7 +370,7 @@
                                                                 <div class="elementor-widget-container">
                                                                     <div class="elementor-image"><img width="1000"
                                                                                                       height="596"
-                                                                                                      src="./antamhungthinh_files/san-pham-an-tam-hung-thinh-toan-dien-daiichi-viet-nam.jpg"
+                                                                                                      src="./index_files/san-pham-an-tam-hung-thinh-toan-dien-daiichi-viet-nam.jpg"
                                                                                                       class="attachment-large size-large lazyloaded"
                                                                                                       alt=""
                                                                                                       data-lazy-srcset="https://baohiem-daiichi.vn/wp-content/uploads/2020/03/san-pham-an-tam-hung-thinh-toan-dien-daiichi-viet-nam.jpg 1000w, https://baohiem-daiichi.vn/wp-content/uploads/2020/03/san-pham-an-tam-hung-thinh-toan-dien-daiichi-viet-nam-300x179.jpg 300w, https://baohiem-daiichi.vn/wp-content/uploads/2020/03/san-pham-an-tam-hung-thinh-toan-dien-daiichi-viet-nam-768x458.jpg 768w"
@@ -1821,7 +1821,7 @@
                                 <article id="div-comment-22" class="comment-body">
                                     <footer class="comment-meta">
                                         <div class="comment-author vcard"><img alt=""
-                                                                               src="./antamhungthinh_files/fad0fe7f9f2eb5602570d3fe8003a8e4.png"
+                                                                               src="./index_files/fad0fe7f9f2eb5602570d3fe8003a8e4.png"
                                                                                data-lazy-srcset="https://secure.gravatar.com/avatar/fad0fe7f9f2eb5602570d3fe8003a8e4?s=120&amp;d=wavatar&amp;r=g 2x"
                                                                                class="avatar avatar-60 photo lazyloaded"
                                                                                height="60" width="60"
