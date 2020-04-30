@@ -2387,7 +2387,7 @@ span.wpcf7-list-item-label::before, span.wpcf7-list-item-label::after {
 div.wpcf7 .ajax-loader {
     visibility: hidden;
     display: inline-block;
-    background-image: url(../../../plugins/contact-form-7/images/ajax-loader.gif);
+    background-image: url(/index_files/ajax-loader.gif);
     width: 16px;
     height: 16px;
     border: none;
@@ -44539,7 +44539,7 @@ span.icon-portfolio-p206:before {
 @font-face {
     font-family: icomoon-the7-microwidgets-16x16;
     src: url(/index_files/webfonts/icomoon-the7-microwidgets-16x16.eot?dqeoeo);
-    src: url(/index_files/webfonts/icomoon-the7-microwidgets-16x16.eot?dqeoeo#iefix) format('embedded-opentype'), url(/index_files/webfonts/icomoon-the7-microwidgets-16x16.ttf?dqeoeo) format('truetype'), url(/index_files/webfonts/icomoon-the7-microwidgets-16x16.woff?dqeoeo) format('woff');
+    src: url(/index_files/webfonts/icomoon-the7-microwidgets-16x16.eot?dqeoeo#iefix) format('embedded-opentype'), url(/index_files/webfonts/icomoon-the7-microwidgets-16x16.ttf-dqeoeo) format('truetype'), url(/index_files/webfonts/icomoon-the7-microwidgets-16x16.woff?dqeoeo) format('woff');
     font-weight: 400;
     font-style: normal
 }
