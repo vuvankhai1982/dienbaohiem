@@ -165,14 +165,14 @@
                                                                         mong nhận được sự ủng hộ của các anh/chị Dai
                                                                         ichi life thân yêu.</p>
                                                                     <h2><span
-                                                                            style="font-family: &#39;times new roman&#39;, times, serif; font-size: 14pt;">Dai-ichi life Việt Nam Chi nhánh quận 5 cần tuyển dụng các vị trí sau.</span>
+                                                                            style="font-family:'times new roman', times, serif; font-size: 14pt;">Dai-ichi life Việt Nam Chi nhánh quận 5 cần tuyển dụng các vị trí sau.</span>
                                                                     </h2>
                                                                     <ol>
                                                                         <li><strong><span
-                                                                                    style="font-family: &#39;times new roman&#39;, times, serif; font-size: 14pt;">Nhân viên tư vấn bảo hiểm nhân thọ (lương 4-6tr cộng hoa hồng cao)</span></strong>
+                                                                                    style="font-family:'times new roman', times, serif; font-size: 14pt;">Nhân viên tư vấn bảo hiểm nhân thọ (lương 4-6tr cộng hoa hồng cao)</span></strong>
                                                                         </li>
                                                                         <li><strong><span
-                                                                                    style="font-family: &#39;times new roman&#39;, times, serif; font-size: 14pt;">Quản lý kinh doanh (lương 8-10tr cộng hoa hồng cao).</span></strong>
+                                                                                    style="font-family:'times new roman', times, serif; font-size: 14pt;">Quản lý kinh doanh (lương 8-10tr cộng hoa hồng cao).</span></strong>
                                                                         </li>
                                                                         <li><strong>&nbsp;Cộng tác viên làm việc ngoài
                                                                                 giời hàng chính (Được hướng dẫn đào tạo
@@ -180,16 +180,16 @@
                                                                                 cao)</strong></li>
                                                                     </ol>
                                                                     <p><span
-                                                                            style="font-family: &#39;times new roman&#39;, times, serif; font-size: 14pt;">Cùng với sự lớn mạnh của công ty, chúng tôi mong muốn mang đến cho bạn cơ hội và sự thăng tiến trong nghề nghiệp khi bước vào nghề tư vấn bảo hiểm nhân thọ, những giấc mơ của bạn sẽ trở thành hiện thực với những điều tuyệt vời sau đây:</span>
+                                                                            style="font-family:'times new roman', times, serif; font-size: 14pt;">Cùng với sự lớn mạnh của công ty, chúng tôi mong muốn mang đến cho bạn cơ hội và sự thăng tiến trong nghề nghiệp khi bước vào nghề tư vấn bảo hiểm nhân thọ, những giấc mơ của bạn sẽ trở thành hiện thực với những điều tuyệt vời sau đây:</span>
                                                                     </p>
                                                                     <p><span
-                                                                            style="font-family: &#39;times new roman&#39;, times, serif; font-size: 14pt;">Thu nhập: không hạn chế vì hoàn toàn dựa vào nỗ lực cá nhân của bạn.&nbsp;</span>
+                                                                            style="font-family:'times new roman', times, serif; font-size: 14pt;">Thu nhập: không hạn chế vì hoàn toàn dựa vào nỗ lực cá nhân của bạn.&nbsp;</span>
                                                                     </p>
                                                                     <p><span
-                                                                            style="font-family: &#39;times new roman&#39;, times, serif; font-size: 14pt;">Công ty hỗ trợ lương cứng 4-6tr đồng đối với chuyên viên tư vấn và 8-10tr đối với quản lý kinh doanh.</span>
+                                                                            style="font-family:'times new roman', times, serif; font-size: 14pt;">Công ty hỗ trợ lương cứng 4-6tr đồng đối với chuyên viên tư vấn và 8-10tr đối với quản lý kinh doanh.</span>
                                                                     </p>
                                                                     <p><span
-                                                                            style="font-family: &#39;times new roman&#39;, times, serif; font-size: 14pt;">Ngoài ra các bạn khi làm việc với Dai-ichi life Việt Nam sẽ được hưởng tiền hoa hồng cao từ công việc tư vấn. <strong><em>Hoàn toàn ko bị áp doanh số và Không gây áp lực công việc.</em></strong><br><img
+                                                                            style="font-family:'times new roman', times, serif; font-size: 14pt;">Ngoài ra các bạn khi làm việc với Dai-ichi life Việt Nam sẽ được hưởng tiền hoa hồng cao từ công việc tư vấn. <strong><em>Hoàn toàn ko bị áp doanh số và Không gây áp lực công việc.</em></strong><br><img
                                                                                 class="alignnone wp-image-9771 alignright"
                                                                                 src="data:image/svg+xml,%3Csvg%20xmlns=&#39;http://www.w3.org/2000/svg&#39;%20viewBox=&#39;0%200%20715%20546&#39;%3E%3C/svg%3E"
                                                                                 alt="" width="715" height="546"
@@ -197,68 +197,68 @@
                                                                                     class="alignnone wp-image-9771 alignright"
                                                                                     src="http://baohiem-daiichi.vn/wp-content/uploads/2017/11/dai-ichi-life-tuyen-dung.jpg"
                                                                                     alt="" width="715" height="546"/></noscript></span><br><span
-                                                                            style="font-family: &#39;times new roman&#39;, times, serif; font-size: 14pt;">• Công việc kinh doanh năng động, thu nhập cao, Nhưng bạn phải có cái tâm thực sự và định hướng lâu dài thì mới đạt được thành công.</span><br><span
-                                                                            style="font-family: &#39;times new roman&#39;, times, serif; font-size: 14pt;">• Cơ hội thăng tiến nhanh và công bằng – Nhưng bạn phải chăm chỉ học tập và cống hiến hết mình.</span><br><span
-                                                                            style="font-family: &#39;times new roman&#39;, times, serif; font-size: 14pt;">• Chương trình huấn luyện chuyên ngành thường xuyên giúp bạn luôn tự tin khẳng định mình trong ngành BHNT – Chúng tôi luôn sẵn sàng chia sẻ kiến thức và kinh nghiệp để bạn trưởng thành hơn trong công việc và sự nghiệp</span><br><span
-                                                                            style="font-family: &#39;times new roman&#39;, times, serif; font-size: 14pt;">• Cơ hội gặp gỡ và giúp đỡ nhiều người</span>
+                                                                            style="font-family:'times new roman', times, serif; font-size: 14pt;">• Công việc kinh doanh năng động, thu nhập cao, Nhưng bạn phải có cái tâm thực sự và định hướng lâu dài thì mới đạt được thành công.</span><br><span
+                                                                            style="font-family:'times new roman', times, serif; font-size: 14pt;">• Cơ hội thăng tiến nhanh và công bằng – Nhưng bạn phải chăm chỉ học tập và cống hiến hết mình.</span><br><span
+                                                                            style="font-family:'times new roman', times, serif; font-size: 14pt;">• Chương trình huấn luyện chuyên ngành thường xuyên giúp bạn luôn tự tin khẳng định mình trong ngành BHNT – Chúng tôi luôn sẵn sàng chia sẻ kiến thức và kinh nghiệp để bạn trưởng thành hơn trong công việc và sự nghiệp</span><br><span
+                                                                            style="font-family:'times new roman', times, serif; font-size: 14pt;">• Cơ hội gặp gỡ và giúp đỡ nhiều người</span>
                                                                     </p>
                                                                     <p><span
-                                                                            style="font-family: &#39;times new roman&#39;, times, serif; font-size: 14pt;">=&gt; Chú ý: Khách hàng mua bảo hiểm nhân thọ đa số là người những người thành công và đó là cơ hội để bạn cũng thành công giống họ vì bạn</span><span
-                                                                            style="font-family: &#39;times new roman&#39;, times, serif; font-size: 14pt;">&nbsp;được thường xuyên trao đổi và học tập họ là điều tuyệt vời phải không ah.?</span><br><span
-                                                                            style="font-family: &#39;times new roman&#39;, times, serif; font-size: 14pt;">• Cơ hội làm việc với đội ngũ chuyên nghiệp </span>
+                                                                            style="font-family:'times new roman', times, serif; font-size: 14pt;">=&gt; Chú ý: Khách hàng mua bảo hiểm nhân thọ đa số là người những người thành công và đó là cơ hội để bạn cũng thành công giống họ vì bạn</span><span
+                                                                            style="font-family:'times new roman', times, serif; font-size: 14pt;">&nbsp;được thường xuyên trao đổi và học tập họ là điều tuyệt vời phải không ah.?</span><br><span
+                                                                            style="font-family:'times new roman', times, serif; font-size: 14pt;">• Cơ hội làm việc với đội ngũ chuyên nghiệp </span>
                                                                     </p>
                                                                     <p><span
-                                                                            style="font-family: &#39;times new roman&#39;, times, serif; font-size: 14pt;">– Chúng tôi là những người chuyên nghiệp, làm hết mình và chơi nhiệt tình đó là sogan của team chúng tôi.</span><br><span
-                                                                            style="font-family: &#39;times new roman&#39;, times, serif; font-size: 14pt;">• Cơ hội tham gia các hội nghị kinh doanh trong và ngoài nước.</span>
+                                                                            style="font-family:'times new roman', times, serif; font-size: 14pt;">– Chúng tôi là những người chuyên nghiệp, làm hết mình và chơi nhiệt tình đó là sogan của team chúng tôi.</span><br><span
+                                                                            style="font-family:'times new roman', times, serif; font-size: 14pt;">• Cơ hội tham gia các hội nghị kinh doanh trong và ngoài nước.</span>
                                                                     </p>
                                                                     <p><span
-                                                                            style="font-family: &#39;times new roman&#39;, times, serif; font-size: 14pt;">– Đó là cơ hội bạn được gặp và nghê những người giỏi nhất chia sẻ về thành công của họ. Thật tuyệt vời đúng không ah.?.</span>
+                                                                            style="font-family:'times new roman', times, serif; font-size: 14pt;">– Đó là cơ hội bạn được gặp và nghê những người giỏi nhất chia sẻ về thành công của họ. Thật tuyệt vời đúng không ah.?.</span>
                                                                     </p>
                                                                     <ul>
                                                                         <li><span
-                                                                                style="font-family: &#39;times new roman&#39;, times, serif; font-size: 14pt;">Cơ hội đi du lịch trong và ngoài nước Miễn Phí hoàn toàn.&nbsp;</span>
+                                                                                style="font-family:'times new roman', times, serif; font-size: 14pt;">Cơ hội đi du lịch trong và ngoài nước Miễn Phí hoàn toàn.&nbsp;</span>
                                                                         </li>
                                                                     </ul>
                                                                     <p><span
-                                                                            style="font-family: &#39;times new roman&#39;, times, serif; font-size: 14pt;">Tại Dai-ichi life Việt Nam việc có ai đó được đi du lịch 2,3 thậm chí 4 lần/ năm Miễn Phí là chuyện hết sức bình thường. Đó chính là sự tưởng thưởng xứng đáng cho những cá nhân đã cống hiến hết mình.</span>
+                                                                            style="font-family:'times new roman', times, serif; font-size: 14pt;">Tại Dai-ichi life Việt Nam việc có ai đó được đi du lịch 2,3 thậm chí 4 lần/ năm Miễn Phí là chuyện hết sức bình thường. Đó chính là sự tưởng thưởng xứng đáng cho những cá nhân đã cống hiến hết mình.</span>
                                                                     </p>
                                                                     <p><span
-                                                                            style="font-family: &#39;times new roman&#39;, times, serif; font-size: 14pt;">• Thời gian làm việc linh động, không bắt buộc bạn phải làm đủ <strong>8h/ngày</strong>. Chúng tôi không đo hiệu quả công việc của bạn bằng thời gian mà bằng cách nhìn vào sự cô gắng của bạn.</span><br><span
-                                                                            style="font-family: &#39;times new roman&#39;, times, serif; font-size: 14pt;">• <strong>Ghi nhận và tưởng thưởng xứng đáng thành quả kinh doanh của bạn – Chúng tôi có thưởng tháng, thưởng quý, thưởng năm cơ hội tuyệt vời cho những ai cống hiến hết mình.</strong></span>
+                                                                            style="font-family:'times new roman', times, serif; font-size: 14pt;">• Thời gian làm việc linh động, không bắt buộc bạn phải làm đủ <strong>8h/ngày</strong>. Chúng tôi không đo hiệu quả công việc của bạn bằng thời gian mà bằng cách nhìn vào sự cô gắng của bạn.</span><br><span
+                                                                            style="font-family:'times new roman', times, serif; font-size: 14pt;">• <strong>Ghi nhận và tưởng thưởng xứng đáng thành quả kinh doanh của bạn – Chúng tôi có thưởng tháng, thưởng quý, thưởng năm cơ hội tuyệt vời cho những ai cống hiến hết mình.</strong></span>
                                                                     </p>
                                                                     <h2><span
-                                                                            style="font-family: &#39;times new roman&#39;, times, serif; font-size: 14pt;">Điều kiện tuyển dụng:</span>
+                                                                            style="font-family:'times new roman', times, serif; font-size: 14pt;">Điều kiện tuyển dụng:</span>
                                                                     </h2>
                                                                     <p><strong><span
-                                                                                style="font-family: &#39;times new roman&#39;, times, serif; font-size: 14pt;"> • Tuổi từ 25 trở lên.</span></strong>
+                                                                                style="font-family:'times new roman', times, serif; font-size: 14pt;"> • Tuổi từ 25 trở lên.</span></strong>
                                                                     </p>
                                                                     <p><span
-                                                                            style="font-family: &#39;times new roman&#39;, times, serif; font-size: 14pt;">•&nbsp; Trình độ: trung cấp trở lên</span><br><span
-                                                                            style="font-family: &#39;times new roman&#39;, times, serif; font-size: 14pt;"> • Yêu thích công việc tư vấn khách hàng, có hoặc chưa có kinh nghiệm trong nghề tư vấn bảo hiểm nhân thọ </span>
+                                                                            style="font-family:'times new roman', times, serif; font-size: 14pt;">•&nbsp; Trình độ: trung cấp trở lên</span><br><span
+                                                                            style="font-family:'times new roman', times, serif; font-size: 14pt;"> • Yêu thích công việc tư vấn khách hàng, có hoặc chưa có kinh nghiệm trong nghề tư vấn bảo hiểm nhân thọ </span>
                                                                     </p>
                                                                     <p><span
-                                                                            style="font-family: &#39;times new roman&#39;, times, serif; font-size: 14pt;">– Chúng tôi sẽ đào tạo bạn trở thành người giỏi nhất nếu bạn thực sự muốn điều đó. (Nếu bạn có sự cố gắng và nhiệt huyết chúng tôi có con đường đúng đắn thì chắc chắn bạn sẽ thành công).</span><br><span
-                                                                            style="font-family: &#39;times new roman&#39;, times, serif; font-size: 14pt;"> • Không nằm trong “Danh sách đen” (black-list) của Hiệp hội Bảo hiểm VN.</span><br><span
-                                                                            style="font-family: &#39;times new roman&#39;, times, serif; font-size: 14pt;"> • Hoàn tất hồ sơ tuyển dụng đầy đủ theo đúng quy định của Công ty.</span>
+                                                                            style="font-family:'times new roman', times, serif; font-size: 14pt;">– Chúng tôi sẽ đào tạo bạn trở thành người giỏi nhất nếu bạn thực sự muốn điều đó. (Nếu bạn có sự cố gắng và nhiệt huyết chúng tôi có con đường đúng đắn thì chắc chắn bạn sẽ thành công).</span><br><span
+                                                                            style="font-family:'times new roman', times, serif; font-size: 14pt;"> • Không nằm trong “Danh sách đen” (black-list) của Hiệp hội Bảo hiểm VN.</span><br><span
+                                                                            style="font-family:'times new roman', times, serif; font-size: 14pt;"> • Hoàn tất hồ sơ tuyển dụng đầy đủ theo đúng quy định của Công ty.</span>
                                                                     </p>
                                                                     <ul>
                                                                         <li><span
-                                                                                style="font-family: &#39;times new roman&#39;, times, serif; font-size: 14pt;">Hồ sơ tuyển dụng, bao gồm: </span>
+                                                                                style="font-family:'times new roman', times, serif; font-size: 14pt;">Hồ sơ tuyển dụng, bao gồm: </span>
                                                                         </li>
                                                                     </ul>
                                                                     <p>+ CV</p>
                                                                     <p><span
-                                                                            style="font-family: &#39;times new roman&#39;, times, serif; font-size: 14pt;">+ CMND 1 bản photocopy.</span>
+                                                                            style="font-family:'times new roman', times, serif; font-size: 14pt;">+ CMND 1 bản photocopy.</span>
                                                                     </p>
                                                                     <p><span
-                                                                            style="font-family: &#39;times new roman&#39;, times, serif; font-size: 14pt;">+ Sổ hộ khẩu&nbsp;1 bản photocopy.</span>
+                                                                            style="font-family:'times new roman', times, serif; font-size: 14pt;">+ Sổ hộ khẩu&nbsp;1 bản photocopy.</span>
                                                                     </p>
                                                                     <p><span
-                                                                            style="font-family: &#39;times new roman&#39;, times, serif; font-size: 14pt;">+ Bằng cấp liên quan&nbsp;1 bản photocopy.</span>
+                                                                            style="font-family:'times new roman', times, serif; font-size: 14pt;">+ Bằng cấp liên quan&nbsp;1 bản photocopy.</span>
                                                                     </p>
                                                                     <p style="text-align: center;"><strong><span
-                                                                                style="font-family: &#39;times new roman&#39;, times, serif; font-size: 14pt;">&gt;&gt;&gt; Chúng tôi sẽ trả hồ sơ ngay nếu sau khi tư vấn bạn cảm thấy không thích hợp với công việc. Và sẽ thống báo ngay nếu thấy bạn phù hợp với vị trí tuyển dụng chúng tôi đang cần.</span></strong><br><span
-                                                                            style="font-family: &#39;times new roman&#39;, times, serif; font-size: 14pt;">– Bạn sẽ được tham gia chương trình đào tạo đại lý bảo hiểm chuyên nghiệp và tham dự kỳ thi theo yêu cầu của Bộ Tài Chính để đảm bảo bạn đủ tiêu chuẩn khởi nghiệp là một Đại lý Bảo hiểm nhân thọ. </span><br><span
+                                                                                style="font-family:'times new roman', times, serif; font-size: 14pt;">&gt;&gt;&gt; Chúng tôi sẽ trả hồ sơ ngay nếu sau khi tư vấn bạn cảm thấy không thích hợp với công việc. Và sẽ thống báo ngay nếu thấy bạn phù hợp với vị trí tuyển dụng chúng tôi đang cần.</span></strong><br><span
+                                                                            style="font-family:'times new roman', times, serif; font-size: 14pt;">– Bạn sẽ được tham gia chương trình đào tạo đại lý bảo hiểm chuyên nghiệp và tham dự kỳ thi theo yêu cầu của Bộ Tài Chính để đảm bảo bạn đủ tiêu chuẩn khởi nghiệp là một Đại lý Bảo hiểm nhân thọ. </span><br><span
                                                                             style="font-family: &#39;times new roman&#39;, times, serif; font-size: 14pt;">– Với sự hỗ trợ tích cực của các Quản lý trong khu vực kinh doanh, Bạn sẽ tự tin khởi đầu công việc kinh doanh của mình, giúp khách hàng thiết lập các kế hoạch bảo vệ tài chính trong tương lai và sẵn sàng vượt qua trở ngại ban đầu để thành công trong kinh doanh. </span><br><span
                                                                             style="font-size: 18pt; color: #ff0000;"><strong><span
                                                                                     style="font-family: &#39;times new roman&#39;, times, serif;">Nếu bạn là người có hoài bão kinh doanh và sẵn sàng chấp nhận thử thách, có tinh thần cầu tiến và thái độ tích cực, hãy tham gia vào đội ngũ của Dai-ichi Life Việt Nam!.</span></strong></span>

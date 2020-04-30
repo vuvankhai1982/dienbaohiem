@@ -1,5 +1,20 @@
 @extends('frontend.layout')
 @section('content')
+    <div class="page-title title-center solid-bg breadcrumbs-mobile-off page-title-responsive-enabled">
+        <div class="wf-wrap">
+            <div class="page-title-head hgroup"><h1>An thịnh đầu tư</h1></div>
+            <div class="page-title-breadcrumbs">
+                <div class="assistive-text">You are here:</div>
+                <ol class="breadcrumbs text-small" xmlns:v="http://rdf.data-vocabulary.org/#">
+                    <li typeof="v:Breadcrumb"><a rel="v:url" property="v:title" href="https://baohiem-daiichi.vn/"
+                                                 title="">Home</a></li>
+                    <li typeof="v:Breadcrumb"><a rel="v:url" property="v:title"
+                                                 href="https://baohiem-daiichi.vn/san-pham/" title="">Sản phẩm</a></li>
+                    <li class="current">An thịnh đầu tư</li>
+                </ol>
+            </div>
+        </div>
+    </div>
     <div id="main" class="sidebar-right sidebar-divider-vertical">
         <div class="main-gradient"></div>
         <div class="wf-wrap">
@@ -159,7 +174,7 @@
                                                                              sizes="(max-width: 720px) 100vw, 720px"/></noscript></strong></span>
                     </h2>
                     <p><span style="font-family: &#39;times new roman&#39;, times, serif; font-size: 14pt;"><strong><img
-                                    src="https://dai-ichi-life.com.vn/images/news/184/696/attribute/47/icon_1.png"
+                                    src=""
                                     data-lazy-src="https://dai-ichi-life.com.vn/images/news/184/696/attribute/47/icon_1.png"
                                     class="error" data-was-processed="true"><noscript><img
                                         src="https://dai-ichi-life.com.vn/images/news/184/696/attribute/47/icon_1.png"/></noscript>&nbsp;</strong>Tạo dựng tài sản một cách hiệu quả thông qua sự hỗ trợ đầu tư chuyên nghiệp từ công ty tài chính hàng đầu Nhật Bản.</span>

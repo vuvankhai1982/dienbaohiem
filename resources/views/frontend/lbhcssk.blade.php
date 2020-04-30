@@ -417,7 +417,7 @@
                                                                  data-widget_type="image.default">
                                                                 <div class="elementor-widget-container">
                                                                     <div class="elementor-image"><img
-                                                                            src="./bhcssk_files/bao-hiem-cham-soc-suc-khoe-1.jpg"
+                                                                            src="./index_files/bao-hiem-cham-soc-suc-khoe-1.jpg"
                                                                             title="bao-hiem-cham-soc-suc-khoe-1"
                                                                             alt="bảo hiểm chăm sóc sức khỏe dai-ichi life"
                                                                             data-lazy-src="https://baohiem-daiichi.vn/wp-content/uploads/2017/12/bao-hiem-cham-soc-suc-khoe-1.jpg"
@@ -859,7 +859,7 @@
                                                                                     href="https://baohiem-daiichi.vn/tin-tuc/benh-vien-lien-ket-bao-hiem-dai-chi-life/">
                                                                                     <figure class="swiper-slide-inner"><img
                                                                                             class="swiper-slide-image lazyloaded"
-                                                                                            src="./bhcssk_files/vinmec-150x150.jpg"
+                                                                                            src="./index_files/vinmec-150x150.jpg"
                                                                                             alt="bệnh viện quốc tế Vinmec"
                                                                                             data-lazy-src="https://baohiem-daiichi.vn/wp-content/uploads/2020/03/vinmec-150x150.jpg"
                                                                                             data-was-processed="true">
@@ -879,7 +879,7 @@
                                                                                     href="https://baohiem-daiichi.vn/tin-tuc/benh-vien-lien-ket-bao-hiem-dai-chi-life/">
                                                                                     <figure class="swiper-slide-inner"><img
                                                                                             class="swiper-slide-image lazyloaded"
-                                                                                            src="./bhcssk_files/van-hanh-hospital-150x150.jpg"
+                                                                                            src="./index_files/van-hanh-hospital-150x150.jpg"
                                                                                             alt="Bệnh viện đa khoa Vạn Hạnh"
                                                                                             data-lazy-src="https://baohiem-daiichi.vn/wp-content/uploads/2020/03/van-hanh-hospital-150x150.jpg"
                                                                                             data-was-processed="true">
@@ -899,7 +899,7 @@
                                                                                     href="https://baohiem-daiichi.vn/tin-tuc/benh-vien-lien-ket-bao-hiem-dai-chi-life/">
                                                                                     <figure class="swiper-slide-inner"><img
                                                                                             class="swiper-slide-image lazyloaded"
-                                                                                            src="./bhcssk_files/thu-cuc-150x150.jpg"
+                                                                                            src="./index_files/thu-cuc-150x150.jpg"
                                                                                             alt="Bênh viện quốc tế Thu Cúc"
                                                                                             data-lazy-src="https://baohiem-daiichi.vn/wp-content/uploads/2020/03/thu-cuc-150x150.jpg"
                                                                                             data-was-processed="true">
@@ -919,7 +919,7 @@
                                                                                     href="https://baohiem-daiichi.vn/tin-tuc/benh-vien-lien-ket-bao-hiem-dai-chi-life/">
                                                                                     <figure class="swiper-slide-inner"><img
                                                                                             class="swiper-slide-image lazyloaded"
-                                                                                            src="./bhcssk_files/tmmc-150x150.jpg"
+                                                                                            src="./index_files/tmmc-150x150.jpg"
                                                                                             alt="tmmc"
                                                                                             data-lazy-src="https://baohiem-daiichi.vn/wp-content/uploads/2020/03/tmmc-150x150.jpg"
                                                                                             data-was-processed="true">
@@ -938,7 +938,7 @@
                                                                                     href="https://baohiem-daiichi.vn/tin-tuc/benh-vien-lien-ket-bao-hiem-dai-chi-life/">
                                                                                     <figure class="swiper-slide-inner"><img
                                                                                             class="swiper-slide-image lazyloaded"
-                                                                                            src="./bhcssk_files/tri-duc-150x150.png"
+                                                                                            src="./index_files/tri-duc-150x150.png"
                                                                                             alt="Bệnh viện Trí Đức"
                                                                                             data-lazy-src="https://baohiem-daiichi.vn/wp-content/uploads/2020/03/tri-duc-150x150.png"
                                                                                             data-was-processed="true">
@@ -958,7 +958,7 @@
                                                                                     href="https://baohiem-daiichi.vn/tin-tuc/benh-vien-lien-ket-bao-hiem-dai-chi-life/">
                                                                                     <figure class="swiper-slide-inner"><img
                                                                                             class="swiper-slide-image lazyloaded"
-                                                                                            src="./bhcssk_files/thanh-do-150x150.png"
+                                                                                            src="./index_files/thanh-do-150x150.png"
                                                                                             alt="thanh do"
                                                                                             data-lazy-src="https://baohiem-daiichi.vn/wp-content/uploads/2020/03/thanh-do-150x150.png"
                                                                                             data-was-processed="true">
@@ -977,7 +977,7 @@
                                                                                     href="https://baohiem-daiichi.vn/tin-tuc/benh-vien-lien-ket-bao-hiem-dai-chi-life/">
                                                                                     <figure class="swiper-slide-inner"><img
                                                                                             class="swiper-slide-image lazyloaded"
-                                                                                            src="./bhcssk_files/methelatic-150x150.jpg"
+                                                                                            src="./index_files/methelatic-150x150.jpg"
                                                                                             alt="Bênh Viện MEDLATEC"
                                                                                             data-lazy-src="https://baohiem-daiichi.vn/wp-content/uploads/2020/03/methelatic-150x150.jpg"
                                                                                             data-was-processed="true">
@@ -997,7 +997,7 @@
                                                                                     href="https://baohiem-daiichi.vn/tin-tuc/benh-vien-lien-ket-bao-hiem-dai-chi-life/">
                                                                                     <figure class="swiper-slide-inner"><img
                                                                                             class="swiper-slide-image lazyloaded"
-                                                                                            src="./bhcssk_files/hong-phuc-150x150.jpg"
+                                                                                            src="./index_files/hong-phuc-150x150.jpg"
                                                                                             alt="hong-phuc"
                                                                                             data-lazy-src="https://baohiem-daiichi.vn/wp-content/uploads/2020/03/hong-phuc-150x150.jpg"
                                                                                             data-was-processed="true">
@@ -1016,7 +1016,7 @@
                                                                                     href="https://baohiem-daiichi.vn/tin-tuc/benh-vien-lien-ket-bao-hiem-dai-chi-life/">
                                                                                     <figure class="swiper-slide-inner"><img
                                                                                             class="swiper-slide-image lazyloaded"
-                                                                                            src="./bhcssk_files/sai-gon-binh-duong-150x150.jpg"
+                                                                                            src="./index_files/sai-gon-binh-duong-150x150.jpg"
                                                                                             alt="sai-gon-binh-duong"
                                                                                             data-lazy-src="https://baohiem-daiichi.vn/wp-content/uploads/2020/03/sai-gon-binh-duong-150x150.jpg"
                                                                                             data-was-processed="true">
@@ -1036,7 +1036,7 @@
                                                                                     href="https://baohiem-daiichi.vn/tin-tuc/benh-vien-lien-ket-bao-hiem-dai-chi-life/">
                                                                                     <figure class="swiper-slide-inner"><img
                                                                                             class="swiper-slide-image lazyloaded"
-                                                                                            src="./bhcssk_files/hong-ngoc-150x150.png"
+                                                                                            src="./index_files/hong-ngoc-150x150.png"
                                                                                             alt="Bệnh viện Hồng Ngọc"
                                                                                             data-lazy-src="https://baohiem-daiichi.vn/wp-content/uploads/2020/03/hong-ngoc-150x150.png"
                                                                                             data-was-processed="true">
@@ -1630,7 +1630,7 @@
                                                                  data-widget_type="image.default">
                                                                 <div class="elementor-widget-container">
                                                                     <div class="elementor-image"><img
-                                                                            src="./bhcssk_files/gia-kham-benh-giadinhmoi-2305-ofc959rkgor2t815nol90zqvbby5w3ih51j72djee8.jpg"
+                                                                            src="./index_files/gia-kham-benh-giadinhmoi-2305-ofc959rkgor2t815nol90zqvbby5w3ih51j72djee8.jpg"
                                                                             title="gia-kham-benh-giadinhmoi-2305"
                                                                             alt="gia-kham-benh-giadinhmoi-2305"
                                                                             data-lazy-src="https://baohiem-daiichi.vn/wp-content/uploads/elementor/thumbs/gia-kham-benh-giadinhmoi-2305-ofc959rkgor2t815nol90zqvbby5w3ih51j72djee8.jpg"
@@ -1656,7 +1656,7 @@
                                                                  data-widget_type="image.default">
                                                                 <div class="elementor-widget-container">
                                                                     <div class="elementor-image"><img
-                                                                            src="./bhcssk_files/bao-hiem-suc-khoe-dai-ichi-life-viet-nam-omvmnl5ggkpiz6sm5fzp8mzhyxzxxibvdvvom30bds.jpg"
+                                                                            src="./index_files/bao-hiem-suc-khoe-dai-ichi-life-viet-nam-omvmnl5ggkpiz6sm5fzp8mzhyxzxxibvdvvom30bds.jpg"
                                                                             title="bao-hiem-suc-khoe-dai-ichi-life-viet-nam"
                                                                             alt="bao-hiem-suc-khoe-dai-ichi-life-viet-nam"
                                                                             data-lazy-src="https://baohiem-daiichi.vn/wp-content/uploads/elementor/thumbs/bao-hiem-suc-khoe-dai-ichi-life-viet-nam-omvmnl5ggkpiz6sm5fzp8mzhyxzxxibvdvvom30bds.jpg"
@@ -2479,7 +2479,7 @@
                                                                                     <div class="elementor-testimonial elementor-repeater-item-fa5a75b">
                                                                                         <div class="elementor-testimonial__header">
                                                                                             <div class="elementor-testimonial__image">
-                                                                                                <img src="./bhcssk_files/an-thinh-dau-tu-bao-hiem-nhan-tho-dai-ichi-life.jpg"
+                                                                                                <img src="./index_files/an-thinh-dau-tu-bao-hiem-nhan-tho-dai-ichi-life.jpg"
                                                                                                      alt="Hoàng Thị Cúc"
                                                                                                      data-lazy-src="https://baohiem-daiichi.vn/wp-content/uploads/2017/11/an-thinh-dau-tu-bao-hiem-nhan-tho-dai-ichi-life.jpg"
                                                                                                      class="lazyloaded"
@@ -2690,7 +2690,7 @@
                                                                         <iframe class="elementor-video-iframe"
                                                                                 allowfullscreen=""
                                                                                 title="youtube Video Player"
-                                                                                src="./bhcssk_files/CTVRt481k00.html"></iframe>
+                                                                                src="./index_files/CTVRt481k00.html"></iframe>
                                                                     </div>
                                                                 </div>
                                                             </div>

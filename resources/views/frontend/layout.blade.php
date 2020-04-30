@@ -530,7 +530,6 @@
             </div>
         </div>
     </div>
-
     @yield('content')
 <footer id="footer" class="footer solid-bg footer-outline-decoration" style="background-image: url('/index_files/footer.jpg');
   background-repeat:repeat;background-position: center; ">

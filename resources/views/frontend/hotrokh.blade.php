@@ -1,5 +1,126 @@
 @extends('frontend.layout')
 @section('content')
+    <style id="the7-fancy-title-css" type="text/css">.fancy-header {
+            background-image: url(https://baohiem-daiichi.vn/wp-content/uploads/2019/06/editorial-dai-ichi-life-insurance-footage-085464238_prevstill.jpg);
+            background-repeat: no-repeat;
+            background-position: left bottom;
+            background-attachment: scroll;
+            background-size: cover;
+            background-color: #222
+        }
+
+        .fancy-header .wf-wrap {
+            min-height: 700px;
+            padding-top: 0;
+            padding-bottom: 0
+        }
+
+        .fancy-header .fancy-title {
+            font-size: 45px;
+            line-height: 46px;
+            color: #d31d1d;
+            text-transform: none
+        }
+
+        .fancy-header .fancy-subtitle {
+            font-size: 16px;
+            line-height: 17px;
+            color: #fff;
+            text-transform: none
+        }
+
+        .fancy-header .breadcrumbs {
+            color: #fff
+        }
+
+        .fancy-header-overlay {
+            background: rgba(0, 0, 0, .5)
+        }
+
+        @media screen and (max-width: 778px) {
+            .fancy-header .wf-wrap {
+                min-height: 70px
+            }
+
+            .fancy-header .fancy-title {
+                font-size: 30px;
+                line-height: 38px
+            }
+
+            .fancy-header .fancy-subtitle {
+                font-size: 20px;
+                line-height: 28px
+            }
+
+            .fancy-header.breadcrumbs-mobile-off .breadcrumbs {
+                display: none
+            }
+
+            #fancy-header > .wf-wrap {
+                -webkit-flex-flow: column wrap;
+                flex-flow: column wrap;
+                -webkit-align-items: center;
+                align-items: center;
+                -webkit-justify-content: center;
+                justify-content: center;
+                padding-bottom: 0px !important
+            }
+
+            .fancy-header.title-left .breadcrumbs {
+                text-align: center;
+                float: none
+            }
+
+            .breadcrumbs {
+                margin-bottom: 10px
+            }
+
+            .breadcrumbs.breadcrumbs-bg {
+                margin-top: 10px
+            }
+
+            .fancy-header.title-right .breadcrumbs {
+                margin: 10px 0 10px 0
+            }
+
+            #fancy-header .hgroup, #fancy-header .breadcrumbs {
+                text-align: center
+            }
+
+            .fancy-header .hgroup {
+                padding-bottom: 5px
+            }
+
+            .breadcrumbs-off .hgroup {
+                padding-bottom: 5px
+            }
+
+            .title-right .hgroup {
+                padding: 0 0 5px 0
+            }
+
+            .title-right.breadcrumbs-off .hgroup {
+                padding-top: 5px
+            }
+
+            .title-left.disabled-bg .breadcrumbs {
+                margin-bottom: 0
+            }
+        }</style>
+    <header id="fancy-header" class="fancy-header breadcrumbs-mobile-off title-center">
+        <div class="wf-wrap">
+            <div class="fancy-title-head hgroup"><h1
+                    class="fancy-title entry-title start-animation-done start-animation"><span>Hỗ trợ khách hàng</span>
+                </h1></div>
+            <div class="assistive-text">You are here:</div>
+            <ol class="breadcrumbs text-small start-animation-done start-animation"
+                xmlns:v="http://rdf.data-vocabulary.org/#">
+                <li typeof="v:Breadcrumb"><a rel="v:url" property="v:title" href="https://baohiem-daiichi.vn/" title="">Home</a>
+                </li>
+                <li class="current">Hỗ trợ khách hàng</li>
+            </ol>
+        </div>
+    </header>
     <div id="main" class="sidebar-right sidebar-divider-vertical" style="padding-top:0px; padding-bottom:0px;">
         <div class="main-gradient"></div>
         <div class="wf-wrap">

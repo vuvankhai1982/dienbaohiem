@@ -1,5 +1,126 @@
 @extends('frontend.layout')
 @section('content')
+    <style id="the7-fancy-title-css" type="text/css">.fancy-header {
+            background-image: url(https://baohiem-daiichi.vn/wp-content/uploads/2019/05/pic6.jpg);
+            background-repeat: no-repeat;
+            background-position: left bottom;
+            background-attachment: scroll;
+            background-size: cover;
+            background-color: #222
+        }
+
+        .fancy-header .wf-wrap {
+            min-height: 700px;
+            padding-top: 0;
+            padding-bottom: 0
+        }
+
+        .fancy-header .fancy-title {
+            font-size: 46px;
+            line-height: 46px;
+            color: #ba0b0b;
+            text-transform: none
+        }
+
+        .fancy-header .fancy-subtitle {
+            font-size: 18px;
+            line-height: 26px;
+            color: #fff;
+            text-transform: uppercase
+        }
+
+        .fancy-header .breadcrumbs {
+            color: #fff
+        }
+
+        .fancy-header-overlay {
+            background: rgba(0, 0, 0, .5)
+        }
+
+        @media screen and (max-width: 778px) {
+            .fancy-header .wf-wrap {
+                min-height: 0
+            }
+
+            .fancy-header .fancy-title {
+                font-size: 30px;
+                line-height: 38px
+            }
+
+            .fancy-header .fancy-subtitle {
+                font-size: 20px;
+                line-height: 28px
+            }
+
+            .fancy-header.breadcrumbs-mobile-off .breadcrumbs {
+                display: none
+            }
+
+            #fancy-header > .wf-wrap {
+                -webkit-flex-flow: column wrap;
+                flex-flow: column wrap;
+                -webkit-align-items: center;
+                align-items: center;
+                -webkit-justify-content: center;
+                justify-content: center;
+                padding-bottom: 0px !important
+            }
+
+            .fancy-header.title-left .breadcrumbs {
+                text-align: center;
+                float: none
+            }
+
+            .breadcrumbs {
+                margin-bottom: 10px
+            }
+
+            .breadcrumbs.breadcrumbs-bg {
+                margin-top: 10px
+            }
+
+            .fancy-header.title-right .breadcrumbs {
+                margin: 10px 0 10px 0
+            }
+
+            #fancy-header .hgroup, #fancy-header .breadcrumbs {
+                text-align: center
+            }
+
+            .fancy-header .hgroup {
+                padding-bottom: 5px
+            }
+
+            .breadcrumbs-off .hgroup {
+                padding-bottom: 5px
+            }
+
+            .title-right .hgroup {
+                padding: 0 0 5px 0
+            }
+
+            .title-right.breadcrumbs-off .hgroup {
+                padding-top: 5px
+            }
+
+            .title-left.disabled-bg .breadcrumbs {
+                margin-bottom: 0
+            }
+        }</style>
+    <header id="fancy-header" class="fancy-header breadcrumbs-mobile-off content-left">
+        <div class="wf-wrap">
+            <div class="fancy-title-head hgroup"><h1
+                    class="fancy-title entry-title color-accent start-animation-done start-animation">
+                    <span>Sản phẩm</span></h1></div>
+            <div class="assistive-text">You are here:</div>
+            <ol class="breadcrumbs text-small start-animation-done start-animation"
+                xmlns:v="http://rdf.data-vocabulary.org/#">
+                <li typeof="v:Breadcrumb"><a rel="v:url" property="v:title" href="https://baohiem-daiichi.vn/" title="">Home</a>
+                </li>
+                <li class="current">Sản phẩm</li>
+            </ol>
+        </div>
+    </header>
     <div id="main" class="sidebar-right sidebar-divider-vertical">
         <div class="main-gradient"></div>
         <div class="wf-wrap">
@@ -104,7 +225,7 @@
                     </p>
                     <p><span style="font-family: &#39;times new roman&#39;, times, serif; font-size: 14pt;"><img
                                 class="wp-image-9552 alignright lazyloaded"
-                                src="./anphuchungthinh_files/bao-hien-nhan-tho-dai-ichi-life-02.jpg" alt="" width="522"
+                                src="./index_files/bao-hien-nhan-tho-dai-ichi-life-02.jpg" alt="" width="522"
                                 height="322"
                                 data-lazy-srcset="https://baohiem-daiichi.vn/wp-content/uploads/2017/11/bao-hien-nhan-tho-dai-ichi-life-02.jpg 800w, https://baohiem-daiichi.vn/wp-content/uploads/2017/11/bao-hien-nhan-tho-dai-ichi-life-02-600x371.jpg 600w, https://baohiem-daiichi.vn/wp-content/uploads/2017/11/bao-hien-nhan-tho-dai-ichi-life-02-300x185.jpg 300w, https://baohiem-daiichi.vn/wp-content/uploads/2017/11/bao-hien-nhan-tho-dai-ichi-life-02-768x474.jpg 768w, https://baohiem-daiichi.vn/wp-content/uploads/2017/11/bao-hien-nhan-tho-dai-ichi-life-02-236x146.jpg 236w, https://baohiem-daiichi.vn/wp-content/uploads/2017/11/bao-hien-nhan-tho-dai-ichi-life-02-50x31.jpg 50w, https://baohiem-daiichi.vn/wp-content/uploads/2017/11/bao-hien-nhan-tho-dai-ichi-life-02-113x70.jpg 113w"
                                 data-lazy-sizes="(max-width: 522px) 100vw, 522px"
@@ -252,7 +373,7 @@
                     <div class="sidebar-content widget-divider-off">
                         <section id="text-3" class="widget widget_text">
                             <div class="textwidget"><p><img class="alignnone size-large wp-image-11014 lazyloaded"
-                                                            src="./anphuchungthinh_files/nguyen-cao-ky-dai-ichi-life-viet-nam-1024x959.jpg"
+                                                            src="./index_files/nguyen-cao-ky-dai-ichi-life-viet-nam-1024x959.jpg"
                                                             alt="" width="1024" height="959"
                                                             data-lazy-src="https://baohiem-daiichi.vn/wp-content/uploads/2020/03/nguyen-cao-ky-dai-ichi-life-viet-nam-1024x959.jpg"
                                                             data-was-processed="true">
