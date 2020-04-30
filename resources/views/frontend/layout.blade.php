@@ -263,7 +263,8 @@
           href="https://baohiem-daiichi.vn/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css" media="screen">
     <![endif]-->
     <!--them css-->
-
+    <link rel="stylesheet" type="text/css"
+          href="./index_files/98f4c37094c1dfa87159ca0acfdb44d3.css">
     <!--endthem css-->
     <meta name="onesignal" content="wordpress-plugin">
     <link rel="icon"

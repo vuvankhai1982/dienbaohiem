@@ -217,13 +217,13 @@
                     }
                 }</script>
                 <div id="content" class="content" role="main"><h2 style="text-align: center;"><span
-                            style="font-family: &#39;times new roman&#39;, times, serif;">AN PHÚC HƯNG THỊNH – DAI-ICHI LIFE VIỆT NAM</span>
+                            style="font-family:'times new roman', times, serif;">AN PHÚC HƯNG THỊNH – DAI-ICHI LIFE VIỆT NAM</span>
                     </h2>
-                    <p><strong><span style="font-family: &#39;times new roman&#39;, times, serif; font-size: 14pt;">An Phúc Hưng Thịnh: </span></strong><span
-                            style="font-family: &#39;times new roman&#39;, times, serif; font-size: 14pt;">A</span><span
-                            style="font-family: &#39;times new roman&#39;, times, serif; font-size: 14pt;">n Phúc Gia Đình – Hưng Thịnh Tương Lai.</span>
+                    <p><strong><span style="font-family:'times new roman', times, serif; font-size: 14pt;">An Phúc Hưng Thịnh: </span></strong><span
+                            style="font-family:'times new roman', times, serif; font-size: 14pt;">A</span><span
+                            style="font-family:'times new roman', times, serif; font-size: 14pt;">n Phúc Gia Đình – Hưng Thịnh Tương Lai.</span>
                     </p>
-                    <p><span style="font-family: &#39;times new roman&#39;, times, serif; font-size: 14pt;"><img
+                    <p><span style="font-family:'times new roman', times, serif; font-size: 14pt;"><img
                                 class="wp-image-9552 alignright lazyloaded"
                                 src="./index_files/bao-hien-nhan-tho-dai-ichi-life-02.jpg" alt="" width="522"
                                 height="322"
@@ -237,30 +237,30 @@
                                                                          alt="" width="522" height="322"
                                                                          srcset="https://baohiem-daiichi.vn/wp-content/uploads/2017/11/bao-hien-nhan-tho-dai-ichi-life-02.jpg 800w, https://baohiem-daiichi.vn/wp-content/uploads/2017/11/bao-hien-nhan-tho-dai-ichi-life-02-600x371.jpg 600w, https://baohiem-daiichi.vn/wp-content/uploads/2017/11/bao-hien-nhan-tho-dai-ichi-life-02-300x185.jpg 300w, https://baohiem-daiichi.vn/wp-content/uploads/2017/11/bao-hien-nhan-tho-dai-ichi-life-02-768x474.jpg 768w, https://baohiem-daiichi.vn/wp-content/uploads/2017/11/bao-hien-nhan-tho-dai-ichi-life-02-236x146.jpg 236w, https://baohiem-daiichi.vn/wp-content/uploads/2017/11/bao-hien-nhan-tho-dai-ichi-life-02-50x31.jpg 50w, https://baohiem-daiichi.vn/wp-content/uploads/2017/11/bao-hien-nhan-tho-dai-ichi-life-02-113x70.jpg 113w"
                                                                          sizes="(max-width: 522px) 100vw, 522px"/></noscript>Một cuộc sống an vui, sung túc cho những người thân yêu trong gia đình luôn là ước mơ trong mỗi chúng ta. Vì vậy, việc hoạch định tài chính phù hợp với nhu cầu để thực hiện các kế hoạch cho tương lai là điều bạn cần phải bắt đầu ngay hôm nay!.&nbsp;</span><br>
-                        <span style="font-family: &#39;times new roman&#39;, times, serif; font-size: 14pt;">An phúc hưng thịnh là một sản phẩm tuyệt vời của <span
+                        <span style="font-family:'times new roman', times, serif; font-size: 14pt;">An phúc hưng thịnh là một sản phẩm tuyệt vời của <span
                                 style="color: #ff0000;"><a style="color: #ff0000;" href="https://baohiem-daiichi.vn/">Dai ichi life Việt Nam</a></span> giúp những kế hoạch tài chính của gia đình bạn luôn đạt được kết quả như bạn mong đợi. Là sản phẩm bảo hiểm vừa mang đến cho bạn và gia đình sự bình an vì luôn được bảo vệ toàn diện trước những rủi ro trong cuộc sống, vừa mang đến sự thịnh vượng vì những khoản tiền tiết kiệm dành dụm của bạn luôn được <strong>đầu tư sinh lợi hiệu quả</strong> trước bối cảnh lạm phát.</span>
                     </p>
-                    <h3><strong><span style="font-family: &#39;times new roman&#39;, times, serif; font-size: 14pt;">An phúc hưng thịnh-những ưu thế nổ bật.&nbsp;&nbsp;</span></strong>
+                    <h3><strong><span style="font-family:'times new roman', times, serif; font-size: 14pt;">An phúc hưng thịnh-những ưu thế nổ bật.&nbsp;&nbsp;</span></strong>
                     </h3>
-                    <p><span style="font-family: &#39;times new roman&#39;, times, serif; font-size: 14pt;"><strong><img
+                    <p><span style="font-family:'times new roman', times, serif; font-size: 14pt;"><strong><img
                                     src="https://dai-ichi-life.com.vn/images/news/184/696/attribute/47/icon_1.png"
                                     data-lazy-src="https://dai-ichi-life.com.vn/images/news/184/696/attribute/47/icon_1.png"
                                     class="error" data-was-processed="true"><noscript><img
                                         src="https://dai-ichi-life.com.vn/images/news/184/696/attribute/47/icon_1.png"/></noscript>&nbsp;Sinh lợi:</strong> Lãi suất công bố luôn theo sát thị trường tài chính Việt Nam đồng thời đảm bảo không thấp hơn mức lãi suất tối thiểu cam kết.</span>
                     </p>
-                    <p><span style="font-family: &#39;times new roman&#39;, times, serif; font-size: 14pt;">An phúc hưng thịnh đáp ứng nhu cầu tài chính ngắn hạn: Nhận được những khoản tiền mặt định kỳ được chi trả mỗi 3 năm hợp đồng.&nbsp; Bảo vệ toàn diện: Quyền lợi bảo vệ khi rủi ro Tử vong hoặc Thương tật toàn bộ và vĩnh viễn.&nbsp; </span>
+                    <p><span style="font-family:'times new roman', times, serif; font-size: 14pt;">An phúc hưng thịnh đáp ứng nhu cầu tài chính ngắn hạn: Nhận được những khoản tiền mặt định kỳ được chi trả mỗi 3 năm hợp đồng.&nbsp; Bảo vệ toàn diện: Quyền lợi bảo vệ khi rủi ro Tử vong hoặc Thương tật toàn bộ và vĩnh viễn.&nbsp; </span>
                     </p>
-                    <p><span style="font-family: &#39;times new roman&#39;, times, serif; font-size: 14pt;"><strong><img
+                    <p><span style="font-family:'times new roman', times, serif; font-size: 14pt;"><strong><img
                                     src="data:image/svg+xml,%3Csvg%20xmlns=&#39;http://www.w3.org/2000/svg&#39;%20viewBox=&#39;0%200%200%200&#39;%3E%3C/svg%3E"
                                     data-lazy-src="https://dai-ichi-life.com.vn/images/news/184/696/attribute/47/icon_1.png"><noscript><img
                                         src="https://dai-ichi-life.com.vn/images/news/184/696/attribute/47/icon_1.png"/></noscript>&nbsp;Quyền lợi đáo hạn:</strong> Nhận lại toàn bộ Giá trị hợp đồng khi đáo hạn.&nbsp; Đầu tư tài chính, ổn định lâu dài: với đội ngũ chuyên gia đầu tư giàu kinh nghiệm cùng với sự hỗ trợ mạnh mẽ từ<em> Dai-ichi Life Nhật Bản</em>, một trong những công ty bảo hiểm nhân thọ hàng đầu thế giới có hơn 100 năm kinh nghiệm, bạn sẽ an tâm rằng những khoản tiền tiết kiệm của mình sẽ được đầu tư ổn định và hiệu quả.&nbsp; </span>
                     </p>
-                    <p><span style="font-family: &#39;times new roman&#39;, times, serif; font-size: 14pt;"><strong><img
+                    <p><span style="font-family:'times new roman', times, serif; font-size: 14pt;"><strong><img
                                     src="data:image/svg+xml,%3Csvg%20xmlns=&#39;http://www.w3.org/2000/svg&#39;%20viewBox=&#39;0%200%200%200&#39;%3E%3C/svg%3E"
                                     data-lazy-src="https://dai-ichi-life.com.vn/images/news/184/696/attribute/47/icon_1.png"><noscript><img
                                         src="https://dai-ichi-life.com.vn/images/news/184/696/attribute/47/icon_1.png"/></noscript>&nbsp;Quyền lựa chọn sớm hoàn tất đóng phí:</strong> Linh hoạt hơn bao giờ hết với các thời hạn đóng phí phù hợp, khách hàng sẽ sớm hoàn tất việc đóng phí mà vẫn đảm bảo kế hoạch chi tiêu trong ngắn hạn và thực hiện mục tiêu dài hạn của mình.</span>
                     </p>
-                    <p><span style="font-family: &#39;times new roman&#39;, times, serif; font-size: 14pt;"><strong>An phúc hưng thịnh với quyền ưu tiên tuyển sinh du học Hoa kỳ.</strong><img
+                    <p><span style="font-family:'times new roman', times, serif; font-size: 14pt;"><strong>An phúc hưng thịnh với quyền ưu tiên tuyển sinh du học Hoa kỳ.</strong><img
                                 class="size-full wp-image-9539 alignleft"
                                 src="data:image/svg+xml,%3Csvg%20xmlns=&#39;http://www.w3.org/2000/svg&#39;%20viewBox=&#39;0%200%20600%20350&#39;%3E%3C/svg%3E"
                                 alt="" width="600" height="350"
@@ -272,29 +272,29 @@
                                     alt="" width="600" height="350"
                                     srcset="https://baohiem-daiichi.vn/wp-content/uploads/2017/11/an-phuc-hung-thinh-dai-ichi-life.jpg 600w, https://baohiem-daiichi.vn/wp-content/uploads/2017/11/an-phuc-hung-thinh-dai-ichi-life-300x175.jpg 300w, https://baohiem-daiichi.vn/wp-content/uploads/2017/11/an-phuc-hung-thinh-dai-ichi-life-250x146.jpg 250w, https://baohiem-daiichi.vn/wp-content/uploads/2017/11/an-phuc-hung-thinh-dai-ichi-life-50x29.jpg 50w, https://baohiem-daiichi.vn/wp-content/uploads/2017/11/an-phuc-hung-thinh-dai-ichi-life-120x70.jpg 120w"
                                     sizes="(max-width: 600px) 100vw, 600px"/></noscript></span></p>
-                    <p><span style="font-family: &#39;times new roman&#39;, times, serif; font-size: 14pt;">Đặc biệt dành riêng cho những bậc phụ huynh có con nhỏ tham gia hợp đồng bảo hiểm <strong><a
+                    <p><span style="font-family:'times new roman', times, serif; font-size: 14pt;">Đặc biệt dành riêng cho những bậc phụ huynh có con nhỏ tham gia hợp đồng bảo hiểm <strong><a
                                     href="https://baohiem-daiichi.vn/san-pham/an-phuc-hung-thinh/"><span
                                         style="color: #000000;">An Phúc Hưng Thịnh</span></a></strong> và đạt một số điều kiện theo chương trình Quyền Ưu tiên tuyển sinh, sẽ được trao tặng Giấy Chứng nhận Quyền Ưu tiên tuyển sinh du học Hoa Kỳ cho con của mình.</span><br>
-                        <span style="font-family: &#39;times new roman&#39;, times, serif; font-size: 14pt;">Có tên trong danh sách ưu tiên tuyển sinh trong tương lai của 1 trong 3 trường Đại học nổi tiếng thuộc Hệ thống Đại học Quốc tế Laureate tại Hoa Kỳ </span><br>
-                        <span style="font-family: &#39;times new roman&#39;, times, serif; font-size: 14pt;"> nếu đáp ứng các tiêu chuẩn tối thiểu về học lực và tiếng Anh của trường. </span>
+                        <span style="font-family:'times new roman', times, serif; font-size: 14pt;">Có tên trong danh sách ưu tiên tuyển sinh trong tương lai của 1 trong 3 trường Đại học nổi tiếng thuộc Hệ thống Đại học Quốc tế Laureate tại Hoa Kỳ </span><br>
+                        <span style="font-family:'times new roman', times, serif; font-size: 14pt;"> nếu đáp ứng các tiêu chuẩn tối thiểu về học lực và tiếng Anh của trường. </span>
                     </p>
-                    <p><span style="font-family: &#39;times new roman&#39;, times, serif; font-size: 14pt;"><strong><img
+                    <p><span style="font-family:'times new roman', times, serif; font-size: 14pt;"><strong><img
                                     src="data:image/svg+xml,%3Csvg%20xmlns=&#39;http://www.w3.org/2000/svg&#39;%20viewBox=&#39;0%200%200%200&#39;%3E%3C/svg%3E"
                                     data-lazy-src="https://dai-ichi-life.com.vn/images/news/184/696/attribute/47/icon_1.png"><noscript><img
                                         src="https://dai-ichi-life.com.vn/images/news/184/696/attribute/47/icon_1.png"/></noscript>&nbsp;</strong>Được Laureate tư vấn thông tin và hướng dẫn thủ tục nhập học.</span><br>
-                        <span style="font-family: &#39;times new roman&#39;, times, serif; font-size: 14pt;"><img
+                        <span style="font-family:'times new roman', times, serif; font-size: 14pt;"><img
                                 src="data:image/svg+xml,%3Csvg%20xmlns=&#39;http://www.w3.org/2000/svg&#39;%20viewBox=&#39;0%200%200%200&#39;%3E%3C/svg%3E"
                                 data-lazy-src="https://dai-ichi-life.com.vn/images/news/184/696/attribute/47/icon_1.png"><noscript><img
                                     src="https://dai-ichi-life.com.vn/images/news/184/696/attribute/47/icon_1.png"/></noscript>&nbsp;Được quyền chọn năm học và ngành học.</span><br>
-                        <span style="font-family: &#39;times new roman&#39;, times, serif; font-size: 14pt;"><img
+                        <span style="font-family:'times new roman', times, serif; font-size: 14pt;"><img
                                 src="data:image/svg+xml,%3Csvg%20xmlns=&#39;http://www.w3.org/2000/svg&#39;%20viewBox=&#39;0%200%200%200&#39;%3E%3C/svg%3E"
                                 data-lazy-src="https://dai-ichi-life.com.vn/images/news/184/696/attribute/47/icon_1.png"><noscript><img
                                     src="https://dai-ichi-life.com.vn/images/news/184/696/attribute/47/icon_1.png"/></noscript>&nbsp;Được linh hoạt chuyển đổi trường trong Hệ thống Đại học Quốc tế Laureate.</span><br>
-                        <span style="font-family: &#39;times new roman&#39;, times, serif; font-size: 14pt;"><img
+                        <span style="font-family:'times new roman', times, serif; font-size: 14pt;"><img
                                 src="data:image/svg+xml,%3Csvg%20xmlns=&#39;http://www.w3.org/2000/svg&#39;%20viewBox=&#39;0%200%200%200&#39;%3E%3C/svg%3E"
                                 data-lazy-src="https://dai-ichi-life.com.vn/images/news/184/696/attribute/47/icon_1.png"><noscript><img
                                     src="https://dai-ichi-life.com.vn/images/news/184/696/attribute/47/icon_1.png"/></noscript>&nbsp;Cơ hội nhận học bổng của các trường nếu có và đạt đủ điều kiện.</span><br>
-                        <span style="font-family: &#39;times new roman&#39;, times, serif; font-size: 14pt;"><img
+                        <span style="font-family:'times new roman', times, serif; font-size: 14pt;"><img
                                 src="data:image/svg+xml,%3Csvg%20xmlns=&#39;http://www.w3.org/2000/svg&#39;%20viewBox=&#39;0%200%200%200&#39;%3E%3C/svg%3E"
                                 data-lazy-src="https://dai-ichi-life.com.vn/images/news/184/696/attribute/47/icon_1.png"><noscript><img
                                     src="https://dai-ichi-life.com.vn/images/news/184/696/attribute/47/icon_1.png"/></noscript>&nbsp;Quyền lợi này có thể được chuyển từ anh/chị sang em trong cùng một gia đình.</span>

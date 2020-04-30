@@ -112,7 +112,7 @@
                 }</script>
                 <div id="content" class="content" role="main">
                     <h2 style="text-align: center;"><span
-                            style="font-family: &#39;times new roman&#39;, times, serif; font-size: 14pt;">SẢN PHẨM AN THỊNH ĐẦU TƯ DAI ICHI LIFE VIỆT NAM&nbsp;</span><img
+                            style="font-family:'times new roman', times, serif; font-size: 14pt;">SẢN PHẨM AN THỊNH ĐẦU TƯ DAI ICHI LIFE VIỆT NAM&nbsp;</span><img
                             class="wp-image-9659 aligncenter lazyloaded" style="font-size: 16px;"
                             src="./anthinhdautu_files/an-thinh-dau-tu.png" alt="" width="86" height="53"
                             data-lazy-srcset="https://baohiem-daiichi.vn/wp-content/uploads/2017/11/an-thinh-dau-tu.png 546w, https://baohiem-daiichi.vn/wp-content/uploads/2017/11/an-thinh-dau-tu-300x185.png 300w, https://baohiem-daiichi.vn/wp-content/uploads/2017/11/an-thinh-dau-tu-237x146.png 237w, https://baohiem-daiichi.vn/wp-content/uploads/2017/11/an-thinh-dau-tu-50x31.png 50w, https://baohiem-daiichi.vn/wp-content/uploads/2017/11/an-thinh-dau-tu-113x70.png 113w"
@@ -128,7 +128,7 @@
                                        sizes="(max-width: 86px) 100vw, 86px"/></noscript>
                     </h2>
                     <p style="text-align: center;"><span style="color: #ff0000;"><strong><span
-                                    style="font-family: &#39;times new roman&#39;, times, serif; font-size: 14pt;">Trao gửi niềm tin – Đầu tư sáng suốt&nbsp;</span></strong></span>
+                                    style="font-family:'times new roman', times, serif; font-size: 14pt;">Trao gửi niềm tin – Đầu tư sáng suốt&nbsp;</span></strong></span>
                     </p>
                     <p><img class="alignnone wp-image-9664 alignright lazyloaded"
                             src="./anthinhdautu_files/an-thinh-dau-tu-bao-hiem-nhan-tho-dai-ichi-life.jpg" alt=""
@@ -144,21 +144,21 @@
                                    alt="" width="403" height="275"
                                    srcset="https://baohiem-daiichi.vn/wp-content/uploads/2017/11/an-thinh-dau-tu-bao-hiem-nhan-tho-dai-ichi-life.jpg 600w, https://baohiem-daiichi.vn/wp-content/uploads/2017/11/an-thinh-dau-tu-bao-hiem-nhan-tho-dai-ichi-life-300x205.jpg 300w, https://baohiem-daiichi.vn/wp-content/uploads/2017/11/an-thinh-dau-tu-bao-hiem-nhan-tho-dai-ichi-life-214x146.jpg 214w, https://baohiem-daiichi.vn/wp-content/uploads/2017/11/an-thinh-dau-tu-bao-hiem-nhan-tho-dai-ichi-life-50x34.jpg 50w, https://baohiem-daiichi.vn/wp-content/uploads/2017/11/an-thinh-dau-tu-bao-hiem-nhan-tho-dai-ichi-life-103x70.jpg 103w"
                                    sizes="(max-width: 403px) 100vw, 403px"/></noscript>
-                    </p><p><span style="font-family: &#39;times new roman&#39;, times, serif; font-size: 14pt;">Bạn có rất nhiều các kế hoạch tài chính cho tương lai và gia đình nhưng vẫn băn khoăn làm cách nào để gia tăng tài&nbsp;</span><span
-                            style="font-family: &#39;times new roman&#39;, times, serif; font-size: 14pt;">sản nhanh chóng bên cạnh phương thức tiết kiệm thông thường. Đặc biệt, với sự biến động không ngừng của cuộc sống cũng như thị trường tài chính, đòi hỏi bạn phải luôn linh hoạt thay đổi, sắp xếp ưu tiên cho các kế hoạch của mình.</span>
+                    </p><p><span style="font-family:'times new roman', times, serif; font-size: 14pt;">Bạn có rất nhiều các kế hoạch tài chính cho tương lai và gia đình nhưng vẫn băn khoăn làm cách nào để gia tăng tài&nbsp;</span><span
+                            style="font-family:'times new roman', times, serif; font-size: 14pt;">sản nhanh chóng bên cạnh phương thức tiết kiệm thông thường. Đặc biệt, với sự biến động không ngừng của cuộc sống cũng như thị trường tài chính, đòi hỏi bạn phải luôn linh hoạt thay đổi, sắp xếp ưu tiên cho các kế hoạch của mình.</span>
                     </p>
                     <p><span
-                            style="font-family: &#39;times new roman&#39;, times, serif; font-size: 14pt;"><strong><span
+                            style="font-family:'times new roman', times, serif; font-size: 14pt;"><strong><span
                                     style="color: #ff0000;"><a style="color: #ff0000;"
                                                                href="https://baohiem-daiichi.vn/san-pham/an-thinh-dau-tu/">Sản phẩm An Thịnh Đầu Tư</a></span></strong> là một Giải pháp tài chính hoàn hảo với sự kết hợp linh hoạt của <strong>bảo hiểm</strong>, <strong>tiết kiệm</strong>&nbsp;và <strong>đầu tư</strong>. Với tính năng <strong>bảo hiểm</strong>, Bạn và gia đình có thể xóa bỏ những lo âu để thảnh thơi an vui cuộc sống vì luôn được bảo vệ tài chính trước những rủi ro có thể gặp phải trong suốt thời gian bảo hiểm. Tính năng <strong>tiết kiệm&nbsp;</strong>và <strong>đầu tư</strong>&nbsp;đồng thời <strong>bảo vệ sức khỏe</strong>&nbsp; giúp Bạn tích lũy tiền vốn với lãi suất đầu tư an toàn và không ngừng tăng trưởng nhằm đạt được những mục tiêu lớn đã đặt ra cho cuộc sống và sự nghiệp của mình.</span>
                     </p>
                     <p><span
-                            style="font-family: &#39;times new roman&#39;, times, serif; font-size: 14pt;">Với<strong><span
+                            style="font-family:'times new roman', times, serif; font-size: 14pt;">Với<strong><span
                                     style="color: #000000;"> <a style="color: #000000;"
                                                                 href="https://baohiem-daiichi.vn/san-pham/">sản phẩm</a></span></strong> An Thịnh Đầu Tư,<span
                                 style="color: #ff0000;"> <a style="color: #ff0000;" href="https://baohiem-daiichi.vn/">Dai ichi Life Việt Nam</a></span> mang đến cho bạn giải pháp tài chính ưu việt nhất kết hợp giữa <strong>đầu tư</strong> và <strong>bảo hiểm</strong> vừa giúp bạn tăng trưởng tài sản, vừa đáp ứng được nhu cầu thay đổi của bạn trong cuộc sống. Bạn toàn quyền đưa quyết định đầu tư trong hôm nay và linh hoạt thay đổi bất kỳ vào ngày sau.</span>
                     </p>
-                    <h2><span style="font-family: &#39;times new roman&#39;, times, serif; font-size: 14pt;"><strong>An Thịnh Đầu tư – Một giải pháp hoàn hảo cho&nbsp;nhu cầu đầu tư và bảo vệ<img
+                    <h2><span style="font-family:'times new roman', times, serif; font-size: 14pt;"><strong>An Thịnh Đầu tư – Một giải pháp hoàn hảo cho&nbsp;nhu cầu đầu tư và bảo vệ<img
                                     class="alignnone size-full wp-image-9666 alignleft lazyloaded"
                                     src="./anthinhdautu_files/an-thinh-dau-tu-bao-hiem-nhan-tho-dai-ichi-life-12.jpg" alt=""
                                     width="720" height="337"
@@ -173,31 +173,31 @@
                                                                              srcset="https://baohiem-daiichi.vn/wp-content/uploads/2017/11/an-thinh-dau-tu-bao-hiem-nhan-tho-dai-ichi-life-12.jpg 720w, https://baohiem-daiichi.vn/wp-content/uploads/2017/11/an-thinh-dau-tu-bao-hiem-nhan-tho-dai-ichi-life-12-600x281.jpg 600w, https://baohiem-daiichi.vn/wp-content/uploads/2017/11/an-thinh-dau-tu-bao-hiem-nhan-tho-dai-ichi-life-12-300x140.jpg 300w, https://baohiem-daiichi.vn/wp-content/uploads/2017/11/an-thinh-dau-tu-bao-hiem-nhan-tho-dai-ichi-life-12-260x122.jpg 260w, https://baohiem-daiichi.vn/wp-content/uploads/2017/11/an-thinh-dau-tu-bao-hiem-nhan-tho-dai-ichi-life-12-50x23.jpg 50w, https://baohiem-daiichi.vn/wp-content/uploads/2017/11/an-thinh-dau-tu-bao-hiem-nhan-tho-dai-ichi-life-12-150x70.jpg 150w"
                                                                              sizes="(max-width: 720px) 100vw, 720px"/></noscript></strong></span>
                     </h2>
-                    <p><span style="font-family: &#39;times new roman&#39;, times, serif; font-size: 14pt;"><strong><img
+                    <p><span style="font-family:'times new roman', times, serif; font-size: 14pt;"><strong><img
                                     src=""
                                     data-lazy-src="https://dai-ichi-life.com.vn/images/news/184/696/attribute/47/icon_1.png"
                                     class="error" data-was-processed="true"><noscript><img
                                         src="https://dai-ichi-life.com.vn/images/news/184/696/attribute/47/icon_1.png"/></noscript>&nbsp;</strong>Tạo dựng tài sản một cách hiệu quả thông qua sự hỗ trợ đầu tư chuyên nghiệp từ công ty tài chính hàng đầu Nhật Bản.</span>
                     </p>
-                    <p><span style="font-family: &#39;times new roman&#39;, times, serif; font-size: 14pt;"><strong><img
+                    <p><span style="font-family:'times new roman', times, serif; font-size: 14pt;"><strong><img
                                     src="https://dai-ichi-life.com.vn/images/news/184/696/attribute/47/icon_1.png"
                                     data-lazy-src="https://dai-ichi-life.com.vn/images/news/184/696/attribute/47/icon_1.png"
                                     class="error" data-was-processed="true"><noscript><img
                                         src="https://dai-ichi-life.com.vn/images/news/184/696/attribute/47/icon_1.png"/></noscript>&nbsp;&nbsp;</strong>Dành cho bạn sự lựa chọn thích hợp từ 3 giải pháp đầu tư khác nhau để tăng nguồn vốn từ cổ phiếu, trái phiếu hoặc tiền gửi các tổ chức tín dụng.</span>
                     </p>
-                    <p><span style="font-family: &#39;times new roman&#39;, times, serif; font-size: 14pt;"><strong><img
+                    <p><span style="font-family:'times new roman', times, serif; font-size: 14pt;"><strong><img
                                     src="https://dai-ichi-life.com.vn/images/news/184/696/attribute/47/icon_1.png"
                                     data-lazy-src="https://dai-ichi-life.com.vn/images/news/184/696/attribute/47/icon_1.png"
                                     class="error" data-was-processed="true"><noscript><img
                                         src="https://dai-ichi-life.com.vn/images/news/184/696/attribute/47/icon_1.png"/></noscript>&nbsp;&nbsp;</strong>Khoản thưởng duy trì hợp đồng thường xuyên cho sự gắn kết vững bền.</span>
                     </p>
-                    <p><span style="font-family: &#39;times new roman&#39;, times, serif; font-size: 14pt;"><strong><img
+                    <p><span style="font-family:'times new roman', times, serif; font-size: 14pt;"><strong><img
                                     src="https://dai-ichi-life.com.vn/images/news/184/696/attribute/47/icon_1.png"
                                     data-lazy-src="https://dai-ichi-life.com.vn/images/news/184/696/attribute/47/icon_1.png"
                                     class="error" data-was-processed="true"><noscript><img
                                         src="https://dai-ichi-life.com.vn/images/news/184/696/attribute/47/icon_1.png"/></noscript>&nbsp;&nbsp;</strong>Bảo vệ toàn diện cuộc sống gia đình bạn với bảo hiểm nhân thọ và nhiều lựa chọn bảo vệ khác phòng khi bệnh hiểm nghèo, nằm viện hoặc tai nạn.</span>
                     </p>
-                    <p><span style="font-family: &#39;times new roman&#39;, times, serif; font-size: 14pt;"><strong><img
+                    <p><span style="font-family:'times new roman', times, serif; font-size: 14pt;"><strong><img
                                     src="https://dai-ichi-life.com.vn/images/news/184/696/attribute/47/icon_1.png"
                                     data-lazy-src="https://dai-ichi-life.com.vn/images/news/184/696/attribute/47/icon_1.png"
                                     class="error" data-was-processed="true"><noscript><img

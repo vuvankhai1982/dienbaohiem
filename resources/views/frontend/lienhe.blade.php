@@ -325,7 +325,7 @@
                                                                 <div class="aio-icon-description ult-responsive"
                                                                      data-ultimate-target="#Info-box-wrap-2776 .aio-icon-description"
                                                                      data-responsive-json-new="{&quot;font-size&quot;:&quot;desktop:18px;&quot;,&quot;line-height&quot;:&quot;desktop:24px;&quot;}"
-                                                                     style="font-family:&#39;Open Sans Condensed&#39;;font-weight:700;">
+                                                                     style="font-family:'Open Sans Condensed';;font-weight:700;">
                                                                     <p>Số 49B, đường Hùng Vương, phường 4, quận 5,
                                                                         TP.HCM</p></div>
                                                             </div>
@@ -353,7 +353,7 @@
                                                                 <div class="aio-icon-description ult-responsive"
                                                                      data-ultimate-target="#Info-box-wrap-1428 .aio-icon-description"
                                                                      data-responsive-json-new="{&quot;font-size&quot;:&quot;desktop:18px;&quot;,&quot;line-height&quot;:&quot;desktop:24px;&quot;}"
-                                                                     style="font-family:&#39;Open Sans Condensed&#39;;font-weight:700;">
+                                                                     style="font-family:'Open Sans Condensed';;font-weight:700;">
                                                                     <p>0937.068.573</p></div>
                                                             </div>
                                                         </div>
@@ -380,7 +380,7 @@
                                                                 <div class="aio-icon-description ult-responsive"
                                                                      data-ultimate-target="#Info-box-wrap-8177 .aio-icon-description"
                                                                      data-responsive-json-new="{&quot;font-size&quot;:&quot;desktop:18px;&quot;,&quot;line-height&quot;:&quot;desktop:24px;&quot;}"
-                                                                     style="font-family:&#39;Open Sans Condensed&#39;;font-weight:700;">
+                                                                     style="font-family:'Open Sans Condensed';;font-weight:700;">
                                                                     <p>info@baohiem-daiichi.vn</p></div>
                                                             </div>
                                                         </div>
@@ -412,7 +412,7 @@
                                                                 <div class="aio-icon-description ult-responsive"
                                                                      data-ultimate-target="#Info-box-wrap-9014 .aio-icon-description"
                                                                      data-responsive-json-new="{&quot;font-size&quot;:&quot;desktop:18px;&quot;,&quot;line-height&quot;:&quot;desktop:24px;&quot;}"
-                                                                     style="font-family:&#39;Open Sans Condensed&#39;;font-weight:700;">
+                                                                     style="font-family:'Open Sans Condensed';;font-weight:700;">
                                                                     <a class="aio-icon-box-link"
                                                                        href="https://baohiem-daiichi.vn/lien-he/"></a><a
                                                                         href="https://www.facebook.com/groups/baohiemnhanthovietnamofficial/">Nhóm
@@ -445,7 +445,7 @@
                                                                     <div class="aio-icon-description ult-responsive"
                                                                          data-ultimate-target="#Info-box-wrap-3868 .aio-icon-description"
                                                                          data-responsive-json-new="{&quot;font-size&quot;:&quot;desktop:18px;&quot;,&quot;line-height&quot;:&quot;desktop:24px;&quot;}"
-                                                                         style="font-family:&#39;Open Sans Condensed&#39;;font-weight:700;">
+                                                                         style="font-family:'Open Sans Condensed';font-weight:700;">
                                                                         Facebook
                                                                     </div>
                                                                 </div>
@@ -475,7 +475,7 @@
                                                                     <div class="aio-icon-description ult-responsive"
                                                                          data-ultimate-target="#Info-box-wrap-8635 .aio-icon-description"
                                                                          data-responsive-json-new="{&quot;font-size&quot;:&quot;desktop:18px;&quot;,&quot;line-height&quot;:&quot;desktop:24px;&quot;}"
-                                                                         style="font-family:&#39;Open Sans Condensed&#39;;font-weight:700;">
+                                                                         style="font-family:'Open Sans Condensed';;font-weight:700;">
                                                                         www.baohiem-daiichi.vn
                                                                     </div>
                                                                 </div>
@@ -489,7 +489,7 @@
                                         <figure class="wpb_wrapper vc_figure">
                                             <div class="vc_single_image-wrapper   vc_box_border_grey"><img
                                                     class="vc_single_image-img lazyloaded"
-                                                    src="./lienhe_files/nguyen-cao-ky-dai-ichi-life-viet-nam-550x400.jpg"
+                                                    src="./index_files/nguyen-cao-ky-dai-ichi-life-viet-nam-550x400.jpg"
                                                     width="550" height="400" alt="nguyen-cao-ky-dai-ichi-life-viet-nam"
                                                     title="nguyen-cao-ky-dai-ichi-life-viet-nam"
                                                     data-dt-location="https://baohiem-daiichi.vn/lien-he/attachment/nguyen-cao-ky-dai-ichi-life-viet-nam/"
