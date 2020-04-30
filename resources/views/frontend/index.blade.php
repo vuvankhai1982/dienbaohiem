@@ -1,5 +1,100 @@
 @extends('frontend.layout')
 @section('content')
+    <div id="main" class="sidebar-none sidebar-divider-vertical" style="padding-top:0px; padding-bottom:0px;">
+        <div class="main-gradient"></div>
+        <div class="wf-wrap">
+            <div class="wf-container-main">
+                <script type="application/ld+json">{
+                    "@context": "https://schema.org/",
+                    "@type": "Insurance Agency",
+                    "@id": "https://baohiem-daiichi.vn/",
+                    "url": "https://baohiem-daiichi.vn/",
+                    "logo": "https://baohiem-daiichi.vn/wp-content/uploads/2019/04/logo-dai-ichi-160.png",
+                    "image": "https://baohiem-daiichi.vn/wp-content/uploads/2017/11/tru-so-chinh-dai-ichi-life-viet-nam.jpg",
+                    "priceRange": "1000$-30000$",
+                    "hasMap": "https://g.page/baohiemnhanthodaiichilife?share",
+                    "email": "mailto:info@baohiem-daiichi.vn			",
+                    "founder": "Dai-ichi",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Quậnn 5",
+                        "addressCountry": "VIỆT NAM",
+                        "addressRegion": "Hồ Chí Minh",
+                        "postalCode": "700000",
+                        "streetAddress": "Số 49B Đường Hùng Vương, Phường 4, Quận 5, Hồ Chí Minh 700000, Việt Nam"
+                    },
+                    "description": "Bảo hiểm nhân thọ Dai ichi life Việt Nam, 100% vốn từ Nhật Bản, Dai ichi life công ty BHNT tốt nhất Việt Nam. Sản phẩm chất lượng uy tín, dịch vụ hoàn hảo.",
+                    "name": "Bảo hiểm nhân thọ Dai-ichi life",
+                    "telephone": "0937-068-573",
+                    "openingHoursSpecification": [
+                        {
+                            "@type": "OpeningHoursSpecification",
+                            "dayOfWeek": [
+                                "Monday",
+                                "Tuesday",
+                                "Wednesday",
+                                "Thursday",
+                                "Friday"
+                            ],
+                            "opens": "08:30",
+                            "closes": "18:00"
+                        },
+                        {
+                            "@type": "OpeningHoursSpecification",
+                            "dayOfWeek": [
+                                "Saturday"
+                            ],
+                            "opens": "8:30",
+                            "closes": "11:30"
+                        }
+                    ],
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": "10.7630297",
+                        "longitude": "106.6605977"
+                    },
+                    "potentialAction": {
+                        "@type": "ReserveAction",
+                        "target": {
+                            "@type": "EntryPoint",
+                            "urlTemplate": "https://baohiem-daiichi.vn/lien-he/",
+                            "inLanguage": "vn",
+                            "actionPlatform": [
+                                "http://schema.org/DesktopWebPlatform",
+                                "http://schema.org/IOSPlatform",
+                                "http://schema.org/AndroidPlatform"
+                            ]
+                        },
+                        "result": {
+                            "@type": "Reservation",
+                            "name": "đăng kí"
+                        }
+                    },
+                    "sameAs": [
+                        "https://www.facebook.com/baohiem.daiichi.54",
+                        "https://www.youtube.com/channel/UCp-e5tCH98GzJFVxtltLgwQ?view_as=subscriber",
+                        "https://twitter.com/daiichi_life",
+                        "https://www.instagram.com/baohiem.daiichivn/",
+                        "https://www.linkedin.com/in/daiichilife/",
+                        "https://www.pinterest.com/baohiemdaiichilife/",
+                        "https://medium.com/@daiichilife",
+                        "https://www.tumblr.com/blog/daiichilife"
+                    ]
+                }</script>
+                <script type="application/ld+json">{
+                    "@context": "http://schema.org",
+                    "@type": "Person",
+                    "name": "Dai-ichi",
+                    "jobTitle": "Ceo",
+                    "image": "https://baohiem-daiichi.vn/wp-content/uploads/2019/04/logo-dai-ichi-160.png",
+                    "worksFor": "Bảo hiểm nhân thọ Dai-ichi life",
+                    "url": "https://baohiem-daiichi.vn/",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Ho Chi Minh",
+                        "addressRegion": "vietnam"
+                    }
+                }</script>
                  <div id="content" class="content" role="main">
                     <div data-elementor-type="wp-page" data-elementor-id="10939" class="elementor elementor-10939"
                          data-elementor-settings="[]">
