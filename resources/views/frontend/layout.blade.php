@@ -263,10 +263,10 @@
           href="https://baohiem-daiichi.vn/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css" media="screen">
     <![endif]-->
     <!--them css-->
-    <link rel="stylesheet" type="text/css"
-          href="./index_files/98f4c37094c1dfa87159ca0acfdb44d3.css">
-    <link rel="stylesheet" type="text/css"
-          href="./index_files/39b28aff5df971e2ac2b0cca792aa098.css">
+    <link rel="stylesheet" type="text/css" href="./index_files/98f4c37094c1dfa87159ca0acfdb44d3.css">
+    <link rel="stylesheet" type="text/css" href="./index_files/39b28aff5df971e2ac2b0cca792aa098.css">
+    <link rel="stylesheet" type="text/css" href="./index_files/46d37cdbe40784a21703e3b444b712be.css">
+    <link rel="stylesheet" type="text/css" href="./index_files/46fc1a3b0f6f5064d9abf0aa8cb09ffd.css">
 
     <!--endthem css-->
     <meta name="onesignal" content="wordpress-plugin">
