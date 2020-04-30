@@ -98,7 +98,7 @@
                 <div id="content" class="content" role="main"><h2>BẢO HIỂM NHÂN THỌ DAI-ICHI LIFE VIỆT NAM.</h2>
                     <div id="attachment_9812" style="width: 500px" class="wp-caption alignright"><img
                             aria-describedby="caption-attachment-9812" title="Gới thiệu Bảo Hiểm Dai ichi life"
-                            src="./gioithieu_files/tru-so-chinh-dai-ichi-life-viet-nam.jpg"
+                            src="./index_files/tru-so-chinh-dai-ichi-life-viet-nam.jpg"
                             alt="Gới thiệu Bảo Hiểm Dai ichi life" width="490" height="850"
                             data-lazy-src="http://baohiem-daiichi.vn/wp-content/uploads/2017/11/tru-so-chinh-dai-ichi-life-viet-nam.jpg"
                             class="lazyloaded" data-was-processed="true">
@@ -275,7 +275,7 @@
                     <div class="sidebar-content widget-divider-off">
                         <section id="text-3" class="widget widget_text">
                             <div class="textwidget"><p><img class="alignnone size-large wp-image-11014 lazyloaded"
-                                                            src="./gioithieu_files/nguyen-cao-ky-dai-ichi-life-viet-nam-1024x959.jpg"
+                                                            src="./index_files/nguyen-cao-ky-dai-ichi-life-viet-nam-1024x959.jpg"
                                                             alt="" width="1024" height="959"
                                                             data-lazy-src="https://baohiem-daiichi.vn/wp-content/uploads/2020/03/nguyen-cao-ky-dai-ichi-life-viet-nam-1024x959.jpg"
                                                             data-was-processed="true">
