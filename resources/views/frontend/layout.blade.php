@@ -17,8 +17,8 @@
     <link rel="profile" href="https://gmpg.org/xfn/11">
     <title>BẢO HIỂM NHÂN THỌ DAI-ICHI LIFE VIỆT NAM CHẤT LƯỢNG NHẬT</title>
     <link rel="stylesheet" href="./index_files/css(1)">
-    <link rel="stylesheet" href="./index_files/46fc1a3b0f6f5064d9abf0aa8cb09ffd.css" data-minify="1">
-    <link rel="stylesheet" href="./index_files/46d37cdbe40784a21703e3b444b712be.css" data-cur-page="1">
+    <link rel="stylesheet" href="./index_files/46fc1a3b0f6f5064d9abf0aa8cb09ffd.css" >
+    <link rel="stylesheet" href="./index_files/46d37cdbe40784a21703e3b444b712be.css" >
     <meta name="description"
           content="Bảo hiểm nhân thọ Dai-ichi life Việt Nam, 100% vốn từ Nhật Bản, Dai ichi life công ty BHNT tốt nhất Việt Nam. Sản phẩm chất lượng uy tín, dịch vụ hoàn hảo.">
     <meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1">
@@ -260,14 +260,14 @@
     <meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress.">
     <!--[if lte IE 9]>
     <link rel="stylesheet" type="text/css"
-          href="https://baohiem-daiichi.vn/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css" media="screen">
+          href="./index_files/vc_lte_ie9.min.css" media="screen">
     <![endif]-->
     <!--them css-->
-    <link rel="stylesheet" type="text/css" href="./index_files/98f4c37094c1dfa87159ca0acfdb44d3.css">
-    <link rel="stylesheet" type="text/css" href="./index_files/39b28aff5df971e2ac2b0cca792aa098.css">
-    <link rel="stylesheet" type="text/css" href="./index_files/46d37cdbe40784a21703e3b444b712be.css">
-    <link rel="stylesheet" type="text/css" href="./index_files/46fc1a3b0f6f5064d9abf0aa8cb09ffd.css">
-
+{{--    <link rel="stylesheet" type="text/css" href="/index_files/98f4c37094c1dfa87159ca0acfdb44d3.css">--}}
+{{--    <link rel="stylesheet" type="text/css" href="/index_files/39b28aff5df971e2ac2b0cca792aa098.css">--}}
+{{--    <link rel="stylesheet" type="text/css" href="/index_files/46d37cdbe40784a21703e3b444b712be.css">--}}
+{{--    <link rel="stylesheet" type="text/css" href="/index_files/46fc1a3b0f6f5064d9abf0aa8cb09ffd.css">--}}
+{{--    <link rel="stylesheet" type="text/css" href="/index_files/css">--}}
     <!--endthem css-->
     <meta name="onesignal" content="wordpress-plugin">
     <link rel="icon"
@@ -536,7 +536,7 @@
     </div>
     @yield('content')
 <footer id="footer" class="footer solid-bg footer-outline-decoration" style="background-image: url('/index_files/footer.jpg');
-  background-repeat:repeat;background-position: center; ">
+  background-repeat:repeat;background-position: center;">
     <div class="wf-wrap">
         <div class="wf-container-footer">
             <div class="wf-container">
