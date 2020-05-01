@@ -263,11 +263,11 @@
           href="./index_files/vc_lte_ie9.min.css" media="screen">
     <![endif]-->
     <!--them css-->
-{{--    <link rel="stylesheet" type="text/css" href="/index_files/98f4c37094c1dfa87159ca0acfdb44d3.css">--}}
-{{--    <link rel="stylesheet" type="text/css" href="/index_files/39b28aff5df971e2ac2b0cca792aa098.css">--}}
-{{--    <link rel="stylesheet" type="text/css" href="/index_files/46d37cdbe40784a21703e3b444b712be.css">--}}
-{{--    <link rel="stylesheet" type="text/css" href="/index_files/46fc1a3b0f6f5064d9abf0aa8cb09ffd.css">--}}
-{{--    <link rel="stylesheet" type="text/css" href="/index_files/css">--}}
+    <link rel="stylesheet" type="text/css" href="/index_files/98f4c37094c1dfa87159ca0acfdb44d3.css">
+    <link rel="stylesheet" type="text/css" href="/index_files/39b28aff5df971e2ac2b0cca792aa098.css">
+    <link rel="stylesheet" type="text/css" href="/index_files/46d37cdbe40784a21703e3b444b712be.css">
+    <link rel="stylesheet" type="text/css" href="/index_files/46fc1a3b0f6f5064d9abf0aa8cb09ffd.css">
+    <link rel="stylesheet" type="text/css" href="/index_files/css">
     <!--endthem css-->
     <meta name="onesignal" content="wordpress-plugin">
     <link rel="icon"
@@ -1006,7 +1006,9 @@
             observer.observe(b, config)
         }
     }, !1)</script>
-<script data-no-minify="1" async="" src="./index_files/lazyload.min.js"></script>
+{{--<script data-no-minify="1" async="" src="./index_files/lazyload.min.js"></script>--}}
+{{--<script  async="" src="./index_files/remote.js"></script>--}}
+
 <div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
     <div class="pswp__bg"></div>
     <div class="pswp__scroll-wrap">

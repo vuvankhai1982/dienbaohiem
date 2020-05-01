@@ -204,7 +204,7 @@
                                                                              dir="ltr" data-animation="fadeInUp">
                                                                             <div class="swiper-wrapper elementor-slides">
                                                                                 <div class="elementor-repeater-item-683f545 swiper-slide">
-                                                                                    <div class="swiper-slide-bg"></div>
+                                                                                    <div class="swiper-slide-bg" style=" background-image: url('/index_files/bao-hiem-suc-khoe-dai-ichi-life-1.jpg'); background-size: cover;"></div>
                                                                                     <div class="swiper-slide-inner">
                                                                                         <div class="swiper-slide-contents"></div>
                                                                                     </div>
@@ -380,26 +380,26 @@
                                                                 <div class="elementor-widget-container">
                                                                     <div class="elementor-text-editor elementor-clearfix">
                                                                         <p style="text-align: center;"><span
-                                                                                style="font-family: &#39;times new roman&#39;, times, serif; font-size: 14pt; color: #000000;"><strong>Bảo hiểm chăm sóc sức khỏe Dai-ichi life tự hào là vệ sĩ đắc lực cho gia đình bạn.</strong></span>
+                                                                                style="font-family:'times new roman', times, serif; font-size: 14pt; color: #000000;"><strong>Bảo hiểm chăm sóc sức khỏe Dai-ichi life tự hào là vệ sĩ đắc lực cho gia đình bạn.</strong></span>
                                                                         </p>
                                                                         <p><span
-                                                                                style="font-family: &#39;times new roman&#39;, times, serif; font-size: 14pt; color: #000000;">=&gt; Chỉ cần tiết Kiệm thêm&nbsp;<strong>5.000đ</strong>&nbsp;mỗi ngày để bảo vệ sức khỏe cho con cái và&nbsp;<strong>7.000đ</strong>&nbsp;mỗi ngày để bảo vệ sức khỏe cho bản thân.</span>
+                                                                                style="font-family:'times new roman', times, serif; font-size: 14pt; color: #000000;">=&gt; Chỉ cần tiết Kiệm thêm&nbsp;<strong>5.000đ</strong>&nbsp;mỗi ngày để bảo vệ sức khỏe cho con cái và&nbsp;<strong>7.000đ</strong>&nbsp;mỗi ngày để bảo vệ sức khỏe cho bản thân.</span>
                                                                         </p>
                                                                         <ul>
                                                                             <li><span
-                                                                                    style="font-family: &#39;times new roman&#39;, times, serif; font-size: 14pt; color: #000000;">Mức bảo hiểm cho mỗi bệnh lên đến 630 triệu đồng, không tính theo mỗi năm.</span>
+                                                                                    style="font-family:'times new roman', times, serif; font-size: 14pt; color: #000000;">Mức bảo hiểm cho mỗi bệnh lên đến 630 triệu đồng, không tính theo mỗi năm.</span>
                                                                             </li>
                                                                             <li><span
-                                                                                    style="font-family: &#39;times new roman&#39;, times, serif; font-size: 14pt; color: #000000;">Bảo vệ toàn diện với quyền lợi điều trị nội trú, ngoại trú và chăm sóc răng.</span>
+                                                                                    style="font-family:'times new roman', times, serif; font-size: 14pt; color: #000000;">Bảo vệ toàn diện với quyền lợi điều trị nội trú, ngoại trú và chăm sóc răng.</span>
                                                                             </li>
                                                                             <li><span
-                                                                                    style="font-family: &#39;times new roman&#39;, times, serif; font-size: 14pt; color: #000000;">Cả gia đình được bảo vệ trong cùng một hợp đồng.</span>
+                                                                                    style="font-family:'times new roman', times, serif; font-size: 14pt; color: #000000;">Cả gia đình được bảo vệ trong cùng một hợp đồng.</span>
                                                                             </li>
                                                                             <li><span
-                                                                                    style="font-family: &#39;times new roman&#39;, times, serif; font-size: 14pt; color: #000000;">Chương trình bảo hiểm linh hoạt đạ dạng với gói (phổ thông – đặc biệt – cao cấp)</span>
+                                                                                    style="font-family:'times new roman', times, serif; font-size: 14pt; color: #000000;">Chương trình bảo hiểm linh hoạt đạ dạng với gói (phổ thông – đặc biệt – cao cấp)</span>
                                                                             </li>
                                                                             <li><span
-                                                                                    style="font-family: &#39;times new roman&#39;, times, serif; font-size: 14pt; color: #000000;">Bảo lãnh thanh toán viện phí 100% với mạng lưới bệnh viện rộng khắp Việt Nam.</span>
+                                                                                    style="font-family:'times new roman', times, serif; font-size: 14pt; color: #000000;">Bảo lãnh thanh toán viện phí 100% với mạng lưới bệnh viện rộng khắp Việt Nam.</span>
                                                                             </li>
                                                                         </ul>
                                                                     </div>
@@ -1749,7 +1749,7 @@
                                                                 <div class="elementor-widget-container">
                                                                     <div class="elementor-text-editor elementor-clearfix">
                                                                         <p style="text-align: center;"><span
-                                                                                style="font-family: &#39;times new roman&#39;, times, serif; font-size: 14pt; color: #000000;">Dưới đây là so sánh nhỏ giúp bạn thấy rõ được những lợi ích của bảo hiểm chăm sóc sức khỏe.Quên đi nỗi ám ảnh của dịch vụ y tế truyền thông. Nâng cao chất lượng chăm sóc sức khỏe. Bảo về gia đình thân yêu.</span>
+                                                                                style="font-family:'times new roman', times, serif; font-size: 14pt; color: #000000;">Dưới đây là so sánh nhỏ giúp bạn thấy rõ được những lợi ích của bảo hiểm chăm sóc sức khỏe.Quên đi nỗi ám ảnh của dịch vụ y tế truyền thông. Nâng cao chất lượng chăm sóc sức khỏe. Bảo về gia đình thân yêu.</span>
                                                                         </p></div>
                                                                 </div>
                                                             </div>
@@ -2043,10 +2043,10 @@
                                                                                         chăm sóc sức khỏe dai-ichi life
                                                                                         Việt Nam</p></div>
                                                                                 <p><span
-                                                                                        style="font-family: &#39;times new roman&#39;, times, serif; font-size: 14pt; color: #000000;">Bảo hiểm Chăm sóc sức khỏe mang đến cho bạn 3 chương trình bảo hiểm với quyền lợi điều trị nội trú và 2 quyền lợi tùy chọn ngoại trú và chăm sóc răng, đáp ứng tốt nhất nhu cầu chăm sóc sức khỏe của bạn và gia đình.</span>
+                                                                                        style="font-family:'times new roman', times, serif; font-size: 14pt; color: #000000;">Bảo hiểm Chăm sóc sức khỏe mang đến cho bạn 3 chương trình bảo hiểm với quyền lợi điều trị nội trú và 2 quyền lợi tùy chọn ngoại trú và chăm sóc răng, đáp ứng tốt nhất nhu cầu chăm sóc sức khỏe của bạn và gia đình.</span>
                                                                                 </p>
                                                                                 <p><span
-                                                                                        style="font-family: &#39;times new roman&#39;, times, serif; font-size: 14pt; color: #000000;">Bạn và gia đình sẽ không còn lo lắng về chi phí y tế trong quá trình điều trị nội trú, ngoại trú và chăm sóc răng. Dai-ichi Life Việt Nam sẽ hỗ trợ chi trả các chi phí điều trị hợp lý và cần thiết về mặt y khoa theo các quyền lợi và mức chi trả tối đa theo Chương trình bảo hiểm khách hàng lựa chọn như sau:</span>
+                                                                                        style="font-family:'times new roman', times, serif; font-size: 14pt; color: #000000;">Bạn và gia đình sẽ không còn lo lắng về chi phí y tế trong quá trình điều trị nội trú, ngoại trú và chăm sóc răng. Dai-ichi Life Việt Nam sẽ hỗ trợ chi trả các chi phí điều trị hợp lý và cần thiết về mặt y khoa theo các quyền lợi và mức chi trả tối đa theo Chương trình bảo hiểm khách hàng lựa chọn như sau:</span>
                                                                                 </p></div>
                                                                         </div>
                                                                         <div class="elementor-toggle-item">
@@ -2067,10 +2067,10 @@
                                                                                  data-tab="2" role="tabpanel"
                                                                                  aria-labelledby="elementor-tab-title-1132">
                                                                                 <p><span
-                                                                                        style="font-family: &#39;times new roman&#39;, times, serif; color: #000000; font-size: 14pt;">Trong thời gian hiệu lực của hợp đồng và sau thời gian loại trừ như quy định, khách hàng sẽ được chi trả các chi phí y tế thực tế và hợp lý cần thiết về mặt y khoa trong thời gian nhập viện điều trị cho các chi phí như sau:</span>
+                                                                                        style="font-family:'times new roman', times, serif; color: #000000; font-size: 14pt;">Trong thời gian hiệu lực của hợp đồng và sau thời gian loại trừ như quy định, khách hàng sẽ được chi trả các chi phí y tế thực tế và hợp lý cần thiết về mặt y khoa trong thời gian nhập viện điều trị cho các chi phí như sau:</span>
                                                                                 </p>
                                                                                 <p><span
-                                                                                        style="font-family: &#39;times new roman&#39;, times, serif; color: #000000; font-size: 14pt;"><img
+                                                                                        style="font-family:'times new roman', times, serif; color: #000000; font-size: 14pt;"><img
                                                                                             class="size-full wp-image-9829 aligncenter"
                                                                                             src="data:image/svg+xml,%3Csvg%20xmlns=&#39;http://www.w3.org/2000/svg&#39;%20viewBox=&#39;0%200%201284%201028&#39;%3E%3C/svg%3E"
                                                                                             alt="" width="1284"
@@ -2086,8 +2086,8 @@
                                                                                                 sizes="(max-width: 1284px) 100vw, 1284px"/></noscript></span>
                                                                                 </p>
                                                                                 <p><span
-                                                                                        style="font-family: &#39;times new roman&#39;, times, serif; color: #000000; font-size: 14pt;">Số tiền chi trả của các hạng mục trong quyền lợi điều trị nội trú sẽ không vượt quá giới hạn chi trả tối đa của mỗi hạng mục của quyền lợi điều trị nội trú theo Chương trình bảo hiểm khách hàng đã lựa chọn.</span><br><span
-                                                                                        style="font-family: &#39;times new roman&#39;, times, serif; color: #000000; font-size: 14pt;">Trong mọi trường hợp, tổng số tiền chi trả cho quyền lợi điều trị nội trú của một Bệnh tật/Thương tật không vượt quá Quyền lợi tối đa của một Bệnh tật/Thương tật theo Chương trình bảo hiểm của sản phẩm Bảo hiểm Chăm sóc sức khỏe.</span>
+                                                                                        style="font-family:'times new roman', times, serif; color: #000000; font-size: 14pt;">Số tiền chi trả của các hạng mục trong quyền lợi điều trị nội trú sẽ không vượt quá giới hạn chi trả tối đa của mỗi hạng mục của quyền lợi điều trị nội trú theo Chương trình bảo hiểm khách hàng đã lựa chọn.</span><br><span
+                                                                                        style="font-family:'times new roman', times, serif; color: #000000; font-size: 14pt;">Trong mọi trường hợp, tổng số tiền chi trả cho quyền lợi điều trị nội trú của một Bệnh tật/Thương tật không vượt quá Quyền lợi tối đa của một Bệnh tật/Thương tật theo Chương trình bảo hiểm của sản phẩm Bảo hiểm Chăm sóc sức khỏe.</span>
                                                                                 </p></div>
                                                                         </div>
                                                                         <div class="elementor-toggle-item">
@@ -2109,8 +2109,8 @@
                                                                                  data-tab="3" role="tabpanel"
                                                                                  aria-labelledby="elementor-tab-title-1133">
                                                                                 <p><span
-                                                                                        style="font-family: &#39;times new roman&#39;, times, serif; font-size: 14pt; color: #000000;">Số tiền chi trả của các hạng mục trong quyền lợi điều trị nội trú sẽ không vượt quá giới hạn chi trả tối đa của mỗi hạng mục của quyền lợi điều trị nội trú theo Chương trình bảo hiểm khách hàng đã lựa chọn.</span><br><span
-                                                                                        style="font-family: &#39;times new roman&#39;, times, serif; font-size: 14pt; color: #000000;">Trong mọi trường hợp, tổng số tiền chi trả cho quyền lợi điều trị nội trú của một Bệnh tật/Thương tật không vượt quá Quyền lợi tối đa của một Bệnh tật/Thương tật theo Chương trình bảo hiểm của sản phẩm Bảo hiểm Chăm sóc sức khỏe.</span>
+                                                                                        style="font-family:'times new roman', times, serif; font-size: 14pt; color: #000000;">Số tiền chi trả của các hạng mục trong quyền lợi điều trị nội trú sẽ không vượt quá giới hạn chi trả tối đa của mỗi hạng mục của quyền lợi điều trị nội trú theo Chương trình bảo hiểm khách hàng đã lựa chọn.</span><br><span
+                                                                                        style="font-family:'times new roman', times, serif; font-size: 14pt; color: #000000;">Trong mọi trường hợp, tổng số tiền chi trả cho quyền lợi điều trị nội trú của một Bệnh tật/Thương tật không vượt quá Quyền lợi tối đa của một Bệnh tật/Thương tật theo Chương trình bảo hiểm của sản phẩm Bảo hiểm Chăm sóc sức khỏe.</span>
                                                                                 </p>
                                                                                 <p>&nbsp;</p>
                                                                                 <p>&nbsp;</p>
@@ -2176,7 +2176,7 @@
                                                                                  data-tab="4" role="tabpanel"
                                                                                  aria-labelledby="elementor-tab-title-1134">
                                                                                 <p><span
-                                                                                        style="font-family: &#39;times new roman&#39;, times, serif; font-size: 14pt; color: #000000;">Trong thời gian hiệu lực của hợp đồng và sau thời gian loại trừ như quy định, nếu chi phí y tế thực tế lớn chi phí điều trị ngoại trú tối thiểu theo quy định, Dai-ichi Life Việt Nam sẽ chi trả các chi phí y tế thực tế cho các điều trị ngoại trú như sau:</span>
+                                                                                        style="font-family:'times new roman', times, serif; font-size: 14pt; color: #000000;">Trong thời gian hiệu lực của hợp đồng và sau thời gian loại trừ như quy định, nếu chi phí y tế thực tế lớn chi phí điều trị ngoại trú tối thiểu theo quy định, Dai-ichi Life Việt Nam sẽ chi trả các chi phí y tế thực tế cho các điều trị ngoại trú như sau:</span>
                                                                                 </p>
                                                                                 <p>
                                                                                     <img class="size-full wp-image-10685 aligncenter"
@@ -2214,8 +2214,8 @@
                                                                                  data-tab="5" role="tabpanel"
                                                                                  aria-labelledby="elementor-tab-title-1135">
                                                                                 <p><span
-                                                                                        style="font-family: &#39;times new roman&#39;, times, serif; font-size: 14pt; color: #000000;">Số tiền chi trả của các hạng mục trong quyền lợi điều trị ngoại trú sẽ không vượt quá giới hạn chi trả tối đa của mỗi hạng mục của quyền lợi điều trị ngoại trú theo Chương trình bảo hiểm khách hàng đã lựa chọn.</span><br><span
-                                                                                        style="font-family: &#39;times new roman&#39;, times, serif; font-size: 14pt; color: #000000;">Trong mọi trường hợp, tổng số tiền chi trả cho quyền lợi điều trị ngoại trú của một Bệnh tật/Thương tật không vượt quá Quyền lợi tối đa của một Bệnh tật/Thương tật theo Chương trình bảo hiểm của sản phẩm Bảo hiểm Chăm sóc sức khỏe.</span>
+                                                                                        style="font-family:'times new roman', times, serif; font-size: 14pt; color: #000000;">Số tiền chi trả của các hạng mục trong quyền lợi điều trị ngoại trú sẽ không vượt quá giới hạn chi trả tối đa của mỗi hạng mục của quyền lợi điều trị ngoại trú theo Chương trình bảo hiểm khách hàng đã lựa chọn.</span><br><span
+                                                                                        style="font-family:'times new roman', times, serif; font-size: 14pt; color: #000000;">Trong mọi trường hợp, tổng số tiền chi trả cho quyền lợi điều trị ngoại trú của một Bệnh tật/Thương tật không vượt quá Quyền lợi tối đa của một Bệnh tật/Thương tật theo Chương trình bảo hiểm của sản phẩm Bảo hiểm Chăm sóc sức khỏe.</span>
                                                                                 </p>
                                                                                 <p>
                                                                                     <img class="size-full wp-image-10708 aligncenter"
@@ -2251,13 +2251,13 @@
                                                                                  data-tab="6" role="tabpanel"
                                                                                  aria-labelledby="elementor-tab-title-1136">
                                                                                 <p><span
-                                                                                        style="font-family: &#39;times new roman&#39;, times, serif; font-size: 14pt; color: #000000;">Trong thời gian hiệu lực của hợp đồng, nếu khách hàng có tham gia quyền lợi tùy chọn Chăm sóc răng và chi phí điều trị nha khoa thực tế lớn hơn chi phí điều trị ngoại trú tối thiểu theo quy định, Dai-ichi Life Việt Nam sẽ chi trả các chi phí y tế điều trị nha khoa (điều trị và phẫu thuật những bệnh của răng và nướu hoặc hàm trong trường hợp có liên quan đến răng).</span><br><span
-                                                                                        style="font-family: &#39;times new roman&#39;, times, serif; font-size: 14pt; color: #000000;">Trong mọi trường hợp, tổng số tiền chi trả cho quyền lợi chăm sóc răng không vượt quá giới hạn chi trả tối đa của quyền lợi chăm sóc răng theo Chương trình bảo hiểm khách hàng đã lựa chọn khi tham gia</span>
+                                                                                        style="font-family:'times new roman', times, serif; font-size: 14pt; color: #000000;">Trong thời gian hiệu lực của hợp đồng, nếu khách hàng có tham gia quyền lợi tùy chọn Chăm sóc răng và chi phí điều trị nha khoa thực tế lớn hơn chi phí điều trị ngoại trú tối thiểu theo quy định, Dai-ichi Life Việt Nam sẽ chi trả các chi phí y tế điều trị nha khoa (điều trị và phẫu thuật những bệnh của răng và nướu hoặc hàm trong trường hợp có liên quan đến răng).</span><br><span
+                                                                                        style="font-family:'times new roman', times, serif; font-size: 14pt; color: #000000;">Trong mọi trường hợp, tổng số tiền chi trả cho quyền lợi chăm sóc răng không vượt quá giới hạn chi trả tối đa của quyền lợi chăm sóc răng theo Chương trình bảo hiểm khách hàng đã lựa chọn khi tham gia</span>
                                                                                 </p>
                                                                                 <p><strong><span
-                                                                                            style="font-family: &#39;times new roman&#39;, times, serif; font-size: 14pt; color: #000000;">Lưu ý:</span></strong><br><span
-                                                                                        style="font-family: &#39;times new roman&#39;, times, serif; font-size: 14pt; color: #000000;">– Với quyền lợi chăm sóc răng, khách hàng sẽ gởi kết quả kiểm tra răng, nướu tổng quát và chụp X-quang toàn bộ răng lần đầu tiên khi Dai-ichi Life Việt Nam chấp nhận bảo hiểm quyền lợi Chăm sóc răng.</span><br><span
-                                                                                        style="font-family: &#39;times new roman&#39;, times, serif; font-size: 14pt; color: #000000;">– Vui lòng tham khảo chi tiết quyền lợi bảo hiểm trong Quy tắc, Điều khoản Bảo hiểm Chăm sóc sức khỏe.</span>
+                                                                                            style="font-family:'times new roman', times, serif; font-size: 14pt; color: #000000;">Lưu ý:</span></strong><br><span
+                                                                                        style="font-family:'times new roman', times, serif; font-size: 14pt; color: #000000;">– Với quyền lợi chăm sóc răng, khách hàng sẽ gởi kết quả kiểm tra răng, nướu tổng quát và chụp X-quang toàn bộ răng lần đầu tiên khi Dai-ichi Life Việt Nam chấp nhận bảo hiểm quyền lợi Chăm sóc răng.</span><br><span
+                                                                                        style="font-family:'times new roman', times, serif; font-size: 14pt; color: #000000;">– Vui lòng tham khảo chi tiết quyền lợi bảo hiểm trong Quy tắc, Điều khoản Bảo hiểm Chăm sóc sức khỏe.</span>
                                                                                 </p></div>
                                                                         </div>
                                                                         <div class="elementor-toggle-item">
@@ -2279,10 +2279,10 @@
                                                                                  aria-labelledby="elementor-tab-title-1137">
                                                                                 <ul style="list-style-type: circle;">
                                                                                     <li><span
-                                                                                            style="font-family: &#39;times new roman&#39;, times, serif; font-size: 14pt; color: #000000;">Bên cạnh hình thức tự thanh toán và nộp yêu cầu giải quyết bảo hiểm cho Dai-ichi Life Việt Nam, khách hàng có thể sử dụng tiện ích của dịch vụ bảo lãnh thanh toán viện phí tại các bệnh viện thuộc mạng lưới thanh toán trực tiếp của Pacific Cross Việt Nam – nhà cung cấp dịch vụ chuyên nghiệp tại Châu Á – do Dai-ichi Life Việt nam chỉ định.</span>
+                                                                                            style="font-family:'times new roman', times, serif; font-size: 14pt; color: #000000;">Bên cạnh hình thức tự thanh toán và nộp yêu cầu giải quyết bảo hiểm cho Dai-ichi Life Việt Nam, khách hàng có thể sử dụng tiện ích của dịch vụ bảo lãnh thanh toán viện phí tại các bệnh viện thuộc mạng lưới thanh toán trực tiếp của Pacific Cross Việt Nam – nhà cung cấp dịch vụ chuyên nghiệp tại Châu Á – do Dai-ichi Life Việt nam chỉ định.</span>
                                                                                     </li>
                                                                                     <li><span
-                                                                                            style="font-family: &#39;times new roman&#39;, times, serif; font-size: 14pt; color: #000000;">Người được bảo hiểm vui lòng mang theo Thẻ bảo hiểm Dai-ichi Life Care và giấy tờ tùy thân để xuất trình cho bệnh viện khi sử dụng dịch vụ này; Dai-ichi Life Việt Nam sẽ thanh toán trực tiếp cho bệnh viện các chi phí y tế cho việc điều trị của Người được bảo hiểm theo theo quy định quyền lợi và hạn mức chi trả của sản phẩm Bảo hiểm Chăm sóc sức khỏe.</span>
+                                                                                            style="font-family:'times new roman', times, serif; font-size: 14pt; color: #000000;">Người được bảo hiểm vui lòng mang theo Thẻ bảo hiểm Dai-ichi Life Care và giấy tờ tùy thân để xuất trình cho bệnh viện khi sử dụng dịch vụ này; Dai-ichi Life Việt Nam sẽ thanh toán trực tiếp cho bệnh viện các chi phí y tế cho việc điều trị của Người được bảo hiểm theo theo quy định quyền lợi và hạn mức chi trả của sản phẩm Bảo hiểm Chăm sóc sức khỏe.</span>
                                                                                     </li>
                                                                                 </ul>
                                                                             </div>
@@ -2306,42 +2306,42 @@
                                                                                  data-tab="8" role="tabpanel"
                                                                                  aria-labelledby="elementor-tab-title-1138">
                                                                                 <p><span
-                                                                                        style="font-family: &#39;times new roman&#39;, times, serif; font-size: 14pt; color: #000000;">Sản phẩm này dành cho Người được bảo hiểm (NĐBH) sản phẩm chính và các thành viên trong gia đình của NĐBH sản phẩm chính như:</span><br><span
-                                                                                        style="font-family: &#39;times new roman&#39;, times, serif; font-size: 14pt; color: #000000;">– Người hôn phối và các con nếu NĐBH sản phẩm chính bằng hoặc lớn hơn 18 tuổi; hoặc</span><br><span
-                                                                                        style="font-family: &#39;times new roman&#39;, times, serif; font-size: 14pt; color: #000000;">– Cha mẹ và anh, chị, em nếu NĐBH sản phẩm chính nhỏ hơn 18 tuổi.</span><br><span
-                                                                                        style="font-family: &#39;times new roman&#39;, times, serif; font-size: 14pt; color: #000000;">Tuổi tham gia của NĐBH từ 0 – 60 tuổi.</span><br><span
-                                                                                        style="font-family: &#39;times new roman&#39;, times, serif; font-size: 14pt; color: #000000;">Thời hạn hợp đồng: một năm và được gia hạn hàng năm tối đa cho đến khi NĐBH 65 tuổi</span>
+                                                                                        style="font-family:'times new roman', times, serif; font-size: 14pt; color: #000000;">Sản phẩm này dành cho Người được bảo hiểm (NĐBH) sản phẩm chính và các thành viên trong gia đình của NĐBH sản phẩm chính như:</span><br><span
+                                                                                        style="font-family:'times new roman', times, serif; font-size: 14pt; color: #000000;">– Người hôn phối và các con nếu NĐBH sản phẩm chính bằng hoặc lớn hơn 18 tuổi; hoặc</span><br><span
+                                                                                        style="font-family:'times new roman', times, serif; font-size: 14pt; color: #000000;">– Cha mẹ và anh, chị, em nếu NĐBH sản phẩm chính nhỏ hơn 18 tuổi.</span><br><span
+                                                                                        style="font-family:'times new roman', times, serif; font-size: 14pt; color: #000000;">Tuổi tham gia của NĐBH từ 0 – 60 tuổi.</span><br><span
+                                                                                        style="font-family:'times new roman', times, serif; font-size: 14pt; color: #000000;">Thời hạn hợp đồng: một năm và được gia hạn hàng năm tối đa cho đến khi NĐBH 65 tuổi</span>
                                                                                 </p>
                                                                                 <p><span
-                                                                                        style="font-family: &#39;times new roman&#39;, times, serif; font-size: 14pt; color: #000000;">Bảo hiểm Chăm Sóc Sức Khoẻ là sản phẩm bảo hiểm bổ sung được mua kèm với sản phẩm chính sau:</span>
+                                                                                        style="font-family:'times new roman', times, serif; font-size: 14pt; color: #000000;">Bảo hiểm Chăm Sóc Sức Khoẻ là sản phẩm bảo hiểm bổ sung được mua kèm với sản phẩm chính sau:</span>
                                                                                 </p>
                                                                                 <blockquote>
                                                                                     <ul style="list-style-type: circle;">
                                                                                         <li><span
-                                                                                                style="font-family: &#39;times new roman&#39;, times, serif; font-size: 14pt; color: #000000;"><a
+                                                                                                style="font-family:'times new roman', times, serif; font-size: 14pt; color: #000000;"><a
                                                                                                     style="color: #000000;"
                                                                                                     href="https://baohiem-daiichi.vn/san-pham/an-tam-hung-thinh/">An Tâm Hưng Thịnh</a></span>
                                                                                         </li>
                                                                                         <li><span
-                                                                                                style="font-family: &#39;times new roman&#39;, times, serif; font-size: 14pt; color: #000000;"><a
+                                                                                                style="font-family:'times new roman', times, serif; font-size: 14pt; color: #000000;"><a
                                                                                                     style="color: #000000;"
                                                                                                     href="https://baohiem-daiichi.vn/san-pham/an-thinh-dau-tu/">An Thịnh Đầu Tư</a></span>
                                                                                         </li>
                                                                                         <li><span
-                                                                                                style="font-family: &#39;times new roman&#39;, times, serif; font-size: 14pt; color: #000000;"><a
+                                                                                                style="font-family:'times new roman', times, serif; font-size: 14pt; color: #000000;"><a
                                                                                                     style="color: #000000;"
                                                                                                     href="https://baohiem-daiichi.vn/san-pham/an-phuc-hung-thinh/">An Phúc Hưng Thịnh</a></span>
                                                                                         </li>
                                                                                         <li><span
-                                                                                                style="font-family: &#39;times new roman&#39;, times, serif; font-size: 14pt; color: #000000;">An Nhàn Hưu Trí</span>
+                                                                                                style="font-family:'times new roman', times, serif; font-size: 14pt; color: #000000;">An Nhàn Hưu Trí</span>
                                                                                         </li>
                                                                                         <li><span
-                                                                                                style="font-family: &#39;times new roman&#39;, times, serif; font-size: 14pt; color: #000000;">Hưng Nghiệp Hưu Trí</span>
+                                                                                                style="font-family:'times new roman', times, serif; font-size: 14pt; color: #000000;">Hưng Nghiệp Hưu Trí</span>
                                                                                         </li>
                                                                                     </ul>
                                                                                 </blockquote>
                                                                                 <p style="text-align: center;"><span
-                                                                                        style="font-family: &#39;times new roman&#39;, times, serif;"><em>Thông tin này chỉ mang tính giới thiệu, khách hàng vui lòng tham khảo thêm Quy tắc, Điều khoản hợp đồng để biết thêm chi tiết.</em></span>
+                                                                                        style="font-family:'times new roman', times, serif;"><em>Thông tin này chỉ mang tính giới thiệu, khách hàng vui lòng tham khảo thêm Quy tắc, Điều khoản hợp đồng để biết thêm chi tiết.</em></span>
                                                                                 </p></div>
                                                                         </div>
                                                                     </div>
@@ -2791,24 +2791,24 @@
                                                                                  data-tab="1" role="tabpanel"
                                                                                  aria-labelledby="elementor-tab-title-2281">
                                                                                 <p><span
-                                                                                        style="font-family: &#39;times new roman&#39;, times, serif; font-size: 14pt; color: #000000;">Giá phí bảo hiểm chăm sóc sức khỏe được tính dựa vào các yếu tố sau.</span>
+                                                                                        style="font-family:'times new roman', times, serif; font-size: 14pt; color: #000000;">Giá phí bảo hiểm chăm sóc sức khỏe được tính dựa vào các yếu tố sau.</span>
                                                                                 </p>
                                                                                 <ol>
                                                                                     <li><span
-                                                                                            style="font-family: &#39;times new roman&#39;, times, serif; font-size: 14pt; color: #000000;">Tuổi của người được bảo hiểm: Theo đó tuổi càng cao thì phí càng cao.</span>
+                                                                                            style="font-family:'times new roman', times, serif; font-size: 14pt; color: #000000;">Tuổi của người được bảo hiểm: Theo đó tuổi càng cao thì phí càng cao.</span>
                                                                                     </li>
                                                                                     <li><span
-                                                                                            style="font-size: 14pt; color: #000000; font-family: &#39;times new roman&#39;, times, serif;">Giới tính: phụ nữ thì phí sẽ thấp hơn nam giới.</span>
+                                                                                            style="font-size: 14pt; color: #000000; font-family:'times new roman', times, serif;">Giới tính: phụ nữ thì phí sẽ thấp hơn nam giới.</span>
                                                                                     </li>
                                                                                     <li><span
-                                                                                            style="font-size: 14pt; color: #000000; font-family: &#39;times new roman&#39;, times, serif;">Nghề nghiệp: những nghề nghiệp có độ rủi ro cao thì phí sẽ cao hơn những nghề nghiệp rủi ro thất</span>
+                                                                                            style="font-size: 14pt; color: #000000; font-family:'times new roman', times, serif;">Nghề nghiệp: những nghề nghiệp có độ rủi ro cao thì phí sẽ cao hơn những nghề nghiệp rủi ro thất</span>
                                                                                     </li>
                                                                                 </ol>
                                                                                 <p><span
-                                                                                        style="font-family: &#39;times new roman&#39;, times, serif; font-size: 14pt; color: #000000;">VD: nghề công nhân xây dựng sẽ có phí bảo hiểm cao hơn nhân viên văn phòng,</span>
+                                                                                        style="font-family:'times new roman', times, serif; font-size: 14pt; color: #000000;">VD: nghề công nhân xây dựng sẽ có phí bảo hiểm cao hơn nhân viên văn phòng,</span>
                                                                                 </p>
                                                                                 <p><span
-                                                                                        style="font-family: &#39;times new roman&#39;, times, serif; font-size: 14pt; color: #000000;">4. Tình trạng sức khỏe: Những người có nhiều tiền sử bệnh án hơn sẽ có mức phí bảo hiểm cao hơn.</span>
+                                                                                        style="font-family:'times new roman', times, serif; font-size: 14pt; color: #000000;">4. Tình trạng sức khỏe: Những người có nhiều tiền sử bệnh án hơn sẽ có mức phí bảo hiểm cao hơn.</span>
                                                                                 </p></div>
                                                                         </div>
                                                                         <div class="elementor-toggle-item">
@@ -2831,34 +2831,34 @@
                                                                                  data-tab="2" role="tabpanel"
                                                                                  aria-labelledby="elementor-tab-title-2282">
                                                                                 <p><span
-                                                                                        style="font-family: &#39;times new roman&#39;, times, serif; font-size: 14pt; color: #000000;">Bảo hiểm chăm sóc sức khỏe có 3 mức tùy thuộc và khả năng tài chính của người được bảo hiểm mà bạn có thể chọn cho mình gói bảo hiểm phù hợp với các mức quyền lợi chi trả như sau.</span>
+                                                                                        style="font-family:'times new roman', times, serif; font-size: 14pt; color: #000000;">Bảo hiểm chăm sóc sức khỏe có 3 mức tùy thuộc và khả năng tài chính của người được bảo hiểm mà bạn có thể chọn cho mình gói bảo hiểm phù hợp với các mức quyền lợi chi trả như sau.</span>
                                                                                 </p>
                                                                                 <ul style="list-style-type: circle;">
                                                                                     <li><span
-                                                                                            style="font-family: &#39;times new roman&#39;, times, serif; font-size: 14pt; color: #000000;"><strong>Gói phổ thông</strong>: 210 triệu / bệnh</span>
+                                                                                            style="font-family:'times new roman', times, serif; font-size: 14pt; color: #000000;"><strong>Gói phổ thông</strong>: 210 triệu / bệnh</span>
                                                                                     </li>
                                                                                     <li><strong
-                                                                                            style="color: #000000; font-family: &#39;times new roman&#39;, times, serif; font-size: 14pt;">Gói
+                                                                                            style="color: #000000; font-family:'times new roman', times, serif; font-size: 14pt;">Gói
                                                                                             đặc biệt</strong><span
-                                                                                            style="color: #000000; font-family: &#39;times new roman&#39;, times, serif; font-size: 14pt;">: 420 triệu / bệnh</span>
+                                                                                            style="color: #000000; font-family:'times new roman', times, serif; font-size: 14pt;">: 420 triệu / bệnh</span>
                                                                                     </li>
                                                                                     <li><strong
-                                                                                            style="color: #000000; font-family: &#39;times new roman&#39;, times, serif; font-size: 14pt;">Gói
+                                                                                            style="color: #000000; font-family:'times new roman', times, serif; font-size: 14pt;">Gói
                                                                                             cao cấp</strong><span
-                                                                                            style="color: #000000; font-family: &#39;times new roman&#39;, times, serif; font-size: 14pt;">: 630 triệu / bệnh</span>
+                                                                                            style="color: #000000; font-family:'times new roman', times, serif; font-size: 14pt;">: 630 triệu / bệnh</span>
                                                                                     </li>
                                                                                 </ul>
                                                                                 <p><span
-                                                                                        style="font-family: &#39;times new roman&#39;, times, serif; font-size: 14pt; color: #000000;">VD: anh A mua gói bảo hiểm chăm sóc sức khỏe&nbsp;<strong>gói cao cấp</strong>&nbsp;tương đương số tiền bảo hiểm 630tr. Vào năm thứ 3 của hợp đồng anh A nhập viện và điều trị bệnh&nbsp;<strong>K</strong>&nbsp;với tổng viện phí là 500tr và đã được bảo hiểm chi trả 100%. Đến năm thứ 4 của hợp đồng bảo hiểm anh A nhập viện cũng vì bệnh&nbsp;<strong>K</strong>&nbsp;và tổng viện phí là 140tr. vậy lúc này bảo hiểm chỉ có thể chi trả cho anh A sô tiền 130tr mà thôi. Vì 500tr + 140tr = 640tr mà gói bảo hiểm chăm sóc sức khỏe gói cao cấp chỉ là 630tr.</span>
+                                                                                        style="font-family:'times new roman', times, serif; font-size: 14pt; color: #000000;">VD: anh A mua gói bảo hiểm chăm sóc sức khỏe&nbsp;<strong>gói cao cấp</strong>&nbsp;tương đương số tiền bảo hiểm 630tr. Vào năm thứ 3 của hợp đồng anh A nhập viện và điều trị bệnh&nbsp;<strong>K</strong>&nbsp;với tổng viện phí là 500tr và đã được bảo hiểm chi trả 100%. Đến năm thứ 4 của hợp đồng bảo hiểm anh A nhập viện cũng vì bệnh&nbsp;<strong>K</strong>&nbsp;và tổng viện phí là 140tr. vậy lúc này bảo hiểm chỉ có thể chi trả cho anh A sô tiền 130tr mà thôi. Vì 500tr + 140tr = 640tr mà gói bảo hiểm chăm sóc sức khỏe gói cao cấp chỉ là 630tr.</span>
                                                                                 </p>
                                                                                 <p><span
-                                                                                        style="font-family: &#39;times new roman&#39;, times, serif; font-size: 14pt; color: #000000;">Nhưng cũng năm đó nếu anh A nhập viện vì bị bệnh&nbsp;<strong>H</strong>&nbsp;thì anh A vẫn được thanh toán viện phí với tổng mức thanh toán tối đa là 630tr cho bệnh&nbsp;<strong>H.</strong></span>
+                                                                                        style="font-family:'times new roman', times, serif; font-size: 14pt; color: #000000;">Nhưng cũng năm đó nếu anh A nhập viện vì bị bệnh&nbsp;<strong>H</strong>&nbsp;thì anh A vẫn được thanh toán viện phí với tổng mức thanh toán tối đa là 630tr cho bệnh&nbsp;<strong>H.</strong></span>
                                                                                 </p>
                                                                                 <p><span
-                                                                                        style="font-family: &#39;times new roman&#39;, times, serif; font-size: 14pt; color: #000000;">Tương tự cũng áp dụng cho những bệnh khác nhưng tối đa khô quá 630tr/bệnh (không giới hạn loại bệnh tận và không gới hạn số lần chi trả)</span>
+                                                                                        style="font-family:'times new roman', times, serif; font-size: 14pt; color: #000000;">Tương tự cũng áp dụng cho những bệnh khác nhưng tối đa khô quá 630tr/bệnh (không giới hạn loại bệnh tận và không gới hạn số lần chi trả)</span>
                                                                                 </p>
                                                                                 <p><span
-                                                                                        style="font-family: &#39;times new roman&#39;, times, serif; font-size: 14pt; color: #000000;">Tương tự án dụng cho những gói khác như: gói phổ thông và gói đặc biệt.</span>
+                                                                                        style="font-family:'times new roman', times, serif; font-size: 14pt; color: #000000;">Tương tự án dụng cho những gói khác như: gói phổ thông và gói đặc biệt.</span>
                                                                                 </p></div>
                                                                         </div>
                                                                         <div class="elementor-toggle-item">
@@ -2880,20 +2880,20 @@
                                                                                  data-tab="3" role="tabpanel"
                                                                                  aria-labelledby="elementor-tab-title-2283">
                                                                                 <p><span
-                                                                                        style="font-family: &#39;times new roman&#39;, times, serif; font-size: 14pt; color: #000000;">Khách hàng khi tham gia bảo hiểm chăm sóc sức khỏe của Dai-ichi life sẽ được cấp một thẻ chăm sóc sức khỏe.</span>
+                                                                                        style="font-family:'times new roman', times, serif; font-size: 14pt; color: #000000;">Khách hàng khi tham gia bảo hiểm chăm sóc sức khỏe của Dai-ichi life sẽ được cấp một thẻ chăm sóc sức khỏe.</span>
                                                                                 </p>
                                                                                 <p><span
-                                                                                        style="font-family: &#39;times new roman&#39;, times, serif; font-size: 14pt; color: #000000;">Khi khách hàng nhập viện chỉ cần đưa thẻ chăm sóc sức khỏe này cho bệnh viện thì sẽ được bảo lãnh viện phí ngay.</span>
+                                                                                        style="font-family:'times new roman', times, serif; font-size: 14pt; color: #000000;">Khi khách hàng nhập viện chỉ cần đưa thẻ chăm sóc sức khỏe này cho bệnh viện thì sẽ được bảo lãnh viện phí ngay.</span>
                                                                                 </p>
                                                                                 <p><span
-                                                                                        style="font-family: &#39;times new roman&#39;, times, serif; font-size: 14pt; color: #000000;">Khách hàng vui lòng tham khỏa thêm danh sức các bệnh viện quốc tế liên kết với Dai-ichi được bảo lãnh viện phí tại đường link bên dưới</span>
+                                                                                        style="font-family:'times new roman', times, serif; font-size: 14pt; color: #000000;">Khách hàng vui lòng tham khỏa thêm danh sức các bệnh viện quốc tế liên kết với Dai-ichi được bảo lãnh viện phí tại đường link bên dưới</span>
                                                                                 </p>
                                                                                 <blockquote><p><a
                                                                                             href="https://baohiem-daiichi.vn/tin-tuc/benh-vien-lien-ket-bao-hiem-dai-chi-life/"><span
-                                                                                                style="font-family: &#39;times new roman&#39;, times, serif; font-size: 14pt; color: #000000;">https://baohiem-daiichi.vn/tin-tuc/benh-vien-lien-ket-bao-hiem-dai-chi-life/</span></a>
+                                                                                                style="font-family:'times new roman', times, serif; font-size: 14pt; color: #000000;">https://baohiem-daiichi.vn/tin-tuc/benh-vien-lien-ket-bao-hiem-dai-chi-life/</span></a>
                                                                                     </p></blockquote>
                                                                                 <p><span
-                                                                                        style="font-family: &#39;times new roman&#39;, times, serif; font-size: 14pt; color: #000000;">Trong trường hợp khách hàng nhập viện các tuyến tỉnh, huyện các bệnh viện nhà nước khác thì khách hàng sẽ tạm ứng thanh toán tiền trước sau đó lấy hóa đơn thanh toán của bệnh viện sẽ được Dai-ichi life thanh toán lại sau đó.</span>
+                                                                                        style="font-family:'times new roman', times, serif; font-size: 14pt; color: #000000;">Trong trường hợp khách hàng nhập viện các tuyến tỉnh, huyện các bệnh viện nhà nước khác thì khách hàng sẽ tạm ứng thanh toán tiền trước sau đó lấy hóa đơn thanh toán của bệnh viện sẽ được Dai-ichi life thanh toán lại sau đó.</span>
                                                                                 </p></div>
                                                                         </div>
                                                                         <div class="elementor-toggle-item">
@@ -2916,13 +2916,13 @@
                                                                                  data-tab="4" role="tabpanel"
                                                                                  aria-labelledby="elementor-tab-title-2284">
                                                                                 <p><span
-                                                                                        style="font-family: &#39;times new roman&#39;, times, serif; font-size: 14pt; color: #000000;">Trước khi nhập viện tốt nhất bạn nên gọi cho tư vấn tài chính (TVTC) người đã bán bảo hiểm CSSK cho bạn để được tư vấn.</span>
+                                                                                        style="font-family:'times new roman', times, serif; font-size: 14pt; color: #000000;">Trước khi nhập viện tốt nhất bạn nên gọi cho tư vấn tài chính (TVTC) người đã bán bảo hiểm CSSK cho bạn để được tư vấn.</span>
                                                                                 </p>
                                                                                 <p><span
-                                                                                        style="font-family: &#39;times new roman&#39;, times, serif; font-size: 14pt; color: #000000;">Nếu không bạn hãy gọi lên tổng đài của Dai ichi số<strong> 028 381 00 888</strong> để được hướng dẫn.</span>
+                                                                                        style="font-family:'times new roman', times, serif; font-size: 14pt; color: #000000;">Nếu không bạn hãy gọi lên tổng đài của Dai ichi số<strong> 028 381 00 888</strong> để được hướng dẫn.</span>
                                                                                 </p>
                                                                                 <p><span
-                                                                                        style="font-family: &#39;times new roman&#39;, times, serif; font-size: 14pt; color: #000000;">Hoặc gọi cho chúng tôi để được hỗ trợ.</span>
+                                                                                        style="font-family:'times new roman', times, serif; font-size: 14pt; color: #000000;">Hoặc gọi cho chúng tôi để được hỗ trợ.</span>
                                                                                 </p></div>
                                                                         </div>
                                                                         <div class="elementor-toggle-item">
@@ -2944,14 +2944,14 @@
                                                                                  data-tab="5" role="tabpanel"
                                                                                  aria-labelledby="elementor-tab-title-2285">
                                                                                 <p><span
-                                                                                        style="font-family: &#39;times new roman&#39;, times, serif; font-size: 14pt; color: #000000;">Không phải tất cả các bệnh đuề được chi trả. Nếu các bệnh lằm trong mục các điều khoản loại trừ sẽ không được bảo hiểm chi trả.</span>
+                                                                                        style="font-family:'times new roman', times, serif; font-size: 14pt; color: #000000;">Không phải tất cả các bệnh đuề được chi trả. Nếu các bệnh lằm trong mục các điều khoản loại trừ sẽ không được bảo hiểm chi trả.</span>
                                                                                 </p>
                                                                                 <p><span
-                                                                                        style="font-family: &#39;times new roman&#39;, times, serif; font-size: 14pt; color: #000000;">Quý khách vui lòng tham khảo danh sách các điều khoản loại trừ đường link bên dưới.</span>
+                                                                                        style="font-family:'times new roman', times, serif; font-size: 14pt; color: #000000;">Quý khách vui lòng tham khảo danh sách các điều khoản loại trừ đường link bên dưới.</span>
                                                                                 </p>
                                                                                 <blockquote><p><a
                                                                                             href="https://baohiem-daiichi.vn/tin-tuc/cac-dieu-khoan-loai-tru-trong-bao-hiem-cham-soc-suc-khoe/"><span
-                                                                                                style="font-family: &#39;times new roman&#39;, times, serif; font-size: 14pt; color: #000000;">https://baohiem-daiichi.vn/tin-tuc/cac-dieu-khoan-loai-tru-trong-bao-hiem-cham-soc-suc-khoe/</span></a>
+                                                                                                style="font-family:'times new roman', times, serif; font-size: 14pt; color: #000000;">https://baohiem-daiichi.vn/tin-tuc/cac-dieu-khoan-loai-tru-trong-bao-hiem-cham-soc-suc-khoe/</span></a>
                                                                                     </p></blockquote>
                                                                             </div>
                                                                         </div>
@@ -2975,10 +2975,10 @@
                                                                                  data-tab="6" role="tabpanel"
                                                                                  aria-labelledby="elementor-tab-title-2286">
                                                                                 <p><span
-                                                                                        style="font-family: &#39;times new roman&#39;, times, serif; font-size: 14pt; color: #000000;">Trong cùng một hợp đồng, có thể tham gia cho người hôn phối, vợ/chồng, con, cha/mẹ, anh chị em của người được bảo hiểm chính.</span>
+                                                                                        style="font-family:'times new roman', times, serif; font-size: 14pt; color: #000000;">Trong cùng một hợp đồng, có thể tham gia cho người hôn phối, vợ/chồng, con, cha/mẹ, anh chị em của người được bảo hiểm chính.</span>
                                                                                 </p>
                                                                                 <p><span
-                                                                                        style="font-family: &#39;times new roman&#39;, times, serif; font-size: 14pt; color: #000000;">VD: người được bảo hiểm chính là anh A. Anh A tham gia gói An Tâm Hưng Thịnh Toàn Diện (gói bảo hiểm chính) Vậy trong cùng một hợp đồng của anh A có thể tham gia bảo hiểm chăm sóc sức khỏe cho bản thân anh A, vợ anh A, con anh A, Cha/mẹ anh A. trong cùng một hợp đồng.</span>
+                                                                                        style="font-family:'times new roman', times, serif; font-size: 14pt; color: #000000;">VD: người được bảo hiểm chính là anh A. Anh A tham gia gói An Tâm Hưng Thịnh Toàn Diện (gói bảo hiểm chính) Vậy trong cùng một hợp đồng của anh A có thể tham gia bảo hiểm chăm sóc sức khỏe cho bản thân anh A, vợ anh A, con anh A, Cha/mẹ anh A. trong cùng một hợp đồng.</span>
                                                                                 </p></div>
                                                                         </div>
                                                                         <div class="elementor-toggle-item">
@@ -3002,7 +3002,7 @@
                                                                                  data-tab="7" role="tabpanel"
                                                                                  aria-labelledby="elementor-tab-title-2287">
                                                                                 <p><span
-                                                                                        style="font-family: &#39;times new roman&#39;, times, serif; font-size: 14pt; color: #000000;">Khách hàng có thể nộp chứng từ liên quan đến đợt điều trị trong vòng&nbsp;<strong>90 ngày</strong>&nbsp;kể từ ngày xuất viện hoặc điều trị ngoại trú, chăm sóc răng. Nếu nộp sau 90 ngày có thể gây ảnh hưởng đến quyền lợi thanh toán của khách hàng nếu có lý do hợp lệ, và không thanh toán khi nộp chứng từ quá&nbsp;<strong>12 tháng</strong>&nbsp;kể từ ngày xuất viện hoặc điều trị ngoại trú, chăm sóc sức khỏe.</span>
+                                                                                        style="font-family:'times new roman', times, serif; font-size: 14pt; color: #000000;">Khách hàng có thể nộp chứng từ liên quan đến đợt điều trị trong vòng&nbsp;<strong>90 ngày</strong>&nbsp;kể từ ngày xuất viện hoặc điều trị ngoại trú, chăm sóc răng. Nếu nộp sau 90 ngày có thể gây ảnh hưởng đến quyền lợi thanh toán của khách hàng nếu có lý do hợp lệ, và không thanh toán khi nộp chứng từ quá&nbsp;<strong>12 tháng</strong>&nbsp;kể từ ngày xuất viện hoặc điều trị ngoại trú, chăm sóc sức khỏe.</span>
                                                                                 </p></div>
                                                                         </div>
                                                                     </div>
