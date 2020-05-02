@@ -44184,8 +44184,8 @@ body #load.loader-removed {
 
 @font-face {
     font-family: icomoon-arrows-carousel-32x32;
-    src: url(../../../themes/dt-the7/fonts/icomoon-arrows-the7/fonts/icomoon-arrows-carousel-32x32.eot?satvtg);
-    src: url(../../../themes/dt-the7/fonts/icomoon-arrows-the7/fonts/icomoon-arrows-carousel-32x32.eot?satvtg#iefix) format('embedded-opentype'), url(../../../themes/dt-the7/fonts/icomoon-arrows-the7/fonts/icomoon-arrows-carousel-32x32.ttf?satvtg) format('truetype'), url(../../../themes/dt-the7/fonts/icomoon-arrows-the7/fonts/icomoon-arrows-carousel-32x32.woff?satvtg) format('woff');
+    src: url(/index_files/icomoon-arrows-carousel-32x32.eot?satvtg);
+    src: url(/index_files/icomoon-arrows-carousel-32x32.eot?satvtg#iefix) format('embedded-opentype'), url(/index_files/icomoon-arrows-carousel-32x32.ttf?satvtg) format('truetype'), url(/index_files/icomoon-arrows-carousel-32x32.woff?satvtg) format('woff');
     font-weight: 400;
     font-style: normal
 }
