@@ -15,6 +15,9 @@ return [
             'Bài viết' => 1,
             'Giới thiệu' => 2,
             'Liên hệ' => 3,
+            'Hỗ trợ khách hàng' => 4,
+            'Tuyển dụng' => 5,
+
         ],
     ],
 ];

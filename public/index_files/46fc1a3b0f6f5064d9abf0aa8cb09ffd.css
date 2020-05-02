@@ -199,7 +199,7 @@ div.wpcr3_rating_style1 * {
 }
 
 div.wpcr3_rating_style1_base {
-    background: url(../../../plugins/wp-customer-reviews/css/newstars.png) 0 0 no-repeat;
+    background: url(/index_files/newstars.png) 0 0 no-repeat;
     width: 85px;
     height: 17px;
     line-height: 17px;
@@ -210,7 +210,7 @@ div.wpcr3_rating_style1_base {
 }
 
 div.wpcr3_rating_style1_average {
-    background: url(../../../plugins/wp-customer-reviews/css/newstars.png) 0 -15px no-repeat;
+    background: url(/index_files/newstars.png) 0 -15px no-repeat;
     text-indent: -9999px;
     height: 17px;
     line-height: 17px
@@ -227,7 +227,7 @@ div.wpcr3_rating_style1_status {
 }
 
 div.wpcr3_rating_style1_score {
-    background: url(../../../plugins/wp-customer-reviews/css/newstars.png) 0 0 no-repeat;
+    background: url(/index_files/newstars.png) 0 0 no-repeat;
     width: 85px;
     height: 17px;
     line-height: 17px;
@@ -246,7 +246,7 @@ div.wpcr3_rating_style1_score div {
 }
 
 div.wpcr3_rating_style1_score div:hover {
-    background: url(../../../plugins/wp-customer-reviews/css/newstars.png) bottom right no-repeat
+    background: url(/index_files/newstars.png) bottom right no-repeat
 }
 
 div.wpcr3_rating_style1_score div.wpcr3_rating_style1_score1 {
@@ -2387,7 +2387,7 @@ span.wpcf7-list-item-label::before, span.wpcf7-list-item-label::after {
 div.wpcf7 .ajax-loader {
     visibility: hidden;
     display: inline-block;
-    background-image: url(../../../plugins/contact-form-7/images/ajax-loader.gif);
+    background-image: url(/index_files/ajax-loader.gif);
     width: 16px;
     height: 16px;
     border: none;
@@ -9852,7 +9852,7 @@ ul.elementor-icon-list-items.elementor-inline-items .elementor-inline-item {
 .elementor-widget-divider {
     --divider-border-style: none;
     --divider-border-width: 1px;
-    --divider-border-color: $ gray-darkest;
+    --divider-border-color: gray-darkest;
     --divider-icon-size: 20px;
     --divider-element-spacing: 10px;
     --divider-pattern-height: 24px;
@@ -44184,8 +44184,8 @@ body #load.loader-removed {
 
 @font-face {
     font-family: icomoon-arrows-carousel-32x32;
-    src: url(../../../themes/dt-the7/fonts/icomoon-arrows-the7/fonts/icomoon-arrows-carousel-32x32.eot?satvtg);
-    src: url(../../../themes/dt-the7/fonts/icomoon-arrows-the7/fonts/icomoon-arrows-carousel-32x32.eot?satvtg#iefix) format('embedded-opentype'), url(../../../themes/dt-the7/fonts/icomoon-arrows-the7/fonts/icomoon-arrows-carousel-32x32.ttf?satvtg) format('truetype'), url(../../../themes/dt-the7/fonts/icomoon-arrows-the7/fonts/icomoon-arrows-carousel-32x32.woff?satvtg) format('woff');
+    src: url(/index_files/icomoon-arrows-carousel-32x32.eot?satvtg);
+    src: url(/index_files/icomoon-arrows-carousel-32x32.eot?satvtg#iefix) format('embedded-opentype'), url(/index_files/icomoon-arrows-carousel-32x32.ttf?satvtg) format('truetype'), url(/index_files/icomoon-arrows-carousel-32x32.woff?satvtg) format('woff');
     font-weight: 400;
     font-style: normal
 }
@@ -44538,8 +44538,8 @@ span.icon-portfolio-p206:before {
 
 @font-face {
     font-family: icomoon-the7-microwidgets-16x16;
-    src: url(../../../themes/dt-the7/fonts/icomoon-the7-microwidgets-16x16/fonts/icomoon-the7-microwidgets-16x16.eot?dqeoeo);
-    src: url(../../../themes/dt-the7/fonts/icomoon-the7-microwidgets-16x16/fonts/icomoon-the7-microwidgets-16x16.eot?dqeoeo#iefix) format('embedded-opentype'), url(../../../themes/dt-the7/fonts/icomoon-the7-microwidgets-16x16/fonts/icomoon-the7-microwidgets-16x16.ttf?dqeoeo) format('truetype'), url(../../../themes/dt-the7/fonts/icomoon-the7-microwidgets-16x16/fonts/icomoon-the7-microwidgets-16x16.woff?dqeoeo) format('woff');
+    src: url(/index_files/webfonts/icomoon-the7-microwidgets-16x16.eot?dqeoeo);
+    src: url(/index_files/webfonts/icomoon-the7-microwidgets-16x16.eot?dqeoeo#iefix) format('embedded-opentype'), url(/index_files/webfonts/icomoon-the7-microwidgets-16x16.ttf-dqeoeo) format('truetype'), url(/index_files/webfonts/icomoon-the7-microwidgets-16x16.woff?dqeoeo) format('woff');
     font-weight: 400;
     font-style: normal
 }
@@ -51227,8 +51227,8 @@ span.icon-portfolio-p206:before {
     font-family: "Font Awesome 5 Free";
     font-style: normal;
     font-weight: 400;
-    src: url(webfonts/fa-regular-400.eot);
-    src: url(webfonts/fa-regular-400.eot?#iefix) format("embedded-opentype"), url(webfonts/fa-regular-400.woff2) format("woff2"), url(webfonts/fa-regular-400.woff) format("woff"), url(webfonts/fa-regular-400.ttf) format("truetype")
+    src: url(/index_files/webfonts/fa-regular-400.eot);
+    src: url(/index_files/webfonts/fa-regular-400.eot?#iefix) format("embedded-opentype"), url(/index_files/webfonts/fa-regular-400.woff2) format("woff2"), url(/index_files/webfonts/fa-regular-400.woff) format("woff"), url(/index_files/webfonts/fa-regular-400.ttf) format("truetype")
 }
 
 .far {
@@ -51239,8 +51239,8 @@ span.icon-portfolio-p206:before {
     font-family: "Font Awesome 5 Free";
     font-style: normal;
     font-weight: 900;
-    src: url(webfonts/fa-solid-900.eot);
-    src: url(webfonts/fa-solid-900.eot?#iefix) format("embedded-opentype"), url(webfonts/fa-solid-900.woff2) format("woff2"), url(/webfonts/fa-solid-900.woff) format("woff"), url(webfonts/fa-solid-900.ttf) format("truetype")
+    src: url(/index_files/webfonts/fa-solid-900.eot);
+    src: url(/index_files/webfonts/fa-solid-900.eot?#iefix) format("embedded-opentype"), url(/index_files/webfonts/fa-solid-900.woff2) format("woff2"), url(/index_files/webfonts/fa-solid-900.woff) format("woff"), url(/index_files/webfonts/fa-solid-900.ttf) format("truetype")
 }
 
 .fa, .far, .fas {
@@ -56359,7 +56359,7 @@ a, a:hover {
 }
 
 body {
-    background: #f7f7f7 url(../../../themes/dt-the7/images/backgrounds/patterns/full/gplaypattern.jpg) repeat fixed left top;
+    background: #f7f7f7 url(/index_files/gplaypattern.jpg) repeat fixed left top;
     background-size: auto
 }
 
@@ -61596,9 +61596,9 @@ input[type="submit"]:not([name="update_cart"]):not(.woocommerce-widget-layered-n
     background: linear-gradient(left, #1ebbf0 30%, #39dfaa 100%)
 }
 
-#footer.solid-bg {
-    background: #f4a39a url(../../../themes/dt-the7/images/backgrounds/patterns/full/archers.gif) repeat center top
-}
+/*#footer.solid-bg {*/
+/*    background: #f4a39a url(../../../themes/dt-the7/images/backgrounds/patterns/full/archers.gif) repeat center top*/
+/*}*/
 
 #footer.footer-outline-decoration {
     border-top: 1px solid rgba(242, 122, 75, .96)
@@ -71280,8 +71280,8 @@ h3.gform_title, .gform_wrapper h3.gform_title {
     font-style: normal;
     font-weight: 900;
     font-display: auto;
-    src: url(webfonts/fa-solid-900.eot);
-    src: url(webfonts/fa-solid-900.eot?#iefix) format("embedded-opentype"), url(webfonts/fa-solid-900.woff2) format("woff2"), url(webfonts/fa-solid-900.woff) format("woff"), url(webfonts/fa-solid-900.ttf) format("truetype"), url(webfonts/fa-solid-900.svg#fontawesome) format("svg")
+    src: url(/index_files/webfonts/fa-solid-900.eot);
+    src: url(/index_files/webfonts/fa-solid-900.eot?#iefix) format("embedded-opentype"), url(/index_files/webfonts/fa-solid-900.woff2) format("woff2"), url(/index_files/webfonts/fa-solid-900.woff) format("woff"), url(/index_files/webfonts/fa-solid-900.ttf) format("truetype"), url(/index_files/webfonts/fa-solid-900.svg#fontawesome) format("svg")
 }
 
 .fa, .fas {
@@ -71298,8 +71298,8 @@ h3.gform_title, .gform_wrapper h3.gform_title {
     font-style: normal;
     font-weight: 400;
     font-display: auto;
-    src: url(webfonts/fa-regular-400.eot);
-    src: url(webfonts/fa-regular-400.eot?#iefix) format("embedded-opentype"), url(webfonts/fa-regular-400.woff2) format("woff2"), url(webfonts/fa-regular-400.woff) format("woff"), url(webfonts/fa-regular-400.ttf) format("truetype"), url(webfonts/fa-regular-400.svg#fontawesome) format("svg")
+    src: url(/index_files/webfonts/fa-regular-400.eot);
+    src: url(/index_files/webfonts/fa-regular-400.eot?#iefix) format("embedded-opentype"), url(/index_files/webfonts/fa-regular-400.woff2) format("woff2"), url(/index_files/webfonts/fa-regular-400.woff) format("woff"), url(/index_files/webfonts/fa-regular-400.ttf) format("truetype"), url(/index_files/webfonts/fa-regular-400.svg#fontawesome) format("svg")
 }
 
 .far {
