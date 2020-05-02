@@ -2,7 +2,9 @@
 <!-- saved from url=(0027)https://baohiem-daiichi.vn/ -->
 <html lang="vi-VN"
       class="js supports no-touchevents no-forcetouch cssanimations no-cssgridlegacy cssgrid cssfilters csstransforms csstransforms3d csstransitions mobile-false not-iOS">
+<script type="text/javascript" async="" src="./index_files/ga-af5c617d36e28d19710b882a6824e213.js"></script>
 <script type="text/javascript" async="" src="./index_files/f.txt"></script>
+<script async="" src="./index_files/gtm.js"></script>
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0">
@@ -984,7 +986,8 @@
         </div>
     </div>
 </div>
-<span
+<script src="./index_files/19bd171a3b02f3afd3d554d7377c0cba.js" data-minify="1" defer=""></script>
+<!-- This website is like a Rocket, isn't it? Performance optimized by WP Rocket. Learn more: https://wp-rocket.me - Debug: cached@1587699054 --><span
     id="elementor-device-mode" class="elementor-screen-only" aria-hidden="false"></span>
 <div class="mobile-sticky-header-overlay" aria-hidden="false"></div><div id="phantom"
                                                                          class="masthead inline-header center full-height shadow-decoration small-mobile-menu-icon dt-parent-menu-clickable show-device-logo show-mobile-logo show-phantom"
