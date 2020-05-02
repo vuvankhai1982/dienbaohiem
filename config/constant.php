@@ -17,7 +17,7 @@ return [
             'Liên hệ' => 3,
             'Hỗ trợ khách hàng' => 4,
             'Tuyển dụng' => 5,
-
+            'sp-athttd' => 6,
         ],
     ],
 ];

@@ -4,12 +4,7 @@
       class="js supports no-touchevents no-forcetouch cssanimations no-cssgridlegacy cssgrid cssfilters csstransforms csstransforms3d csstransitions mobile-false not-iOS">
 <script type="text/javascript" async="" src="./index_files/ga-af5c617d36e28d19710b882a6824e213.js"></script>
 <script type="text/javascript" async="" src="./index_files/f.txt"></script>
-<script src="./index_files/fbpix-config-894978317547737-2.9.16.js" async=""></script>
-<script async="" src="./index_files/fbpix-events-en_US-2.9.16.js"></script>
 <script async="" src="./index_files/gtm.js"></script>
-<script type="text/javascript" charset="utf-8" id="zm-extension"
-        src="chrome-extension://fdcgdnkidjaadafnichfpabhfomcebme/scripts/webrtc-patch.js" async=""></script>
-<!--<![endif]-->
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0">
@@ -217,50 +212,8 @@
             f.parentNode.insertBefore(j, f);
         })(window, document, 'script', 'dataLayer', 'GTM-NNQ6R5N');</script>
     <script data-no-minify="1" async="" src="./index_files/gtm-0c6905996b2ebb6757c0f308a7e996ef.js"></script>
-    <script>window.dataLayer = window.dataLayer || [];
-
-        function gtag() {
-            dataLayer.push(arguments);
-        }
-
-        gtag('js', new Date());
-        gtag('config', 'AW-826290794');</script>
     <script async="" src="./index_files/js(1)"></script>
-    <script>window.dataLayer = window.dataLayer || [];
-
-        function gtag() {
-            dataLayer.push(arguments);
-        }
-
-        gtag('js', new Date());
-
-        gtag('config', 'UA-111665855-1');</script>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="p:domain_verify" content="6aa7b906e5ae51ea69355eda7f5fcf85">
-    <script>!function (f, b, e, v, n, t, s) {
-            if (f.fbq) return;
-            n = f.fbq = function () {
-                n.callMethod ?
-                    n.callMethod.apply(n, arguments) : n.queue.push(arguments)
-            };
-            if (!f._fbq) f._fbq = n;
-            n.push = n;
-            n.loaded = !0;
-            n.version = '2.0';
-            n.queue = [];
-            t = b.createElement(e);
-            t.async = !0;
-            t.src = v;
-            s = b.getElementsByTagName(e)[0];
-            s.parentNode.insertBefore(t, s)
-        }(window, document, 'script',
-            'https://baohiem-daiichi.vn/wp-content/cache/busting/facebook-tracking/fbpix-events-en_US-2.9.16.js');
-        fbq('init', '894978317547737');
-        fbq('track', 'PageView');</script>
-    <noscript><img height="1" width="1" style="display:none"
-                   src="https://www.facebook.com/tr?id=894978317547737&ev=PageView&noscript=1"
-        /></noscript>
-    <meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress.">
     <!--[if lte IE 9]>
     <link rel="stylesheet" type="text/css"
           href="./index_files/vc_lte_ie9.min.css" media="screen">

@@ -6370,14 +6370,7 @@ if (document.readyState === 'complete') {
         documentInitOneSignal()
     })
 }
-;document.addEventListener("DOMContentLoaded", function (event) {
-    var load = document.getElementById("load");
-    if (!load.classList.contains('loader-removed')) {
-        var removeLoading = setTimeout(function () {
-            load.className += " loader-removed"
-        }, 300)
-    }
-});
+;
 
 function Layzr(a) {
     this._lastScroll = 0, this._ticking = !1, a = a || {}, this._optionsContainer = document.querySelector(a.container) || window, this._optionsSelector = a.selector || "[data-layzr]", this._optionsAttr = a.attr || "data-layzr", this._optionsAttrSrcSet = a.attrSrcSet || "data-layzr-srcset", this._optionsAttrRetina = a.retinaAttr || "data-layzr-retina", this._optionsAttrBg = a.bgAttr || "data-layzr-bg", this._optionsAttrHidden = a.hiddenAttr || "data-layzr-hidden", this._optionsThreshold = a.threshold || 0, this._optionsBefore = a.before || null, this._optionsAfter = a.after || null, this._optionsCallback = a.callback || null, this._retina = window.devicePixelRatio > 1, this._srcAttr = this._retina ? this._optionsAttrRetina : this._optionsAttr, this._nodes = document.querySelectorAll(this._optionsSelector), this._handlerBind = this._requestScroll.bind(this), this._create()
