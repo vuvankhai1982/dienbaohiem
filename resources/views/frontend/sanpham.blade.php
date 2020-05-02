@@ -232,8 +232,9 @@
                                                 THỊNH TOÀN DIỆN</h2></div>
                                         <div class="uvc-sub-heading ult-responsive"
                                              data-ultimate-target=".uvc-heading.ultimate-heading-39515ea288d6878d5 .uvc-sub-heading "
-                                             data-responsive-json-new="{&quot;font-size&quot;:&quot;desktop:34px;&quot;,&quot;line-height&quot;:&quot;desktop:40px;&quot;}"
-                                             style="font-family:'Open Sans Condensed';font-weight:700;margin-bottom:20px;">
+                                             data-responsive-json-new="{"font-size":"desktop:34px;","line-height":"desktop:40px;"}"
+                                             style="font-family:'Open Sans Condensed';font-weight:700;margin-bottom:20px;font-size: 34px;
+                                        line-height: 40px;">
                                             TIẾT KIỆM CHỈ 10% THU NHẬP BẢO VỆ CẢ GIA ĐÌNH
                                         </div>
                                     </div>
@@ -341,12 +342,12 @@
                                         <div class="uvc-main-heading ult-responsive"
                                              data-ultimate-target=".uvc-heading.ultimate-heading-43885ea288d689f0d h2"
                                              data-responsive-json-new="{&quot;font-size&quot;:&quot;desktop:20px;&quot;,&quot;line-height&quot;:&quot;desktop:26px;&quot;}">
-                                            <h2 style="font-weight:bold;margin-bottom:5px;">AN PHÚC HƯNG THỊNH TOÀN
+                                            <h2 style="font-weight:bold;margin-bottom:5px;font-size: 20px;">AN PHÚC HƯNG THỊNH TOÀN
                                                 DIỆN</h2></div>
                                         <div class="uvc-sub-heading ult-responsive"
                                              data-ultimate-target=".uvc-heading.ultimate-heading-43885ea288d689f0d .uvc-sub-heading "
                                              data-responsive-json-new="{&quot;font-size&quot;:&quot;desktop:34px;&quot;,&quot;line-height&quot;:&quot;desktop:40px;&quot;}"
-                                             style="font-family:'Open Sans Condensed';font-weight:700;margin-bottom:20px;">
+                                             style="font-family:'Open Sans Condensed';font-weight:700;margin-bottom:20px;font-size: 34px; line-height: 40px;">
                                             Đầu tư sáng suất
                                         </div>
                                     </div>
@@ -383,11 +384,11 @@
                                         <div class="uvc-main-heading ult-responsive"
                                              data-ultimate-target=".uvc-heading.ultimate-heading-3035ea288d68cbfc h2"
                                              data-responsive-json-new="{&quot;font-size&quot;:&quot;desktop:20px;&quot;,&quot;line-height&quot;:&quot;desktop:26px;&quot;}">
-                                            <h2 style="font-weight:bold;margin-bottom:5px;">AN THỊNH ĐẦU TƯ</h2></div>
+                                            <h2 style="font-weight:bold;margin-bottom:5px;font-size: 20px;">AN THỊNH ĐẦU TƯ</h2></div>
                                         <div class="uvc-sub-heading ult-responsive"
                                              data-ultimate-target=".uvc-heading.ultimate-heading-3035ea288d68cbfc .uvc-sub-heading "
                                              data-responsive-json-new="{&quot;font-size&quot;:&quot;desktop:34px;&quot;,&quot;line-height&quot;:&quot;desktop:40px;&quot;}"
-                                             style="font-family:'Open Sans Condensed';font-weight:700;margin-bottom:20px;">
+                                             style="font-family:'Open Sans Condensed';font-weight:700;margin-bottom:20px;font-size: 34px;line-height: 40px;">
                                             Giải pháp làm giàu an toàn cho người bận rộn
                                         </div>
                                     </div>
@@ -461,12 +462,13 @@
                                         <div class="uvc-main-heading ult-responsive"
                                              data-ultimate-target=".uvc-heading.ultimate-heading-18905ea288d68e259 h2"
                                              data-responsive-json-new="{&quot;font-size&quot;:&quot;desktop:40px;tablet_portrait:20px;&quot;,&quot;line-height&quot;:&quot;desktop:46px;tablet_portrait:26px;&quot;}">
-                                            <h2 style="font-family:'Open Sans Condensed';font-weight:700;margin-bottom:10px;">
+                                            <h2 style="font-family:'Open Sans Condensed';font-weight:700;margin-bottom:10px;font-size: 40px;">
                                                 Kết nối với chúng tôi ngay</h2></div>
                                         <div class="uvc-sub-heading ult-responsive"
                                              data-ultimate-target=".uvc-heading.ultimate-heading-18905ea288d68e259 .uvc-sub-heading "
                                              data-responsive-json-new="{&quot;font-size&quot;:&quot;desktop:70px;tablet_portrait:40px;&quot;,&quot;line-height&quot;:&quot;desktop:76px;tablet_portrait:46px;&quot;}"
-                                             style="font-family:'Open Sans Condensed';font-weight:700;">TƯ VẤN
+                                             style="font-family:'Open Sans Condensed';font-weight:700;font-size: 70px;
+    line-height: 76px;">TƯ VẤN
                                             GÓI SẢN PHẨM PHÙ HỢP NHẤT VỚI BẠN VÀ GIA ĐÌNH
                                         </div>
                                     </div>
