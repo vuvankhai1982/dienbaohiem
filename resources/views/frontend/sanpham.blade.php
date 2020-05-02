@@ -781,7 +781,7 @@
                                                                 data-large_image_width="198"
                                                                 data-large_image_height="121"><img
                                                                     class="lazy-load vc_single_image-img is-loaded"
-                                                                    src="./index_file/sacombank_web.jpg" width="198"
+                                                                    src="./index_files/sacombank_web.jpg" width="198"
                                                                     height="121" alt="sacombank_web" title="sacombank_web"
                                                                     data-dt-location="https://baohiem-daiichi.vn/san-pham/attachment/sacombank_web/"
                                                                     style="will-change: auto;"></a></figure>
@@ -797,7 +797,7 @@
                                                                 data-large_image_width="198"
                                                                 data-large_image_height="121"><img
                                                                     class="lazy-load vc_single_image-img is-loaded"
-                                                                    src="./index_file/lienvietbank.jpg" width="198"
+                                                                    src="./index_files/lienvietbank.jpg" width="198"
                                                                     height="121" alt="lienvietbank" title="lienvietbank"
                                                                     data-dt-location="https://baohiem-daiichi.vn/san-pham/attachment/lienvietbank/"
                                                                     style="will-change: auto;"></a></figure>
@@ -813,7 +813,7 @@
                                                                 data-large_image_width="198"
                                                                 data-large_image_height="121"><img
                                                                     class="lazy-load vc_single_image-img is-loaded"
-                                                                    src="./index_file/maritmebank.jpg" width="198"
+                                                                    src="./index_files/maritmebank.jpg" width="198"
                                                                     height="121" alt="maritmebank" title="maritmebank"
                                                                     data-dt-location="https://baohiem-daiichi.vn/san-pham/attachment/maritmebank/"
                                                                     style="will-change: auto;"></a></figure>
@@ -829,7 +829,7 @@
                                                                 data-large_image_width="198"
                                                                 data-large_image_height="121"><img
                                                                     class="lazy-load vc_single_image-img is-loaded"
-                                                                    src="./index_file/ocb.jpg" width="198" height="121"
+                                                                    src="./index_files/ocb.jpg" width="198" height="121"
                                                                     alt="ocb" title="ocb"
                                                                     data-dt-location="https://baohiem-daiichi.vn/san-pham/attachment/ocb/"
                                                                     style="will-change: auto;"></a></figure>
@@ -845,7 +845,7 @@
                                                                 data-large_image_width="198"
                                                                 data-large_image_height="121"><img
                                                                     class="lazy-load vc_single_image-img is-loaded"
-                                                                    src="./index_file/vietcombank.jpg" width="198"
+                                                                    src="./index_files/vietcombank.jpg" width="198"
                                                                     height="121" alt="vietcombank" title="vietcombank"
                                                                     data-dt-location="https://baohiem-daiichi.vn/san-pham/attachment/vietcombank/"
                                                                     style="will-change: auto;"></a></figure>
@@ -861,7 +861,7 @@
                                                                 data-large_image_width="198"
                                                                 data-large_image_height="121"><img
                                                                     class="lazy-load vc_single_image-img is-loaded"
-                                                                    src="./index_file/vpbank.jpg" width="198"
+                                                                    src="./index_files/vpbank.jpg" width="198"
                                                                     height="121" alt="vpbank" title="vpbank"
                                                                     data-dt-location="https://baohiem-daiichi.vn/san-pham/attachment/vpbank/"
                                                                     style="will-change: auto;"></a></figure>
@@ -877,7 +877,7 @@
                                                                 data-large_image_width="198"
                                                                 data-large_image_height="121"><img
                                                                     class="lazy-load vc_single_image-img is-loaded"
-                                                                    src="./index_file/bacabank.jpg" width="198"
+                                                                    src="./index_files/bacabank.jpg" width="198"
                                                                     height="121" alt="bacabank" title="bacabank"
                                                                     data-dt-location="https://baohiem-daiichi.vn/san-pham/attachment/bacabank/"
                                                                     style="will-change: auto;"></a></figure>
@@ -893,7 +893,7 @@
                                                                 data-large_image_width="198"
                                                                 data-large_image_height="121"><img
                                                                     class="lazy-load vc_single_image-img is-loaded"
-                                                                    src="./index_file/hdbank.jpg" width="198"
+                                                                    src="./index_files/hdbank.jpg" width="198"
                                                                     height="121" alt="hdbank" title="hdbank"
                                                                     data-dt-location="https://baohiem-daiichi.vn/san-pham/attachment/hdbank/"
                                                                     style="will-change: auto;"></a></figure>
@@ -909,7 +909,7 @@
                                                                 data-large_image_width="198"
                                                                 data-large_image_height="121"><img
                                                                     class="lazy-load vc_single_image-img is-loaded"
-                                                                    src="./index_file/sacombank_web.jpg" width="198"
+                                                                    src="./index_files/sacombank_web.jpg" width="198"
                                                                     height="121" alt="sacombank_web" title="sacombank_web"
                                                                     data-dt-location="https://baohiem-daiichi.vn/san-pham/attachment/sacombank_web/"
                                                                     style="will-change: auto;"></a></figure>
@@ -925,7 +925,7 @@
                                                                 data-large_image_width="198"
                                                                 data-large_image_height="121"><img
                                                                     class="lazy-load vc_single_image-img is-loaded"
-                                                                    src="./index_file/lienvietbank.jpg" width="198"
+                                                                    src="./index_files/lienvietbank.jpg" width="198"
                                                                     height="121" alt="lienvietbank" title="lienvietbank"
                                                                     data-dt-location="https://baohiem-daiichi.vn/san-pham/attachment/lienvietbank/"
                                                                     style="will-change: auto;"></a></figure>
@@ -941,7 +941,7 @@
                                                                 data-large_image_width="198"
                                                                 data-large_image_height="121"><img
                                                                     class="lazy-load vc_single_image-img is-loaded"
-                                                                    src="./index_file/maritmebank.jpg" width="198"
+                                                                    src="./index_files/maritmebank.jpg" width="198"
                                                                     height="121" alt="maritmebank" title="maritmebank"
                                                                     data-dt-location="https://baohiem-daiichi.vn/san-pham/attachment/maritmebank/"
                                                                     style="will-change: auto;"></a></figure>
@@ -957,7 +957,7 @@
                                                                 data-large_image_width="198"
                                                                 data-large_image_height="121"><img
                                                                     class="lazy-load vc_single_image-img is-loaded"
-                                                                    src="./index_file/ocb.jpg" width="198" height="121"
+                                                                    src="./index_files/ocb.jpg" width="198" height="121"
                                                                     alt="ocb" title="ocb"
                                                                     data-dt-location="https://baohiem-daiichi.vn/san-pham/attachment/ocb/"
                                                                     style="will-change: auto;"></a></figure>
@@ -972,7 +972,7 @@
                                                                 data-large_image_width="198"
                                                                 data-large_image_height="121"><img
                                                                     class="lazy-load vc_single_image-img is-loaded"
-                                                                    src="./index_file/vietcombank.jpg" width="198"
+                                                                    src="./index_files/vietcombank.jpg" width="198"
                                                                     height="121" alt="vietcombank" title="vietcombank"
                                                                     data-dt-location="https://baohiem-daiichi.vn/san-pham/attachment/vietcombank/"
                                                                     style="will-change: auto;"></a></figure>
@@ -987,7 +987,7 @@
                                                                 data-large_image_width="198"
                                                                 data-large_image_height="121"><img
                                                                     class="lazy-load vc_single_image-img is-loaded"
-                                                                    src="./index_file/vpbank.jpg" width="198"
+                                                                    src="./index_files/vpbank.jpg" width="198"
                                                                     height="121" alt="vpbank" title="vpbank"
                                                                     data-dt-location="https://baohiem-daiichi.vn/san-pham/attachment/vpbank/"
                                                                     style="will-change: auto;"></a></figure>
@@ -1003,7 +1003,7 @@
                                                                 data-large_image_width="198"
                                                                 data-large_image_height="121"><img
                                                                     class="lazy-load vc_single_image-img is-loaded"
-                                                                    src="./index_file/bacabank.jpg" width="198"
+                                                                    src="./index_files/bacabank.jpg" width="198"
                                                                     height="121" alt="bacabank" title="bacabank"
                                                                     data-dt-location="https://baohiem-daiichi.vn/san-pham/attachment/bacabank/"
                                                                     style="will-change: auto;"></a></figure>
@@ -1019,7 +1019,7 @@
                                                                 data-large_image_width="198"
                                                                 data-large_image_height="121"><img
                                                                     class="lazy-load vc_single_image-img is-loaded"
-                                                                    src="./index_file/hdbank.jpg" width="198"
+                                                                    src="./index_files/hdbank.jpg" width="198"
                                                                     height="121" alt="hdbank" title="hdbank"
                                                                     data-dt-location="https://baohiem-daiichi.vn/san-pham/attachment/hdbank/"
                                                                     style="will-change: auto;"></a></figure>
@@ -1035,7 +1035,7 @@
                                                                 data-large_image_width="198"
                                                                 data-large_image_height="121"><img
                                                                     class="lazy-load vc_single_image-img is-loaded"
-                                                                    src="./index_file/sacombank_web.jpg" width="198"
+                                                                    src="./index_files/sacombank_web.jpg" width="198"
                                                                     height="121" alt="sacombank_web" title="sacombank_web"
                                                                     data-dt-location="https://baohiem-daiichi.vn/san-pham/attachment/sacombank_web/"
                                                                     style="will-change: auto;"></a></figure>
@@ -1051,7 +1051,7 @@
                                                                 data-large_image_width="198"
                                                                 data-large_image_height="121"><img
                                                                     class="lazy-load vc_single_image-img is-loaded"
-                                                                    src="./index_file/lienvietbank.jpg" width="198"
+                                                                    src="./index_files/lienvietbank.jpg" width="198"
                                                                     height="121" alt="lienvietbank" title="lienvietbank"
                                                                     data-dt-location="https://baohiem-daiichi.vn/san-pham/attachment/lienvietbank/"
                                                                     style="will-change: auto;"></a></figure>
@@ -1067,7 +1067,7 @@
                                                                 data-large_image_width="198"
                                                                 data-large_image_height="121"><img
                                                                     class="lazy-load vc_single_image-img is-loaded"
-                                                                    src="./index_file/maritmebank.jpg" width="198"
+                                                                    src="./index_files/maritmebank.jpg" width="198"
                                                                     height="121" alt="maritmebank" title="maritmebank"
                                                                     data-dt-location="https://baohiem-daiichi.vn/san-pham/attachment/maritmebank/"
                                                                     style="will-change: auto;"></a></figure>
@@ -1083,7 +1083,7 @@
                                                                 data-large_image_width="198"
                                                                 data-large_image_height="121"><img
                                                                     class="lazy-load vc_single_image-img is-loaded"
-                                                                    src="./index_file/ocb.jpg" width="198" height="121"
+                                                                    src="./index_files/ocb.jpg" width="198" height="121"
                                                                     alt="ocb" title="ocb"
                                                                     data-dt-location="https://baohiem-daiichi.vn/san-pham/attachment/ocb/"
                                                                     style="will-change: auto;"></a></figure>
