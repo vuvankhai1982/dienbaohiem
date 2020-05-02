@@ -2,9 +2,7 @@
 <!-- saved from url=(0027)https://baohiem-daiichi.vn/ -->
 <html lang="vi-VN"
       class="js supports no-touchevents no-forcetouch cssanimations no-cssgridlegacy cssgrid cssfilters csstransforms csstransforms3d csstransitions mobile-false not-iOS">
-<script type="text/javascript" async="" src="./index_files/ga-af5c617d36e28d19710b882a6824e213.js"></script>
 <script type="text/javascript" async="" src="./index_files/f.txt"></script>
-<script async="" src="./index_files/gtm.js"></script>
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0">
@@ -211,8 +209,6 @@
     <link rel="stylesheet" type="text/css" href="/index_files/46d37cdbe40784a21703e3b444b712be.css">
     <link rel="stylesheet" type="text/css" href="/index_files/46fc1a3b0f6f5064d9abf0aa8cb09ffd.css">
     <link rel="stylesheet" type="text/css" href="/index_files/css">
-    <!--endthem css-->
-    <meta name="onesignal" content="wordpress-plugin">
     <link rel="icon"
           href="https://baohiem-daiichi.vn/wp-content/uploads/2017/11/cropped-favico-baohiem-daiichi-32x32.png"
           sizes="32x32">
@@ -233,8 +229,6 @@
                 display: none !important
             }</style>
     </noscript>
-    <script src="./index_files/OneSignalPageSDKES6.js" async=""></script>
-    <link rel="stylesheet" href="./index_files/OneSignalSDKStyles.css">
 </head>
 <body
     class="home page-template-default page page-id-10939 wp-embed-responsive the7-core-ver-2.0.1 slideshow-on dt-responsive-on accent-gradient srcset-enabled btn-flat custom-btn-color custom-btn-hover-color phantom-fade phantom-shadow-decoration phantom-custom-logo-on sticky-mobile-header top-header first-switch-logo-left first-switch-menu-right second-switch-logo-left second-switch-menu-right right-mobile-menu layzr-loading-on popup-message-style dt-fa-compatibility the7-ver-7.6.0 wpb-js-composer js-comp-ver-5.7 vc_responsive elementor-default elementor-kit-10952 elementor-page elementor-page-10939 no-mobile closed-overlay-mobile-header"
@@ -889,69 +883,6 @@
             "featuredImage": "https:\/\/baohiem-daiichi.vn\/wp-content\/uploads\/2019\/06\/1473-Dai-ichi-Life-Viet-Nam.jpg"
         }
     };</script>
-<script>window.lazyLoadOptions = {
-        elements_selector: "img[data-lazy-src],.rocket-lazyload",
-        data_src: "lazy-src",
-        data_srcset: "lazy-srcset",
-        data_sizes: "lazy-sizes",
-        class_loading: "lazyloading",
-        class_loaded: "lazyloaded",
-        threshold: 300,
-        callback_loaded: function (element) {
-            if (element.tagName === "IFRAME" && element.dataset.rocketLazyload == "fitvidscompatible") {
-                if (element.classList.contains("lazyloaded")) {
-                    if (typeof window.jQuery != "undefined") {
-                        if (jQuery.fn.fitVids) {
-                            jQuery(element).parent().fitVids()
-                        }
-                    }
-                }
-            }
-        }
-    };
-    window.addEventListener('LazyLoad::Initialized', function (e) {
-        var lazyLoadInstance = e.detail.instance;
-        if (window.MutationObserver) {
-            var observer = new MutationObserver(function (mutations) {
-                var image_count = 0;
-                var iframe_count = 0;
-                var rocketlazy_count = 0;
-                mutations.forEach(function (mutation) {
-                    for (i = 0; i < mutation.addedNodes.length; i++) {
-                        if (typeof mutation.addedNodes[i].getElementsByTagName !== 'function') {
-                            return
-                        }
-                        if (typeof mutation.addedNodes[i].getElementsByClassName !== 'function') {
-                            return
-                        }
-                        images = mutation.addedNodes[i].getElementsByTagName('img');
-                        is_image = mutation.addedNodes[i].tagName == "IMG";
-                        iframes = mutation.addedNodes[i].getElementsByTagName('iframe');
-                        is_iframe = mutation.addedNodes[i].tagName == "IFRAME";
-                        rocket_lazy = mutation.addedNodes[i].getElementsByClassName('rocket-lazyload');
-                        image_count += images.length;
-                        iframe_count += iframes.length;
-                        rocketlazy_count += rocket_lazy.length;
-                        if (is_image) {
-                            image_count += 1
-                        }
-                        if (is_iframe) {
-                            iframe_count += 1
-                        }
-                    }
-                });
-                if (image_count > 0 || iframe_count > 0 || rocketlazy_count > 0) {
-                    lazyLoadInstance.update()
-                }
-            });
-            var b = document.getElementsByTagName("body")[0];
-            var config = {childList: !0, subtree: !0};
-            observer.observe(b, config)
-        }
-    }, !1)</script>
-{{--<script data-no-minify="1" async="" src="./index_files/lazyload.min.js"></script>--}}
-{{--<script  async="" src="./index_files/remote.js"></script>--}}
-
 <div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
     <div class="pswp__bg"></div>
     <div class="pswp__scroll-wrap">
