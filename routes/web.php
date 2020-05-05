@@ -15,7 +15,7 @@ use Illuminate\Support\Facades\Route;
 
 Route::get('/', 'HomeController@index')->name('home');
 Route::get('/gioi-thieu', 'HomeController@gioiThieu');
-Route::get('/san-pham/an-tam-hung-thinh', 'HomeController@anTamHungThinhToanDien');
+Route::get('/san-pham/{nameAndId}', 'HomeController@sanPham');
 
 Route::post('/contact', 'HomeController@sendContact')->name('send_contact');
 
@@ -31,7 +31,11 @@ Route::prefix('admin')
     Route::get('/index', 'HomeController@index')->name('dashboard');
     Route::get('posts/gioi-thieu', 'PostController@gioiThieu')->name('gioi_thieu');
     Route::get('posts/lien-he', 'PostController@lienHe')->name('lien_he');
-    Route::resource('posts', 'PostController');
+
+    Route::get('san-pham/{nameAndId}', 'PostController@sanPham')->name('sp');
+
+
+        Route::resource('posts', 'PostController');
 });
 
 Route::group(['prefix' => 'admin'], function() {

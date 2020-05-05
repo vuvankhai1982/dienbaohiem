@@ -30,6 +30,38 @@ class PostsTableSeeder extends Seeder
             'content' => 'Nội dung liên hệ về công ty',
         ]);
 
+        DB::table('posts')->insert([
+            'title' => 'An Tâm Hưng Thịnh Toàn Diện',
+            'status_id' => 2,
+            'user_id' => 1,
+            'type_id' => config('constant.post.types.Sản phẩm'),
+            'content' => 'Nội dung An Tâm Hưng Thịnh Toàn Diện',
+        ]);
+
+        DB::table('posts')->insert([
+            'title' => 'An phúc hưng thịnh',
+            'status_id' => 2,
+            'user_id' => 1,
+            'type_id' => config('constant.post.types.Sản phẩm'),
+            'content' => 'Nội dung An phúc hưng thịnh',
+        ]);
+
+        DB::table('posts')->insert([
+            'title' => 'An thịnh đầu tư',
+            'status_id' => 2,
+            'user_id' => 1,
+            'type_id' => config('constant.post.types.Sản phẩm'),
+            'content' => 'Nội dung An thịnh đầu tư',
+        ]);
+
+        DB::table('posts')->insert([
+            'title' => 'Bảo hiểm chăm sóc sức khỏe',
+            'status_id' => 2,
+            'user_id' => 1,
+            'type_id' => config('constant.post.types.Sản phẩm'),
+            'content' => 'Nội dung Bảo hiểm chăm sóc sức khỏe',
+        ]);
+
         factory(Post::class, 40)->create();
 
         $tags = Tag::all();

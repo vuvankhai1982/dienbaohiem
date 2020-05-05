@@ -31,9 +31,14 @@ class PostController extends Controller
     {
         $post = Post::where('type_id', config('constant.post.types.Giới thiệu'))->first();
 
-        $tags = Tag::all();
+        return response()->view('admin.post.special', compact('post'));
+    }
 
-        return response()->view('admin.post.intro_contact', compact('post', 'tags'));
+    public function sanPham(string $nameAndId)
+    {
+        $post = Post::find(get_last_character($nameAndId));
+
+        return response()->view('admin.post.special', compact('post'));
     }
 
     public function lienHe()

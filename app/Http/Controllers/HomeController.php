@@ -23,9 +23,10 @@ class HomeController extends Controller
         return view('frontend.bai_viet.base', compact('post'));
     }
 
-    public function anTamHungThinhToanDien()
+    public function sanPham(string $nameAndId)
     {
-        $post = Post::where('type_id', config('constant.post.types.sp-athttd'))->first();
+        $id = get_last_character($nameAndId);
+        $post = Post::find($id);
 
         return view('frontend.san_pham.base', compact('post'));
     }
