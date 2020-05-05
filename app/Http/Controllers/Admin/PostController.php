@@ -34,9 +34,9 @@ class PostController extends Controller
         return response()->view('admin.post.special', compact('post'));
     }
 
-    public function athttd()
+    public function sanPham(string $nameAndId)
     {
-        $post = Post::where('type_id', config('constant.post.types.sp_athttd'))->first();
+        $post = Post::find(get_last_character($nameAndId));
 
         return response()->view('admin.post.special', compact('post'));
     }

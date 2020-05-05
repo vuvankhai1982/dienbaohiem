@@ -32,7 +32,7 @@ Route::prefix('admin')
     Route::get('posts/gioi-thieu', 'PostController@gioiThieu')->name('gioi_thieu');
     Route::get('posts/lien-he', 'PostController@lienHe')->name('lien_he');
 
-    Route::get('san-pham/an-tam-hung-thinh', 'PostController@athttd')->name('sp.atht');
+    Route::get('san-pham/{nameAndId}', 'PostController@sanPham')->name('sp');
 
 
         Route::resource('posts', 'PostController');

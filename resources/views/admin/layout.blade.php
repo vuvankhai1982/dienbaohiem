@@ -147,8 +147,8 @@
                         </a>
                     </li>
 
-                    <li class="nav-item has-treeview {{ Route::is('admin.sp.*') ? 'menu-open' : '' }}">
-                        <a href="#" class="nav-link {{ Route::is('admin.sp.*') ? 'active' : '' }}">
+                    <li class="nav-item has-treeview {{ Route::is('admin.sp') ? 'menu-open' : '' }}">
+                        <a href="#" class="nav-link {{ Route::is('admin.sp') ? 'active' : '' }}">
                             <i class="nav-icon fas fa-tachometer-alt"></i>
                             <p>
                                 Sản phẩm
@@ -157,25 +157,25 @@
                         </a>
                         <ul class="nav nav-treeview">
                             <li class="nav-item">
-                                <a href="{{ route('admin.sp.atht') }}" class="nav-link {{ Route::is('admin.sp.atht') ? 'active' : '' }}">
+                                <a href="/admin/san-pham/an-tam-hung-thinh-3" class="nav-link {{ Request::is('admin/san-pham/an-tam-hung-thinh-3') ? 'active' : '' }}">
                                     <i class="far fa-circle nav-icon"></i>
                                     <p>An Tâm Hưng Thịnh</p>
                                 </a>
                             </li>
                             <li class="nav-item">
-                                <a href="{{ route('admin.posts.create') }}" class="nav-link {{ Route::is('admin.posts.create') ? 'active' : '' }}">
+                                <a href="/admin/san-pham/an-phuc-hung-thinh-4" class="nav-link {{ Request::is('admin/san-pham/an-phuc-hung-thinh-4') ? 'active' : '' }}">
                                     <i class="far fa-circle nav-icon"></i>
                                     <p>An phúc hưng thịnh</p>
                                 </a>
                             </li>
                             <li class="nav-item">
-                                <a href="{{ route('admin.posts.create') }}" class="nav-link {{ Route::is('admin.posts.create') ? 'active' : '' }}">
+                                <a href="/admin/san-pham/an-thinh-dau-tu-5" class="nav-link {{ Request::is('admin/san-pham/an-thinh-dau-tu-5') ? 'active' : '' }}">
                                     <i class="far fa-circle nav-icon"></i>
                                     <p>An thịnh đầu tư</p>
                                 </a>
                             </li>
                             <li class="nav-item">
-                                <a href="{{ route('admin.posts.create') }}" class="nav-link {{ Route::is('admin.posts.create') ? 'active' : '' }}">
+                                <a href="/admin/san-pham/bao-hiem-cham-soc-suc-khoe-6" class="nav-link {{ Request::is('admin/san-pham/bao-hiem-cham-soc-suc-khoe-6') ? 'active' : '' }}">
                                     <i class="far fa-circle nav-icon"></i>
                                     <p>BH chăm sóc sức khỏe</p>
                                 </a>
