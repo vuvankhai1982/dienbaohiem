@@ -128,6 +128,7 @@
                             </li>
                         </ul>
                     </li>
+
                     <li class="nav-item">
                         <a href="{{ route('admin.gioi_thieu') }}" class="nav-link {{ Route::is('admin.gioi_thieu') ? 'active' : '' }}">
                             <i class="nav-icon fas fa-th"></i>
@@ -144,6 +145,42 @@
                                 Liên hệ
                             </p>
                         </a>
+                    </li>
+
+                    <li class="nav-item has-treeview {{ Route::is('admin.sp.*') ? 'menu-open' : '' }}">
+                        <a href="#" class="nav-link {{ Route::is('admin.sp.*') ? 'active' : '' }}">
+                            <i class="nav-icon fas fa-tachometer-alt"></i>
+                            <p>
+                                Sản phẩm
+                                <i class="right fas fa-angle-left"></i>
+                            </p>
+                        </a>
+                        <ul class="nav nav-treeview">
+                            <li class="nav-item">
+                                <a href="{{ route('admin.sp.atht') }}" class="nav-link {{ Route::is('admin.sp.atht') ? 'active' : '' }}">
+                                    <i class="far fa-circle nav-icon"></i>
+                                    <p>An Tâm Hưng Thịnh</p>
+                                </a>
+                            </li>
+                            <li class="nav-item">
+                                <a href="{{ route('admin.posts.create') }}" class="nav-link {{ Route::is('admin.posts.create') ? 'active' : '' }}">
+                                    <i class="far fa-circle nav-icon"></i>
+                                    <p>An phúc hưng thịnh</p>
+                                </a>
+                            </li>
+                            <li class="nav-item">
+                                <a href="{{ route('admin.posts.create') }}" class="nav-link {{ Route::is('admin.posts.create') ? 'active' : '' }}">
+                                    <i class="far fa-circle nav-icon"></i>
+                                    <p>An thịnh đầu tư</p>
+                                </a>
+                            </li>
+                            <li class="nav-item">
+                                <a href="{{ route('admin.posts.create') }}" class="nav-link {{ Route::is('admin.posts.create') ? 'active' : '' }}">
+                                    <i class="far fa-circle nav-icon"></i>
+                                    <p>BH chăm sóc sức khỏe</p>
+                                </a>
+                            </li>
+                        </ul>
                     </li>
                 </ul>
             </nav>

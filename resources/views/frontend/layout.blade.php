@@ -290,7 +290,7 @@
                     <div class="dt-mega-menu-wrap" style="opacity: 0; visibility: hidden;">
                         <ul class="sub-nav gradient-hover hover-style-bg level-arrows-on">
                             <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9319 first no-link dt-mega-parent wf-1-4">
-                                <a href="https://baohiem-daiichi.vn/san-pham/an-tam-hung-thinh/"
+                                <a href="/san-pham/an-tam-hung-thinh-3/"
                                    class="mega-menu-img mega-menu-img-top layzr-bg-transparent" data-level="2"><img
                                         class="preload-me lazy-load is-loaded" src="/index_files/slide_2_1-532x213.png"
                                         alt="Menu icon" style="margin: 0px; border-radius: 0px; will-change: auto;"
@@ -299,7 +299,7 @@
                                         class="menu-item-text"><span
                                             class="menu-text">An Tâm Hưng Thịnh Toàn Diện</span></span></a></li>
                             <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9318 no-link dt-mega-parent wf-1-4">
-                                <a href="https://baohiem-daiichi.vn/san-pham/an-phuc-hung-thinh/"
+                                <a href="/san-pham/an-phuc-hung-thinh-4/"
                                    class="mega-menu-img mega-menu-img-top" data-level="2"><img
                                         class="preload-me lazy-load is-loaded"
                                         src="/index_files/an-phuc-hung-thinh-dai-ichi-life-600x240.jpg" alt="Menu icon"
@@ -309,7 +309,7 @@
                                         class="menu-item-text"><span class="menu-text">An phúc hưng thịnh</span></span></a>
                             </li>
                             <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9321 no-link dt-mega-parent wf-1-4">
-                                <a href="https://baohiem-daiichi.vn/san-pham/an-thinh-dau-tu/"
+                                <a href="/san-pham/an-thinh-dau-tu-5/"
                                    class="mega-menu-img mega-menu-img-top" data-level="2"><img
                                         class="preload-me lazy-load is-loaded"
                                         src="/index_files/28379168_408153652967414_6989168930748518442_n-277x111.jpg"
@@ -319,7 +319,7 @@
                                         class="menu-item-text"><span class="menu-text">An thịnh đầu tư</span></span></a>
                             </li>
                             <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10720 no-link dt-mega-parent wf-1-4">
-                                <a href="https://baohiem-daiichi.vn/san-pham/bao-hiem-cham-soc-suc-khoe/"
+                                <a href="/san-pham/bao-hiem-cham-soc-suc-khoe-6/"
                                    class="mega-menu-img mega-menu-img-top" data-level="2"><img
                                         class="preload-me lazy-load is-loaded"
                                         src="/index_files/gia-kham-benh-giadinhmoi-2305-620x248.jpg" alt="Menu icon"
@@ -392,12 +392,12 @@
                                     class="fas fa-building"></i><span class="menu-item-text"><span class="menu-text">Giới thiệu</span></span></a>
                         </li>
                         <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-9308 has-children mega-full-width mega-column-4">
-                            <a href="https://baohiem-daiichi.vn/san-pham/" data-level="1"><i
+                            <a href="#" data-level="1"><i
                                     class="Defaults-diamond"></i><span class="menu-item-text"><span class="menu-text">Sản phẩm</span></span></a><i
                                 class="next-level-button"></i>
                             <ul class="sub-nav gradient-hover level-arrows-on">
                                 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9319 first no-link wf-1-4">
-                                    <a href="https://baohiem-daiichi.vn/san-pham/an-tam-hung-thinh/"
+                                    <a href="/san-pham/an-tam-hung-thinh-3/"
                                        class="mega-menu-img mega-menu-img-top layzr-bg-transparent" data-level="2"><img
                                             class="preload-me lazy-load mCS_img_loaded is-loaded"
                                             src="/index_files/slide_2_1-532x213.png" alt="Menu icon"
@@ -407,7 +407,7 @@
                                             class="menu-item-text"><span
                                                 class="menu-text">An Tâm Hưng Thịnh Toàn Diện</span></span></a></li>
                                 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9318 no-link wf-1-4">
-                                    <a href="https://baohiem-daiichi.vn/san-pham/an-phuc-hung-thinh/"
+                                    <a href="/san-pham/an-phuc-hung-thinh-4/"
                                        class="mega-menu-img mega-menu-img-top" data-level="2"><img
                                             class="preload-me lazy-load mCS_img_loaded is-loaded"
                                             src="/index_files/an-phuc-hung-thinh-dai-ichi-life-600x240.jpg"
@@ -417,7 +417,7 @@
                                             class="menu-item-text"><span
                                                 class="menu-text">An phúc hưng thịnh</span></span></a></li>
                                 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9321 no-link wf-1-4">
-                                    <a href="https://baohiem-daiichi.vn/san-pham/an-thinh-dau-tu/"
+                                    <a href="/san-pham/an-thinh-dau-tu-5/"
                                        class="mega-menu-img mega-menu-img-top" data-level="2"><img
                                             class="preload-me lazy-load mCS_img_loaded is-loaded"
                                             src="/index_files/28379168_408153652967414_6989168930748518442_n-277x111.jpg"
@@ -427,7 +427,7 @@
                                             class="menu-item-text"><span class="menu-text">An thịnh đầu tư</span></span></a>
                                 </li>
                                 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10720 no-link wf-1-4">
-                                    <a href="https://baohiem-daiichi.vn/san-pham/bao-hiem-cham-soc-suc-khoe/"
+                                    <a href="/san-pham/bao-hiem-cham-soc-suc-khoe-6/"
                                        class="mega-menu-img mega-menu-img-top" data-level="2"><img
                                             class="preload-me lazy-load mCS_img_loaded is-loaded"
                                             src="/index_files/gia-kham-benh-giadinhmoi-2305-620x248.jpg"
@@ -945,7 +945,7 @@
                          style="opacity: 0; visibility: hidden; width: 1200px; left: -357.45px;">
                         <ul class="sub-nav gradient-hover hover-style-bg level-arrows-on">
                             <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9319 first no-link dt-mega-parent wf-1-4">
-                                <a href="https://baohiem-daiichi.vn/san-pham/an-tam-hung-thinh/"
+                                <a href="/san-pham/an-tam-hung-thinh-3/"
                                    class="mega-menu-img mega-menu-img-top layzr-bg-transparent" data-level="2"><img
                                         class="preload-me lazy-load is-loaded" src="/index_files/slide_2_1-532x213.png"
                                         alt="Menu icon" style="margin: 0px; border-radius: 0px; will-change: auto;"
@@ -954,7 +954,7 @@
                                         class="menu-item-text"><span
                                             class="menu-text">An Tâm Hưng Thịnh Toàn Diện</span></span></a></li>
                             <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9318 no-link dt-mega-parent wf-1-4">
-                                <a href="https://baohiem-daiichi.vn/san-pham/an-phuc-hung-thinh/"
+                                <a href="/san-pham/an-phuc-hung-thinh-4/"
                                    class="mega-menu-img mega-menu-img-top" data-level="2"><img
                                         class="preload-me lazy-load is-loaded"
                                         src="/index_files/an-phuc-hung-thinh-dai-ichi-life-600x240.jpg" alt="Menu icon"
@@ -964,7 +964,7 @@
                                         class="menu-item-text"><span class="menu-text">An phúc hưng thịnh</span></span></a>
                             </li>
                             <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9321 no-link dt-mega-parent wf-1-4">
-                                <a href="https://baohiem-daiichi.vn/san-pham/an-thinh-dau-tu/"
+                                <a href="/san-pham/an-thinh-dau-tu-5/"
                                    class="mega-menu-img mega-menu-img-top" data-level="2"><img
                                         class="preload-me lazy-load is-loaded"
                                         src="/index_files/28379168_408153652967414_6989168930748518442_n-277x111.jpg"
@@ -974,7 +974,7 @@
                                         class="menu-item-text"><span class="menu-text">An thịnh đầu tư</span></span></a>
                             </li>
                             <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10720 no-link dt-mega-parent wf-1-4">
-                                <a href="https://baohiem-daiichi.vn/san-pham/bao-hiem-cham-soc-suc-khoe/"
+                                <a href="/san-pham/bao-hiem-cham-soc-suc-khoe-6/"
                                    class="mega-menu-img mega-menu-img-top" data-level="2"><img
                                         class="preload-me lazy-load is-loaded"
                                         src="/index_files/gia-kham-benh-giadinhmoi-2305-620x248.jpg" alt="Menu icon"
