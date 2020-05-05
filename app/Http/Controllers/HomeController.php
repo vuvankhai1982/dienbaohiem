@@ -15,6 +15,21 @@ class HomeController extends Controller
         return view('frontend.index');
     }
 
+    public function gioiThieu()
+    {
+        $post = Post::where('type_id', config('constant.post.types.Giới thiệu'))
+            ->first();
+
+        return view('frontend.bai_viet.base', compact('post'));
+    }
+
+    public function anTamHungThinhToanDien()
+    {
+        $post = Post::where('type_id', config('constant.post.types.sp-athttd'))->first();
+
+        return view('frontend.san_pham.base', compact('post'));
+    }
+
     public function sendContact(Request $request)
     {
         $contact = new Contact($request->all());
