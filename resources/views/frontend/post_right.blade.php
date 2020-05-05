@@ -2,7 +2,7 @@
     <div class="sidebar-content widget-divider-off">
         <section id="text-3" class="widget widget_text">
             <div class="textwidget"><p><img class="alignnone size-large wp-image-11014 lazyloaded"
-                                            src="./index_files/nguyen-cao-ky-dai-ichi-life-viet-nam-1024x959.jpg"
+                                            src="/index_files/nguyen-cao-ky-dai-ichi-life-viet-nam-1024x959.jpg"
                                             alt="" width="1024" height="959"
                                             data-lazy-src="https://baohiem-daiichi.vn/wp-content/uploads/2020/03/nguyen-cao-ky-dai-ichi-life-viet-nam-1024x959.jpg"
                                             data-was-processed="true">
