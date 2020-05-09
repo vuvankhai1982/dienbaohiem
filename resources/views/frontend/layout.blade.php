@@ -14,6 +14,10 @@
     <link rel="stylesheet" href="/index_files/46d37cdbe40784a21703e3b444b712be.css" >
     <link rel="stylesheet" href="/index_files/346c03c93e323475f6d284ffd9dc4adb.css" >
     <link rel="stylesheet" href="/index_files/e508a384f63c484c02b778eeb8c69402.css" >
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
 
     <meta name="description"
           content="Bảo hiểm nhân thọ Dai-ichi life Việt Nam, 100% vốn từ Nhật Bản, Dai ichi life công ty BHNT tốt nhất Việt Nam. Sản phẩm chất lượng uy tín, dịch vụ hoàn hảo.">
@@ -190,13 +194,6 @@
                 "google": "Share on Google Plus"
             }, "overlayOpacity": "85"
         }; /* ]]> */</script>
-    <link rel="https://api.w.org/" href="https://baohiem-daiichi.vn/wp-json/">
-    <link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://baohiem-daiichi.vn/xmlrpc.php?rsd">
-    <link rel="wlwmanifest" type="application/wlwmanifest+xml"
-          href="https://baohiem-daiichi.vn/wp-includes/wlwmanifest.xml">
-    <meta name="generator" content="WordPress 5.3.2">
-    <link rel="shortlink" href="https://baohiem-daiichi.vn/">
-
     <script async="" src="/index_files/js(1)"></script>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!--[if lte IE 9]>
@@ -252,7 +249,7 @@
             <div class="branding">
                 <div id="site-title" class="assistive-text">Bảo hiểm Dai ichi life Việt Nam</div>
                 <div id="site-description" class="assistive-text">Bảo hiểm nhân thọ Dai ichi life Việt Nam</div>
-                <a class="" href="https://baohiem-daiichi.vn/"><img class="preload-me lazyloaded"
+                <a class="" href="/"><img class="preload-me lazyloaded"
                                                                     src="/index_files/logo-dai-ichi-160.png"
                                                                     data-lazy-srcset="https://baohiem-daiichi.vn/wp-content/uploads/2019/04/logo-dai-ichi-160.png 160w, https://baohiem-daiichi.vn/wp-content/uploads/2019/04/logo-dai-ichi-life-mobile.png 70w"
                                                                     width="160" height="55" data-lazy-sizes="160px"
@@ -284,7 +281,7 @@
                             class="fas fa-building"></i><span class="menu-item-text"><span
                                 class="menu-text">Giới thiệu</span><i class="underline"></i></span></a></li>
                 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-9308 has-children dt-mega-menu mega-full-width mega-column-4">
-                    <a href="https://baohiem-daiichi.vn/san-pham/" data-level="1"><i class="Defaults-diamond"></i><span
+                    <a href="" onclick="return false;" data-level="1"><i class="Defaults-diamond"></i><span
                             class="menu-item-text"><span class="menu-text">Sản phẩm</span><i
                                 class="underline"></i></span></a><i class="next-level-button"></i>
                     <div class="dt-mega-menu-wrap" style="opacity: 0; visibility: hidden;">
@@ -332,7 +329,7 @@
                     </div>
                 </li>
                 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10268"><a
-                        href="https://baohiem-daiichi.vn/ho-tro-khach-hang/" data-level="1"><i
+                        href="/ho-tro-khach-hang/" data-level="1"><i
                             class="fas fa-briefcase-medical"></i><span class="menu-item-text"><span class="menu-text">Hỗ trợ khách hàng</span><i
                                 class="underline"></i></span></a></li>
                 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10609"><a
@@ -439,7 +436,7 @@
                             </ul>
                         </li>
                         <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10268"><a
-                                href="https://baohiem-daiichi.vn/ho-tro-khach-hang/" data-level="1"><i
+                                href="/ho-tro-khach-hang/" data-level="1"><i
                                     class="fas fa-briefcase-medical"></i><span class="menu-item-text"><span
                                         class="menu-text">Hỗ trợ khách hàng</span></span></a></li>
                         <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10609"><a
@@ -987,7 +984,7 @@
                     </div>
                 </li>
                 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10268"><a
-                        href="https://baohiem-daiichi.vn/ho-tro-khach-hang/" data-level="1"><i
+                        href="/ho-tro-khach-hang/" data-level="1"><i
                             class="fas fa-briefcase-medical"></i><span class="menu-item-text"><span class="menu-text">Hỗ trợ khách hàng</span><i
                                 class="underline"></i></span></a></li>
                 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10609"><a

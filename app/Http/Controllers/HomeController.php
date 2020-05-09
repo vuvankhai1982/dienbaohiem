@@ -79,4 +79,9 @@ class HomeController extends Controller
 
         return view('frontend.post_show', compact('post', 'recentPosts', 'tags'));
     }
+
+    public function hoTroKhachHang()
+    {
+        return view('frontend.ho_tro_khach_hang');
+    }
 }
