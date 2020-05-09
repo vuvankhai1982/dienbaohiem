@@ -84,4 +84,17 @@ class HomeController extends Controller
     {
         return view('frontend.ho_tro_khach_hang');
     }
+
+    public function tinTuc()
+    {
+        $posts = Post::orderBy('id', 'desc')
+            ->where('type_id', config('constant.post.types.Bài viết'))
+            ->where('status_id', config('constant.post.status.Công bố'))
+            ->paginate(10);
+
+        $tags = Tag::all();
+        $recentPosts = Post::orderBy('id', 'desc')->limit(3)->get();
+
+        return view('frontend.tintuc', compact('posts', 'recentPosts', 'tags'));
+    }
 }

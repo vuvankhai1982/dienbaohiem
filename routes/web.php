@@ -17,6 +17,7 @@ Route::get('/', 'HomeController@index')->name('home');
 Route::get('/gioi-thieu', 'HomeController@gioiThieu');
 Route::get('/san-pham/{nameAndId}', 'HomeController@sanPham');
 Route::get('/ho-tro-khach-hang', 'HomeController@hoTroKhachHang');
+Route::get('/tin-tuc', 'HomeController@tinTuc');
 
 Route::post('/contact', 'HomeController@sendContact')->name('send_contact');
 
