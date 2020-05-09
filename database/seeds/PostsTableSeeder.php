@@ -29,6 +29,13 @@ class PostsTableSeeder extends Seeder
             'type_id' => config('constant.post.types.Liên hệ'),
             'content' => 'Nội dung liên hệ về công ty',
         ]);
+        DB::table('posts')->insert([
+            'title' => 'Liên hệ',
+            'status_id' => 2,
+            'user_id' => 1,
+            'type_id' => config('constant.post.types.Tuyển dụng'),
+            'content' => 'Nội dung liên hệ về công ty',
+        ]);
 
         DB::table('posts')->insert([
             'title' => 'An Tâm Hưng Thịnh Toàn Diện',

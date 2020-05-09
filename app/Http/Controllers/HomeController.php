@@ -23,6 +23,22 @@ class HomeController extends Controller
         return view('frontend.bai_viet.base', compact('post'));
     }
 
+    public function tuyenDung()
+    {
+        $post = Post::where('type_id', config('constant.post.types.Tuyển dụng'))
+            ->first();
+
+        return view('frontend.bai_viet.base', compact('post'));
+    }
+
+    public function lienHe()
+    {
+        $post = Post::where('type_id', config('constant.post.types.Liên hệ'))
+            ->first();
+
+        return view('frontend.bai_viet.base', compact('post'));
+    }
+
     public function sanPham(string $nameAndId)
     {
         $id = get_last_character($nameAndId);

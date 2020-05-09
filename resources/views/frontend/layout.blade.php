@@ -337,11 +337,11 @@
                             class="Defaults-newspaper-o"></i><span class="menu-item-text"><span class="menu-text">Tin Tức</span><i
                                 class="underline"></i></span></a></li>
                 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9311"><a
-                        href="https://baohiem-daiichi.vn/tuyen-dung/" data-level="1"><i class="Defaults-group"></i><span
+                        href="/tuyen-dung/" data-level="1"><i class="Defaults-group"></i><span
                             class="menu-item-text"><span class="menu-text">Tuyển dụng</span><i
                                 class="underline"></i></span></a></li>
                 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10449"><a
-                        href="https://baohiem-daiichi.vn/lien-he/" data-level="1"><i
+                        href="/lien-he/" data-level="1"><i
                             class="fas fa-phone-volume"></i><span class="menu-item-text"><span
                                 class="menu-text">Liên hệ</span><i class="underline"></i></span></a></li>
             </ul>
