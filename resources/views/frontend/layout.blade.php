@@ -279,21 +279,21 @@
                                 class="menu-text">Liên hệ</span><i class="underline"></i></span></a></li>
             </ul>
         </header>
-        <div class="mobile-header-bar">
-            <div class="mobile-navigation"><a href="/#" class="dt-mobile-menu-icon"><span
-                        class="lines"></span></a></div>
-            <div class="mobile-mini-widgets"></div>
-            <div class="mobile-branding">
-                <a class="" href="/">
-                    <img
-                        class="mobile-logo preload-me lazyloaded"
-                         src="/index_files/logo-dai-ichi-160.png"
-                        width="70" height="70" data-lazy-sizes="70px" alt="Bảo hiểm Dai ichi life Việt Nam"
-                        data-was-processed="true"
-                    >
-                </a>
-            </div>
-        </div>
+{{--        <div class="mobile-header-bar">--}}
+{{--            <div class="mobile-navigation"><a href="/#" class="dt-mobile-menu-icon"><span--}}
+{{--                        class="lines"></span></a></div>--}}
+{{--            <div class="mobile-mini-widgets"></div>--}}
+{{--            <div class="mobile-branding">--}}
+{{--                <a class="" href="/">--}}
+{{--                    <img--}}
+{{--                        class="mobile-logo preload-me lazyloaded"--}}
+{{--                         src="/index_files/logo-dai-ichi-160.png"--}}
+{{--                        width="70" height="70" data-lazy-sizes="70px" alt="Bảo hiểm Dai ichi life Việt Nam"--}}
+{{--                        data-was-processed="true"--}}
+{{--                    >--}}
+{{--                </a>--}}
+{{--            </div>--}}
+{{--        </div>--}}
     </div>
     <div class="dt-close-mobile-menu-icon"><span></span></div>
     <div class="dt-mobile-header dt-parent-menu-clickable">
