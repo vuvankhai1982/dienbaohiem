@@ -5,7 +5,7 @@
         <div class="wf-wrap">
             <div class="wf-container-main">
                 <div id="content" class="content" role="main">
-                    <h2 style="text-transform: uppercase">{{ $post->title }}</h2>
+                    <h2 style="text-transform: uppercase ; color: black">{{ $post->title }}</h2>
 
                     <div style="margin-top: 20px">
                         {!! $post->content !!}

@@ -5,7 +5,7 @@
         <div class="wf-wrap">
             <div class="wf-container-main">
                 <div id="content" class="content" role="main">
-                    <h2 style="text-transform: uppercase">Những câu hỏi thông dụng</h2>
+                    <h2 style="text-transform: uppercase; color: black">Những câu hỏi thông dụng</h2>
 
                     <div style="margin-top: 20px">
                         <div id="accordion1" style="margin-top: 15px">

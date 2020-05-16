@@ -132,7 +132,7 @@
                                                                                 <div
                                                                                     class="swiper-slide-bg elementor-ken-burns elementor-ken-burns--in"></div>
                                                                                 <a class="swiper-slide-inner"
-                                                                                   href="https://baohiem-daiichi.vn/lien-he/">
+                                                                                   href="/lien-he/">
                                                                                     <div
                                                                                         class="swiper-slide-contents animated fadeInUp"
                                                                                         style="display: block;">
@@ -168,7 +168,7 @@
                                                                                 style="width: 1448px;">
                                                                                 <div class="swiper-slide-bg"></div>
                                                                                 <a class="swiper-slide-inner"
-                                                                                   href="https://baohiem-daiichi.vn/san-pham/an-tam-hung-thinh/">
+                                                                                   href="/san-pham/an-tam-hung-thinh-3/">
                                                                                     <div
                                                                                         class="swiper-slide-contents animated fadeInUp"
                                                                                         style="display: block;">
@@ -205,7 +205,7 @@
                                                                                 <div
                                                                                     class="swiper-slide-bg elementor-ken-burns elementor-ken-burns--in"></div>
                                                                                 <a class="swiper-slide-inner"
-                                                                                   href="https://baohiem-daiichi.vn/lien-he/">
+                                                                                   href="/lien-he/">
                                                                                     <div
                                                                                         class="swiper-slide-contents animated fadeInUp"
                                                                                         style="display: block;">
@@ -242,7 +242,7 @@
                                                                                 <div
                                                                                     class="swiper-slide-bg elementor-ken-burns--active"></div>
                                                                                 <a class="swiper-slide-inner"
-                                                                                   href="https://baohiem-daiichi.vn/san-pham/an-tam-hung-thinh/">
+                                                                                   href="/san-pham/an-tam-hung-thinh-3/">
                                                                                     <div
                                                                                         class="swiper-slide-contents animated fadeInUp"
                                                                                         style="display: block;">
@@ -279,7 +279,7 @@
                                                                                 <div
                                                                                     class="swiper-slide-bg elementor-ken-burns elementor-ken-burns--in"></div>
                                                                                 <a class="swiper-slide-inner"
-                                                                                   href="https://baohiem-daiichi.vn/lien-he/">
+                                                                                   href="/lien-he/">
                                                                                     <div
                                                                                         class="swiper-slide-contents animated fadeInUp"
                                                                                         style="display: block;">
@@ -315,7 +315,7 @@
                                                                                 style="width: 1448px;">
                                                                                 <div class="swiper-slide-bg"></div>
                                                                                 <a class="swiper-slide-inner"
-                                                                                   href="https://baohiem-daiichi.vn/san-pham/an-tam-hung-thinh/">
+                                                                                   href="/san-pham/an-tam-hung-thinh-3">
                                                                                     <div
                                                                                         class="swiper-slide-contents animated fadeInUp"
                                                                                         style="display: block;">
@@ -408,7 +408,8 @@
                                                             data-widget_type="button.default">
                                                             <div class="elementor-widget-container">
                                                                 <div class="elementor-button-wrapper"><a
-                                                                        href="https://baohiem-daiichi.vn/san-pham/"
+                                                                        onclick="return false;"
+                                                                        href="#"
                                                                         class="elementor-button-link elementor-button elementor-size-md"
                                                                         role="button"> <span
                                                                             class="elementor-button-content-wrapper"> <span
@@ -517,7 +518,7 @@
                                                             data-widget_type="button.default">
                                                             <div class="elementor-widget-container">
                                                                 <div class="elementor-button-wrapper"><a
-                                                                        href="https://baohiem-daiichi.vn/san-pham/an-tam-hung-thinh/"
+                                                                        href="/san-pham/an-tam-hung-thinh-3/"
                                                                         class="elementor-button-link elementor-button elementor-size-sm"
                                                                         role="button"> <span
                                                                             class="elementor-button-content-wrapper"> <span
@@ -588,7 +589,7 @@
                                                             data-widget_type="button.default">
                                                             <div class="elementor-widget-container">
                                                                 <div class="elementor-button-wrapper"><a
-                                                                        href="https://baohiem-daiichi.vn/san-pham/an-phuc-hung-thinh/"
+                                                                        href="/san-pham/an-phuc-hung-thinh-4/"
                                                                         class="elementor-button-link elementor-button elementor-size-sm"
                                                                         role="button"> <span
                                                                             class="elementor-button-content-wrapper"> <span
@@ -658,7 +659,7 @@
                                                             data-widget_type="button.default">
                                                             <div class="elementor-widget-container">
                                                                 <div class="elementor-button-wrapper"><a
-                                                                        href="https://baohiem-daiichi.vn/san-pham/an-thinh-dau-tu/"
+                                                                        href="/san-pham/an-thinh-dau-tu-5/"
                                                                         class="elementor-button-link elementor-button elementor-size-sm"
                                                                         role="button"> <span
                                                                             class="elementor-button-content-wrapper"> <span
@@ -683,9 +684,8 @@
                                                             data-widget_type="image.default">
                                                             <div class="elementor-widget-container">
                                                                 <div class="elementor-image"><img
-                                                                        src="./index_files/Cham-soc-suc-khoe-21.jpg"
+                                                                        src="./index_files/family.jpg"
                                                                         title="" alt=""
-                                                                        data-lazy-src="https://baohiem-daiichi.vn/wp-content/uploads/2019/06/Cham-soc-suc-khoe-21.jpg"
                                                                         class="error" data-was-processed="true">
                                                                     <noscript><img
                                                                             src="https://baohiem-daiichi.vn/wp-content/uploads/2019/06/Cham-soc-suc-khoe-21.jpg"
@@ -719,7 +719,7 @@
                                                             data-widget_type="button.default">
                                                             <div class="elementor-widget-container">
                                                                 <div class="elementor-button-wrapper"><a
-                                                                        href="https://baohiem-daiichi.vn/san-pham/bao-hiem-cham-soc-suc-khoe/"
+                                                                        href="/san-pham/bao-hiem-cham-soc-suc-khoe-6/"
                                                                         class="elementor-button-link elementor-button elementor-size-sm"
                                                                         role="button"> <span
                                                                             class="elementor-button-content-wrapper"> <span
@@ -771,7 +771,7 @@
                                                             <div class="elementor-widget-container">
                                                                 <div class="elementor-button-wrapper"><a
                                                                         class="elementor-button elementor-size-md"
-                                                                        role="button"> <span
+                                                                        role="button" style="color: white"> <span
                                                                             class="elementor-button-content-wrapper"> <span
                                                                                 class="elementor-button-icon elementor-align-icon-left"> <i
                                                                                     aria-hidden="true"
@@ -1095,7 +1095,7 @@
                                                             data-widget_type="button.default" style="cursor: pointer;">
                                                             <div class="elementor-widget-container">
                                                                 <div class="elementor-button-wrapper"><a
-                                                                        href="https://baohiem-daiichi.vn/#"
+                                                                        href="/#"
                                                                         class="elementor-button-link elementor-button elementor-size-sm"
                                                                         role="button"> <span
                                                                             class="elementor-button-content-wrapper"> <span
@@ -1164,7 +1164,7 @@
                                                             data-widget_type="button.default" style="cursor: pointer;">
                                                             <div class="elementor-widget-container">
                                                                 <div class="elementor-button-wrapper"><a
-                                                                        href="https://baohiem-daiichi.vn/#"
+                                                                        href="/#"
                                                                         class="elementor-button-link elementor-button elementor-size-sm"
                                                                         role="button"> <span
                                                                             class="elementor-button-content-wrapper"> <span
@@ -1233,7 +1233,7 @@
                                                             data-widget_type="button.default" style="cursor: pointer;">
                                                             <div class="elementor-widget-container">
                                                                 <div class="elementor-button-wrapper"><a
-                                                                        href="https://baohiem-daiichi.vn/#"
+                                                                        href="/#"
                                                                         class="elementor-button-link elementor-button elementor-size-sm"
                                                                         role="button"> <span
                                                                             class="elementor-button-content-wrapper"> <span
@@ -1525,110 +1525,8 @@
                                                                     class="elementor-heading-title elementor-size-default">ĐĂNG KÝ NHẬN BẢNG MINH HỌA QUYỀN LỢI BẢO HIỂM</span>
                                                             </div>
                                                         </div>
-                                                        <div
-                                                            class="elementor-element elementor-element-2d7e28a elementor-widget elementor-widget-html"
-                                                            data-id="2d7e28a" data-element_type="widget"
-                                                            data-widget_type="html.default">
-                                                            <div class="elementor-widget-container">
-                                                                <div role="form" class="wpcf7"
-                                                                     id="wpcf7-f10543-p10939-o4" lang="en-US" dir="ltr">
-                                                                    <div class="screen-reader-response"></div>
-                                                                    <form
-                                                                        action="https://baohiem-daiichi.vn/#wpcf7-f10543-p10939-o4"
-                                                                        method="post" class="wpcf7-form"
-                                                                        novalidate="novalidate">
-                                                                        <div style="display: none;"><input type="hidden"
-                                                                                                           name="_wpcf7"
-                                                                                                           value="10543">
-                                                                            <input type="hidden" name="_wpcf7_version"
-                                                                                   value="5.1.7"> <input type="hidden"
-                                                                                                         name="_wpcf7_locale"
-                                                                                                         value="en_US">
-                                                                            <input type="hidden" name="_wpcf7_unit_tag"
-                                                                                   value="wpcf7-f10543-p10939-o4">
-                                                                            <input type="hidden"
-                                                                                   name="_wpcf7_container_post"
-                                                                                   value="10939"></div>
-                                                                        <p><span
-                                                                                class="wpcf7-form-control-wrap text-768"><input
-                                                                                    type="text" name="text-768" value=""
-                                                                                    size="40"
-                                                                                    class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required"
-                                                                                    aria-required="true"
-                                                                                    aria-invalid="false"
-                                                                                    placeholder="Họ và Tên*"></span><br>
-                                                                            <span
-                                                                                class="wpcf7-form-control-wrap email-892"><input
-                                                                                    type="email" name="email-892"
-                                                                                    value="" size="40"
-                                                                                    class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email"
-                                                                                    aria-required="true"
-                                                                                    aria-invalid="false"
-                                                                                    placeholder="Email của bạn*"></span><br>
-                                                                            <span
-                                                                                class="wpcf7-form-control-wrap tel-848"><input
-                                                                                    type="tel" name="tel-848" value=""
-                                                                                    size="40"
-                                                                                    class="wpcf7-form-control wpcf7-text wpcf7-tel wpcf7-validates-as-required wpcf7-validates-as-tel"
-                                                                                    aria-required="true"
-                                                                                    aria-invalid="false"
-                                                                                    placeholder="Số điện thoại*"></span><br>
-                                                                            <span
-                                                                                class="wpcf7-form-control-wrap date-41"><input
-                                                                                    type="date" name="date-41" value=""
-                                                                                    class="wpcf7-form-control wpcf7-date wpcf7-validates-as-required wpcf7-validates-as-date"
-                                                                                    aria-required="true"
-                                                                                    aria-invalid="false"
-                                                                                    placeholder="Ngày tháng năm sinh của bạn*?. VD: 23/03/1989"></span><br>
-                                                                            <span
-                                                                                class="wpcf7-form-control-wrap text-769"><input
-                                                                                    type="text" name="text-769" value=""
-                                                                                    size="40"
-                                                                                    class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required"
-                                                                                    aria-required="true"
-                                                                                    aria-invalid="false"
-                                                                                    placeholder="Nghề nghiệp*. VD: Nhân viên Văn Phòng"></span><br>
-                                                                            Giới tính*: <span
-                                                                                class="wpcf7-form-control-wrap checkbox-926"><span
-                                                                                    class="wpcf7-form-control wpcf7-checkbox wpcf7-validates-as-required"><span
-                                                                                        class="wpcf7-list-item first"><input
-                                                                                            type="checkbox"
-                                                                                            name="checkbox-926[]"
-                                                                                            value="Nam"><span
-                                                                                            class="wpcf7-list-item-label">Nam</span></span><span
-                                                                                        class="wpcf7-list-item last"><input
-                                                                                            type="checkbox"
-                                                                                            name="checkbox-926[]"
-                                                                                            value="Nữ"><span
-                                                                                            class="wpcf7-list-item-label">Nữ</span></span></span></span><br>
-                                                                            Thu nhập trung bình của bạn* (chúng tôi tính
-                                                                            toán mức phí BHNT phù hợp với thu nhập của
-                                                                            gia đình bạn)<br> <span
-                                                                                class="wpcf7-form-control-wrap text-816"><input
-                                                                                    type="text" name="text-816" value=""
-                                                                                    size="40"
-                                                                                    class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required"
-                                                                                    aria-required="true"
-                                                                                    aria-invalid="false"
-                                                                                    placeholder="VD: 10tr/tháng"></span><br>
-                                                                            <span
-                                                                                class="wpcf7-form-control-wrap text-61"><input
-                                                                                    type="text" name="text-61" value=""
-                                                                                    size="40"
-                                                                                    class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required"
-                                                                                    aria-required="true"
-                                                                                    aria-invalid="false"
-                                                                                    placeholder="Bạn ở Tỉnh- Thành nào*.?. VD: TP.HCM"></span><br>
-                                                                            <input type="submit" value="Gửi"
-                                                                                   class="wpcf7-form-control wpcf7-submit"><span
-                                                                                class="ajax-loader"></span></p> <input
-                                                                            type="hidden" class="wpcf7-pum"
-                                                                            value="{&quot;closepopup&quot;:false,&quot;closedelay&quot;:0,&quot;openpopup&quot;:false,&quot;openpopup_id&quot;:0}">
-                                                                        <div
-                                                                            class="wpcf7-response-output wpcf7-display-none"></div>
-                                                                    </form>
-                                                                </div>
-                                                            </div>
+                                                        <div style="width: 100%">
+                                                            @include('frontend.contact')
                                                         </div>
                                                     </div>
                                                 </div>
@@ -1664,7 +1562,7 @@
                                                                                         class="fas fa-caret-right"></i></span> <span
                                                                                     class="elementor-toggle-icon-opened"><i
                                                                                         class="elementor-toggle-icon-opened fas fa-caret-up"></i></span> </span>
-                                                                            <a href="https://baohiem-daiichi.vn/">Thu
+                                                                            <a href="/">Thu
                                                                                 nhập bao nhiêu mới có thể tham gia bảo
                                                                                 hiểm nhân thọ?.</a></div>
                                                                         <div id="elementor-tab-content-8001"
@@ -1681,9 +1579,7 @@
                                                                                 10-20% trên tổng thu nhập của bạn hàng
                                                                                 tháng. Ko nên tham giá quá nhiều tiền
                                                                                 hoặc quá ít tiền.</p>
-                                                                            <p>Bạn có thể tham khảo thêm bài viết: <a
-                                                                                    href="https://baohiem-daiichi.vn/cau-hoi-thuong-gap/mua-bao-hiem-nhan-tho-bao-nhieu-tien/">https://baohiem-daiichi.vn/cau-hoi-thuong-gap/mua-bao-hiem-nhan-tho-bao-nhieu-tien/</a>
-                                                                            </p></div>
+                                                                           </div>
                                                                     </div>
                                                                     <div class="elementor-toggle-item">
                                                                         <div id="elementor-tab-title-8002"
@@ -1697,7 +1593,7 @@
                                                                                         class="fas fa-caret-right"></i></span> <span
                                                                                     class="elementor-toggle-icon-opened"><i
                                                                                         class="elementor-toggle-icon-opened fas fa-caret-up"></i></span> </span>
-                                                                            <a href="https://baohiem-daiichi.vn/">Tôi
+                                                                            <a href="/">Tôi
                                                                                 nên chọn đóng phí quý hay năm?.</a>
                                                                         </div>
                                                                         <div id="elementor-tab-content-8002"
@@ -1729,7 +1625,7 @@
                                                                                         class="fas fa-caret-right"></i></span> <span
                                                                                     class="elementor-toggle-icon-opened"><i
                                                                                         class="elementor-toggle-icon-opened fas fa-caret-up"></i></span> </span>
-                                                                            <a href="https://baohiem-daiichi.vn/">Khi
+                                                                            <a href="/">Khi
                                                                                 nào thì tôi nên tham gia bảo hiểm nhân
                                                                                 thọ</a></div>
                                                                         <div id="elementor-tab-content-8003"
@@ -1744,28 +1640,6 @@
                                                                                 giảm.</p></div>
                                                                     </div>
                                                                     <div class="elementor-toggle-item">
-                                                                        <div id="elementor-tab-title-8004"
-                                                                             class="elementor-tab-title" data-tab="4"
-                                                                             role="tab"
-                                                                             aria-controls="elementor-tab-content-8004">
-                                                                            <span
-                                                                                class="elementor-toggle-icon elementor-toggle-icon-left"
-                                                                                aria-hidden="true"> <span
-                                                                                    class="elementor-toggle-icon-closed"><i
-                                                                                        class="fas fa-caret-right"></i></span> <span
-                                                                                    class="elementor-toggle-icon-opened"><i
-                                                                                        class="elementor-toggle-icon-opened fas fa-caret-up"></i></span> </span>
-                                                                            <a href="https://baohiem-daiichi.vn/">Bao
-                                                                                nhiêu tuôi thì được tham gia bảo hiểm
-                                                                                nhân thọ?.</a></div>
-                                                                        <div id="elementor-tab-content-8004"
-                                                                             class="elementor-tab-content elementor-clearfix"
-                                                                             data-tab="4" role="tabpanel"
-                                                                             aria-labelledby="elementor-tab-title-8004">
-                                                                            <p>Độ tuổi tham gia cho phép từ 01 tháng
-                                                                                tuổi tới 65 tuổi.</p></div>
-                                                                    </div>
-                                                                    <div class="elementor-toggle-item">
                                                                         <div id="elementor-tab-title-8005"
                                                                              class="elementor-tab-title" data-tab="5"
                                                                              role="tab"
@@ -1777,7 +1651,7 @@
                                                                                         class="fas fa-caret-right"></i></span> <span
                                                                                     class="elementor-toggle-icon-opened"><i
                                                                                         class="elementor-toggle-icon-opened fas fa-caret-up"></i></span> </span>
-                                                                            <a href="https://baohiem-daiichi.vn/">Tôi là
+                                                                            <a href="/">Tôi là
                                                                                 người trụ cột trong gia định (người kiếm
                                                                                 tiền chính trong gia đinh). Tôi nên mua
                                                                                 bảo hiểm nhân thọ cho con cái trước hay
@@ -1810,7 +1684,7 @@
                                                                                         class="fas fa-caret-right"></i></span> <span
                                                                                     class="elementor-toggle-icon-opened"><i
                                                                                         class="elementor-toggle-icon-opened fas fa-caret-up"></i></span> </span>
-                                                                            <a href="https://baohiem-daiichi.vn/">Phí
+                                                                            <a href="/">Phí
                                                                                 tham gia bảo hiểm phụ thuộc vào các yếu
                                                                                 tố nào?.</a></div>
                                                                         <div id="elementor-tab-content-8006"
@@ -1853,7 +1727,7 @@
                                                                                         class="fas fa-caret-right"></i></span> <span
                                                                                     class="elementor-toggle-icon-opened"><i
                                                                                         class="elementor-toggle-icon-opened fas fa-caret-up"></i></span> </span>
-                                                                            <a href="https://baohiem-daiichi.vn/">Tôi
+                                                                            <a href="/">Tôi
                                                                                 nêm mua sản phẩm bảo hiểm nào là tốt
                                                                                 nhất?.</a></div>
                                                                         <div id="elementor-tab-content-8007"
@@ -1881,7 +1755,7 @@
                                                                                         class="fas fa-caret-right"></i></span> <span
                                                                                     class="elementor-toggle-icon-opened"><i
                                                                                         class="elementor-toggle-icon-opened fas fa-caret-up"></i></span> </span>
-                                                                            <a href="https://baohiem-daiichi.vn/">Tôi có
+                                                                            <a href="/">Tôi có
                                                                                 nên mua bảo hiểm nhân thọ cho ba mẹ
                                                                                 không?.</a></div>
                                                                         <div id="elementor-tab-content-8008"
@@ -1925,7 +1799,7 @@
                                                                                         class="fas fa-caret-right"></i></span> <span
                                                                                     class="elementor-toggle-icon-opened"><i
                                                                                         class="elementor-toggle-icon-opened fas fa-caret-up"></i></span> </span>
-                                                                            <a href="https://baohiem-daiichi.vn/">Tôi đã
+                                                                            <a href="/">Tôi đã
                                                                                 có bảo hiểm y tế của công ty mua cho vậy
                                                                                 tôi có nên mua thêm bảo hiểm nhân thọ
                                                                                 không?.</a></div>
@@ -1939,33 +1813,6 @@
                                                                                 nhiều sản phẩm và tính năng ưu việt hơn
                                                                                 rất nhiều bảo các loại bảo hiểm của nhà
                                                                                 nước.</p></div>
-                                                                    </div>
-                                                                    <div class="elementor-toggle-item">
-                                                                        <div id="elementor-tab-title-80010"
-                                                                             class="elementor-tab-title" data-tab="10"
-                                                                             role="tab"
-                                                                             aria-controls="elementor-tab-content-80010">
-                                                                            <span
-                                                                                class="elementor-toggle-icon elementor-toggle-icon-left"
-                                                                                aria-hidden="true"> <span
-                                                                                    class="elementor-toggle-icon-closed"><i
-                                                                                        class="fas fa-caret-right"></i></span> <span
-                                                                                    class="elementor-toggle-icon-opened"><i
-                                                                                        class="elementor-toggle-icon-opened fas fa-caret-up"></i></span> </span>
-                                                                            <a href="https://baohiem-daiichi.vn/">Bảo
-                                                                                hiểm Dai-ichi life có phải của Nhật Bản
-                                                                                không</a></div>
-                                                                        <div id="elementor-tab-content-80010"
-                                                                             class="elementor-tab-content elementor-clearfix"
-                                                                             data-tab="10" role="tabpanel"
-                                                                             aria-labelledby="elementor-tab-title-80010">
-                                                                            <p>Công ty bảo hiểm nhân thọ Dai ichi life
-                                                                                là công ty 100% vốn của Nhật Bản. Chất
-                                                                                lượng và dịch vụ hàng đầu tại Việt Nam.
-                                                                                Bạn nên tham khảo bảo viết bên dưới:</p>
-                                                                            <p>
-                                                                                https://baohiem-daiichi.vn/gioi-thieu/</p>
-                                                                        </div>
                                                                     </div>
                                                                 </div>
                                                             </div>
@@ -2011,7 +1858,7 @@
                                                             <div class="elementor-widget-container">
                                                                 <div class="elementor-button-wrapper"><a
                                                                         class="elementor-button elementor-size-md"
-                                                                        role="button"> <span
+                                                                        role="button" style="color: white"> <span
                                                                             class="elementor-button-content-wrapper"> <span
                                                                                 class="elementor-button-icon elementor-align-icon-left"> <i
                                                                                     aria-hidden="true"
@@ -2062,252 +1909,49 @@
                                                             <div class="elementor-widget-container">
                                                                 <div
                                                                     class="elementor-posts-container elementor-posts elementor-posts--skin-cards elementor-grid elementor-has-item-ratio">
-                                                                    <article
-                                                                        class="elementor-post elementor-grid-item post-11286 post type-post status-publish format-standard has-post-thumbnail hentry category-tin-tuc category-79 description-off">
-                                                                        <div class="elementor-post__card"><a
-                                                                                class="elementor-post__thumbnail__link"
-                                                                                href="https://baohiem-daiichi.vn/tin-tuc/bao-hiem-benh-ung-thu/">
-                                                                                <div class="elementor-post__thumbnail">
-                                                                                    <img width="300" height="243"
-                                                                                         src="./index_files/bao-hiem-benh-ung-thu-dai-ichi-life-02-300x243.jpg"
-                                                                                         class="attachment-medium size-medium lazyloaded"
-                                                                                         alt=""
-                                                                                         data-lazy-srcset="https://baohiem-daiichi.vn/wp-content/uploads/2020/03/bao-hiem-benh-ung-thu-dai-ichi-life-02-300x243.jpg 300w, https://baohiem-daiichi.vn/wp-content/uploads/2020/03/bao-hiem-benh-ung-thu-dai-ichi-life-02-768x623.jpg 768w, https://baohiem-daiichi.vn/wp-content/uploads/2020/03/bao-hiem-benh-ung-thu-dai-ichi-life-02.jpg 772w"
-                                                                                         data-lazy-sizes="(max-width: 300px) 100vw, 300px"
-                                                                                         data-lazy-src="https://baohiem-daiichi.vn/wp-content/uploads/2020/03/bao-hiem-benh-ung-thu-dai-ichi-life-02-300x243.jpg"
-                                                                                         sizes="(max-width: 300px) 100vw, 300px"
-                                                                                         srcset="https://baohiem-daiichi.vn/wp-content/uploads/2020/03/bao-hiem-benh-ung-thu-dai-ichi-life-02-300x243.jpg 300w, https://baohiem-daiichi.vn/wp-content/uploads/2020/03/bao-hiem-benh-ung-thu-dai-ichi-life-02-768x623.jpg 768w, https://baohiem-daiichi.vn/wp-content/uploads/2020/03/bao-hiem-benh-ung-thu-dai-ichi-life-02.jpg 772w"
-                                                                                         data-was-processed="true">
-                                                                                    <noscript><img width="300"
-                                                                                                   height="243"
-                                                                                                   src="https://baohiem-daiichi.vn/wp-content/uploads/2020/03/bao-hiem-benh-ung-thu-dai-ichi-life-02-300x243.jpg"
-                                                                                                   class="attachment-medium size-medium"
-                                                                                                   alt=""
-                                                                                                   srcset="https://baohiem-daiichi.vn/wp-content/uploads/2020/03/bao-hiem-benh-ung-thu-dai-ichi-life-02-300x243.jpg 300w, https://baohiem-daiichi.vn/wp-content/uploads/2020/03/bao-hiem-benh-ung-thu-dai-ichi-life-02-768x623.jpg 768w, https://baohiem-daiichi.vn/wp-content/uploads/2020/03/bao-hiem-benh-ung-thu-dai-ichi-life-02.jpg 772w"
-                                                                                                   sizes="(max-width: 300px) 100vw, 300px"/>
-                                                                                    </noscript>
-                                                                                </div>
-                                                                            </a>
-                                                                            <div class="elementor-post__badge">Tin tức
-                                                                            </div>
-                                                                            <div class="elementor-post__avatar"><img
-                                                                                    alt="Nhóm chuyên gia Dai-ichi life"
-                                                                                    src="./index_files/a980301569f40fcfd1da2d1489055d53"
-                                                                                    data-lazy-srcset="https://secure.gravatar.com/avatar/a980301569f40fcfd1da2d1489055d53?s=256&amp;d=wavatar&amp;r=g 2x"
-                                                                                    class="avatar avatar-128 photo lazyloaded"
-                                                                                    height="128" width="128"
-                                                                                    data-lazy-src="https://secure.gravatar.com/avatar/a980301569f40fcfd1da2d1489055d53?s=128&amp;d=wavatar&amp;r=g"
-                                                                                    srcset="https://secure.gravatar.com/avatar/a980301569f40fcfd1da2d1489055d53?s=256&amp;d=wavatar&amp;r=g 2x"
-                                                                                    data-was-processed="true">
-                                                                                <noscript><img
-                                                                                        alt='Nhóm chuyên gia Dai-ichi life'
-                                                                                        src='https://secure.gravatar.com/avatar/a980301569f40fcfd1da2d1489055d53?s=128&#038;d=wavatar&#038;r=g'
-                                                                                        srcset='https://secure.gravatar.com/avatar/a980301569f40fcfd1da2d1489055d53?s=256&#038;d=wavatar&#038;r=g 2x'
-                                                                                        class='avatar avatar-128 photo'
-                                                                                        height='128' width='128'/>
-                                                                                </noscript>
-                                                                            </div>
-                                                                            <div class="elementor-post__text"><h3
-                                                                                    class="elementor-post__title"><a
-                                                                                        href="https://baohiem-daiichi.vn/tin-tuc/bao-hiem-benh-ung-thu/">
-                                                                                        Bảo hiểm bệnh ung thư – Dai-ichi
-                                                                                        life Việt Nam </a></h3>
-                                                                                <div class="elementor-post__excerpt"><p>
-                                                                                        Bảo hiểm Hỗ trợ điều trị bệnh
-                                                                                        ung thư và Bảo hiểm Bảo toàn thu
-                                                                                        nhập gia đình Dai-ichi life Việt
-                                                                                        Nam ra mắt sản</p></div>
-                                                                                <a class="elementor-post__read-more"
-                                                                                   href="https://baohiem-daiichi.vn/tin-tuc/bao-hiem-benh-ung-thu/">
-                                                                                    Đọc ngay » </a></div>
-                                                                        </div>
-                                                                    </article>
-                                                                    <article
-                                                                        class="elementor-post elementor-grid-item post-11113 post type-post status-publish format-standard has-post-thumbnail hentry category-tin-tuc category-79 description-off">
-                                                                        <div class="elementor-post__card"><a
-                                                                                class="elementor-post__thumbnail__link"
-                                                                                href="https://baohiem-daiichi.vn/tin-tuc/dich-covid-19-anh-huong-nhu-the-nao-den-bao-hiem-nhan-tho/">
-                                                                                <div
-                                                                                    class="elementor-post__thumbnail elementor-fit-height">
-                                                                                    <img width="300" height="188"
-                                                                                         src="./index_files/corona-virus-va-bao-hiem-dai-ichi-life-300x188.jpg"
-                                                                                         class="attachment-medium size-medium lazyloaded"
-                                                                                         alt=""
-                                                                                         data-lazy-srcset="https://baohiem-daiichi.vn/wp-content/uploads/2020/03/corona-virus-va-bao-hiem-dai-ichi-life-300x188.jpg 300w, https://baohiem-daiichi.vn/wp-content/uploads/2020/03/corona-virus-va-bao-hiem-dai-ichi-life.jpg 720w"
-                                                                                         data-lazy-sizes="(max-width: 300px) 100vw, 300px"
-                                                                                         data-lazy-src="https://baohiem-daiichi.vn/wp-content/uploads/2020/03/corona-virus-va-bao-hiem-dai-ichi-life-300x188.jpg"
-                                                                                         sizes="(max-width: 300px) 100vw, 300px"
-                                                                                         srcset="https://baohiem-daiichi.vn/wp-content/uploads/2020/03/corona-virus-va-bao-hiem-dai-ichi-life-300x188.jpg 300w, https://baohiem-daiichi.vn/wp-content/uploads/2020/03/corona-virus-va-bao-hiem-dai-ichi-life.jpg 720w"
-                                                                                         data-was-processed="true">
-                                                                                    <noscript><img width="300"
-                                                                                                   height="188"
-                                                                                                   src="https://baohiem-daiichi.vn/wp-content/uploads/2020/03/corona-virus-va-bao-hiem-dai-ichi-life-300x188.jpg"
-                                                                                                   class="attachment-medium size-medium"
-                                                                                                   alt=""
-                                                                                                   srcset="https://baohiem-daiichi.vn/wp-content/uploads/2020/03/corona-virus-va-bao-hiem-dai-ichi-life-300x188.jpg 300w, https://baohiem-daiichi.vn/wp-content/uploads/2020/03/corona-virus-va-bao-hiem-dai-ichi-life.jpg 720w"
-                                                                                                   sizes="(max-width: 300px) 100vw, 300px"/>
-                                                                                    </noscript>
-                                                                                </div>
-                                                                            </a>
-                                                                            <div class="elementor-post__badge">Tin tức
-                                                                            </div>
-                                                                            <div class="elementor-post__avatar"><img
-                                                                                    alt="Nhóm chuyên gia Dai-ichi life"
-                                                                                    src="./index_files/a980301569f40fcfd1da2d1489055d53"
-                                                                                    data-lazy-srcset="https://secure.gravatar.com/avatar/a980301569f40fcfd1da2d1489055d53?s=256&amp;d=wavatar&amp;r=g 2x"
-                                                                                    class="avatar avatar-128 photo lazyloaded"
-                                                                                    height="128" width="128"
-                                                                                    data-lazy-src="https://secure.gravatar.com/avatar/a980301569f40fcfd1da2d1489055d53?s=128&amp;d=wavatar&amp;r=g"
-                                                                                    srcset="https://secure.gravatar.com/avatar/a980301569f40fcfd1da2d1489055d53?s=256&amp;d=wavatar&amp;r=g 2x"
-                                                                                    data-was-processed="true">
-                                                                                <noscript><img
-                                                                                        alt='Nhóm chuyên gia Dai-ichi life'
-                                                                                        src='https://secure.gravatar.com/avatar/a980301569f40fcfd1da2d1489055d53?s=128&#038;d=wavatar&#038;r=g'
-                                                                                        srcset='https://secure.gravatar.com/avatar/a980301569f40fcfd1da2d1489055d53?s=256&#038;d=wavatar&#038;r=g 2x'
-                                                                                        class='avatar avatar-128 photo'
-                                                                                        height='128' width='128'/>
-                                                                                </noscript>
-                                                                            </div>
-                                                                            <div class="elementor-post__text"><h3
-                                                                                    class="elementor-post__title"><a
-                                                                                        href="https://baohiem-daiichi.vn/tin-tuc/dich-covid-19-anh-huong-nhu-the-nao-den-bao-hiem-nhan-tho/">
-                                                                                        Dịch Covid-19 ảnh hưởng như thế
-                                                                                        nào đến bảo hiểm nhân thọ </a>
-                                                                                </h3>
-                                                                                <div class="elementor-post__excerpt"><p>
-                                                                                        Trong thời gian gần đây có lẽ
-                                                                                        vấn đề được quan tâm nhiều nhất
-                                                                                        không những ở Việt Nam mà trên
-                                                                                        toàn thế giới nữa</p></div>
-                                                                                <a class="elementor-post__read-more"
-                                                                                   href="https://baohiem-daiichi.vn/tin-tuc/dich-covid-19-anh-huong-nhu-the-nao-den-bao-hiem-nhan-tho/">
-                                                                                    Đọc ngay » </a></div>
-                                                                        </div>
-                                                                    </article>
+                                                                    @foreach($recentPosts->take(4) as $post)
+                                                                    @php($defaultIamge = "./index_files/editorial-dai-ichi-life-insurance-footage-085464238_prevstill-300x169.jpg")
                                                                     <article
                                                                         class="elementor-post elementor-grid-item post-10888 post type-post status-publish format-standard has-post-thumbnail hentry category-tin-tuc category-79 description-off">
                                                                         <div class="elementor-post__card"><a
                                                                                 class="elementor-post__thumbnail__link"
-                                                                                href="https://baohiem-daiichi.vn/tin-tuc/mua-bao-hiem-nhan-tho-cua-hang-bao-hiem-nuoc-ngoai-hay-trong-nuoc/">
+                                                                                href="{{ route('show_post', get_sanitize_url($post->title, $post->id)) }}">
                                                                                 <div
                                                                                     class="elementor-post__thumbnail elementor-fit-height">
                                                                                     <img width="300" height="169"
-                                                                                         src="./index_files/editorial-dai-ichi-life-insurance-footage-085464238_prevstill-300x169.jpg"
+                                                                                         src="{{ $post->image ? $post->image : $defaultIamge }}"
                                                                                          class="attachment-medium size-medium lazyloaded"
-                                                                                         alt="mua bảo hiểm nhân thọ của hãng bảo hiểm nước ngoài hay trong nước."
-                                                                                         data-lazy-srcset="https://baohiem-daiichi.vn/wp-content/uploads/2019/06/editorial-dai-ichi-life-insurance-footage-085464238_prevstill-300x169.jpg 300w, https://baohiem-daiichi.vn/wp-content/uploads/2019/06/editorial-dai-ichi-life-insurance-footage-085464238_prevstill-768x432.jpg 768w, https://baohiem-daiichi.vn/wp-content/uploads/2019/06/editorial-dai-ichi-life-insurance-footage-085464238_prevstill-1024x576.jpg 1024w, https://baohiem-daiichi.vn/wp-content/uploads/2019/06/editorial-dai-ichi-life-insurance-footage-085464238_prevstill-600x338.jpg 600w"
-                                                                                         data-lazy-sizes="(max-width: 300px) 100vw, 300px"
-                                                                                         data-lazy-src="https://baohiem-daiichi.vn/wp-content/uploads/2019/06/editorial-dai-ichi-life-insurance-footage-085464238_prevstill-300x169.jpg"
                                                                                          sizes="(max-width: 300px) 100vw, 300px"
-                                                                                         srcset="https://baohiem-daiichi.vn/wp-content/uploads/2019/06/editorial-dai-ichi-life-insurance-footage-085464238_prevstill-300x169.jpg 300w, https://baohiem-daiichi.vn/wp-content/uploads/2019/06/editorial-dai-ichi-life-insurance-footage-085464238_prevstill-768x432.jpg 768w, https://baohiem-daiichi.vn/wp-content/uploads/2019/06/editorial-dai-ichi-life-insurance-footage-085464238_prevstill-1024x576.jpg 1024w, https://baohiem-daiichi.vn/wp-content/uploads/2019/06/editorial-dai-ichi-life-insurance-footage-085464238_prevstill-600x338.jpg 600w"
                                                                                          data-was-processed="true">
-                                                                                    <noscript><img width="300"
-                                                                                                   height="169"
-                                                                                                   src="https://baohiem-daiichi.vn/wp-content/uploads/2019/06/editorial-dai-ichi-life-insurance-footage-085464238_prevstill-300x169.jpg"
-                                                                                                   class="attachment-medium size-medium"
-                                                                                                   alt="mua bảo hiểm nhân thọ của hãng bảo hiểm nước ngoài hay trong nước."
-                                                                                                   srcset="https://baohiem-daiichi.vn/wp-content/uploads/2019/06/editorial-dai-ichi-life-insurance-footage-085464238_prevstill-300x169.jpg 300w, https://baohiem-daiichi.vn/wp-content/uploads/2019/06/editorial-dai-ichi-life-insurance-footage-085464238_prevstill-768x432.jpg 768w, https://baohiem-daiichi.vn/wp-content/uploads/2019/06/editorial-dai-ichi-life-insurance-footage-085464238_prevstill-1024x576.jpg 1024w, https://baohiem-daiichi.vn/wp-content/uploads/2019/06/editorial-dai-ichi-life-insurance-footage-085464238_prevstill-600x338.jpg 600w"
-                                                                                                   sizes="(max-width: 300px) 100vw, 300px"/>
-                                                                                    </noscript>
                                                                                 </div>
                                                                             </a>
                                                                             <div class="elementor-post__badge">Tin tức
                                                                             </div>
                                                                             <div class="elementor-post__avatar"><img
-                                                                                    alt="Nhóm chuyên gia Dai-ichi life"
-                                                                                    src="./index_files/a980301569f40fcfd1da2d1489055d53"
                                                                                     data-lazy-srcset="https://secure.gravatar.com/avatar/a980301569f40fcfd1da2d1489055d53?s=256&amp;d=wavatar&amp;r=g 2x"
                                                                                     class="avatar avatar-128 photo lazyloaded"
                                                                                     height="128" width="128"
                                                                                     data-lazy-src="https://secure.gravatar.com/avatar/a980301569f40fcfd1da2d1489055d53?s=128&amp;d=wavatar&amp;r=g"
                                                                                     srcset="https://secure.gravatar.com/avatar/a980301569f40fcfd1da2d1489055d53?s=256&amp;d=wavatar&amp;r=g 2x"
                                                                                     data-was-processed="true">
-                                                                                <noscript><img
-                                                                                        alt='Nhóm chuyên gia Dai-ichi life'
-                                                                                        src='https://secure.gravatar.com/avatar/a980301569f40fcfd1da2d1489055d53?s=128&#038;d=wavatar&#038;r=g'
-                                                                                        srcset='https://secure.gravatar.com/avatar/a980301569f40fcfd1da2d1489055d53?s=256&#038;d=wavatar&#038;r=g 2x'
-                                                                                        class='avatar avatar-128 photo'
-                                                                                        height='128' width='128'/>
-                                                                                </noscript>
                                                                             </div>
-                                                                            <div class="elementor-post__text"><h3
-                                                                                    class="elementor-post__title"><a
-                                                                                        href="https://baohiem-daiichi.vn/tin-tuc/mua-bao-hiem-nhan-tho-cua-hang-bao-hiem-nuoc-ngoai-hay-trong-nuoc/">
-                                                                                        mua bảo hiểm nhân thọ của hãng
-                                                                                        bảo hiểm nước ngoài hay trong
-                                                                                        nước. </a></h3>
-                                                                                <div class="elementor-post__excerpt"><p>
-                                                                                        Nên mua bảo hiểm nhân thọ của
-                                                                                        hãng bảo hiểm nước ngoài hay
-                                                                                        trong nước. Trên thực tế có khá
-                                                                                        nhiều khách hàng đang có</p>
+                                                                            <div class="elementor-post__text">
+                                                                                <h3 class="elementor-post__title">
+                                                                                    <a href="{{ route('show_post', get_sanitize_url($post->title, $post->id)) }}">
+                                                                                        {{ $post->title }}
+                                                                                    </a>
+                                                                                </h3>
+                                                                                <div class="elementor-post__excerpt">
+                                                                                    <p>
+                                                                                        {{ $post->short_content }}...
+                                                                                    </p>
                                                                                 </div>
                                                                                 <a class="elementor-post__read-more"
-                                                                                   href="https://baohiem-daiichi.vn/tin-tuc/mua-bao-hiem-nhan-tho-cua-hang-bao-hiem-nuoc-ngoai-hay-trong-nuoc/">
+                                                                                   href="{{ route('show_post', get_sanitize_url($post->title, $post->id)) }}">
                                                                                     Đọc ngay » </a></div>
                                                                         </div>
                                                                     </article>
-                                                                    <article
-                                                                        class="elementor-post elementor-grid-item post-10877 post type-post status-publish format-standard has-post-thumbnail hentry category-tin-tuc category-79 description-off">
-                                                                        <div class="elementor-post__card"><a
-                                                                                class="elementor-post__thumbnail__link"
-                                                                                href="https://baohiem-daiichi.vn/tin-tuc/tong-hop-dia-chi-dai-ichi-life-cac-tinh-mien-nam/">
-                                                                                <div class="elementor-post__thumbnail">
-                                                                                    <img width="300" height="200"
-                                                                                         src="./index_files/hinhcsho_resize_wnop-300x200.jpg"
-                                                                                         class="attachment-medium size-medium lazyloaded"
-                                                                                         alt=""
-                                                                                         data-lazy-srcset="https://baohiem-daiichi.vn/wp-content/uploads/2019/06/hinhcsho_resize_wnop-300x200.jpg 300w, https://baohiem-daiichi.vn/wp-content/uploads/2019/06/hinhcsho_resize_wnop-600x400.jpg 600w, https://baohiem-daiichi.vn/wp-content/uploads/2019/06/hinhcsho_resize_wnop.jpg 660w"
-                                                                                         data-lazy-sizes="(max-width: 300px) 100vw, 300px"
-                                                                                         data-lazy-src="https://baohiem-daiichi.vn/wp-content/uploads/2019/06/hinhcsho_resize_wnop-300x200.jpg"
-                                                                                         sizes="(max-width: 300px) 100vw, 300px"
-                                                                                         srcset="https://baohiem-daiichi.vn/wp-content/uploads/2019/06/hinhcsho_resize_wnop-300x200.jpg 300w, https://baohiem-daiichi.vn/wp-content/uploads/2019/06/hinhcsho_resize_wnop-600x400.jpg 600w, https://baohiem-daiichi.vn/wp-content/uploads/2019/06/hinhcsho_resize_wnop.jpg 660w"
-                                                                                         data-was-processed="true">
-                                                                                    <noscript><img width="300"
-                                                                                                   height="200"
-                                                                                                   src="https://baohiem-daiichi.vn/wp-content/uploads/2019/06/hinhcsho_resize_wnop-300x200.jpg"
-                                                                                                   class="attachment-medium size-medium"
-                                                                                                   alt=""
-                                                                                                   srcset="https://baohiem-daiichi.vn/wp-content/uploads/2019/06/hinhcsho_resize_wnop-300x200.jpg 300w, https://baohiem-daiichi.vn/wp-content/uploads/2019/06/hinhcsho_resize_wnop-600x400.jpg 600w, https://baohiem-daiichi.vn/wp-content/uploads/2019/06/hinhcsho_resize_wnop.jpg 660w"
-                                                                                                   sizes="(max-width: 300px) 100vw, 300px"/>
-                                                                                    </noscript>
-                                                                                </div>
-                                                                            </a>
-                                                                            <div class="elementor-post__badge">Tin tức
-                                                                            </div>
-                                                                            <div class="elementor-post__avatar"><img
-                                                                                    alt="Nhóm chuyên gia Dai-ichi life"
-                                                                                    src="./index_files/a980301569f40fcfd1da2d1489055d53"
-                                                                                    data-lazy-srcset="https://secure.gravatar.com/avatar/a980301569f40fcfd1da2d1489055d53?s=256&amp;d=wavatar&amp;r=g 2x"
-                                                                                    class="avatar avatar-128 photo lazyloaded"
-                                                                                    height="128" width="128"
-                                                                                    data-lazy-src="https://secure.gravatar.com/avatar/a980301569f40fcfd1da2d1489055d53?s=128&amp;d=wavatar&amp;r=g"
-                                                                                    srcset="https://secure.gravatar.com/avatar/a980301569f40fcfd1da2d1489055d53?s=256&amp;d=wavatar&amp;r=g 2x"
-                                                                                    data-was-processed="true">
-                                                                                <noscript><img
-                                                                                        alt='Nhóm chuyên gia Dai-ichi life'
-                                                                                        src='https://secure.gravatar.com/avatar/a980301569f40fcfd1da2d1489055d53?s=128&#038;d=wavatar&#038;r=g'
-                                                                                        srcset='https://secure.gravatar.com/avatar/a980301569f40fcfd1da2d1489055d53?s=256&#038;d=wavatar&#038;r=g 2x'
-                                                                                        class='avatar avatar-128 photo'
-                                                                                        height='128' width='128'/>
-                                                                                </noscript>
-                                                                            </div>
-                                                                            <div class="elementor-post__text"><h3
-                                                                                    class="elementor-post__title"><a
-                                                                                        href="https://baohiem-daiichi.vn/tin-tuc/tong-hop-dia-chi-dai-ichi-life-cac-tinh-mien-nam/">
-                                                                                        Tổng hợp địa chỉ Dai-ichi life
-                                                                                        các tỉnh Miền Nam </a></h3>
-                                                                                <div class="elementor-post__excerpt"><p>
-                                                                                        Tổng hợp danh sách địa chỉ các
-                                                                                        văn phòng gia dịch, đại lý bảo
-                                                                                        hiểm nhân thọ Dai-ichi life các
-                                                                                        tỉnh Miền Nam. Giúp khách</p>
-                                                                                </div>
-                                                                                <a class="elementor-post__read-more"
-                                                                                   href="https://baohiem-daiichi.vn/tin-tuc/tong-hop-dia-chi-dai-ichi-life-cac-tinh-mien-nam/">
-                                                                                    Đọc ngay » </a></div>
-                                                                        </div>
-                                                                    </article>
+                                                                    @endforeach
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -2352,7 +1996,7 @@
                                                             <div class="elementor-widget-container">
                                                                 <div class="elementor-button-wrapper"><a
                                                                         class="elementor-button elementor-size-md"
-                                                                        role="button"> <span
+                                                                        role="button" style="color: white"> <span
                                                                             class="elementor-button-content-wrapper"> <span
                                                                                 class="elementor-button-icon elementor-align-icon-left"> <i
                                                                                     aria-hidden="true"
@@ -2860,76 +2504,6 @@
                                             </div>
                                         </div>
                                     </div>
-                                </section>
-                                <section
-                                    class="elementor-element elementor-element-38cd30a elementor-section-full_width elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section"
-                                    data-id="38cd30a" data-element_type="section">
-                                    <div class="elementor-container elementor-column-gap-default">
-                                        <div class="elementor-row">
-                                            <div
-                                                class="elementor-element elementor-element-82dbda9 elementor-column elementor-col-33 elementor-top-column"
-                                                data-id="82dbda9" data-element_type="column">
-                                                <div class="elementor-column-wrap  elementor-element-populated">
-                                                    <div class="elementor-widget-wrap">
-                                                        <div
-                                                            class="elementor-element elementor-element-663edbb elementor-widget elementor-widget-divider"
-                                                            data-id="663edbb" data-element_type="widget"
-                                                            data-widget_type="divider.default">
-                                                            <div class="elementor-widget-container">
-                                                                <div class="elementor-divider"><span
-                                                                        class="elementor-divider-separator"> </span>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div
-                                                class="elementor-element elementor-element-fedb963 elementor-column elementor-col-33 elementor-top-column"
-                                                data-id="fedb963" data-element_type="column">
-                                                <div class="elementor-column-wrap  elementor-element-populated">
-                                                    <div class="elementor-widget-wrap">
-                                                        <div
-                                                            class="elementor-element elementor-element-d5c88a9 elementor-align-center elementor-widget elementor-widget-button"
-                                                            data-id="d5c88a9" data-element_type="widget"
-                                                            data-widget_type="button.default">
-                                                            <div class="elementor-widget-container">
-                                                                <div class="elementor-button-wrapper"><a
-                                                                        class="elementor-button elementor-size-md"
-                                                                        role="button"> <span
-                                                                            class="elementor-button-content-wrapper"> <span
-                                                                                class="elementor-button-icon elementor-align-icon-left"> <i
-                                                                                    aria-hidden="true"
-                                                                                    class="fas fa-map-marker-alt"></i> </span> <span
-                                                                                class="elementor-button-text">Sơ đồ vị trí công ty của chúng tôi</span> </span>
-                                                                    </a></div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div
-                                                class="elementor-element elementor-element-4512f2d elementor-column elementor-col-33 elementor-top-column"
-                                                data-id="4512f2d" data-element_type="column">
-                                                <div class="elementor-column-wrap  elementor-element-populated">
-                                                    <div class="elementor-widget-wrap">
-                                                        <div
-                                                            class="elementor-element elementor-element-aa59d07 elementor-widget elementor-widget-divider"
-                                                            data-id="aa59d07" data-element_type="widget"
-                                                            data-widget_type="divider.default">
-                                                            <div class="elementor-widget-container">
-                                                                <div class="elementor-divider"><span
-                                                                        class="elementor-divider-separator"> </span>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </section>
-                                <section class="gmap">
                                 </section>
                             </div>
                         </div>

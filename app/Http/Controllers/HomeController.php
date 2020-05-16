@@ -12,7 +12,12 @@ class HomeController extends Controller
 {
     public function index()
     {
-        return view('frontend.index');
+        $recentPosts = Post::orderBy('id', 'desc')
+            ->where('type_id', config('constant.post.types.Bài viết'))
+            ->where('status_id', config('constant.post.status.Công bố'))
+            ->limit(10)->get();
+
+        return view('frontend.index', compact('recentPosts'));
     }
 
     public function gioiThieu()
@@ -108,9 +113,6 @@ class HomeController extends Controller
             ->where('status_id', config('constant.post.status.Công bố'))
             ->paginate(10);
 
-        $tags = Tag::all();
-        $recentPosts = Post::orderBy('id', 'desc')->limit(3)->get();
-
-        return view('frontend.tintuc', compact('posts', 'recentPosts', 'tags'));
+        return view('frontend.tintuc', compact('posts'));
     }
 }

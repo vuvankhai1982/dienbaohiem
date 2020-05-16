@@ -11,7 +11,10 @@
     <link rel="stylesheet" href="/index_files/346c03c93e323475f6d284ffd9dc4adb.css" >
     <link rel="stylesheet" href="/index_files/e508a384f63c484c02b778eeb8c69402.css" >
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
-    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    <script
+        src="https://code.jquery.com/jquery-3.5.1.min.js"
+        integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0="
+        crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
 
@@ -447,15 +450,15 @@
             <div class="wf-container">
                 <section id="text-4" class="widget widget_text wf-cell wf-1-4">
                     <div class="widget-title">Nguyễn Cao Kỳ và cộng sự</div>
-                    <div class="textwidget"><p><img class="alignnone size-large wp-image-11014 lazyloaded"
-                                                    src="/index_files/nguyen-cao-ky-dai-ichi-life-viet-nam-1024x959.jpg"
-                                                    alt="" width="1024" height="959"
-                                                    data-lazy-src="https://baohiem-daiichi.vn/wp-content/uploads/2020/03/nguyen-cao-ky-dai-ichi-life-viet-nam-1024x959.jpg"
-                                                    data-was-processed="true">
-                        <noscript><img class="alignnone size-large wp-image-11014"
-                                       src="https://baohiem-daiichi.vn/wp-content/uploads/2020/03/nguyen-cao-ky-dai-ichi-life-viet-nam-1024x959.jpg"
-                                       alt="" width="1024" height="959"/></noscript>
-                        </p></div>
+                    <div class="textwidget">
+                        <p>
+                            <img class="alignnone size-large wp-image-11014 lazyloaded"
+                                src="/index_files/nguyen-cao-ky-dai-ichi-life-viet-nam-1024x959.jpg"
+                                alt="" width="1024" height="959"
+                                data-lazy-src="https://baohiem-daiichi.vn/wp-content/uploads/2020/03/nguyen-cao-ky-dai-ichi-life-viet-nam-1024x959.jpg"
+                                data-was-processed="true">
+                        </p>
+                    </div>
                 </section>
                 <section id="text-5" class="widget widget_text wf-cell wf-1-4">
                     <div class="textwidget"><p>Tôi là Nguyễn Cao Kỳ. Tôi là&nbsp; Một chuyên viên tư vấn BHNT và
@@ -466,7 +469,7 @@
                             bảo hiểm nhân thọ Dai-ichi life đến với mỗi gia đình Việt.</p></div>
                 </section>
                 <section id="text-2" class="widget widget_text wf-cell wf-1-4">
-                    <div class="widget-title">Liên Hệ</div>
+                    <div class="widget-title">Địa chỉ</div>
                     <div class="textwidget">
                         <ul>
                             <li><strong><a href="/">TP. Hồ chí Minh</a></strong></li>
@@ -478,30 +481,15 @@
                         </ul>
                         <p>Địa chỉ: <em>Số 285A, Phố Ngô Gia Tự, Phường Đức Giang, Quận Long Biên, Thành phố Hà
                                 Nội.</em></p>
+                </section>
+                <section id="text-3" class="widget widget_text wf-cell wf-1-4">
+                    <div class="widget-title">Liên Hệ</div>
+                    <div class="textwidget">
                         <p><strong>Điện thoại: 0973.564.638</strong></p>
                         <p><strong>Email: <a href="/lien-he/">lyminhdien@gmail.com</a></strong>
                         </p>
                         <p><strong>Website: <a
-                                    href="/">www.baohiem-daiichi.vn</a></strong></p></div>
-                </section>
-                <section id="recent-posts-3" class="widget widget_recent_entries wf-cell wf-1-4">
-                    <div class="widget-title">Tin tức</div>
-                    <ul>
-                        <li><a href="/tin-tuc/bao-hiem-benh-ung-thu/">Bảo hiểm bệnh ung
-                                thư – Dai-ichi life Việt Nam</a></li>
-                        <li>
-                            <a href="/tin-tuc/dich-covid-19-anh-huong-nhu-the-nao-den-bao-hiem-nhan-tho/">Dịch
-                                Covid-19 ảnh hưởng như thế nào đến bảo hiểm nhân thọ</a></li>
-                        <li>
-                            <a href="/tin-tuc/mua-bao-hiem-nhan-tho-cua-hang-bao-hiem-nuoc-ngoai-hay-trong-nuoc/">mua
-                                bảo hiểm nhân thọ của hãng bảo hiểm nước ngoài hay trong nước.</a></li>
-                        <li>
-                            <a href="/tin-tuc/tong-hop-dia-chi-dai-ichi-life-cac-tinh-mien-nam/">Tổng
-                                hợp địa chỉ Dai-ichi life các tỉnh Miền Nam</a></li>
-                        <li>
-                            <a href="/tin-tuc/danh-sach-dia-chi-cac-vpgd-dai-ichi-life-mien-trung/">DANH
-                                SÁCH ĐỊA CHỈ CÁC VPGD DAI-ICHI LIFE MIỀN TRUNG</a></li>
-                    </ul>
+                                    href="http://mrfinance.vn/">www.mrfinance.vn</a></strong></p></div>
                 </section>
             </div>
         </div>
@@ -562,43 +550,7 @@
             Dai-ichi life
         </div>
         <div class="pum-content popmake-content">
-            <div role="form" class="wpcf7" id="wpcf7-f10701-o1" lang="en-US" dir="ltr">
-                <div class="screen-reader-response"></div>
-                <form action="https://baohiem-daiichi.vn/#wpcf7-f10701-o1" method="post" class="wpcf7-form"
-                      novalidate="novalidate">
-                    <div style="display: none;"><input type="hidden" name="_wpcf7" value="10701"> <input type="hidden"
-                                                                                                         name="_wpcf7_version"
-                                                                                                         value="5.1.7">
-                        <input type="hidden" name="_wpcf7_locale" value="en_US"> <input type="hidden"
-                                                                                        name="_wpcf7_unit_tag"
-                                                                                        value="wpcf7-f10701-o1"> <input
-                            type="hidden" name="_wpcf7_container_post" value="0"></div>
-                    <p><span class="wpcf7-form-control-wrap text-884"><input type="text" name="text-884" value=""
-                                                                             size="40"
-                                                                             class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required"
-                                                                             aria-required="true" aria-invalid="false"
-                                                                             placeholder="Họ &amp; Tên..."></span><br>
-                        <span class="wpcf7-form-control-wrap tel-842"><input type="tel" name="tel-842" value=""
-                                                                             size="40"
-                                                                             class="wpcf7-form-control wpcf7-text wpcf7-tel wpcf7-validates-as-required wpcf7-validates-as-tel"
-                                                                             aria-required="true" aria-invalid="false"
-                                                                             placeholder="Số điện thoại liên hệ"></span><br>
-                        <span class="wpcf7-form-control-wrap email-741"><input type="email" name="email-741" value=""
-                                                                               size="40"
-                                                                               class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email"
-                                                                               aria-required="true" aria-invalid="false"
-                                                                               placeholder="Email liên hệ của bạn"></span><br>
-                        <span class="wpcf7-form-control-wrap text-526"><input type="text" name="text-526" value=""
-                                                                              size="40"
-                                                                              class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required"
-                                                                              aria-required="true" aria-invalid="false"
-                                                                              placeholder="Tỉnh - Thành VD: TP.HCM"></span><br>
-                        <input type="submit" value="Gửi ngay" class="wpcf7-form-control wpcf7-submit"><span
-                            class="ajax-loader"></span></p> <input type="hidden" class="wpcf7-pum"
-                                                                   value="{&quot;closepopup&quot;:false,&quot;closedelay&quot;:0,&quot;openpopup&quot;:false,&quot;openpopup_id&quot;:0}">
-                    <div class="wpcf7-response-output wpcf7-display-none"></div>
-                    <input type="hidden" name="pum_form_popup_id" value="11317"></form>
-            </div>
+            @include('frontend.contact')
         </div>
         <button type="button" class="pum-close popmake-close" aria-label="Close"> X</button>
     </div>
@@ -790,5 +742,43 @@
 <div class="iso-preloader dt-posts-preload dt-posts-preload-active" style="display: none;">
     <div class="dt-posts-preload-activity"></div>
 </div>
+
+<script type="text/javascript">
+    $.ajaxSetup({
+        headers: {
+            'X-CSRF-TOKEN': $('meta[name="csrf-token"]').attr('content')
+        }
+    });
+    $(function() {
+        $('.submit-contact').click(function(e) {
+            e.preventDefault();
+            if (!$(this).parents('.contact-form')[0].checkValidity()) {
+                $(this).parents('.contact-form')[0].reportValidity();
+                return false;
+            }
+            $('.form-contact').hide();
+            $('.success-message-contact').show();
+
+            $.ajax({
+                data: $(this).parents('form').serialize(),
+                type: "POST",
+                url: `{{ route('send_contact') }}`,
+                success: function(result) {
+                    console.log(result);
+                    console.log('done');
+                },
+                error: function(error) {
+                    console.log('error');
+                }
+            });
+        });
+
+        $('.message-contact').click(function () {
+            $('.success-message-contact').hide();
+            $('.form-contact').show();
+        })
+    })
+</script>
+
 </body>
 </html>
