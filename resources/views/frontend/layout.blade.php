@@ -178,13 +178,13 @@
 {{--    <link rel="stylesheet" type="text/css" href="/index_files/46d37cdbe40784a21703e3b444b712be.css">--}}
 {{--    <link rel="stylesheet" type="text/css" href="/index_files/46fc1a3b0f6f5064d9abf0aa8cb09ffd.css">--}}
     <link rel="icon"
-          href="https://baohiem-daiichi.vn/wp-content/uploads/2017/11/cropped-favico-baohiem-daiichi-32x32.png"
+          href="/wp-content/uploads/2017/11/cropped-favico-baohiem-daiichi-32x32.png"
           sizes="32x32">
     <link rel="icon"
-          href="https://baohiem-daiichi.vn/wp-content/uploads/2017/11/cropped-favico-baohiem-daiichi-192x192.png"
+          href="/wp-content/uploads/2017/11/cropped-favico-baohiem-daiichi-192x192.png"
           sizes="192x192">
     <link rel="apple-touch-icon-precomposed"
-          href="https://baohiem-daiichi.vn/wp-content/uploads/2017/11/cropped-favico-baohiem-daiichi-180x180.png">
+          href="/wp-content/uploads/2017/11/cropped-favico-baohiem-daiichi-180x180.png">
     <meta name="msapplication-TileImage"
           content="https://baohiem-daiichi.vn/wp-content/uploads/2017/11/cropped-favico-baohiem-daiichi-270x270.png">
     <noscript>
@@ -205,7 +205,7 @@
     <div class="load-wrap"></div>
 </div>
 <div id="page" class="closed-mobile-header" aria-hidden="false"><a class="skip-link screen-reader-text"
-                                                                   href="https://baohiem-daiichi.vn/#content">Skip to
+                                                                   href="/#content">Skip to
         content</a>
     <div class="mobile-header-space"></div>
     <div
@@ -320,10 +320,10 @@
 <!--end header-->
 
         <div class="mobile-header-bar">
-            <div class="mobile-navigation"><a href="https://baohiem-daiichi.vn/#" class="dt-mobile-menu-icon"><span
+            <div class="mobile-navigation"><a href="/#" class="dt-mobile-menu-icon"><span
                         class="lines"></span></a></div>
             <div class="mobile-mini-widgets"></div>
-            <div class="mobile-branding"><a class="" href="https://baohiem-daiichi.vn/"><img class=" preload-me"
+            <div class="mobile-branding"><a class="" href="/"><img class=" preload-me"
                                                                                              src="data:image/svg+xml,%3Csvg%20xmlns=&#39;http://www.w3.org/2000/svg&#39;%20viewBox=&#39;0%200%20160%2055&#39;%3E%3C/svg%3E"
                                                                                              data-lazy-srcset="https://baohiem-daiichi.vn/wp-content/uploads/2019/04/logo-dai-ichi-160.png 160w, https://baohiem-daiichi.vn/wp-content/uploads/2019/04/logo-dai-ichi-life-mobile.png 70w"
                                                                                              width="160" height="55"
@@ -356,7 +356,7 @@
                      style="position:relative; top:0; left:0;" dir="ltr">
                     <ul id="mobile-menu" class="mobile-main-nav" role="menu">
                         <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9322 first"><a
-                                href="https://baohiem-daiichi.vn/gioi-thieu/" data-level="1"><i
+                                href="/gioi-thieu/" data-level="1"><i
                                     class="fas fa-building"></i><span class="menu-item-text"><span class="menu-text">Giới thiệu</span></span></a>
                         </li>
                         <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-9308 has-children mega-full-width mega-column-4">
@@ -411,15 +411,15 @@
                                     class="fas fa-briefcase-medical"></i><span class="menu-item-text"><span
                                         class="menu-text">Hỗ trợ khách hàng</span></span></a></li>
                         <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10609"><a
-                                href="https://baohiem-daiichi.vn/tin-tuc-bao-hiem/" data-level="1"><i
+                                href="/tin-tuc-bao-hiem/" data-level="1"><i
                                     class="Defaults-newspaper-o"></i><span class="menu-item-text"><span
                                         class="menu-text">Tin Tức</span></span></a></li>
                         <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9311"><a
-                                href="https://baohiem-daiichi.vn/tuyen-dung/" data-level="1"><i
+                                href="/tuyen-dung/" data-level="1"><i
                                     class="Defaults-group"></i><span class="menu-item-text"><span class="menu-text">Tuyển dụng</span></span></a>
                         </li>
                         <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10449"><a
-                                href="https://baohiem-daiichi.vn/lien-he/" data-level="1"><i
+                                href="/lien-he/" data-level="1"><i
                                     class="fas fa-phone-volume"></i><span class="menu-item-text"><span
                                         class="menu-text">Liên hệ</span></span></a></li>
                     </ul>
@@ -469,37 +469,37 @@
                     <div class="widget-title">Liên Hệ</div>
                     <div class="textwidget">
                         <ul>
-                            <li><strong><a href="https://baohiem-daiichi.vn/">TP. Hồ chí Minh</a></strong></li>
+                            <li><strong><a href="/">TP. Hồ chí Minh</a></strong></li>
                         </ul>
                         <p>Địa chỉ:<em> Số 49B, đường Hùng Vương, phường 4, quận 5, TP.HCM</em></p>
                         <ul>
-                            <li><strong><a href="https://baohiem-daiichi.vn/bao-hiem-dai-ichi-life-ha-noi/">TP. Hà
+                            <li><strong><a href="/bao-hiem-dai-ichi-life-ha-noi/">TP. Hà
                                         Nội</a></strong></li>
                         </ul>
                         <p>Địa chỉ: <em>Số 285A, Phố Ngô Gia Tự, Phường Đức Giang, Quận Long Biên, Thành phố Hà
                                 Nội.</em></p>
                         <p><strong>Điện thoại: 0973.564.638</strong></p>
-                        <p><strong>Email: <a href="https://baohiem-daiichi.vn/lien-he/">lyminhdien@gmail.com</a></strong>
+                        <p><strong>Email: <a href="/lien-he/">lyminhdien@gmail.com</a></strong>
                         </p>
                         <p><strong>Website: <a
-                                    href="https://baohiem-daiichi.vn/">www.baohiem-daiichi.vn</a></strong></p></div>
+                                    href="/">www.baohiem-daiichi.vn</a></strong></p></div>
                 </section>
                 <section id="recent-posts-3" class="widget widget_recent_entries wf-cell wf-1-4">
                     <div class="widget-title">Tin tức</div>
                     <ul>
-                        <li><a href="https://baohiem-daiichi.vn/tin-tuc/bao-hiem-benh-ung-thu/">Bảo hiểm bệnh ung
+                        <li><a href="/tin-tuc/bao-hiem-benh-ung-thu/">Bảo hiểm bệnh ung
                                 thư – Dai-ichi life Việt Nam</a></li>
                         <li>
-                            <a href="https://baohiem-daiichi.vn/tin-tuc/dich-covid-19-anh-huong-nhu-the-nao-den-bao-hiem-nhan-tho/">Dịch
+                            <a href="/tin-tuc/dich-covid-19-anh-huong-nhu-the-nao-den-bao-hiem-nhan-tho/">Dịch
                                 Covid-19 ảnh hưởng như thế nào đến bảo hiểm nhân thọ</a></li>
                         <li>
-                            <a href="https://baohiem-daiichi.vn/tin-tuc/mua-bao-hiem-nhan-tho-cua-hang-bao-hiem-nuoc-ngoai-hay-trong-nuoc/">mua
+                            <a href="/tin-tuc/mua-bao-hiem-nhan-tho-cua-hang-bao-hiem-nuoc-ngoai-hay-trong-nuoc/">mua
                                 bảo hiểm nhân thọ của hãng bảo hiểm nước ngoài hay trong nước.</a></li>
                         <li>
-                            <a href="https://baohiem-daiichi.vn/tin-tuc/tong-hop-dia-chi-dai-ichi-life-cac-tinh-mien-nam/">Tổng
+                            <a href="/tin-tuc/tong-hop-dia-chi-dai-ichi-life-cac-tinh-mien-nam/">Tổng
                                 hợp địa chỉ Dai-ichi life các tỉnh Miền Nam</a></li>
                         <li>
-                            <a href="https://baohiem-daiichi.vn/tin-tuc/danh-sach-dia-chi-cac-vpgd-dai-ichi-life-mien-trung/">DANH
+                            <a href="/tin-tuc/danh-sach-dia-chi-cac-vpgd-dai-ichi-life-mien-trung/">DANH
                                 SÁCH ĐỊA CHỈ CÁC VPGD DAI-ICHI LIFE MIỀN TRUNG</a></li>
                     </ul>
                 </section>
@@ -509,7 +509,7 @@
 </footer>
 <!--end footer-->
 
-<a href="https://baohiem-daiichi.vn/#" class="scroll-top on"><span class="screen-reader-text">Go to Top</span></a>
+<a href="/#" class="scroll-top on"><span class="screen-reader-text">Go to Top</span></a>
 </div>
 <style>@media screen and (max-width: 860px) {
         .call-now-button {
@@ -704,7 +704,7 @@
                                                                          class="masthead inline-header center full-height shadow-decoration small-mobile-menu-icon dt-parent-menu-clickable show-device-logo show-mobile-logo show-phantom"
                                                                          style="" aria-hidden="false">
     <div class="ph-wrap with-logo">
-        <div class="logo-box"><a href="https://baohiem-daiichi.vn/"><img class=" preload-me"
+        <div class="logo-box"><a href="/"><img class=" preload-me"
                                                                          src="/index_files/logo-dai-ichi-life-mobile.png"
                                                                          srcset="https://baohiem-daiichi.vn/wp-content/uploads/2019/04/logo-dai-ichi-life-mobile.png 70w, https://baohiem-daiichi.vn/wp-content/uploads/2019/04/logo-dai-ichi-life-mobile.png 70w"
                                                                          width="70" height="24" sizes="70px"
@@ -714,11 +714,11 @@
             <ul id="primary-menu" class="main-nav underline-decoration l-to-r-line outside-item-remove-margin"
                 role="menu">
                 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9322 first"><a
-                        href="https://baohiem-daiichi.vn/gioi-thieu/" data-level="1"><i
+                        href="/gioi-thieu/" data-level="1"><i
                             class="fas fa-building"></i><span class="menu-item-text"><span
                                 class="menu-text">Giới thiệu</span><i class="underline"></i></span></a></li>
                 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-9308 has-children dt-mega-menu mega-full-width mega-column-4">
-                    <a href="https://baohiem-daiichi.vn/san-pham/" data-level="1"><i class="Defaults-diamond"></i><span
+                    <a href="/san-pham/" data-level="1"><i class="Defaults-diamond"></i><span
                             class="menu-item-text"><span class="menu-text">Sản phẩm</span><i
                                 class="underline"></i></span></a><i class="next-level-button"></i>
                     <div class="dt-mega-menu-wrap"
@@ -771,15 +771,15 @@
                             class="fas fa-briefcase-medical"></i><span class="menu-item-text"><span class="menu-text">Hỗ trợ khách hàng</span><i
                                 class="underline"></i></span></a></li>
                 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10609"><a
-                        href="https://baohiem-daiichi.vn/tin-tuc-bao-hiem/" data-level="1"><i
+                        href="/tin-tuc-bao-hiem/" data-level="1"><i
                             class="Defaults-newspaper-o"></i><span class="menu-item-text"><span class="menu-text">Tin Tức</span><i
                                 class="underline"></i></span></a></li>
                 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9311"><a
-                        href="https://baohiem-daiichi.vn/tuyen-dung/" data-level="1"><i class="Defaults-group"></i><span
+                        href="/tuyen-dung/" data-level="1"><i class="Defaults-group"></i><span
                             class="menu-item-text"><span class="menu-text">Tuyển dụng</span><i
                                 class="underline"></i></span></a></li>
                 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10449"><a
-                        href="https://baohiem-daiichi.vn/lien-he/" data-level="1"><i
+                        href="/lien-he/" data-level="1"><i
                             class="fas fa-phone-volume"></i><span class="menu-item-text"><span
                                 class="menu-text">Liên hệ</span><i class="underline"></i></span></a></li>
             </ul>

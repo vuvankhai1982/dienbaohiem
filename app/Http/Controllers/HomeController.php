@@ -93,7 +93,7 @@ class HomeController extends Controller
         $tags = Tag::all();
         $recentPosts = Post::orderBy('id', 'desc')->limit(3)->get();
 
-        return view('frontend.post_show', compact('post', 'recentPosts', 'tags'));
+        return view('frontend.bai_viet.base', compact('post'));
     }
 
     public function hoTroKhachHang()

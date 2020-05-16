@@ -20,12 +20,13 @@ Route::get('/ho-tro-khach-hang', 'HomeController@hoTroKhachHang');
 Route::get('/tuyen-dung', 'HomeController@tuyenDung');
 Route::get('/lien-he', 'HomeController@lienHe');
 Route::get('/tin-tuc', 'HomeController@tinTuc');
+Route::get('/tin-tuc/{nameAndId}', 'HomeController@showPost')->name('show_post');
 
 Route::post('/contact', 'HomeController@sendContact')->name('send_contact');
 
 Route::get('/bai-viet/danh-sach', 'HomeController@getPosts')->name('get_posts');
 Route::get('/bai-viet/chyen-muc/{tagNameAndId}', 'HomeController@getPostsByTask')->name('get_posts_by_task');
-Route::get('/bai-viet/{nameAndId}', 'HomeController@showPost')->name('show_post');
+//Route::get('/bai-viet/{nameAndId}', 'HomeController@showPost')->name('show_post');
 
 Route::prefix('admin')
     ->as('admin.')

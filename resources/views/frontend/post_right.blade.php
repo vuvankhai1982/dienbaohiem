@@ -111,15 +111,5 @@
                 </li>
             </ul>
         </section>
-        <section id="search-3" class="widget widget_search">
-            <div class="widget-title">Tìm kiếm</div>
-            <form class="searchform" role="search" method="get" action="https://baohiem-daiichi.vn/">
-                <label for="search" class="screen-reader-text">Search:</label> <input type="text"
-                                                                                      class="field searchform-s"
-                                                                                      name="s" value=""
-                                                                                      placeholder="Type and hit enter …">
-                <input type="submit" class="assistive-text searchsubmit" value="Go!"> <a
-                    href="https://baohiem-daiichi.vn/gioi-thieu/#go" class="submit"></a></form>
-        </section>
     </div>
 </aside>

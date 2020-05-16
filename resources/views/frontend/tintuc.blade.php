@@ -13,8 +13,8 @@
                                     <div class="fancy-date">
                                         <a style="top: 10px; right: auto;left: 10px;" title="3:24 chiều"
                                            href="https://baohiem-daiichi.vn/2020/03/19/" rel="nofollow"><span
-                                                class="entry-month">Th3</span><span class="entry-date updated">19</span><span
-                                                class="entry-year">2020</span></a>
+                                                class="entry-month">{{ \Carbon\Carbon::parse($post->created_at)->dayName }}</span><span class="entry-date updated">{{ \Carbon\Carbon::parse($post->created_at)->day }}</span><span
+                                                class="entry-year">{{ \Carbon\Carbon::parse($post->created_at)->year }}</span></a>
                                     </div>
                                     <a href="https://baohiem-daiichi.vn/tin-tuc/bao-hiem-benh-ung-thu/"
                                        class="rollover alignleft this-ready">
@@ -33,26 +33,9 @@
                                             {{ $post->title }}
                                         </a>
                                     </h3>
-                                    <div class="entry-meta">
-                                        <span class="category-link"><a href="/tin-tuc/">Tin tức</a></span>
-                                        <a
-                                            class="author vcard" href="https://baohiem-daiichi.vn/author/admin/"
-                                            title="View all posts by Nhóm chuyên gia Dai-ichi life" rel="author">By
-                                            <span
-                                                class="fn">Nhóm chuyên gia Dai-ichi life</span>
-                                        </a>
-                                        <a
-                                            href="https://baohiem-daiichi.vn/2020/03/19/" title="3:24 chiều"
-                                            class="data-link" rel="bookmark">
-                                            <time class="entry-date updated" datetime="2020-03-19T15:24:15+07:00">Tháng
-                                                Ba 19,
-                                                2020
-                                            </time>
-                                        </a>
-                                    </div>
                                     <p>{{ $post->short_content }}…</p>
                                     <a
-                                        href="https://baohiem-daiichi.vn/tin-tuc/bao-hiem-benh-ung-thu/"
+                                        href="{{ route('show_post', get_sanitize_url($post->title, $post->id)) }}"
                                         class="details more-link" rel="nofollow">Chi tiết</a>
                                 </div>
                             </article>
