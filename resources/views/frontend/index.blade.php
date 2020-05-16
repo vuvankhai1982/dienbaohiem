@@ -2033,7 +2033,8 @@
                                     class="elementor-element elementor-element-4c1b95f elementor-section-stretched elementor-section-full_width elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section"
                                     data-id="4c1b95f" data-element_type="section"
                                     data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;}"
-                                    style="width: 1468px; left: -134px;">
+                                    style="width: 900px; left: -0px;"
+                                >
                                     <div class="elementor-container elementor-column-gap-default">
                                         <div class="elementor-row">
                                             <div
@@ -2059,11 +2060,7 @@
                                                                                     class="swiper-slide-image"
                                                                                     src="data:image/svg+xml,%3Csvg%20xmlns=&#39;http://www.w3.org/2000/svg&#39;%20viewBox=&#39;0%200%200%200&#39;%3E%3C/svg%3E"
                                                                                     alt="vpbank"
-                                                                                    data-lazy-src="https://baohiem-daiichi.vn/wp-content/uploads/2019/05/vpbank.jpg">
-                                                                                <noscript><img
-                                                                                        class="swiper-slide-image"
-                                                                                        src="https://baohiem-daiichi.vn/wp-content/uploads/2019/05/vpbank.jpg"
-                                                                                        alt="vpbank"/></noscript>
+                                                                                >
                                                                             </figure>
                                                                         </div>
                                                                         <div class="swiper-slide swiper-slide-duplicate"
@@ -2073,11 +2070,7 @@
                                                                                     class="swiper-slide-image"
                                                                                     src="data:image/svg+xml,%3Csvg%20xmlns=&#39;http://www.w3.org/2000/svg&#39;%20viewBox=&#39;0%200%200%200&#39;%3E%3C/svg%3E"
                                                                                     alt="vietcombank"
-                                                                                    data-lazy-src="https://baohiem-daiichi.vn/wp-content/uploads/2019/05/vietcombank.jpg">
-                                                                                <noscript><img
-                                                                                        class="swiper-slide-image"
-                                                                                        src="https://baohiem-daiichi.vn/wp-content/uploads/2019/05/vietcombank.jpg"
-                                                                                        alt="vietcombank"/></noscript>
+                                                                                >
                                                                             </figure>
                                                                         </div>
                                                                         <div class="swiper-slide swiper-slide-duplicate"
@@ -2087,12 +2080,7 @@
                                                                                     class="swiper-slide-image"
                                                                                     src="data:image/svg+xml,%3Csvg%20xmlns=&#39;http://www.w3.org/2000/svg&#39;%20viewBox=&#39;0%200%200%200&#39;%3E%3C/svg%3E"
                                                                                     alt="sacombank_web"
-                                                                                    data-lazy-src="https://baohiem-daiichi.vn/wp-content/uploads/2019/05/sacombank_web.jpg">
-                                                                                <noscript><img
-                                                                                        class="swiper-slide-image"
-                                                                                        src="https://baohiem-daiichi.vn/wp-content/uploads/2019/05/sacombank_web.jpg"
-                                                                                        alt="sacombank_web"/></noscript>
-                                                                            </figure>
+                                                                                >                                                                            </figure>
                                                                         </div>
                                                                         <div class="swiper-slide swiper-slide-duplicate"
                                                                              data-swiper-slide-index="3"
@@ -2101,11 +2089,7 @@
                                                                                     class="swiper-slide-image"
                                                                                     src="data:image/svg+xml,%3Csvg%20xmlns=&#39;http://www.w3.org/2000/svg&#39;%20viewBox=&#39;0%200%200%200&#39;%3E%3C/svg%3E"
                                                                                     alt="ocb"
-                                                                                    data-lazy-src="https://baohiem-daiichi.vn/wp-content/uploads/2019/05/ocb.jpg">
-                                                                                <noscript><img
-                                                                                        class="swiper-slide-image"
-                                                                                        src="https://baohiem-daiichi.vn/wp-content/uploads/2019/05/ocb.jpg"
-                                                                                        alt="ocb"/></noscript>
+                                                                                >
                                                                             </figure>
                                                                         </div>
                                                                         <div class="swiper-slide swiper-slide-duplicate"
@@ -2115,11 +2099,7 @@
                                                                                     class="swiper-slide-image"
                                                                                     src="data:image/svg+xml,%3Csvg%20xmlns=&#39;http://www.w3.org/2000/svg&#39;%20viewBox=&#39;0%200%200%200&#39;%3E%3C/svg%3E"
                                                                                     alt="maritmebank"
-                                                                                    data-lazy-src="https://baohiem-daiichi.vn/wp-content/uploads/2019/05/maritmebank.jpg">
-                                                                                <noscript><img
-                                                                                        class="swiper-slide-image"
-                                                                                        src="https://baohiem-daiichi.vn/wp-content/uploads/2019/05/maritmebank.jpg"
-                                                                                        alt="maritmebank"/></noscript>
+                                                                                >
                                                                             </figure>
                                                                         </div>
                                                                         <div class="swiper-slide swiper-slide-duplicate"
@@ -2129,11 +2109,7 @@
                                                                                     class="swiper-slide-image"
                                                                                     src="data:image/svg+xml,%3Csvg%20xmlns=&#39;http://www.w3.org/2000/svg&#39;%20viewBox=&#39;0%200%200%200&#39;%3E%3C/svg%3E"
                                                                                     alt="lienvietbank"
-                                                                                    data-lazy-src="https://baohiem-daiichi.vn/wp-content/uploads/2019/05/lienvietbank.jpg">
-                                                                                <noscript><img
-                                                                                        class="swiper-slide-image"
-                                                                                        src="https://baohiem-daiichi.vn/wp-content/uploads/2019/05/lienvietbank.jpg"
-                                                                                        alt="lienvietbank"/></noscript>
+                                                                                >
                                                                             </figure>
                                                                         </div>
                                                                         <div class="swiper-slide swiper-slide-duplicate"
@@ -2143,11 +2119,7 @@
                                                                                     class="swiper-slide-image"
                                                                                     src="data:image/svg+xml,%3Csvg%20xmlns=&#39;http://www.w3.org/2000/svg&#39;%20viewBox=&#39;0%200%200%200&#39;%3E%3C/svg%3E"
                                                                                     alt="laureate"
-                                                                                    data-lazy-src="https://baohiem-daiichi.vn/wp-content/uploads/2019/05/laureate.jpg">
-                                                                                <noscript><img
-                                                                                        class="swiper-slide-image"
-                                                                                        src="https://baohiem-daiichi.vn/wp-content/uploads/2019/05/laureate.jpg"
-                                                                                        alt="laureate"/></noscript>
+                                                                                >
                                                                             </figure>
                                                                         </div>
                                                                         <div class="swiper-slide swiper-slide-duplicate"
@@ -2157,11 +2129,7 @@
                                                                                     class="swiper-slide-image"
                                                                                     src="data:image/svg+xml,%3Csvg%20xmlns=&#39;http://www.w3.org/2000/svg&#39;%20viewBox=&#39;0%200%200%200&#39;%3E%3C/svg%3E"
                                                                                     alt="hdbank"
-                                                                                    data-lazy-src="https://baohiem-daiichi.vn/wp-content/uploads/2019/05/hdbank.jpg">
-                                                                                <noscript><img
-                                                                                        class="swiper-slide-image"
-                                                                                        src="https://baohiem-daiichi.vn/wp-content/uploads/2019/05/hdbank.jpg"
-                                                                                        alt="hdbank"/></noscript>
+                                                                                >
                                                                             </figure>
                                                                         </div>
                                                                         <div
@@ -2172,11 +2140,7 @@
                                                                                     class="swiper-slide-image"
                                                                                     src="data:image/svg+xml,%3Csvg%20xmlns=&#39;http://www.w3.org/2000/svg&#39;%20viewBox=&#39;0%200%200%200&#39;%3E%3C/svg%3E"
                                                                                     alt="bacabank"
-                                                                                    data-lazy-src="https://baohiem-daiichi.vn/wp-content/uploads/2019/05/bacabank.jpg">
-                                                                                <noscript><img
-                                                                                        class="swiper-slide-image"
-                                                                                        src="https://baohiem-daiichi.vn/wp-content/uploads/2019/05/bacabank.jpg"
-                                                                                        alt="bacabank"/></noscript>
+                                                                                >
                                                                             </figure>
                                                                         </div>
                                                                         <div
@@ -2187,11 +2151,7 @@
                                                                                     class="swiper-slide-image"
                                                                                     src="data:image/svg+xml,%3Csvg%20xmlns=&#39;http://www.w3.org/2000/svg&#39;%20viewBox=&#39;0%200%200%200&#39;%3E%3C/svg%3E"
                                                                                     alt="vpbank"
-                                                                                    data-lazy-src="https://baohiem-daiichi.vn/wp-content/uploads/2019/05/vpbank.jpg">
-                                                                                <noscript><img
-                                                                                        class="swiper-slide-image"
-                                                                                        src="https://baohiem-daiichi.vn/wp-content/uploads/2019/05/vpbank.jpg"
-                                                                                        alt="vpbank"/></noscript>
+                                                                                >
                                                                             </figure>
                                                                         </div>
                                                                         <div
@@ -2202,12 +2162,7 @@
                                                                                     class="swiper-slide-image lazyloaded"
                                                                                     src="./index_files/vietcombank.jpg"
                                                                                     alt="vietcombank"
-                                                                                    data-lazy-src="https://baohiem-daiichi.vn/wp-content/uploads/2019/05/vietcombank.jpg"
                                                                                     data-was-processed="true">
-                                                                                <noscript><img
-                                                                                        class="swiper-slide-image"
-                                                                                        src="https://baohiem-daiichi.vn/wp-content/uploads/2019/05/vietcombank.jpg"
-                                                                                        alt="vietcombank"/></noscript>
                                                                             </figure>
                                                                         </div>
                                                                         <div class="swiper-slide"
@@ -2217,12 +2172,7 @@
                                                                                     class="swiper-slide-image lazyloaded"
                                                                                     src="./index_files/sacombank_web.jpg"
                                                                                     alt="sacombank_web"
-                                                                                    data-lazy-src="https://baohiem-daiichi.vn/wp-content/uploads/2019/05/sacombank_web.jpg"
                                                                                     data-was-processed="true">
-                                                                                <noscript><img
-                                                                                        class="swiper-slide-image"
-                                                                                        src="https://baohiem-daiichi.vn/wp-content/uploads/2019/05/sacombank_web.jpg"
-                                                                                        alt="sacombank_web"/></noscript>
                                                                             </figure>
                                                                         </div>
                                                                         <div class="swiper-slide"
@@ -2232,12 +2182,7 @@
                                                                                     class="swiper-slide-image lazyloaded"
                                                                                     src="./index_files/ocb.jpg"
                                                                                     alt="ocb"
-                                                                                    data-lazy-src="https://baohiem-daiichi.vn/wp-content/uploads/2019/05/ocb.jpg"
                                                                                     data-was-processed="true">
-                                                                                <noscript><img
-                                                                                        class="swiper-slide-image"
-                                                                                        src="https://baohiem-daiichi.vn/wp-content/uploads/2019/05/ocb.jpg"
-                                                                                        alt="ocb"/></noscript>
                                                                             </figure>
                                                                         </div>
                                                                         <div class="swiper-slide"
@@ -2247,12 +2192,7 @@
                                                                                     class="swiper-slide-image lazyloaded"
                                                                                     src="./index_files/maritmebank.jpg"
                                                                                     alt="maritmebank"
-                                                                                    data-lazy-src="https://baohiem-daiichi.vn/wp-content/uploads/2019/05/maritmebank.jpg"
                                                                                     data-was-processed="true">
-                                                                                <noscript><img
-                                                                                        class="swiper-slide-image"
-                                                                                        src="https://baohiem-daiichi.vn/wp-content/uploads/2019/05/maritmebank.jpg"
-                                                                                        alt="maritmebank"/></noscript>
                                                                             </figure>
                                                                         </div>
                                                                         <div class="swiper-slide"
@@ -2262,12 +2202,7 @@
                                                                                     class="swiper-slide-image lazyloaded"
                                                                                     src="./index_files/lienvietbank.jpg"
                                                                                     alt="lienvietbank"
-                                                                                    data-lazy-src="https://baohiem-daiichi.vn/wp-content/uploads/2019/05/lienvietbank.jpg"
                                                                                     data-was-processed="true">
-                                                                                <noscript><img
-                                                                                        class="swiper-slide-image"
-                                                                                        src="https://baohiem-daiichi.vn/wp-content/uploads/2019/05/lienvietbank.jpg"
-                                                                                        alt="lienvietbank"/></noscript>
                                                                             </figure>
                                                                         </div>
                                                                         <div class="swiper-slide"
@@ -2277,12 +2212,7 @@
                                                                                     class="swiper-slide-image lazyloaded"
                                                                                     src="./index_files/laureate.jpg"
                                                                                     alt="laureate"
-                                                                                    data-lazy-src="https://baohiem-daiichi.vn/wp-content/uploads/2019/05/laureate.jpg"
                                                                                     data-was-processed="true">
-                                                                                <noscript><img
-                                                                                        class="swiper-slide-image"
-                                                                                        src="https://baohiem-daiichi.vn/wp-content/uploads/2019/05/laureate.jpg"
-                                                                                        alt="laureate"/></noscript>
                                                                             </figure>
                                                                         </div>
                                                                         <div class="swiper-slide"
@@ -2292,12 +2222,7 @@
                                                                                     class="swiper-slide-image lazyloaded"
                                                                                     src="./index_files/hdbank.jpg"
                                                                                     alt="hdbank"
-                                                                                    data-lazy-src="https://baohiem-daiichi.vn/wp-content/uploads/2019/05/hdbank.jpg"
                                                                                     data-was-processed="true">
-                                                                                <noscript><img
-                                                                                        class="swiper-slide-image"
-                                                                                        src="https://baohiem-daiichi.vn/wp-content/uploads/2019/05/hdbank.jpg"
-                                                                                        alt="hdbank"/></noscript>
                                                                             </figure>
                                                                         </div>
                                                                         <div class="swiper-slide swiper-slide-prev"
@@ -2307,12 +2232,7 @@
                                                                                     class="swiper-slide-image lazyloaded"
                                                                                     src="./index_files/bacabank.jpg"
                                                                                     alt="bacabank"
-                                                                                    data-lazy-src="https://baohiem-daiichi.vn/wp-content/uploads/2019/05/bacabank.jpg"
                                                                                     data-was-processed="true">
-                                                                                <noscript><img
-                                                                                        class="swiper-slide-image"
-                                                                                        src="https://baohiem-daiichi.vn/wp-content/uploads/2019/05/bacabank.jpg"
-                                                                                        alt="bacabank"/></noscript>
                                                                             </figure>
                                                                         </div>
                                                                         <div
@@ -2323,12 +2243,8 @@
                                                                                     class="swiper-slide-image lazyloaded"
                                                                                     src="./index_files/vpbank.jpg"
                                                                                     alt="vpbank"
-                                                                                    data-lazy-src="https://baohiem-daiichi.vn/wp-content/uploads/2019/05/vpbank.jpg"
-                                                                                    data-was-processed="true">
-                                                                                <noscript><img
-                                                                                        class="swiper-slide-image"
-                                                                                        src="https://baohiem-daiichi.vn/wp-content/uploads/2019/05/vpbank.jpg"
-                                                                                        alt="vpbank"/></noscript>
+                                                                                    data-was-processed="true"
+                                                                                >
                                                                             </figure>
                                                                         </div>
                                                                         <div
@@ -2339,12 +2255,7 @@
                                                                                     class="swiper-slide-image lazyloaded"
                                                                                     src="./index_files/vietcombank.jpg"
                                                                                     alt="vietcombank"
-                                                                                    data-lazy-src="https://baohiem-daiichi.vn/wp-content/uploads/2019/05/vietcombank.jpg"
                                                                                     data-was-processed="true">
-                                                                                <noscript><img
-                                                                                        class="swiper-slide-image"
-                                                                                        src="https://baohiem-daiichi.vn/wp-content/uploads/2019/05/vietcombank.jpg"
-                                                                                        alt="vietcombank"/></noscript>
                                                                             </figure>
                                                                         </div>
                                                                         <div class="swiper-slide swiper-slide-duplicate"
@@ -2354,12 +2265,7 @@
                                                                                     class="swiper-slide-image lazyloaded"
                                                                                     src="./index_files/sacombank_web.jpg"
                                                                                     alt="sacombank_web"
-                                                                                    data-lazy-src="https://baohiem-daiichi.vn/wp-content/uploads/2019/05/sacombank_web.jpg"
                                                                                     data-was-processed="true">
-                                                                                <noscript><img
-                                                                                        class="swiper-slide-image"
-                                                                                        src="https://baohiem-daiichi.vn/wp-content/uploads/2019/05/sacombank_web.jpg"
-                                                                                        alt="sacombank_web"/></noscript>
                                                                             </figure>
                                                                         </div>
                                                                         <div class="swiper-slide swiper-slide-duplicate"
@@ -2368,12 +2274,7 @@
                                                                             <figure class="swiper-slide-inner"><img
                                                                                     class="swiper-slide-image"
                                                                                     src="data:image/svg+xml,%3Csvg%20xmlns=&#39;http://www.w3.org/2000/svg&#39;%20viewBox=&#39;0%200%200%200&#39;%3E%3C/svg%3E"
-                                                                                    alt="ocb"
-                                                                                    data-lazy-src="https://baohiem-daiichi.vn/wp-content/uploads/2019/05/ocb.jpg">
-                                                                                <noscript><img
-                                                                                        class="swiper-slide-image"
-                                                                                        src="https://baohiem-daiichi.vn/wp-content/uploads/2019/05/ocb.jpg"
-                                                                                        alt="ocb"/></noscript>
+                                                                                    alt="ocb">
                                                                             </figure>
                                                                         </div>
                                                                         <div class="swiper-slide swiper-slide-duplicate"
@@ -2382,12 +2283,7 @@
                                                                             <figure class="swiper-slide-inner"><img
                                                                                     class="swiper-slide-image"
                                                                                     src="data:image/svg+xml,%3Csvg%20xmlns=&#39;http://www.w3.org/2000/svg&#39;%20viewBox=&#39;0%200%200%200&#39;%3E%3C/svg%3E"
-                                                                                    alt="maritmebank"
-                                                                                    data-lazy-src="https://baohiem-daiichi.vn/wp-content/uploads/2019/05/maritmebank.jpg">
-                                                                                <noscript><img
-                                                                                        class="swiper-slide-image"
-                                                                                        src="https://baohiem-daiichi.vn/wp-content/uploads/2019/05/maritmebank.jpg"
-                                                                                        alt="maritmebank"/></noscript>
+                                                                                    alt="maritmebank">
                                                                             </figure>
                                                                         </div>
                                                                         <div class="swiper-slide swiper-slide-duplicate"
@@ -2397,11 +2293,7 @@
                                                                                     class="swiper-slide-image"
                                                                                     src="data:image/svg+xml,%3Csvg%20xmlns=&#39;http://www.w3.org/2000/svg&#39;%20viewBox=&#39;0%200%200%200&#39;%3E%3C/svg%3E"
                                                                                     alt="lienvietbank"
-                                                                                    data-lazy-src="https://baohiem-daiichi.vn/wp-content/uploads/2019/05/lienvietbank.jpg">
-                                                                                <noscript><img
-                                                                                        class="swiper-slide-image"
-                                                                                        src="https://baohiem-daiichi.vn/wp-content/uploads/2019/05/lienvietbank.jpg"
-                                                                                        alt="lienvietbank"/></noscript>
+                                                                                >
                                                                             </figure>
                                                                         </div>
                                                                         <div class="swiper-slide swiper-slide-duplicate"
@@ -2411,11 +2303,7 @@
                                                                                     class="swiper-slide-image"
                                                                                     src="data:image/svg+xml,%3Csvg%20xmlns=&#39;http://www.w3.org/2000/svg&#39;%20viewBox=&#39;0%200%200%200&#39;%3E%3C/svg%3E"
                                                                                     alt="laureate"
-                                                                                    data-lazy-src="https://baohiem-daiichi.vn/wp-content/uploads/2019/05/laureate.jpg">
-                                                                                <noscript><img
-                                                                                        class="swiper-slide-image"
-                                                                                        src="https://baohiem-daiichi.vn/wp-content/uploads/2019/05/laureate.jpg"
-                                                                                        alt="laureate"/></noscript>
+                                                                                >
                                                                             </figure>
                                                                         </div>
                                                                         <div class="swiper-slide swiper-slide-duplicate"
@@ -2425,11 +2313,7 @@
                                                                                     class="swiper-slide-image"
                                                                                     src="data:image/svg+xml,%3Csvg%20xmlns=&#39;http://www.w3.org/2000/svg&#39;%20viewBox=&#39;0%200%200%200&#39;%3E%3C/svg%3E"
                                                                                     alt="hdbank"
-                                                                                    data-lazy-src="https://baohiem-daiichi.vn/wp-content/uploads/2019/05/hdbank.jpg">
-                                                                                <noscript><img
-                                                                                        class="swiper-slide-image"
-                                                                                        src="https://baohiem-daiichi.vn/wp-content/uploads/2019/05/hdbank.jpg"
-                                                                                        alt="hdbank"/></noscript>
+                                                                                >
                                                                             </figure>
                                                                         </div>
                                                                         <div
@@ -2440,11 +2324,7 @@
                                                                                     class="swiper-slide-image"
                                                                                     src="data:image/svg+xml,%3Csvg%20xmlns=&#39;http://www.w3.org/2000/svg&#39;%20viewBox=&#39;0%200%200%200&#39;%3E%3C/svg%3E"
                                                                                     alt="bacabank"
-                                                                                    data-lazy-src="https://baohiem-daiichi.vn/wp-content/uploads/2019/05/bacabank.jpg">
-                                                                                <noscript><img
-                                                                                        class="swiper-slide-image"
-                                                                                        src="https://baohiem-daiichi.vn/wp-content/uploads/2019/05/bacabank.jpg"
-                                                                                        alt="bacabank"/></noscript>
+                                                                                >
                                                                             </figure>
                                                                         </div>
                                                                     </div>
