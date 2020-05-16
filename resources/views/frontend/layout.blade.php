@@ -1,13 +1,9 @@
 <!DOCTYPE html>
-<!-- saved from url=(0027)https://baohiem-daiichi.vn/ -->
-<html lang="vi-VN"
-      class="js supports no-touchevents no-forcetouch cssanimations no-cssgridlegacy cssgrid cssfilters csstransforms csstransforms3d csstransitions mobile-false not-iOS">
+<html lang="vi-VN">
 <script type="text/javascript" async="" src="/index_files/f.txt"></script>
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0">
-    <meta name="theme-color" content="1">
-    <link rel="profile" href="https://gmpg.org/xfn/11">
     <title>BẢO HIỂM NHÂN THỌ DAI-ICHI LIFE VIỆT NAM CHẤT LƯỢNG NHẬT</title>
     <link rel="stylesheet" href="/index_files/css(1)">
     <link rel="stylesheet" href="/index_files/46fc1a3b0f6f5064d9abf0aa8cb09ffd.css" >
@@ -21,40 +17,16 @@
 
     <meta name="description"
           content="Bảo hiểm nhân thọ Dai-ichi life Việt Nam, 100% vốn từ Nhật Bản, Dai ichi life công ty BHNT tốt nhất Việt Nam. Sản phẩm chất lượng uy tín, dịch vụ hoàn hảo.">
-    <meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1">
-    <link rel="canonical" href="https://baohiem-daiichi.vn/">
     <meta property="og:locale" content="vi_VN">
     <meta property="og:type" content="website">
     <meta property="og:title" content="BẢO HIỂM NHÂN THỌ DAI-ICHI LIFE VIỆT NAM CHẤT LƯỢNG NHẬT">
     <meta property="og:description"
           content="Bảo hiểm nhân thọ Dai-ichi life Việt Nam, 100% vốn từ Nhật Bản, Dai ichi life công ty BHNT tốt nhất Việt Nam. Sản phẩm chất lượng uy tín, dịch vụ hoàn hảo.">
-    <meta property="og:url" content="https://baohiem-daiichi.vn/">
+    <meta property="og:url" content="https://mrfinance.vn/">
     <meta property="og:site_name" content="Bảo hiểm Dai ichi life Việt Nam">
-    <meta property="og:image"
-          content="https://baohiem-daiichi.vn/wp-content/uploads/2019/06/1473-Dai-ichi-Life-Viet-Nam.jpg">
-    <meta property="og:image:secure_url"
-          content="https://baohiem-daiichi.vn/wp-content/uploads/2019/06/1473-Dai-ichi-Life-Viet-Nam.jpg">
-    <meta property="og:image:width" content="423">
-    <meta property="og:image:height" content="489">
-    <meta name="twitter:card" content="summary">
-    <meta name="twitter:description"
-          content="Bảo hiểm nhân thọ Dai-ichi life Việt Nam, 100% vốn từ Nhật Bản, Dai ichi life công ty BHNT tốt nhất Việt Nam. Sản phẩm chất lượng uy tín, dịch vụ hoàn hảo.">
-    <meta name="twitter:title" content="BẢO HIỂM NHÂN THỌ DAI-ICHI LIFE VIỆT NAM CHẤT LƯỢNG NHẬT">
-    <meta name="twitter:site" content="@daiichi_life">
-    <meta name="twitter:image"
-          content="https://baohiem-daiichi.vn/wp-content/uploads/2019/06/1473-Dai-ichi-Life-Viet-Nam.jpg">
-    <meta name="twitter:creator" content="@daiichi_life">
-    <meta name="google-site-verification" content="EmEgtc0fvK_AkcvXPg5_PlxCuVnm1ALiX3xX-kTJp3Y">
     <script type="application/ld+json" class="yoast-schema-graph yoast-schema-graph--main">
         {"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://baohiem-daiichi.vn/#website","url":"https://baohiem-daiichi.vn/","name":"B\u1ea3o hi\u1ec3m Dai ichi life Vi\u1ec7t Nam","potentialAction":{"@type":"SearchAction","target":"https://baohiem-daiichi.vn/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"ImageObject","@id":"https://baohiem-daiichi.vn/#primaryimage","url":"https://baohiem-daiichi.vn/wp-content/uploads/2019/06/1473-Dai-ichi-Life-Viet-Nam.jpg","width":423,"height":489},{"@type":"WebPage","@id":"https://baohiem-daiichi.vn/#webpage","url":"https://baohiem-daiichi.vn/","inLanguage":"vi-VN","name":"B\u1ea2O HI\u1ec2M NH\u00c2N TH\u1ecc DAI-ICHI LIFE VI\u1ec6T NAM CH\u1ea4T L\u01af\u1ee2NG NH\u1eacT","isPartOf":{"@id":"https://baohiem-daiichi.vn/#website"},"primaryImageOfPage":{"@id":"https://baohiem-daiichi.vn/#primaryimage"},"datePublished":"2020-02-13T17:00:17+07:00","dateModified":"2020-03-23T19:36:44+07:00","description":"B\u1ea3o hi\u1ec3m nh\u00e2n th\u1ecd Dai-ichi life Vi\u1ec7t Nam, 100% v\u1ed1n t\u1eeb Nh\u1eadt B\u1ea3n, Dai ichi life c\u00f4ng ty BHNT t\u1ed1t nh\u1ea5t Vi\u1ec7t Nam. S\u1ea3n ph\u1ea9m ch\u1ea5t l\u01b0\u1ee3ng uy t\u00edn, d\u1ecbch v\u1ee5 ho\u00e0n h\u1ea3o."}]}
     </script>
-    <link rel="dns-prefetch" href="https://ajax.googleapis.com/">
-    <link rel="dns-prefetch" href="https://cdnjs.cloudflare.com/">
-    <link rel="dns-prefetch" href="https://fonts.googleapis.com/">
-    <link rel="alternate" type="application/rss+xml" title="Dòng thông tin Bảo hiểm Dai ichi life Việt Nam »"
-          href="https://baohiem-daiichi.vn/feed/">
-    <link rel="alternate" type="application/rss+xml" title="Dòng phản hồi Bảo hiểm Dai ichi life Việt Nam »"
-          href="https://baohiem-daiichi.vn/comments/feed/">
     <style type="text/css">img.wp-smiley, img.emoji {
             display: inline !important;
             border: none !important;
@@ -66,7 +38,8 @@
             background: none !important;
             padding: 0 !important
         }</style>
-    <style id="dt-main-inline-css" type="text/css">body #load {
+    <style id="dt-main-inline-css" type="text/css">
+        body #load {
             display: block;
             height: 100%;
             overflow: hidden;
@@ -194,18 +167,16 @@
                 "google": "Share on Google Plus"
             }, "overlayOpacity": "85"
         }; /* ]]> */</script>
-    <script async="" src="/index_files/js(1)"></script>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!--[if lte IE 9]>
     <link rel="stylesheet" type="text/css"
           href="/index_files/vc_lte_ie9.min.css" media="screen">
     <![endif]-->
     <!--them css-->
-    <link rel="stylesheet" type="text/css" href="/index_files/98f4c37094c1dfa87159ca0acfdb44d3.css">
-    <link rel="stylesheet" type="text/css" href="/index_files/39b28aff5df971e2ac2b0cca792aa098.css">
-    <link rel="stylesheet" type="text/css" href="/index_files/46d37cdbe40784a21703e3b444b712be.css">
-    <link rel="stylesheet" type="text/css" href="/index_files/46fc1a3b0f6f5064d9abf0aa8cb09ffd.css">
-    <link rel="stylesheet" type="text/css" href="/index_files/css">
+{{--    <link rel="stylesheet" type="text/css" href="/index_files/98f4c37094c1dfa87159ca0acfdb44d3.css">--}}
+{{--    <link rel="stylesheet" type="text/css" href="/index_files/39b28aff5df971e2ac2b0cca792aa098.css">--}}
+{{--    <link rel="stylesheet" type="text/css" href="/index_files/46d37cdbe40784a21703e3b444b712be.css">--}}
+{{--    <link rel="stylesheet" type="text/css" href="/index_files/46fc1a3b0f6f5064d9abf0aa8cb09ffd.css">--}}
     <link rel="icon"
           href="https://baohiem-daiichi.vn/wp-content/uploads/2017/11/cropped-favico-baohiem-daiichi-32x32.png"
           sizes="32x32">
@@ -633,194 +604,6 @@
     </div>
 </div>
 
-<script type="text/javascript">/* <![CDATA[ */
-    var pum_vars = {
-        "version": "1.9.1",
-        "ajaxurl": "https:\/\/baohiem-daiichi.vn\/wp-admin\/admin-ajax.php",
-        "restapi": "https:\/\/baohiem-daiichi.vn\/wp-json\/pum\/v1",
-        "rest_nonce": null,
-        "default_theme": "10624",
-        "debug_mode": "",
-        "disable_tracking": "",
-        "home_url": "\/",
-        "message_position": "top",
-        "core_sub_forms_enabled": "1",
-        "popups": []
-    };
-    var ajaxurl = "https:\/\/baohiem-daiichi.vn\/wp-admin\/admin-ajax.php";
-    var pum_sub_vars = {"ajaxurl": "https:\/\/baohiem-daiichi.vn\/wp-admin\/admin-ajax.php", "message_position": "top"};
-    var pum_popups = {
-        "pum-11317": {
-            "disable_on_mobile": false,
-            "disable_on_tablet": false,
-            "custom_height_auto": true,
-            "scrollable_content": false,
-            "position_from_trigger": false,
-            "position_fixed": false,
-            "overlay_disabled": false,
-            "stackable": false,
-            "disable_reposition": false,
-            "close_on_form_submission": false,
-            "close_on_overlay_click": true,
-            "close_on_esc_press": true,
-            "close_on_f4_press": true,
-            "disable_form_reopen": false,
-            "disable_accessibility": false,
-            "triggers": [{
-                "type": "click_open",
-                "settings": {"cookie_name": "", "extra_selectors": ".dangky"}
-            }, {"type": "click_open", "settings": {"cookie_name": "", "extra_selectors": ".baohiemsuckhoe"}}],
-            "theme_id": "10627",
-            "size": "auto",
-            "responsive_min_width": "0%",
-            "responsive_max_width": "100%",
-            "custom_width": "400px",
-            "custom_height": "400px",
-            "animation_type": "slide",
-            "animation_speed": "350",
-            "animation_origin": "center top",
-            "location": "center",
-            "position_top": "100",
-            "position_bottom": "0",
-            "position_left": "0",
-            "position_right": "0",
-            "zindex": "1999999999",
-            "close_button_delay": "0",
-            "close_on_form_submission_delay": "0",
-            "cookies": [],
-            "theme_slug": "hello-box",
-            "id": 11317,
-            "slug": "bao-hiem-suc-khoe-dai-ichi-life"
-        },
-        "pum-10630": {
-            "disable_on_mobile": false,
-            "disable_on_tablet": false,
-            "custom_height_auto": false,
-            "scrollable_content": false,
-            "position_from_trigger": false,
-            "position_fixed": false,
-            "overlay_disabled": false,
-            "stackable": false,
-            "disable_reposition": false,
-            "close_on_form_submission": false,
-            "close_on_overlay_click": true,
-            "close_on_esc_press": true,
-            "close_on_f4_press": true,
-            "disable_form_reopen": false,
-            "disable_accessibility": false,
-            "triggers": [{"type": "auto_open", "settings": {"cookie_name": "", "delay": "100000"}}],
-            "theme_id": "10624",
-            "size": "auto",
-            "responsive_min_width": "0%",
-            "responsive_max_width": "100%",
-            "custom_width": "640px",
-            "custom_height": "380px",
-            "animation_type": "slide",
-            "animation_speed": "350",
-            "animation_origin": "center center",
-            "location": "center",
-            "position_top": "100",
-            "position_bottom": "0",
-            "position_left": "0",
-            "position_right": "0",
-            "zindex": "1999999999",
-            "close_button_delay": "800",
-            "close_on_form_submission_delay": "0",
-            "cookies": [],
-            "theme_slug": "default-theme",
-            "id": 10630,
-            "slug": "dang-ky-tu-van-popup"
-        },
-        "pum-10970": {
-            "disable_on_mobile": true,
-            "disable_on_tablet": false,
-            "custom_height_auto": false,
-            "scrollable_content": false,
-            "position_from_trigger": false,
-            "position_fixed": false,
-            "overlay_disabled": true,
-            "stackable": false,
-            "disable_reposition": false,
-            "close_on_form_submission": false,
-            "close_on_overlay_click": false,
-            "close_on_esc_press": false,
-            "close_on_f4_press": false,
-            "disable_form_reopen": false,
-            "disable_accessibility": false,
-            "triggers": [{"type": "click_open", "settings": {"cookie_name": "", "extra_selectors": ".goicoban"}}],
-            "cookies": [{
-                "event": "form_submission",
-                "settings": {
-                    "name": "pum-10970",
-                    "key": "",
-                    "session": false,
-                    "time": "1 month",
-                    "path": true,
-                    "form": "contactform7_10543",
-                    "only_in_popup": true
-                }
-            }],
-            "theme_id": "10625",
-            "size": "medium",
-            "responsive_min_width": "0%",
-            "responsive_max_width": "100%",
-            "custom_width": "640px",
-            "custom_height": "380px",
-            "animation_type": "fade",
-            "animation_speed": "350",
-            "animation_origin": "center top",
-            "location": "center top",
-            "position_top": "100",
-            "position_bottom": "0",
-            "position_left": "0",
-            "position_right": "0",
-            "zindex": "1999999999",
-            "close_button_delay": "0",
-            "close_on_form_submission_delay": "0",
-            "theme_slug": "lightbox",
-            "id": 10970,
-            "slug": "bang-minh-hoa-quyen-loi-bao-hiem"
-        },
-        "pum-10949": {
-            "disable_on_mobile": false,
-            "disable_on_tablet": false,
-            "custom_height_auto": false,
-            "scrollable_content": false,
-            "position_from_trigger": false,
-            "position_fixed": false,
-            "overlay_disabled": false,
-            "stackable": false,
-            "disable_reposition": false,
-            "close_on_form_submission": false,
-            "close_on_overlay_click": false,
-            "close_on_esc_press": false,
-            "close_on_f4_press": false,
-            "disable_form_reopen": false,
-            "disable_accessibility": false,
-            "theme_id": "10625",
-            "size": "medium",
-            "responsive_min_width": "0%",
-            "responsive_max_width": "100%",
-            "custom_width": "640px",
-            "custom_height": "380px",
-            "animation_type": "fade",
-            "animation_speed": "350",
-            "animation_origin": "center top",
-            "location": "center top",
-            "position_top": "100",
-            "position_bottom": "0",
-            "position_left": "0",
-            "position_right": "0",
-            "zindex": "1999999999",
-            "close_button_delay": "0",
-            "close_on_form_submission_delay": "0",
-            "triggers": [],
-            "cookies": [],
-            "theme_slug": "lightbox",
-            "id": 10949,
-            "slug": "thu-moi"
-        }
-    }; /* ]]> */</script>
 <script type="text/javascript">var ElementorProFrontendConfig = {
         "ajaxurl": "https:\/\/baohiem-daiichi.vn\/wp-admin\/admin-ajax.php",
         "nonce": "7a7deae20e",
@@ -915,7 +698,7 @@
     </div>
 </div>
 <script src="/index_files/19bd171a3b02f3afd3d554d7377c0cba.js" data-minify="1" defer=""></script>
-<!-- This website is like a Rocket, isn't it? Performance optimized by WP Rocket. Learn more: https://wp-rocket.me - Debug: cached@1587699054 --><span
+<span
     id="elementor-device-mode" class="elementor-screen-only" aria-hidden="false"></span>
 <div class="mobile-sticky-header-overlay" aria-hidden="false"></div><div id="phantom"
                                                                          class="masthead inline-header center full-height shadow-decoration small-mobile-menu-icon dt-parent-menu-clickable show-device-logo show-mobile-logo show-phantom"
