@@ -23,6 +23,22 @@ class HomeController extends Controller
         return view('frontend.bai_viet.base', compact('post'));
     }
 
+    public function tuyenDung()
+    {
+        $post = Post::where('type_id', config('constant.post.types.Tuyển dụng'))
+            ->first();
+
+        return view('frontend.bai_viet.base', compact('post'));
+    }
+
+    public function lienHe()
+    {
+        $post = Post::where('type_id', config('constant.post.types.Liên hệ'))
+            ->first();
+
+        return view('frontend.bai_viet.base', compact('post'));
+    }
+
     public function sanPham(string $nameAndId)
     {
         $id = get_last_character($nameAndId);
@@ -77,6 +93,24 @@ class HomeController extends Controller
         $tags = Tag::all();
         $recentPosts = Post::orderBy('id', 'desc')->limit(3)->get();
 
-        return view('frontend.post_show', compact('post', 'recentPosts', 'tags'));
+        return view('frontend.bai_viet.base', compact('post'));
+    }
+
+    public function hoTroKhachHang()
+    {
+        return view('frontend.ho_tro_khach_hang');
+    }
+
+    public function tinTuc()
+    {
+        $posts = Post::orderBy('id', 'desc')
+            ->where('type_id', config('constant.post.types.Bài viết'))
+            ->where('status_id', config('constant.post.status.Công bố'))
+            ->paginate(10);
+
+        $tags = Tag::all();
+        $recentPosts = Post::orderBy('id', 'desc')->limit(3)->get();
+
+        return view('frontend.tintuc', compact('posts', 'recentPosts', 'tags'));
     }
 }
