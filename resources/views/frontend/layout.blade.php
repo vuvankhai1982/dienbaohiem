@@ -450,15 +450,15 @@
             <div class="wf-container">
                 <section id="text-4" class="widget widget_text wf-cell wf-1-4">
                     <div class="widget-title">Nguyễn Cao Kỳ và cộng sự</div>
-                    <div class="textwidget"><p><img class="alignnone size-large wp-image-11014 lazyloaded"
-                                                    src="/index_files/nguyen-cao-ky-dai-ichi-life-viet-nam-1024x959.jpg"
-                                                    alt="" width="1024" height="959"
-                                                    data-lazy-src="https://baohiem-daiichi.vn/wp-content/uploads/2020/03/nguyen-cao-ky-dai-ichi-life-viet-nam-1024x959.jpg"
-                                                    data-was-processed="true">
-                        <noscript><img class="alignnone size-large wp-image-11014"
-                                       src="https://baohiem-daiichi.vn/wp-content/uploads/2020/03/nguyen-cao-ky-dai-ichi-life-viet-nam-1024x959.jpg"
-                                       alt="" width="1024" height="959"/></noscript>
-                        </p></div>
+                    <div class="textwidget">
+                        <p>
+                            <img class="alignnone size-large wp-image-11014 lazyloaded"
+                                src="/index_files/nguyen-cao-ky-dai-ichi-life-viet-nam-1024x959.jpg"
+                                alt="" width="1024" height="959"
+                                data-lazy-src="https://baohiem-daiichi.vn/wp-content/uploads/2020/03/nguyen-cao-ky-dai-ichi-life-viet-nam-1024x959.jpg"
+                                data-was-processed="true">
+                        </p>
+                    </div>
                 </section>
                 <section id="text-5" class="widget widget_text wf-cell wf-1-4">
                     <div class="textwidget"><p>Tôi là Nguyễn Cao Kỳ. Tôi là&nbsp; Một chuyên viên tư vấn BHNT và
@@ -469,7 +469,7 @@
                             bảo hiểm nhân thọ Dai-ichi life đến với mỗi gia đình Việt.</p></div>
                 </section>
                 <section id="text-2" class="widget widget_text wf-cell wf-1-4">
-                    <div class="widget-title">Liên Hệ</div>
+                    <div class="widget-title">Địa chỉ</div>
                     <div class="textwidget">
                         <ul>
                             <li><strong><a href="/">TP. Hồ chí Minh</a></strong></li>
@@ -481,30 +481,15 @@
                         </ul>
                         <p>Địa chỉ: <em>Số 285A, Phố Ngô Gia Tự, Phường Đức Giang, Quận Long Biên, Thành phố Hà
                                 Nội.</em></p>
+                </section>
+                <section id="text-3" class="widget widget_text wf-cell wf-1-4">
+                    <div class="widget-title">Liên Hệ</div>
+                    <div class="textwidget">
                         <p><strong>Điện thoại: 0973.564.638</strong></p>
                         <p><strong>Email: <a href="/lien-he/">lyminhdien@gmail.com</a></strong>
                         </p>
                         <p><strong>Website: <a
-                                    href="/">www.baohiem-daiichi.vn</a></strong></p></div>
-                </section>
-                <section id="recent-posts-3" class="widget widget_recent_entries wf-cell wf-1-4">
-                    <div class="widget-title">Tin tức</div>
-                    <ul>
-                        <li><a href="/tin-tuc/bao-hiem-benh-ung-thu/">Bảo hiểm bệnh ung
-                                thư – Dai-ichi life Việt Nam</a></li>
-                        <li>
-                            <a href="/tin-tuc/dich-covid-19-anh-huong-nhu-the-nao-den-bao-hiem-nhan-tho/">Dịch
-                                Covid-19 ảnh hưởng như thế nào đến bảo hiểm nhân thọ</a></li>
-                        <li>
-                            <a href="/tin-tuc/mua-bao-hiem-nhan-tho-cua-hang-bao-hiem-nuoc-ngoai-hay-trong-nuoc/">mua
-                                bảo hiểm nhân thọ của hãng bảo hiểm nước ngoài hay trong nước.</a></li>
-                        <li>
-                            <a href="/tin-tuc/tong-hop-dia-chi-dai-ichi-life-cac-tinh-mien-nam/">Tổng
-                                hợp địa chỉ Dai-ichi life các tỉnh Miền Nam</a></li>
-                        <li>
-                            <a href="/tin-tuc/danh-sach-dia-chi-cac-vpgd-dai-ichi-life-mien-trung/">DANH
-                                SÁCH ĐỊA CHỈ CÁC VPGD DAI-ICHI LIFE MIỀN TRUNG</a></li>
-                    </ul>
+                                    href="http://mrfinance.vn/">www.mrfinance.vn</a></strong></p></div>
                 </section>
             </div>
         </div>
