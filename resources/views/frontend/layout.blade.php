@@ -562,43 +562,7 @@
             Dai-ichi life
         </div>
         <div class="pum-content popmake-content">
-            <div role="form" class="wpcf7" id="wpcf7-f10701-o1" lang="en-US" dir="ltr">
-                <div class="screen-reader-response"></div>
-                <form action="https://baohiem-daiichi.vn/#wpcf7-f10701-o1" method="post" class="wpcf7-form"
-                      novalidate="novalidate">
-                    <div style="display: none;"><input type="hidden" name="_wpcf7" value="10701"> <input type="hidden"
-                                                                                                         name="_wpcf7_version"
-                                                                                                         value="5.1.7">
-                        <input type="hidden" name="_wpcf7_locale" value="en_US"> <input type="hidden"
-                                                                                        name="_wpcf7_unit_tag"
-                                                                                        value="wpcf7-f10701-o1"> <input
-                            type="hidden" name="_wpcf7_container_post" value="0"></div>
-                    <p><span class="wpcf7-form-control-wrap text-884"><input type="text" name="text-884" value=""
-                                                                             size="40"
-                                                                             class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required"
-                                                                             aria-required="true" aria-invalid="false"
-                                                                             placeholder="Họ &amp; Tên..."></span><br>
-                        <span class="wpcf7-form-control-wrap tel-842"><input type="tel" name="tel-842" value=""
-                                                                             size="40"
-                                                                             class="wpcf7-form-control wpcf7-text wpcf7-tel wpcf7-validates-as-required wpcf7-validates-as-tel"
-                                                                             aria-required="true" aria-invalid="false"
-                                                                             placeholder="Số điện thoại liên hệ"></span><br>
-                        <span class="wpcf7-form-control-wrap email-741"><input type="email" name="email-741" value=""
-                                                                               size="40"
-                                                                               class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email"
-                                                                               aria-required="true" aria-invalid="false"
-                                                                               placeholder="Email liên hệ của bạn"></span><br>
-                        <span class="wpcf7-form-control-wrap text-526"><input type="text" name="text-526" value=""
-                                                                              size="40"
-                                                                              class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required"
-                                                                              aria-required="true" aria-invalid="false"
-                                                                              placeholder="Tỉnh - Thành VD: TP.HCM"></span><br>
-                        <input type="submit" value="Gửi ngay" class="wpcf7-form-control wpcf7-submit"><span
-                            class="ajax-loader"></span></p> <input type="hidden" class="wpcf7-pum"
-                                                                   value="{&quot;closepopup&quot;:false,&quot;closedelay&quot;:0,&quot;openpopup&quot;:false,&quot;openpopup_id&quot;:0}">
-                    <div class="wpcf7-response-output wpcf7-display-none"></div>
-                    <input type="hidden" name="pum_form_popup_id" value="11317"></form>
-            </div>
+            @include('frontend.contact')
         </div>
         <button type="button" class="pum-close popmake-close" aria-label="Close"> X</button>
     </div>
