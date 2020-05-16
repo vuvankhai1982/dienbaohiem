@@ -765,9 +765,12 @@
         }
     });
     $(function() {
-
-        $('#submit-contact').click(function(e) {
+        $('.submit-contact').click(function(e) {
             e.preventDefault();
+            if (!$(this).parents('.contact-form')[0].checkValidity()) {
+                $(this).parents('.contact-form')[0].reportValidity();
+                return false;
+            }
             $('.form-contact').hide();
             $('.success-message-contact').show();
 
@@ -784,6 +787,11 @@
                 }
             });
         });
+
+        $('.message-contact').click(function () {
+            $('.success-message-contact').hide();
+            $('.form-contact').show();
+        })
     })
 </script>
 
