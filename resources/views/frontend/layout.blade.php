@@ -112,11 +112,11 @@
     <script type="text/javascript" src="/index_files/jquery-1.12.4-wp.js"></script>
     <script type="text/javascript">/* <![CDATA[ */
         var dtLocal = {
-            "themeUrl": "https:\/\/baohiem-daiichi.vn\/wp-content\/themes\/dt-the7",
+            "themeUrl": "",
             "passText": "To view this protected post, enter the password below:",
             "moreButtonText": {"loading": "Loading...", "loadMore": "Load more"},
             "postID": "10939",
-            "ajaxurl": "https:\/\/baohiem-daiichi.vn\/wp-admin\/admin-ajax.php",
+            "ajaxurl": "",
             "contactMessages": {
                 "required": "One or more fields have an error. Please check and try again.",
                 "terms": "Please accept the privacy policy."
@@ -133,9 +133,7 @@
                     "showMenu": true,
                     "height": 60,
                     "logo": {
-                        "showLogo": true,
-                        "html": "<img class=\" preload-me\" src=\"https:\/\/baohiem-daiichi.vn\/wp-content\/uploads\/2019\/04\/logo-dai-ichi-life-mobile.png\" srcset=\"https:\/\/baohiem-daiichi.vn\/wp-content\/uploads\/2019\/04\/logo-dai-ichi-life-mobile.png 70w, https:\/\/baohiem-daiichi.vn\/wp-content\/uploads\/2019\/04\/logo-dai-ichi-life-mobile.png 70w\" width=\"70\" height=\"24\"   sizes=\"70px\" alt=\"B\u1ea3o hi\u1ec3m Dai ichi life Vi\u1ec7t Nam\" \/>",
-                        "url": "https:\/\/baohiem-daiichi.vn\/"
+
                     }
                 },
                 "mobileHeader": {
@@ -144,8 +142,6 @@
                     "firstSwitchPointHeight": 80,
                     "secondSwitchPointHeight": 60
                 },
-                "stickyMobileHeaderFirstSwitch": {"logo": {"html": "<img class=\" preload-me\" src=\"https:\/\/baohiem-daiichi.vn\/wp-content\/uploads\/2019\/04\/logo-dai-ichi-life-mobile.png\" srcset=\"https:\/\/baohiem-daiichi.vn\/wp-content\/uploads\/2019\/04\/logo-dai-ichi-life-mobile.png 70w, https:\/\/baohiem-daiichi.vn\/wp-content\/uploads\/2019\/04\/logo-dai-ichi-life-mobile.png 70w\" width=\"70\" height=\"24\"   sizes=\"70px\" alt=\"B\u1ea3o hi\u1ec3m Dai ichi life Vi\u1ec7t Nam\" \/>"}},
-                "stickyMobileHeaderSecondSwitch": {"logo": {"html": "<img class=\" preload-me\" src=\"https:\/\/baohiem-daiichi.vn\/wp-content\/uploads\/2019\/04\/logo-dai-ichi-life-mobile.png\" srcset=\"https:\/\/baohiem-daiichi.vn\/wp-content\/uploads\/2019\/04\/logo-dai-ichi-life-mobile.png 70w, https:\/\/baohiem-daiichi.vn\/wp-content\/uploads\/2019\/04\/logo-dai-ichi-life-mobile.png 70w\" width=\"70\" height=\"24\"   sizes=\"70px\" alt=\"B\u1ea3o hi\u1ec3m Dai ichi life Vi\u1ec7t Nam\" \/>"}},
                 "content": {"textColor": "#85868c", "headerColor": "#333333"},
                 "sidebar": {"switchPoint": 990},
                 "boxedWidth": "1340px",
@@ -292,7 +288,6 @@
                     <img
                         class="mobile-logo preload-me lazyloaded"
                          src="/index_files/logo-dai-ichi-160.png"
-                         data-lazy-srcset="https://baohiem-daiichi.vn/wp-content/uploads/2019/04/logo-dai-ichi-life-mobile.png 70"
                         width="70" height="70" data-lazy-sizes="70px" alt="Bảo hiểm Dai ichi life Việt Nam"
                         data-was-processed="true"
                     >
@@ -323,8 +318,8 @@
                                             src="/index_files/slide_2_1-532x213.png" alt="Menu icon"
                                             style="margin: 0px; border-radius: 0px; will-change: auto;" width="200"
                                             height="80"
-                                            srcset="https://baohiem-daiichi.vn/wp-content/uploads/2017/11/slide_2_1-532x213.png 532w, https://baohiem-daiichi.vn/wp-content/uploads/2017/11/slide_2_1-533x213.png 533w"><span
-                                            class="menu-item-text"><span
+                                        >
+                                        <span class="menu-item-text"><span
                                                 class="menu-text">An Tâm Hưng Thịnh Toàn Diện</span></span></a></li>
                                 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9318 no-link wf-1-4">
                                     <a href="/san-pham/an-phuc-hung-thinh-4/"
@@ -333,7 +328,7 @@
                                             src="/index_files/an-phuc-hung-thinh-dai-ichi-life-600x240.jpg"
                                             alt="Menu icon" style="margin: 0px; border-radius: 0px; will-change: auto;"
                                             width="200" height="80"
-                                            srcset="https://baohiem-daiichi.vn/wp-content/uploads/2017/11/an-phuc-hung-thinh-dai-ichi-life-600x240.jpg 600w"><span
+                                        ><span
                                             class="menu-item-text"><span
                                                 class="menu-text">An phúc hưng thịnh</span></span></a></li>
                                 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9321 no-link wf-1-4">
@@ -343,7 +338,7 @@
                                             src="/index_files/28379168_408153652967414_6989168930748518442_n-277x111.jpg"
                                             alt="Menu icon" style="margin: 0px; border-radius: 0px; will-change: auto;"
                                             width="200" height="80"
-                                            srcset="https://baohiem-daiichi.vn/wp-content/uploads/2019/06/28379168_408153652967414_6989168930748518442_n-277x111.jpg 277w, https://baohiem-daiichi.vn/wp-content/uploads/2019/06/28379168_408153652967414_6989168930748518442_n-278x111.jpg 278w"><span
+                                        ><span
                                             class="menu-item-text"><span class="menu-text">An thịnh đầu tư</span></span></a>
                                 </li>
                                 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10720 no-link wf-1-4">
@@ -353,7 +348,7 @@
                                             src="/index_files/gia-kham-benh-giadinhmoi-2305-620x248.jpg"
                                             alt="Menu icon" style="margin: 0px; border-radius: 0px; will-change: auto;"
                                             width="200" height="80"
-                                            srcset="https://baohiem-daiichi.vn/wp-content/uploads/2019/05/gia-kham-benh-giadinhmoi-2305-620x248.jpg 620w, https://baohiem-daiichi.vn/wp-content/uploads/2019/05/gia-kham-benh-giadinhmoi-2305-622x248.jpg 622w"><span
+                                        ><span
                                             class="menu-item-text"><span
                                                 class="menu-text">Bảo hiểm chăm sóc sức khỏe</span></span></a></li>
                             </ul>
@@ -404,7 +399,6 @@
                             <img class="alignnone size-large wp-image-11014 lazyloaded"
                                 src="/index_files/nguyen-cao-ky-dai-ichi-life-viet-nam-1024x959.jpg"
                                 alt="" width="1024" height="959"
-                                data-lazy-src="https://baohiem-daiichi.vn/wp-content/uploads/2020/03/nguyen-cao-ky-dai-ichi-life-viet-nam-1024x959.jpg"
                                 data-was-processed="true">
                         </p>
                     </div>
@@ -506,7 +500,7 @@
 </div>
 
 <script type="text/javascript">var ElementorProFrontendConfig = {
-        "ajaxurl": "https:\/\/baohiem-daiichi.vn\/wp-admin\/admin-ajax.php",
+        "ajaxurl": "",
         "nonce": "7a7deae20e",
         "shareButtonsNetworks": {
             "facebook": {"title": "Facebook", "has_counter": true},
@@ -544,7 +538,7 @@
         "is_rtl": false,
         "breakpoints": {"xs": 0, "sm": 480, "md": 768, "lg": 1025, "xl": 1440, "xxl": 1600},
         "version": "2.9.6",
-        "urls": {"assets": "https:\/\/baohiem-daiichi.vn\/wp-content\/plugins\/elementor\/assets\/"},
+        "urls": {"assets": ""},
         "settings": {
             "page": [],
             "general": {
@@ -562,7 +556,6 @@
             "id": 10939,
             "title": "B\u1ea2O HI\u1ec2M NH\u00c2N TH\u1ecc DAI-ICHI LIFE VI\u1ec6T NAM CH\u1ea4T L\u01af\u1ee2NG NH\u1eacT",
             "excerpt": "",
-            "featuredImage": "https:\/\/baohiem-daiichi.vn\/wp-content\/uploads\/2019\/06\/1473-Dai-ichi-Life-Viet-Nam.jpg"
         }
     };</script>
 <div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
@@ -634,7 +627,7 @@
                                         class="preload-me lazy-load is-loaded" src="/index_files/slide_2_1-532x213.png"
                                         alt="Menu icon" style="margin: 0px; border-radius: 0px; will-change: auto;"
                                         width="200" height="80"
-                                        srcset="https://baohiem-daiichi.vn/wp-content/uploads/2017/11/slide_2_1-532x213.png 532w, https://baohiem-daiichi.vn/wp-content/uploads/2017/11/slide_2_1-533x213.png 533w"><span
+                                    ><span
                                         class="menu-item-text"><span
                                             class="menu-text">An Tâm Hưng Thịnh Toàn Diện</span></span></a></li>
                             <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9318 no-link dt-mega-parent wf-1-4">
@@ -644,7 +637,7 @@
                                         src="/index_files/an-phuc-hung-thinh-dai-ichi-life-600x240.jpg" alt="Menu icon"
                                         style="margin: 0px; border-radius: 0px; will-change: auto;" width="200"
                                         height="80"
-                                        srcset="https://baohiem-daiichi.vn/wp-content/uploads/2017/11/an-phuc-hung-thinh-dai-ichi-life-600x240.jpg 600w"><span
+                                    ><span
                                         class="menu-item-text"><span class="menu-text">An phúc hưng thịnh</span></span></a>
                             </li>
                             <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9321 no-link dt-mega-parent wf-1-4">
@@ -654,7 +647,7 @@
                                         src="/index_files/28379168_408153652967414_6989168930748518442_n-277x111.jpg"
                                         alt="Menu icon" style="margin: 0px; border-radius: 0px; will-change: auto;"
                                         width="200" height="80"
-                                        srcset="https://baohiem-daiichi.vn/wp-content/uploads/2019/06/28379168_408153652967414_6989168930748518442_n-277x111.jpg 277w, https://baohiem-daiichi.vn/wp-content/uploads/2019/06/28379168_408153652967414_6989168930748518442_n-278x111.jpg 278w"><span
+                                    ><span
                                         class="menu-item-text"><span class="menu-text">An thịnh đầu tư</span></span></a>
                             </li>
                             <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10720 no-link dt-mega-parent wf-1-4">
@@ -664,7 +657,7 @@
                                         src="/index_files/gia-kham-benh-giadinhmoi-2305-620x248.jpg" alt="Menu icon"
                                         style="margin: 0px; border-radius: 0px; will-change: auto;" width="200"
                                         height="80"
-                                        srcset="https://baohiem-daiichi.vn/wp-content/uploads/2019/05/gia-kham-benh-giadinhmoi-2305-620x248.jpg 620w, https://baohiem-daiichi.vn/wp-content/uploads/2019/05/gia-kham-benh-giadinhmoi-2305-622x248.jpg 622w"><span
+                                    ><span
                                         class="menu-item-text"><span class="menu-text">Bảo hiểm chăm sóc sức khỏe</span></span></a>
                             </li>
                         </ul>
