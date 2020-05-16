@@ -1681,9 +1681,7 @@
                                                                                 10-20% trên tổng thu nhập của bạn hàng
                                                                                 tháng. Ko nên tham giá quá nhiều tiền
                                                                                 hoặc quá ít tiền.</p>
-                                                                            <p>Bạn có thể tham khảo thêm bài viết: <a
-                                                                                    href="/cau-hoi-thuong-gap/mua-bao-hiem-nhan-tho-bao-nhieu-tien/">https://baohiem-daiichi.vn/cau-hoi-thuong-gap/mua-bao-hiem-nhan-tho-bao-nhieu-tien/</a>
-                                                                            </p></div>
+                                                                           </div>
                                                                     </div>
                                                                     <div class="elementor-toggle-item">
                                                                         <div id="elementor-tab-title-8002"

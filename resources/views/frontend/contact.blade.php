@@ -1,7 +1,6 @@
 <form class="leave-comment contact-form" autocomplete="on" id="contact-form"  name="contact-form" method="post" style="margin-top: 20px">
     @csrf
-    <fieldset>
-        <div id="formstatus"></div>
+    <div class="form-contact">
         <div class="Contact-us">
             <div class="form-input col-md-12">
                 <input type="text" id="name" name="name" class="form-control" placeholder="Họ và tên" required>
@@ -17,8 +16,16 @@
             </div>
 
             <div class="form-submit col-md-12" style="margin-top: 10px">
-                <input type="submit" id="submit-contact" class="btn common-btn" value="Gửi liên hệ">
+                <input type="button" id="submit-contact" class="btn common-btn" value="Gửi liên hệ">
             </div>
         </div>
-    </fieldset>
+    </div>
+    <div class="success-message-contact" style="display: none; text-align: center">
+        <div class="form-submit col-md-12" style="margin-top: 10px">
+            <input type="button" id="submit-contact" class="btn common-btn" value="Cảm ơn bạn! Tin nhắn đã được gửi thành công">
+        </div>
+    </div>
 </form>
+
+
+
