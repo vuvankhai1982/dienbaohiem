@@ -12,7 +12,7 @@
                             <div class="card">
                                 <div class="card-header">
                                     <h5 class="mb-0">
-                                        <button class="btn btn-info collapsed" data-toggle="collapse" data-target="#collapseOne1" aria-expanded="true" aria-controls="collapseOne" style="white-space: inherit; text-align: left;">
+                                        <button class="btn btn-info collapsed" data-toggle="collapse" data-target="#collapseOne1" aria-expanded="true" aria-controls="collapseOne" style="white-space: inherit; text-align: left; background: linear-gradient(135deg, #1ebbf0 30%, #39dfaa 100%)">
                                             Xin chào chuyên gia, bé gái nhà tôi hiện nay được 22 tháng rưỡi nhưng bé chỉ nặng 10kg, chuyên gia cho tôi hỏi bé nên uống sữa lon Growpls+ loại nào( lon màu xanh hay lon màu đỏ thì hợp), xin cảm ơn!
                                         </button>
                                     </h5>
@@ -27,7 +27,7 @@
                             <div class="card">
                                 <div class="card-header" id="headingTwo">
                                     <h5 class="mb-0">
-                                        <button class="btn btn-info collapsed" data-toggle="collapse" data-target="#collapseTwo2" aria-expanded="false" aria-controls="collapseTwo">
+                                        <button style="background: linear-gradient(135deg, #1ebbf0 30%, #39dfaa 100%)" class="btn btn-info collapsed" data-toggle="collapse" data-target="#collapseTwo2" aria-expanded="false" aria-controls="collapseTwo">
                                             Collapsible Group Item #2
                                         </button>
                                     </h5>
@@ -41,7 +41,7 @@
                             <div class="card">
                                 <div class="card-header" id="headingThree">
                                     <h5 class="mb-0">
-                                        <button class="btn btn-info collapsed" data-toggle="collapse" data-target="#collapseThree3" aria-expanded="false" aria-controls="collapseThree">
+                                        <button style="background: linear-gradient(135deg, #1ebbf0 30%, #39dfaa 100%)"  class="btn btn-info collapsed" data-toggle="collapse" data-target="#collapseThree3" aria-expanded="false" aria-controls="collapseThree">
                                             Collapsible Group Item #3
                                         </button>
                                     </h5>
