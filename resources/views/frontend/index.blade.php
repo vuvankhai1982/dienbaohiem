@@ -1479,7 +1479,7 @@
                                                                                 class="elementor-button-icon elementor-align-icon-left"> <i
                                                                                     aria-hidden="true"
                                                                                     class="far fa-address-card"></i> </span> <span
-                                                                                class="elementor-button-text">ĐĂNG KÝ TƯ VẤN VÀ CÂU HỎI THƯỜNG GẶP</span> </span>
+                                                                                class="elementor-button-text">ĐĂNG KÝ TƯ VẤN VÀ CÂU HỎI</span> </span>
                                                                     </a></div>
                                                             </div>
                                                         </div>
