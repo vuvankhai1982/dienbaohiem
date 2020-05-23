@@ -41,7 +41,7 @@ class HomeController extends Controller
         $post = Post::where('type_id', config('constant.post.types.Liên hệ'))
             ->first();
 
-        return view('frontend.bai_viet.base', compact('post'));
+        return view('frontend.bai_viet.lien_he', compact('post'));
     }
 
     public function sanPham(string $nameAndId)
