@@ -2063,93 +2063,14 @@
                                                                                 >
                                                                             </figure>
                                                                         </div>
-                                                                        <div class="swiper-slide swiper-slide-duplicate"
-                                                                             data-swiper-slide-index="1"
-                                                                             style="width: 241.333px;">
-                                                                            <figure class="swiper-slide-inner"><img
-                                                                                    class="swiper-slide-image"
-                                                                                    src="data:image/svg+xml,%3Csvg%20xmlns=&#39;http://www.w3.org/2000/svg&#39;%20viewBox=&#39;0%200%200%200&#39;%3E%3C/svg%3E"
-                                                                                    alt="vietcombank"
-                                                                                >
-                                                                            </figure>
-                                                                        </div>
-                                                                        <div class="swiper-slide swiper-slide-duplicate"
-                                                                             data-swiper-slide-index="2"
-                                                                             style="width: 241.333px;">
-                                                                            <figure class="swiper-slide-inner"><img
-                                                                                    class="swiper-slide-image"
-                                                                                    src="data:image/svg+xml,%3Csvg%20xmlns=&#39;http://www.w3.org/2000/svg&#39;%20viewBox=&#39;0%200%200%200&#39;%3E%3C/svg%3E"
-                                                                                    alt="sacombank_web"
-                                                                                >                                                                            </figure>
-                                                                        </div>
-                                                                        <div class="swiper-slide swiper-slide-duplicate"
-                                                                             data-swiper-slide-index="3"
-                                                                             style="width: 241.333px;">
-                                                                            <figure class="swiper-slide-inner"><img
-                                                                                    class="swiper-slide-image"
-                                                                                    src="data:image/svg+xml,%3Csvg%20xmlns=&#39;http://www.w3.org/2000/svg&#39;%20viewBox=&#39;0%200%200%200&#39;%3E%3C/svg%3E"
-                                                                                    alt="ocb"
-                                                                                >
-                                                                            </figure>
-                                                                        </div>
-                                                                        <div class="swiper-slide swiper-slide-duplicate"
-                                                                             data-swiper-slide-index="4"
-                                                                             style="width: 241.333px;">
-                                                                            <figure class="swiper-slide-inner"><img
-                                                                                    class="swiper-slide-image"
-                                                                                    src="data:image/svg+xml,%3Csvg%20xmlns=&#39;http://www.w3.org/2000/svg&#39;%20viewBox=&#39;0%200%200%200&#39;%3E%3C/svg%3E"
-                                                                                    alt="maritmebank"
-                                                                                >
-                                                                            </figure>
-                                                                        </div>
-                                                                        <div class="swiper-slide swiper-slide-duplicate"
-                                                                             data-swiper-slide-index="5"
-                                                                             style="width: 241.333px;">
-                                                                            <figure class="swiper-slide-inner"><img
-                                                                                    class="swiper-slide-image"
-                                                                                    src="data:image/svg+xml,%3Csvg%20xmlns=&#39;http://www.w3.org/2000/svg&#39;%20viewBox=&#39;0%200%200%200&#39;%3E%3C/svg%3E"
-                                                                                    alt="lienvietbank"
-                                                                                >
-                                                                            </figure>
-                                                                        </div>
-                                                                        <div class="swiper-slide swiper-slide-duplicate"
-                                                                             data-swiper-slide-index="6"
-                                                                             style="width: 241.333px;">
-                                                                            <figure class="swiper-slide-inner"><img
-                                                                                    class="swiper-slide-image"
-                                                                                    src="data:image/svg+xml,%3Csvg%20xmlns=&#39;http://www.w3.org/2000/svg&#39;%20viewBox=&#39;0%200%200%200&#39;%3E%3C/svg%3E"
-                                                                                    alt="laureate"
-                                                                                >
-                                                                            </figure>
-                                                                        </div>
-                                                                        <div class="swiper-slide swiper-slide-duplicate"
-                                                                             data-swiper-slide-index="7"
-                                                                             style="width: 241.333px;">
-                                                                            <figure class="swiper-slide-inner"><img
-                                                                                    class="swiper-slide-image"
-                                                                                    src="data:image/svg+xml,%3Csvg%20xmlns=&#39;http://www.w3.org/2000/svg&#39;%20viewBox=&#39;0%200%200%200&#39;%3E%3C/svg%3E"
-                                                                                    alt="hdbank"
-                                                                                >
-                                                                            </figure>
-                                                                        </div>
-                                                                        <div
-                                                                            class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-prev"
-                                                                            data-swiper-slide-index="8"
-                                                                            style="width: 241.333px;">
-                                                                            <figure class="swiper-slide-inner"><img
-                                                                                    class="swiper-slide-image"
-                                                                                    src="data:image/svg+xml,%3Csvg%20xmlns=&#39;http://www.w3.org/2000/svg&#39;%20viewBox=&#39;0%200%200%200&#39;%3E%3C/svg%3E"
-                                                                                    alt="bacabank"
-                                                                                >
-                                                                            </figure>
-                                                                        </div>
+
                                                                         <div
                                                                             class="swiper-slide swiper-slide-duplicate-active"
                                                                             data-swiper-slide-index="0"
                                                                             style="width: 241.333px;">
                                                                             <figure class="swiper-slide-inner"><img
                                                                                     class="swiper-slide-image"
-                                                                                    src="data:image/svg+xml,%3Csvg%20xmlns=&#39;http://www.w3.org/2000/svg&#39;%20viewBox=&#39;0%200%200%200&#39;%3E%3C/svg%3E"
+                                                                                    src="./index_files/vpbank.jpg"
                                                                                     alt="vpbank"
                                                                                 >
                                                                             </figure>
@@ -2268,65 +2189,7 @@
                                                                                     data-was-processed="true">
                                                                             </figure>
                                                                         </div>
-                                                                        <div class="swiper-slide swiper-slide-duplicate"
-                                                                             data-swiper-slide-index="3"
-                                                                             style="width: 241.333px;">
-                                                                            <figure class="swiper-slide-inner"><img
-                                                                                    class="swiper-slide-image"
-                                                                                    src="data:image/svg+xml,%3Csvg%20xmlns=&#39;http://www.w3.org/2000/svg&#39;%20viewBox=&#39;0%200%200%200&#39;%3E%3C/svg%3E"
-                                                                                    alt="ocb">
-                                                                            </figure>
-                                                                        </div>
-                                                                        <div class="swiper-slide swiper-slide-duplicate"
-                                                                             data-swiper-slide-index="4"
-                                                                             style="width: 241.333px;">
-                                                                            <figure class="swiper-slide-inner"><img
-                                                                                    class="swiper-slide-image"
-                                                                                    src="data:image/svg+xml,%3Csvg%20xmlns=&#39;http://www.w3.org/2000/svg&#39;%20viewBox=&#39;0%200%200%200&#39;%3E%3C/svg%3E"
-                                                                                    alt="maritmebank">
-                                                                            </figure>
-                                                                        </div>
-                                                                        <div class="swiper-slide swiper-slide-duplicate"
-                                                                             data-swiper-slide-index="5"
-                                                                             style="width: 241.333px;">
-                                                                            <figure class="swiper-slide-inner"><img
-                                                                                    class="swiper-slide-image"
-                                                                                    src="data:image/svg+xml,%3Csvg%20xmlns=&#39;http://www.w3.org/2000/svg&#39;%20viewBox=&#39;0%200%200%200&#39;%3E%3C/svg%3E"
-                                                                                    alt="lienvietbank"
-                                                                                >
-                                                                            </figure>
-                                                                        </div>
-                                                                        <div class="swiper-slide swiper-slide-duplicate"
-                                                                             data-swiper-slide-index="6"
-                                                                             style="width: 241.333px;">
-                                                                            <figure class="swiper-slide-inner"><img
-                                                                                    class="swiper-slide-image"
-                                                                                    src="data:image/svg+xml,%3Csvg%20xmlns=&#39;http://www.w3.org/2000/svg&#39;%20viewBox=&#39;0%200%200%200&#39;%3E%3C/svg%3E"
-                                                                                    alt="laureate"
-                                                                                >
-                                                                            </figure>
-                                                                        </div>
-                                                                        <div class="swiper-slide swiper-slide-duplicate"
-                                                                             data-swiper-slide-index="7"
-                                                                             style="width: 241.333px;">
-                                                                            <figure class="swiper-slide-inner"><img
-                                                                                    class="swiper-slide-image"
-                                                                                    src="data:image/svg+xml,%3Csvg%20xmlns=&#39;http://www.w3.org/2000/svg&#39;%20viewBox=&#39;0%200%200%200&#39;%3E%3C/svg%3E"
-                                                                                    alt="hdbank"
-                                                                                >
-                                                                            </figure>
-                                                                        </div>
-                                                                        <div
-                                                                            class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-prev"
-                                                                            data-swiper-slide-index="8"
-                                                                            style="width: 241.333px;">
-                                                                            <figure class="swiper-slide-inner"><img
-                                                                                    class="swiper-slide-image"
-                                                                                    src="data:image/svg+xml,%3Csvg%20xmlns=&#39;http://www.w3.org/2000/svg&#39;%20viewBox=&#39;0%200%200%200&#39;%3E%3C/svg%3E"
-                                                                                    alt="bacabank"
-                                                                                >
-                                                                            </figure>
-                                                                        </div>
+
                                                                     </div>
                                                                     <div
                                                                         class="swiper-pagination swiper-pagination-clickable swiper-pagination-bullets">
