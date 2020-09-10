@@ -33,15 +33,13 @@
                                 <div class="card-header" id="headingTwo">
                                     <h5 class="mb-0">
                                         <button style="background: linear-gradient(135deg, #1ebbf0 30%, #39dfaa 100%)" class="btn btn-info collapsed" data-toggle="collapse" data-target="#collapseTwo2" aria-expanded="false" aria-controls="collapseTwo">
-                                            Có thể tham gia cho các thành viên trong gia đình trong một hợp đồng không?.
+                                            Thu nhập bao nhiêu mới có thể tham gia bảo hiểm nhân thọ?.
                                         </button>
                                     </h5>
                                 </div>
                                 <div id="collapseTwo2" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion1">
                                     <div class="card-body">
-                                        Trong cùng một hợp đồng, có thể tham gia cho người hôn phối, vợ/chồng, con, cha/mẹ, anh chị em của người được bảo hiểm chính.
-
-                                        VD: người được bảo hiểm chính là anh A. Anh A tham gia gói An Tâm Hưng Thịnh Toàn Diện (gói bảo hiểm chính) Vậy trong cùng một hợp đồng của anh A có thể tham gia bảo hiểm chăm sóc sức khỏe cho bản thân anh A, vợ anh A, con anh A, Cha/mẹ anh A. trong cùng một hợp đồng.
+                                        Tham gia bảo hiểm nhân thọ bao với mệnh giá bao nhiêu là tùy thuộc vào khả năng kinh tế của gia định bạn. Trên thực tế không phải người giàu mới mua được bảo hiểm nhân thọ Vì bạn có nhiều thì tham gia nhiều tiền và ngược lại. Nhưng theo chúng tôi bạn nên tham gia số tiền bằng 10-20% trên tổng thu nhập của bạn hàng tháng. Ko nên tham giá quá nhiều tiền hoặc quá ít tiền.
                                     </div>
                                 </div>
                             </div>
