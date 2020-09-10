@@ -418,12 +418,7 @@
                             <li><strong><a href="/">TP. Hồ chí Minh</a></strong></li>
                         </ul>
                         <p>Địa chỉ:<em> Số 49B, đường Hùng Vương, phường 4, quận 5, TP.HCM</em></p>
-{{--                        <ul>--}}
-{{--                            <li><strong><a href="/bao-hiem-dai-ichi-life-ha-noi/">TP. Hà--}}
-{{--                                        Nội</a></strong></li>--}}
-{{--                        </ul>--}}
-{{--                        <p>Địa chỉ: <em>Số 285A, Phố Ngô Gia Tự, Phường Đức Giang, Quận Long Biên, Thành phố Hà--}}
-{{--                                Nội.</em></p>--}}
+                    </div>
                 </section>
                 <section id="text-3" class="widget widget_text wf-cell wf-1-4">
                     <div class="widget-title">Liên Hệ</div>
