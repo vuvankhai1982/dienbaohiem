@@ -138,14 +138,14 @@
                         </a>
                     </li>
 
-                    <li class="nav-item">
-                        <a href="{{ route('admin.lien_he') }}" class="nav-link {{ Route::is('admin.lien_he') ? 'active' : '' }}">
-                            <i class="nav-icon fas fa-address-card"></i>
-                            <p>
-                                Liên hệ
-                            </p>
-                        </a>
-                    </li>
+{{--                    <li class="nav-item">--}}
+{{--                        <a href="{{ route('admin.lien_he') }}" class="nav-link {{ Route::is('admin.lien_he') ? 'active' : '' }}">--}}
+{{--                            <i class="nav-icon fas fa-address-card"></i>--}}
+{{--                            <p>--}}
+{{--                                Liên hệ--}}
+{{--                            </p>--}}
+{{--                        </a>--}}
+{{--                    </li>--}}
 
                     <li class="nav-item has-treeview {{ Route::is('admin.sp') ? 'menu-open' : '' }}">
                         <a href="#" class="nav-link {{ Route::is('admin.sp') ? 'active' : '' }}">
