@@ -13,28 +13,33 @@
                                 <div class="card-header">
                                     <h5 class="mb-0">
                                         <button class="btn btn-info collapsed" data-toggle="collapse" data-target="#collapseOne1" aria-expanded="true" aria-controls="collapseOne" style="white-space: inherit; text-align: left; background: linear-gradient(135deg, #1ebbf0 30%, #39dfaa 100%)">
-                                            Xin chào chuyên gia, bé gái nhà tôi hiện nay được 22 tháng rưỡi nhưng bé chỉ nặng 10kg, chuyên gia cho tôi hỏi bé nên uống sữa lon Growpls+ loại nào( lon màu xanh hay lon màu đỏ thì hợp), xin cảm ơn!
-                                        </button>
+                                            Phí bảo hiểm chăm sóc sức khỏe được tính như thế nào?.                                        </button>
                                     </h5>
                                 </div>
 
                                 <div id="collapseOne1" class="collapse show" aria-labelledby="headingOne" data-parent="#accordion1">
                                     <div class="card-body">
-                                        Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
-                                    </div>
+                                        Giá phí bảo hiểm chăm sóc sức khỏe được tính dựa vào các yếu tố sau.</br>
+
+                                       1. Tuổi của người được bảo hiểm: Theo đó tuổi càng cao thì phí càng cao.</br>
+                                       2. Giới tính: phụ nữ thì phí sẽ thấp hơn nam giới.</br>
+                                       3. Nghề nghiệp: những nghề nghiệp có độ rủi ro cao thì phí sẽ cao hơn những nghề nghiệp rủi ro thất
+                                        VD: nghề công nhân xây dựng sẽ có phí bảo hiểm cao hơn nhân viên văn phòng,</br>
+
+                                        4. Tình trạng sức khỏe: Những người có nhiều tiền sử bệnh án hơn sẽ có mức phí bảo hiểm cao hơn.                                    </div>
                                 </div>
                             </div>
                             <div class="card">
                                 <div class="card-header" id="headingTwo">
                                     <h5 class="mb-0">
                                         <button style="background: linear-gradient(135deg, #1ebbf0 30%, #39dfaa 100%)" class="btn btn-info collapsed" data-toggle="collapse" data-target="#collapseTwo2" aria-expanded="false" aria-controls="collapseTwo">
-                                            Collapsible Group Item #2
+                                            Thu nhập bao nhiêu mới có thể tham gia bảo hiểm nhân thọ?.
                                         </button>
                                     </h5>
                                 </div>
                                 <div id="collapseTwo2" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion1">
                                     <div class="card-body">
-                                        Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+                                        Tham gia bảo hiểm nhân thọ bao với mệnh giá bao nhiêu là tùy thuộc vào khả năng kinh tế của gia định bạn. Trên thực tế không phải người giàu mới mua được bảo hiểm nhân thọ Vì bạn có nhiều thì tham gia nhiều tiền và ngược lại. Nhưng theo chúng tôi bạn nên tham gia số tiền bằng 10-20% trên tổng thu nhập của bạn hàng tháng. Ko nên tham giá quá nhiều tiền hoặc quá ít tiền.
                                     </div>
                                 </div>
                             </div>
@@ -42,13 +47,14 @@
                                 <div class="card-header" id="headingThree">
                                     <h5 class="mb-0">
                                         <button style="background: linear-gradient(135deg, #1ebbf0 30%, #39dfaa 100%)"  class="btn btn-info collapsed" data-toggle="collapse" data-target="#collapseThree3" aria-expanded="false" aria-controls="collapseThree">
-                                            Collapsible Group Item #3
+                                            Trường hợp nằm viện nhưng quên báo về công ty Dai-ichi life.</br>
+                                            Sau một thời gian dài mới nhớ ra thì có được chi trả hay không?.
                                         </button>
                                     </h5>
                                 </div>
                                 <div id="collapseThree3" class="collapse" aria-labelledby="headingThree" data-parent="#accordion1">
                                     <div class="card-body">
-                                        Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+                                        Khách hàng có thể nộp chứng từ liên quan đến đợt điều trị trong vòng 90 ngày kể từ ngày xuất viện hoặc điều trị ngoại trú, chăm sóc răng. Nếu nộp sau 90 ngày có thể gây ảnh hưởng đến quyền lợi thanh toán của khách hàng nếu có lý do hợp lệ, và không thanh toán khi nộp chứng từ quá 12 tháng kể từ ngày xuất viện hoặc điều trị ngoại trú, chăm sóc sức khỏe.
                                     </div>
                                 </div>
                             </div>
