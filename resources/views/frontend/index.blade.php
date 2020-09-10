@@ -138,11 +138,11 @@
                                                                                         style="display: block;">
                                                                                         <div
                                                                                             class="elementor-slide-heading">
-                                                                                            Nguyễn Cao Kỳ
+                                                                                            Lý Minh Diện
                                                                                         </div>
                                                                                         <div
                                                                                             class="elementor-slide-description">
-                                                                                            Tôi là Nguyễn Cao Kỳ. Tôi
+                                                                                            Tôi là Lý Minh Diện. Tôi
                                                                                             thích Cafe và công việc tư
                                                                                             vấn bảo hiểm của tôi.
                                                                                             Với 5 năm kinh nghiệm tôi đã
@@ -211,11 +211,11 @@
                                                                                         style="display: block;">
                                                                                         <div
                                                                                             class="elementor-slide-heading">
-                                                                                            Nguyễn Cao Kỳ
+                                                                                            Lý Minh Diện
                                                                                         </div>
                                                                                         <div
                                                                                             class="elementor-slide-description">
-                                                                                            Tôi là Nguyễn Cao Kỳ. Tôi
+                                                                                            Tôi là Lý Minh Diện. Tôi
                                                                                             thích Cafe và công việc tư
                                                                                             vấn bảo hiểm của tôi.
                                                                                             Với 5 năm kinh nghiệm tôi đã
@@ -286,11 +286,11 @@
                                                                                         style="display: block;">
                                                                                         <div
                                                                                             class="elementor-slide-heading">
-                                                                                            Nguyễn Cao Kỳ
+                                                                                            Lý Minh Diện
                                                                                         </div>
                                                                                         <div
                                                                                             class="elementor-slide-description">
-                                                                                            Tôi là Nguyễn Cao Kỳ. Tôi
+                                                                                            Tôi là Lý Minh Diện. Tôi
                                                                                             thích Cafe và công việc tư
                                                                                             vấn bảo hiểm của tôi.
                                                                                             Với 5 năm kinh nghiệm tôi đã
