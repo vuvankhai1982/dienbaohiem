@@ -358,7 +358,7 @@
                                     class="fas fa-briefcase-medical"></i><span class="menu-item-text"><span
                                         class="menu-text">Hỗ trợ khách hàng</span></span></a></li>
                         <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10609"><a
-                                href="/tin-tuc-bao-hiem/" data-level="1"><i
+                                href="/tin-tuc/" data-level="1"><i
                                     class="Defaults-newspaper-o"></i><span class="menu-item-text"><span
                                         class="menu-text">Tin Tức</span></span></a></li>
                         <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9311"><a
@@ -663,7 +663,7 @@
                             class="fas fa-briefcase-medical"></i><span class="menu-item-text"><span class="menu-text">Hỗ trợ khách hàng</span><i
                                 class="underline"></i></span></a></li>
                 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10609"><a
-                        href="/tin-tuc-bao-hiem/" data-level="1"><i
+                        href="/tin-tuc/" data-level="1"><i
                             class="Defaults-newspaper-o"></i><span class="menu-item-text"><span class="menu-text">Tin Tức</span><i
                                 class="underline"></i></span></a></li>
                 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9311"><a

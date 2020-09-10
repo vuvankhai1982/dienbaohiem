@@ -127,6 +127,7 @@
                     </div>
 
                     <div>
+                        <hr>
                         @include('frontend.contact')
                     </div>
                 </div>
