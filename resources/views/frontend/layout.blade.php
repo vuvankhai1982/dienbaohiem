@@ -8,8 +8,8 @@
     <link rel="stylesheet" href="/index_files/css(1)">
     <link rel="stylesheet" href="/index_files/46fc1a3b0f6f5064d9abf0aa8cb09ffd.css" >
     <link rel="stylesheet" href="/index_files/46d37cdbe40784a21703e3b444b712be.css" >
-    <link rel="stylesheet" href="/index_files/346c03c93e323475f6d284ffd9dc4adb.css" >
-    <link rel="stylesheet" href="/index_files/e508a384f63c484c02b778eeb8c69402.css" >
+{{--    <link rel="stylesheet" href="/index_files/346c03c93e323475f6d284ffd9dc4adb.css" >--}}
+{{--    <link rel="stylesheet" href="/index_files/e508a384f63c484c02b778eeb8c69402.css" >--}}
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
     <script
         src="https://code.jquery.com/jquery-3.5.1.min.js"
@@ -169,8 +169,8 @@
           href="/index_files/vc_lte_ie9.min.css" media="screen">
     <![endif]-->
     <!--them css-->
-    <link rel="stylesheet" type="text/css" href="/index_files/98f4c37094c1dfa87159ca0acfdb44d3.css">
-    <link rel="stylesheet" type="text/css" href="/index_files/39b28aff5df971e2ac2b0cca792aa098.css">
+{{--    <link rel="stylesheet" type="text/css" href="/index_files/98f4c37094c1dfa87159ca0acfdb44d3.css">--}}
+{{--    <link rel="stylesheet" type="text/css" href="/index_files/39b28aff5df971e2ac2b0cca792aa098.css">--}}
     <link rel="stylesheet" type="text/css" href="/index_files/46d37cdbe40784a21703e3b444b712be.css">
     <link rel="stylesheet" type="text/css" href="/index_files/46fc1a3b0f6f5064d9abf0aa8cb09ffd.css">
 </head>
