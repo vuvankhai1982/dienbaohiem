@@ -54,6 +54,11 @@
                             </div>
                         </div>
                     </div>
+
+                    <div>
+                        <hr>
+                        @include('frontend.contact')
+                    </div>
                 </div>
 
                 @include('frontend.post_right')
