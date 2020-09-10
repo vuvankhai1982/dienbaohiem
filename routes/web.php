@@ -17,7 +17,7 @@ Route::get('/', 'HomeController@index')->name('home');
 Route::get('/gioi-thieu', 'HomeController@gioiThieu');
 Route::get('/san-pham/{nameAndId}', 'HomeController@sanPham');
 Route::get('/ho-tro-khach-hang', 'HomeController@hoTroKhachHang');
-Route::get('/tuyen-dung', 'HomeController@tuyenDung');
+Route::get('/tuyen-dung', 'HomeController@tuyenDung')->name('tuyen_dung');
 Route::get('/lien-he', 'HomeController@lienHe');
 Route::get('/tin-tuc', 'HomeController@tinTuc');
 Route::get('/tin-tuc/{nameAndId}', 'HomeController@showPost')->name('show_post');
