@@ -10,10 +10,15 @@
                     <div style="margin-top: 20px">
                         {!! $post->content !!}
                     </div>
+                    <div>
+                        <hr>
+                        @include('frontend.contact')
+                    </div>
                 </div>
 
                 @include('frontend.post_right')
             </div>
         </div>
+
     </div>
 @endsection
