@@ -28,13 +28,13 @@ class HomeController extends Controller
         return view('frontend.bai_viet.base', compact('post'));
     }
 
-//    public function tuyenDung()
-//    {
-//        $post = Post::where('type_id', config('constant.post.types.Tuyển dụng'))
-//            ->first();
-//
-//        return view('frontend.bai_viet.base', compact('post'));
-//    }
+    public function tuyenDung()
+    {
+        $post = Post::where('type_id', config('constant.post.types.Tuyển dụng'))
+            ->first();
+
+        return view('frontend.bai_viet.base', compact('post'));
+    }
 
     public function lienHe()
     {
@@ -106,10 +106,10 @@ class HomeController extends Controller
         return view('frontend.ho_tro_khach_hang');
     }
 
-    public function tuyenDung()
-    {
-        return view('frontend.tuyendung');
-    }
+//    public function tuyenDung()
+//    {
+//        return view('frontend.tuyendung');
+//    }
 
     public function tinTuc()
     {
