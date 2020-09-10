@@ -1,5 +1,10 @@
 @extends('frontend.layout')
 @section('content')
+    <style>
+        .aio-ibd-block {
+            margin-left: 15px;
+        }
+    </style>
     <div id="main" class="sidebar-right sidebar-divider-vertical">
         <div class="main-gradient"></div>
         <div class="wf-wrap">
@@ -14,7 +19,7 @@
                                 <div class="wpb_wrapper">
                                     <div
                                         class="aio-icon-component  vc_custom_1556859187595  accent-icon-bg color-title style_1">
-                                        <div id="Info-box-wrap-3487" class="aio-icon-box left-icon" style="">
+                                        <div id="Info-box-wrap-3487" class="aio-icon-box left-icon" style="display: flex;">
                                             <div class="aio-icon-left">
                                                 <div class="ult-just-icon-wrapper  ">
                                                     <div class="align-icon" style="text-align:center;">
@@ -41,7 +46,7 @@
                                 <div class="wpb_wrapper">
                                     <div
                                         class="aio-icon-component  vc_custom_1556859164837  accent-icon-bg color-title style_1">
-                                        <div id="Info-box-wrap-7284" class="aio-icon-box left-icon" style="">
+                                        <div id="Info-box-wrap-7284" class="aio-icon-box left-icon" style="display: flex;">
                                             <div class="aio-icon-left">
                                                 <div class="ult-just-icon-wrapper  ">
                                                     <div class="align-icon" style="text-align:center;">
@@ -68,7 +73,7 @@
                                 <div class="wpb_wrapper">
                                     <div
                                         class="aio-icon-component  vc_custom_1556859238792  accent-icon-bg color-title style_1">
-                                        <div id="Info-box-wrap-6441" class="aio-icon-box left-icon" style="">
+                                        <div id="Info-box-wrap-6441" class="aio-icon-box left-icon" style="display: flex;">
                                             <div class="aio-icon-left">
                                                 <div class="ult-just-icon-wrapper  ">
                                                     <div class="align-icon" style="text-align:center;">
@@ -96,7 +101,7 @@
                                     <div
                                         class="aio-icon-component  vc_custom_1556860214744  accent-icon-bg color-title ib-link-prevent-accent style_1">
                                         <a class="aio-icon-box-link" href="https://mrfinance.vn/">
-                                            <div id="Info-box-wrap-8761" class="aio-icon-box left-icon" style="">
+                                            <div id="Info-box-wrap-8761" class="aio-icon-box left-icon" style="display: flex;">
                                                 <div class="aio-icon-left">
                                                     <div class="ult-just-icon-wrapper  ">
                                                         <div class="align-icon" style="text-align:center;">
