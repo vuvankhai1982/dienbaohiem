@@ -10,6 +10,11 @@ use Illuminate\Support\Facades\Mail;
 
 class HomeController extends Controller
 {
+    public function admin()
+    {
+        return redirect()->route('login');
+    }
+
     public function index()
     {
         $recentPosts = Post::orderBy('id', 'desc')

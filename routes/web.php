@@ -33,9 +33,7 @@ Route::group(['prefix' => 'admin'], function() {
     Auth::routes([
         'register' => false,
     ]);
-    Route::get('/', function () {
-        return redirect('admin/login');
-    });
+    Route::get('/','HomeController@admin');
 });
 
 Route::prefix('admin')
