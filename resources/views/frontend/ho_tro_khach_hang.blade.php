@@ -47,7 +47,8 @@
                                 <div class="card-header" id="headingThree">
                                     <h5 class="mb-0">
                                         <button style="background: linear-gradient(135deg, #1ebbf0 30%, #39dfaa 100%)"  class="btn btn-info collapsed" data-toggle="collapse" data-target="#collapseThree3" aria-expanded="false" aria-controls="collapseThree">
-                                            Trường hợp nằm viện nhưng quên báo về công ty Dai-ichi life. Sau một thời gian dài mới nhớ ra thì có được chi trả hay không?.
+                                            Trường hợp nằm viện nhưng quên báo về công ty Dai-ichi life.</br>
+                                            Sau một thời gian dài mới nhớ ra thì có được chi trả hay không?.
                                         </button>
                                     </h5>
                                 </div>
