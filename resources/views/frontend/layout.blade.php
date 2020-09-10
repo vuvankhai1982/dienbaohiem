@@ -404,7 +404,7 @@
                     </div>
                 </section>
                 <section id="text-5" class="widget widget_text wf-cell wf-1-4">
-                    <div class="textwidget"><p>Tôi là Lý Minh Diện. Tôi là&nbsp; Một chuyên viên tư vấn BHNT và
+                    <div class="textwidget"><p>Tôi là Lý Minh Diện. Tôi là một chuyên viên tư vấn BHNT và
                             cũng là khách hàng của Dai-ichi life. Với hơn 5 năm làm tư vấn bảo hiểm nhân thọ của
                             Dai-ichi life Việt Nam. Tôi đã giúp hàng ngàn người hiểu hơn về ý nghĩa của bảo hiểm
                             nhân thọ. Hỗ trợ hàng trăm người nhận chi trả bảo hiểm.</p>

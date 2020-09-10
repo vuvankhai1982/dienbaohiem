@@ -9,7 +9,7 @@
                 <noscript><img class="alignnone size-large wp-image-11014"
                                src="https://baohiem-daiichi.vn/wp-content/uploads/2020/03/nguyen-cao-ky-dai-ichi-life-viet-nam-1024x959.jpg"
                                alt="" width="1024" height="959"/></noscript>
-                </p><p>Tôi là Lý Minh Diện. Tôi là&nbsp; Một chuyên viên tư vấn BHNT và cũng là khách
+                </p><p>Tôi là Lý Minh Diện. Tôi là một chuyên viên tư vấn BHNT và cũng là khách
                     hàng của Dai-ichi life. Với hơn 5 năm làm tư vấn bảo hiểm nhân thọ của Dai-ichi life
                     Việt Nam. Tôi đã giúp hàng ngàn người hiểu hơn về ý nghĩa của bảo hiểm nhân thọ. Hỗ
                     trợ hàng trăm người nhận chi trả bảo hiểm.</p>
