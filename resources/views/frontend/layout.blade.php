@@ -393,7 +393,7 @@
         <div class="wf-container-footer">
             <div class="wf-container">
                 <section id="text-4" class="widget widget_text wf-cell wf-1-4">
-                    <div class="widget-title">Nguyễn Cao Kỳ và cộng sự</div>
+                    <div class="widget-title">Lý Minh Diện và cộng sự</div>
                     <div class="textwidget">
                         <p>
                             <img class="alignnone size-large wp-image-11014 lazyloaded"
@@ -404,7 +404,7 @@
                     </div>
                 </section>
                 <section id="text-5" class="widget widget_text wf-cell wf-1-4">
-                    <div class="textwidget"><p>Tôi là Nguyễn Cao Kỳ. Tôi là&nbsp; Một chuyên viên tư vấn BHNT và
+                    <div class="textwidget"><p>Tôi là Lý Minh Diện. Tôi là&nbsp; Một chuyên viên tư vấn BHNT và
                             cũng là khách hàng của Dai-ichi life. Với hơn 5 năm làm tư vấn bảo hiểm nhân thọ của
                             Dai-ichi life Việt Nam. Tôi đã giúp hàng ngàn người hiểu hơn về ý nghĩa của bảo hiểm
                             nhân thọ. Hỗ trợ hàng trăm người nhận chi trả bảo hiểm.</p>
@@ -418,12 +418,7 @@
                             <li><strong><a href="/">TP. Hồ chí Minh</a></strong></li>
                         </ul>
                         <p>Địa chỉ:<em> Số 49B, đường Hùng Vương, phường 4, quận 5, TP.HCM</em></p>
-                        <ul>
-                            <li><strong><a href="/bao-hiem-dai-ichi-life-ha-noi/">TP. Hà
-                                        Nội</a></strong></li>
-                        </ul>
-                        <p>Địa chỉ: <em>Số 285A, Phố Ngô Gia Tự, Phường Đức Giang, Quận Long Biên, Thành phố Hà
-                                Nội.</em></p>
+                    </div>
                 </section>
                 <section id="text-3" class="widget widget_text wf-cell wf-1-4">
                     <div class="widget-title">Liên Hệ</div>
