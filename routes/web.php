@@ -28,23 +28,28 @@ Route::get('/bai-viet/danh-sach', 'HomeController@getPosts')->name('get_posts');
 Route::get('/bai-viet/chyen-muc/{tagNameAndId}', 'HomeController@getPostsByTask')->name('get_posts_by_task');
 //Route::get('/bai-viet/{nameAndId}', 'HomeController@showPost')->name('show_post');
 
+
+Route::group(['prefix' => 'admin'], function() {
+    Auth::routes([
+        'register' => false,
+    ]);
+    Route::get('/', function () {
+        return redirect('admin/login');
+    });
+});
+
 Route::prefix('admin')
     ->as('admin.')
     ->middleware('auth')
     ->namespace('Admin')->group(function () {
 
     Route::get('/index', 'HomeController@index')->name('dashboard');
+
     Route::get('posts/gioi-thieu', 'PostController@gioiThieu')->name('gioi_thieu');
     Route::get('posts/lien-he', 'PostController@lienHe')->name('lien_he');
 
     Route::get('san-pham/{nameAndId}', 'PostController@sanPham')->name('sp');
 
-
-        Route::resource('posts', 'PostController');
+    Route::resource('posts', 'PostController');
 });
 
-Route::group(['prefix' => 'admin'], function() {
-    Auth::routes([
-        'register' => false,
-    ]);
-});
